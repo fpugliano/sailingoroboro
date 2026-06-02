@@ -192,7 +192,7 @@ def parse_wordpress_xml(xml_path):
 
 NAV_HTML = '''<nav class="nav" role="navigation" aria-label="Main navigation">
   <a class="nav-logo" href="/">
-    <img src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg" alt="Oroboro logo" onerror="this.style.display='none'">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
     S/V Oroboro
   </a>
   <ul class="nav-links">
@@ -227,7 +227,7 @@ FOOTER_HTML = '''<footer class="footer">
 HEAD_COMMON = '''  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="{css_path}css/style.css">
-  <link rel="icon" href="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg" type="image/jpeg">'''
+  <link rel="icon" href="/img/logo-mark.png" type="image/png">'''
 
 
 def html_page(title, body, css_path='/', extra_head='', extra_scripts=''):
@@ -284,10 +284,7 @@ def build_index(posts):
   <section class="hero" aria-label="Hero">
     <div class="hero-bg" aria-hidden="true"></div>
     <div class="hero-content">
-      <img class="hero-logo"
-           src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg"
-           alt="Oroboro — serpent eating its tail"
-           onerror="this.style.display='none'">
+      <img class="hero-logo" src="/img/logo-white.png" alt="Oroboro — serpent eating its tail">
       <span class="hero-eyebrow">Cape Town · Atlantic · Caribbean · Mediterranean</span>
       <h1>Sailing aboard<br><em>S/V Oroboro</em></h1>
       <p class="hero-tagline">Francesco and Yuka's journey around the world on a Leopard 38 catamaran, departing Cape Town in 2018 and still sailing.</p>
@@ -397,10 +394,9 @@ def build_index(posts):
           </div>
         </div>
         <div class="about-image-wrap">
-          <img class="about-logo"
-               src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg"
+          <img class="about-logo" src="/img/logo-stacked.png"
                alt="Oroboro logo — wind rose, serpent and compass"
-               onerror="this.style.display='none'">
+               style="filter: brightness(0) invert(1);">
         </div>
       </div>
     </div>
@@ -619,10 +615,9 @@ def build_about():
           Yuka immediately sketched the logo: a wind rose, a serpent head indicating north, and three small
           triangles at 90°, 180°, and 270°. Easy to spell in NATO phonetic: Oscar Romeo Oscar Bravo Oscar Romeo Oscar.
         </p>
-        <img src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg"
+        <img src="/img/logo-stacked.png"
              alt="Oroboro logo"
-             style="max-width:280px;margin:2rem auto;border-radius:12px;box-shadow:var(--shadow-md);"
-             onerror="this.style.display=\'none\'">
+             style="max-width:280px;margin:2rem auto;border-radius:0;">
       </div>
 
       <div style="text-align:center;margin-top:3rem;">

@@ -79,10 +79,9 @@ ul  { list-style: none; }
 }
 
 .nav-logo img {
-  width: 36px;
-  height: 36px;
+  width: 32px;
+  height: 32px;
   object-fit: contain;
-  border-radius: 50%;
 }
 
 .nav-links {
@@ -176,12 +175,11 @@ ul  { list-style: none; }
 }
 
 .hero-logo {
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto 2rem;
-  border-radius: 50%;
   object-fit: contain;
-  filter: drop-shadow(0 4px 20px rgba(168, 218, 220, 0.4));
+  filter: drop-shadow(0 4px 20px rgba(168, 218, 220, 0.5));
 }
 
 .hero-eyebrow {
