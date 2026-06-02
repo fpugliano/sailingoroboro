@@ -165,8 +165,12 @@ def parse_wordpress_xml(xml_path):
 
         display_date, iso_date = parse_date(pub_str)
         region_display, region_key = categorize_post(cat_slugs)
-        image = extract_first_image(content)
-        excerpt = text_excerpt(content)
+        content_local = content.replace(
+            'https://sailingoroboro.com/wp-content/uploads/',
+            '/wp-images/'
+        )
+        image = extract_first_image(content_local)
+        excerpt = text_excerpt(content_local)
 
         posts.append({
             'title':          title,
@@ -174,7 +178,7 @@ def parse_wordpress_xml(xml_path):
             'pub_date':       pub_str,
             'display_date':   display_date,
             'iso_date':       iso_date,
-            'content':        content,
+            'content':        content_local,
             'categories':     cat_names,
             'cat_slugs':      cat_slugs,
             'region':         region_key,
@@ -514,6 +518,11 @@ def build_post(post, prev_post, next_post):
     # Remove WordPress shortcodes
     content = re.sub(r'\[caption[^\]]*\](.*?)\[/caption\]', r'\1', content, flags=re.DOTALL)
     content = re.sub(r'\[/?[a-z_]+[^\]]*\]', '', content)
+    # Rewrite WordPress upload URLs to local paths
+    content = content.replace(
+        'https://sailingoroboro.com/wp-content/uploads/',
+        '/wp-images/'
+    )
     # Apply wpautop to convert double newlines → <p> tags
     content = wpautop(content)
 
