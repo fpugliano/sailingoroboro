@@ -212,7 +212,7 @@ NAV_HTML = '''<nav class="nav" role="navigation" aria-label="Main navigation">
 
 FOOTER_HTML = '''<footer class="footer">
   <div class="footer-logo">S/V Oroboro</div>
-  <p class="footer-tagline">Sailing the world on a Leopard 38 catamaran</p>
+  <p class="footer-tagline">Sailing the world on a Leopard 40 catamaran</p>
   <ul class="footer-links">
     <li><a href="/">Home</a></li>
     <li><a href="/blog.html">Blog</a></li>
@@ -296,7 +296,7 @@ def build_index(posts):
       <img class="hero-logo" src="/img/logo-white.png" alt="Oroboro — serpent eating its tail">
       <span class="hero-eyebrow">Cape Town · Atlantic · Caribbean · Mediterranean</span>
       <h1>Sailing aboard<br><em>S/V Oroboro</em></h1>
-      <p class="hero-tagline">Francesco and Yuka's journey around the world on a Leopard 38 catamaran, departing Cape Town in 2018 and still sailing.</p>
+      <p class="hero-tagline">Francesco and Yuka's journey around the world on a Leopard 40 catamaran, departing Cape Town in 2018 and still sailing.</p>
       <a class="hero-cta" href="/blog.html">Read the Journey →</a>
     </div>
     <div class="hero-scroll" aria-hidden="true">Scroll</div>
@@ -372,11 +372,11 @@ def build_index(posts):
         <div>
           <span class="section-eyebrow">The Crew & Boat</span>
           <h2 class="section-title">Meet S/V Oroboro</h2>
-          <p class="about-text">Oroboro — named for the ancient ouroboros symbol of eternal renewal — is a Leopard 38 catamaran built in 2018. She carries Francesco and Yuka on a journey without a fixed end date, stopping wherever curiosity leads.</p>
+          <p class="about-text">Oroboro — named for the ancient ouroboros symbol of eternal renewal — is a Leopard 40 catamaran built in 2018. She carries Francesco and Yuka on a journey without a fixed end date, stopping wherever curiosity leads.</p>
           <div class="about-details">
             <div class="about-detail">
               <div class="about-detail-label">Boat</div>
-              <div class="about-detail-value">Leopard 38 Catamaran</div>
+              <div class="about-detail-value">Leopard 40 Catamaran</div>
             </div>
             <div class="about-detail">
               <div class="about-detail-label">Built</div>
@@ -579,13 +579,13 @@ def build_about():
 
       <div class="boat-section">
         <h2>The Boat</h2>
-        <p>Oroboro is a <strong>Leopard 38 catamaran</strong> built in 2018 by Robertson &amp; Caine in South Africa.
+        <p>Oroboro is a <strong>Leopard 40 catamaran</strong> built in 2018 by Robertson &amp; Caine in South Africa.
         She combines performance, comfort, and reliability — the ideal vessel for extended bluewater sailing.
         Named for the ancient <em>ouroboros</em> symbol (a serpent devouring its own tail, meaning eternal renewal),
         Oroboro is also a palindrome.</p>
         <div class="boat-specs">
           <div class="spec-item">
-            <div class="spec-value">38′</div>
+            <div class="spec-value">40′</div>
             <div class="spec-label">Length</div>
           </div>
           <div class="spec-item">
@@ -614,14 +614,15 @@ def build_about():
       <div class="crew-grid">
         <div class="crew-card">
           <h3>Francesco</h3>
-          <p>Italian-born, San Francisco-based software engineer who quit his job to sail the world with Yuka.
+          <p>Italian-born, left a career in big tech in Silicon Valley to sail the world with Yuka.
           Handles navigation, weather routing, and keeps the boat manager app running at
           <a href="https://boat.sailingoroboro.com" style="color:var(--teal)">boat.sailingoroboro.com</a>.</p>
         </div>
         <div class="crew-card">
           <h3>Yuka</h3>
-          <p>Artist and adventurer. Designed the Oroboro logo — a blend of wind rose, serpent, and compass.
-          Handles photography, creativity, and keeping spirits high in any weather.</p>
+          <p>Left a career in big tech in Silicon Valley to sail the world with Francesco.
+          Designed the Oroboro logo — a blend of wind rose, serpent, and compass —
+          and handles photography and creativity on board.</p>
         </div>
       </div>
 
