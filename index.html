@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg" type="image/jpeg">
+  <!-- Leaflet for mini-map -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg" alt="Oroboro logo" onerror="this.style.display='none'">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <!-- Hero -->
+  <section class="hero" aria-label="Hero">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="hero-content">
+      <img class="hero-logo"
+           src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg"
+           alt="Oroboro — serpent eating its tail"
+           onerror="this.style.display='none'">
+      <span class="hero-eyebrow">Cape Town · Atlantic · Caribbean · Mediterranean</span>
+      <h1>Sailing aboard<br><em>S/V Oroboro</em></h1>
+      <p class="hero-tagline">Francesco and Yuka's journey around the world on a Leopard 38 catamaran, departing Cape Town in 2018 and still sailing.</p>
+      <a class="hero-cta" href="/blog.html">Read the Journey →</a>
+    </div>
+    <div class="hero-scroll" aria-hidden="true">Scroll</div>
+    <div class="hero-waves" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+        <path d="M0,60 C180,100 360,20 540,60 C720,100 900,20 1080,60 C1260,100 1350,40 1440,60 L1440,120 L0,120 Z" fill="#FAFAF8"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="stats-bar" aria-label="Journey statistics">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <div class="stat-number">7+</div>
+        <div class="stat-label">Years at Sea</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">3</div>
+        <div class="stat-label">Oceans Crossed</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">30+</div>
+        <div class="stat-label">Countries Visited</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">75</div>
+        <div class="stat-label">Blog Posts</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Route Map -->
+  <section class="section route-section" aria-label="Journey route">
+    <div class="section-inner">
+      <div class="section-header">
+        <span class="section-eyebrow">The Route</span>
+        <h2 class="section-title">From Cape Town to Greece</h2>
+        <p class="section-subtitle">A 7-year circumnavigation tracing the South Atlantic, Brazil, the Caribbean, and the Mediterranean.</p>
+      </div>
+      <div class="route-map-preview">
+        <div id="mini-map"></div>
+        <div class="route-overlay">
+          <strong>Cape Town → Namibia → South Atlantic → Brazil → Caribbean → Mediterranean → Greece</strong>
+          <p>44 major stops across 4 continents</p>
+        </div>
+      </div>
+      <a class="route-cta" href="/map.html">Explore full interactive map →</a>
+    </div>
+  </section>
+
+  <!-- Latest Posts -->
+  <section class="section" aria-label="Latest posts">
+    <div class="section-inner">
+      <div class="section-header">
+        <span class="section-eyebrow">The Log</span>
+        <h2 class="section-title">Latest from the Journey</h2>
+        <p class="section-subtitle">Follow Oroboro's voyage through our detailed sailing log.</p>
+      </div>
+      <div class="posts-grid">
+        
+    <a class="post-card" href="/posts/2nd-atlantic-crossing.html" data-region="atlantic">
+      <div class="post-card-image"><img src="https://sailingoroboro.com/wp-content/uploads/2021/09/fullsizeoutput_149.jpeg" alt="2nd Atlantic Crossing" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">South Atlantic</span>
+          <span class="post-card-date">September 03, 2021</span>
+        </div>
+        <h3>2nd Atlantic Crossing</h3>
+        <p class="post-card-excerpt">On Monday May 3rd 2021, Oroboro started her second ocean crossing. We were lucky to share this voyage with our friend Philippe. We had a great time, and despite a nasty low and…</p>
+        <span class="post-card-link">Read more →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/posts/sailing-in-the-bahamas.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://sailingoroboro.com/wp-content/uploads/2021/04/a0615f4a-b396-4c85-89ac-9ba2aca5557b-1.jpg" alt="Sailing in the Bahamas!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 26, 2021</span>
+        </div>
+        <h3>Sailing in the Bahamas!</h3>
+        <p class="post-card-excerpt">After spending more than a year in the Lesser Antilles, including an unprecedented lockdown for Covid-19 and the busiest hurricanes seasons on record, the Bahamas were a very…</p>
+        <span class="post-card-link">Read more →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/posts/dominican-republic.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://sailingoroboro.com/wp-content/uploads/2021/04/IMG_9348.jpg" alt="Dominican Republic" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 23, 2021</span>
+        </div>
+        <h3>Dominican Republic</h3>
+        <p class="post-card-excerpt">We spent very little time in the Dominican Republic, unfortunately. We only sailed to Samana Bay and Luperòn on the north coast. Samana Bay is a Humpback Whales Sanctuary. It&#x27;s…</p>
+        <span class="post-card-link">Read more →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/posts/anti-fouling-review-pettit-trinidad-pro-sucks.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://sailingoroboro.com/wp-content/uploads/2021/04/trinidad-pro-400x500-1.png" alt="Anti-Fouling" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 17, 2021</span>
+        </div>
+        <h3>Anti-Fouling</h3>
+        <p class="post-card-excerpt">In October 2020 we decided to do a bottom job before leaving Grenada. Last time we did one was 1 year before in Trinidad. This time around we used Pettit Trinidad Pro. We chose…</p>
+        <span class="post-card-link">Read more →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/posts/puerto-rico.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://sailingoroboro.com/wp-content/uploads/2021/04/img_8876.jpg" alt="Puerto Rico" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 13, 2021</span>
+        </div>
+        <h3>Puerto Rico</h3>
+        <p class="post-card-excerpt">You can tell we are approaching the end of the Tropics: Weather patterns are starting to change! Back in the Lesser Antilles, winds were from 60° to 120° True, but most of the…</p>
+        <span class="post-card-link">Read more →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/posts/spanish-virgin-islands.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://sailingoroboro.com/wp-content/uploads/2021/04/IMG_8726.jpg" alt="Spanish Virgin Islands" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 09, 2021</span>
+        </div>
+        <h3>Spanish Virgin Islands</h3>
+        <p class="post-card-excerpt">The Spanish Virgin Islands consist of Culebra and Vieques, and are part of the commonwealth of Puerto Rico. It&#x27;s been documented that Christopher Columbus discovered the Island of…</p>
+        <span class="post-card-link">Read more →</span>
+      </div>
+    </a>
+      </div>
+      <div class="section-footer">
+        <a class="btn-outline" href="/blog.html">View all 75 posts →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="section about-section" aria-label="About Oroboro">
+    <div class="section-inner">
+      <div class="about-grid">
+        <div>
+          <span class="section-eyebrow">The Crew & Boat</span>
+          <h2 class="section-title">Meet S/V Oroboro</h2>
+          <p class="about-text">Oroboro — named for the ancient ouroboros symbol of eternal renewal — is a Leopard 38 catamaran built in 2018. She carries Francesco and Yuka on a journey without a fixed end date, stopping wherever curiosity leads.</p>
+          <div class="about-details">
+            <div class="about-detail">
+              <div class="about-detail-label">Boat</div>
+              <div class="about-detail-value">Leopard 38 Catamaran</div>
+            </div>
+            <div class="about-detail">
+              <div class="about-detail-label">Built</div>
+              <div class="about-detail-value">2018</div>
+            </div>
+            <div class="about-detail">
+              <div class="about-detail-label">Crew</div>
+              <div class="about-detail-value">Francesco &amp; Yuka</div>
+            </div>
+            <div class="about-detail">
+              <div class="about-detail-label">Departed</div>
+              <div class="about-detail-value">Cape Town, Sep 2018</div>
+            </div>
+          </div>
+          <div class="about-links">
+            <a class="about-link about-link-instagram" href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+              @sailingoroboro
+            </a>
+            <a class="about-link about-link-app" href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">
+              Boat Manager App ↗
+            </a>
+            <a class="about-link about-link-app" href="/about.html">About Us →</a>
+          </div>
+        </div>
+        <div class="about-image-wrap">
+          <img class="about-logo"
+               src="https://sailingoroboro.com/wp-content/uploads/2018/09/oroboro-logo-08.jpg"
+               alt="Oroboro logo — wind rose, serpent and compass"
+               onerror="this.style.display='none'">
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="footer">
+  <div class="footer-logo">S/V Oroboro</div>
+  <p class="footer-tagline">Sailing the world on a Leopard 38 catamaran</p>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka — S/V Oroboro. All rights reserved.</p>
+</footer>
+<script src="/js/main.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="/js/map.js"></script>
+</body>
+</html>
