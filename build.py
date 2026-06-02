@@ -167,7 +167,7 @@ def parse_wordpress_xml(xml_path):
         region_display, region_key = categorize_post(cat_slugs)
         content_local = content.replace(
             'https://sailingoroboro.com/wp-content/uploads/',
-            '/wp-images/'
+            'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/'
         )
         image = extract_first_image(content_local)
         excerpt = text_excerpt(content_local)
@@ -521,7 +521,7 @@ def build_post(post, prev_post, next_post):
     # Rewrite WordPress upload URLs to local paths
     content = content.replace(
         'https://sailingoroboro.com/wp-content/uploads/',
-        '/wp-images/'
+        'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/'
     )
     # Apply wpautop to convert double newlines → <p> tags
     content = wpautop(content)
