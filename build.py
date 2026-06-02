@@ -211,8 +211,10 @@ NAV_HTML = '''<nav class="nav" role="navigation" aria-label="Main navigation">
 </nav>'''
 
 FOOTER_HTML = '''<footer class="footer">
-  <div class="footer-logo">S/V Oroboro</div>
-  <p class="footer-tagline">Sailing the world on a Leopard 40 catamaran</p>
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
   <ul class="footer-links">
     <li><a href="/">Home</a></li>
     <li><a href="/blog.html">Blog</a></li>
@@ -221,7 +223,7 @@ FOOTER_HTML = '''<footer class="footer">
     <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
     <li><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
   </ul>
-  <p class="footer-copy">© {year} Francesco &amp; Yuka — S/V Oroboro. All rights reserved.</p>
+  <p class="footer-copy">© {year} Francesco &amp; Yuka</p>
 </footer>'''
 
 HEAD_COMMON = '''  <meta charset="UTF-8">
@@ -230,8 +232,9 @@ HEAD_COMMON = '''  <meta charset="UTF-8">
   <link rel="icon" href="/img/logo-mark.png" type="image/png">'''
 
 
-def html_page(title, body, css_path='/', extra_head='', extra_scripts=''):
+def html_page(title, body, css_path='/', extra_head='', extra_scripts='', body_class=''):
     year = datetime.now().year
+    body_attr = f' class="{body_class}"' if body_class else ''
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -239,7 +242,7 @@ def html_page(title, body, css_path='/', extra_head='', extra_scripts=''):
 {HEAD_COMMON.replace("{css_path}", css_path)}
 {extra_head}
 </head>
-<body>
+<body{body_attr}>
 {NAV_HTML}
 {body}
 {FOOTER_HTML.replace("{year}", str(year))}
@@ -684,6 +687,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>'''
 
     body = f'''
+<a class="map-back" href="/blog.html">← Blog</a>
 <div class="map-page">
   <div id="journey-map" aria-label="Interactive route map of S/V Oroboro"></div>
   <aside class="map-sidebar" aria-label="Journey waypoints">
@@ -698,7 +702,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <script src="/js/map.js"></script>
 {sidebar_script}'''
 
-    return html_page('Journey Map', body, css_path='/', extra_head=extra_head, extra_scripts=extra_scripts)
+    return html_page('Journey Map', body, css_path='/', extra_head=extra_head,
+                     extra_scripts=extra_scripts, body_class='map-page-body')
 
 
 # ─── Main ─────────────────────────────────────────────────────────────────────

@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
   <style>body { overflow: hidden; }</style>
 </head>
-<body>
+<body class="map-page-body">
 <nav class="nav" role="navigation" aria-label="Main navigation">
   <a class="nav-logo" href="/">
     <img src="/img/logo-white.png" alt="Oroboro logo">
@@ -30,6 +30,7 @@
   </button>
 </nav>
 
+<a class="map-back" href="/blog.html">← Blog</a>
 <div class="map-page">
   <div id="journey-map" aria-label="Interactive route map of S/V Oroboro"></div>
   <aside class="map-sidebar" aria-label="Journey waypoints">
@@ -38,8 +39,10 @@
   </aside>
 </div>
 <footer class="footer">
-  <div class="footer-logo">S/V Oroboro</div>
-  <p class="footer-tagline">Sailing the world on a Leopard 38 catamaran</p>
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
   <ul class="footer-links">
     <li><a href="/">Home</a></li>
     <li><a href="/blog.html">Blog</a></li>
@@ -48,7 +51,7 @@
     <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
     <li><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
   </ul>
-  <p class="footer-copy">© 2026 Francesco &amp; Yuka — S/V Oroboro. All rights reserved.</p>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
 </footer>
 <script src="/js/main.js"></script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
