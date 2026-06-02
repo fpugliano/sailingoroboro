@@ -282,6 +282,15 @@ def build_index(posts):
 <main>
   <!-- Hero -->
   <section class="hero" aria-label="Hero">
+    <video class="hero-media" autoplay muted loop playsinline preload="none"
+           aria-hidden="true" poster="/OroboroHeroPhoto.jpeg">
+      <source src="/img/hero-video.mp4" type="video/mp4">
+    </video>
+    <img class="hero-media" src="/OroboroHeroPhoto.jpeg"
+         alt="" aria-hidden="true"
+         style="display:none"
+         onerror="this.style.display='none'"
+         id="hero-photo-fallback">
     <div class="hero-bg" aria-hidden="true"></div>
     <div class="hero-content">
       <img class="hero-logo" src="/img/logo-white.png" alt="Oroboro — serpent eating its tail">
@@ -406,7 +415,17 @@ def build_index(posts):
     extra_head = '''  <!-- Leaflet for mini-map -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">'''
     extra_scripts = '''<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script src="/js/map.js"></script>'''
+<script src="/js/map.js"></script>
+<script>
+// Show photo fallback if video fails to load
+(function(){
+  var v = document.querySelector('.hero-media[autoplay]');
+  var p = document.getElementById('hero-photo-fallback');
+  if (!v || !p) return;
+  v.addEventListener('error', function(){ p.style.display='block'; }, true);
+  v.addEventListener('stalled', function(){ if(v.readyState===0){ p.style.display='block'; } });
+})();
+</script>'''
 
     return html_page('Home', body, css_path='/', extra_head=extra_head, extra_scripts=extra_scripts)
 
