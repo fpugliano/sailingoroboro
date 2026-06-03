@@ -364,8 +364,8 @@ POST_LOCS = [
     ("st-helena",                           "St Helena",              -15.96,  -5.71, "Mar 2019", "atlantic"),
     ("trindade",                            "Trindade Island",        -20.51, -29.33, "Mar 2019", "atlantic"),
     # ── Brazil: arrival & south coast ────────────────────────────────────
-    ("welcome-to-brazil",                   "Vitória, Brazil",        -20.32, -40.34, "Mar 2019", "brazil"),
-    ("how-to-repair-a-spectra-newport-watermaker", "Vitória",         -20.32, -40.34, "Mar 2019", "brazil"),
+    ("welcome-to-brazil",                   "Ilha Grande",            -23.18, -44.21, "Mar 2019", "brazil"),
+    ("how-to-repair-a-spectra-newport-watermaker", "Ilha Grande",     -23.18, -44.21, "Mar 2019", "brazil"),
     ("ubatuba",                             "Ubatuba",                -23.44, -45.07, "Apr 2019", "brazil"),
     ("ilha-grande",                         "Ilha Grande",            -23.18, -44.21, "Apr 2019", "brazil"),
     ("carnival-in-rio-de-janeiro",          "Rio de Janeiro",         -22.91, -43.17, "Apr 2019", "brazil"),
