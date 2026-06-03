@@ -208,32 +208,32 @@ SEG2_PHASES = [
 GAP_WAYPOINTS = [
     # ── La Maddalena Archipelago (Track 4 endpoint) ───────────
     [41.2995,  9.3380],  # Porto Pozzo / La Maddalena
-    [41.2267,  9.4133],  # La Maddalena island
-    [41.1050,  9.5317],  # S. Caprera — leaving archipelago
-    # ── East coast of Sardinia, southbound ────────────────────
-    [40.9917,  9.6233],  # Golfo Aranci
-    [40.8967,  9.7267],  # Tavolara island
-    [40.5583,  9.7267],  # Siniscola coast
-    [40.2833,  9.5983],  # Cala Gonone
-    [39.9333,  9.6883],  # Arbatax
-    [39.5150,  9.6267],  # Capo Monte Santu
-    [39.1033,  9.5400],  # Villasimius / Capo Carbonara (SE tip)
+    [41.2267,  9.5200],  # East of La Maddalena, clearing the islands
+    # ── East coast of Sardinia — 5 nm offshore ────────────────
+    # Coast runs at ~9.60-9.75°E; keeping ≥0.15° east for 5 nm clearance
+    [41.0500,  9.7000],  # Golfo Aranci offshore
+    [40.8967,  9.9500],  # East of Tavolara island (island E coast ~9.75°E)
+    [40.5583,  9.8800],  # Siniscola offshore
+    [40.2833,  9.7700],  # Gulf of Orosei / Cala Gonone offshore
+    [39.9333,  9.8600],  # Arbatax offshore
+    [39.5150,  9.7800],  # Capo Monte Santu offshore
+    [39.1000,  9.7300],  # Capo Carbonara offshore (cape tip ~9.52°E)
     # ── Open water crossing to Egadi Islands ──────────────────
-    [38.6000,  9.9500],  # Clearing SE Sardinia
-    [38.1500, 10.8500],  # Sicilian Channel, mid-crossing
-    [38.0000, 11.6500],  # Approaching NW Sicily
-    [37.9533, 12.1783],  # Egadi approach
-    # ── Egadi Islands and SW coast of Sicily ──────────────────
-    [37.9317, 12.3283],  # Favignana, Egadi Islands
-    [37.7983, 12.4367],  # Marsala
-    [37.6483, 12.5900],  # Mazara del Vallo
-    [37.5683, 12.7583],  # Menfi coast
-    [37.5050, 13.0783],  # Sciacca
-    [37.3233, 13.4083],  # Porto Empedocle
-    [37.0983, 13.9417],  # Licata
+    [38.6000, 10.0500],  # Clear of SE Sardinia
+    [38.2000, 10.9000],  # Sicilian Channel, mid-crossing
+    [38.1500, 11.8000],  # Approaching NW Sicily, staying clear
+    [37.9500, 12.1700],  # Egadi approach — 5 nm W of Favignana
+    # ── Egadi Islands and SW coast of Sicily — 5 nm offshore ──
+    # SW coast faces WSW; keeping ≥0.12° west/south for 5 nm clearance
+    [37.7500, 12.2900],  # Marsala area — 5 nm W of coast
+    [37.5900, 12.4700],  # Mazara del Vallo — 5 nm SW
+    [37.4800, 12.6700],  # Menfi area — 5 nm SW
+    [37.4000, 13.0300],  # Sciacca — 5 nm S
+    [37.2000, 13.4200],  # Porto Empedocle — 5 nm S
+    [37.0150, 13.9400],  # Licata — 5 nm S of coast
     # ── Crossing to Malta ─────────────────────────────────────
-    [36.6500, 14.1000],  # Open water SE of Sicily
-    [36.1833, 14.3333],  # Approaching Malta from N
+    [36.6000, 14.1500],  # Open water SE of Sicily
+    [36.1800, 14.3500],  # Approaching Malta from N
     [35.9000, 14.5133],  # Valletta, Malta
     # ── Ionian Sea crossing to Pylos ──────────────────────────
     [35.8500, 15.6000],  # Open Ionian Sea
@@ -242,14 +242,13 @@ GAP_WAYPOINTS = [
     [36.6000, 20.5000],  # W Greece coast approach
     [36.8167, 21.3500],  # Methoni
     [36.9133, 21.6817],  # Pylos / Navarino Bay
-    # ── Along the Peloponnese coast ───────────────────────────
-    [36.8167, 21.9500],  # Koroni
-    [36.6000, 22.0500],  # S. Messenia coast
-    [36.3733, 22.4883],  # Cape Matapan / Tenaro (southernmost point)
-    [36.6000, 22.5500],  # Laconic Gulf coast
-    [36.7567, 22.5683],  # Gythion
-    [36.5000, 22.9000],  # S. Laconia toward Cape Malea
-    [36.4450, 23.1983],  # Cape Malea
+    # ── Along the Peloponnese — 5 nm offshore ─────────────────
+    # S coast faces south; keeping ≥0.083° south for 5 nm clearance
+    [36.7200, 21.9500],  # Koroni area — 5 nm S
+    [36.5100, 22.0700],  # S. Messenia coast — 5 nm S
+    [36.2800, 22.4883],  # 5 nm south of Cape Matapan tip
+    [36.3500, 22.8500],  # Mid Laconian Gulf — clear of both coasts
+    [36.3700, 23.1500],  # Cape Malea — 5 nm S of tip
     # ── NE toward the Cyclades ────────────────────────────────
     [36.5500, 23.5500],  # Open Aegean, heading NE
     # ── Milos ─────────────────────────────────────────────────
@@ -601,6 +600,19 @@ function initMap(containerId) {{
    ROUTE_MYKONOS_DIDIM, ROUTE_DIDIM_MYKONOS
   ].forEach(seg => L.polyline(seg, solidStyle).addTo(map));
 
+  // Continent labels
+  const contStyle = 'font-family:Georgia,serif;font-size:12px;color:rgba(80,100,130,0.45);font-style:italic;letter-spacing:0.12em;text-transform:uppercase;white-space:nowrap;pointer-events:none;user-select:none;';
+  [
+    {{ name:'North America', lat: 47.0, lon:-102.0 }},
+    {{ name:'South America', lat:-14.0, lon: -58.0 }},
+    {{ name:'Africa',        lat:  2.0, lon:  22.0 }},
+    {{ name:'Europe',        lat: 52.0, lon:  16.0 }},
+    {{ name:'Asia',          lat: 42.0, lon:  75.0 }},
+  ].forEach(c => L.marker([c.lat, c.lon], {{
+    icon: L.divIcon({{ className:'', html:`<span style="${{contStyle}}">${{c.name}}</span>`, iconSize:[160,20], iconAnchor:[80,10] }}),
+    interactive: false, keyboard: false,
+  }}).addTo(map));
+
   const makeIcon = (color = '#2E86AB') => L.divIcon({{
     className: '',
     html: `<div style="width:11px;height:11px;background:${{color}};border:2.5px solid white;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.35);"></div>`,
@@ -665,10 +677,6 @@ function initMiniMap(containerId) {{
    ROUTE_LEROS_DIDIM, ROUTE_DIDIM_PATMOS,
    ROUTE_MYKONOS_DIDIM, ROUTE_DIDIM_MYKONOS
   ].forEach(seg => L.polyline(seg, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map));
-  L.circleMarker(ROUTE_PT1[0],
-    {{ radius: 5, color: '#E9C46A', fillColor: '#E9C46A', fillOpacity: 1, weight: 2 }}).addTo(map);
-  L.circleMarker(ROUTE_PT2[ROUTE_PT2.length - 1],
-    {{ radius: 6, color: '#E76F51', fillColor: '#E76F51', fillOpacity: 1, weight: 2 }}).addTo(map);
   return map;
 }}
 
