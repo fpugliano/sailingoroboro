@@ -33,6 +33,7 @@ f_2025 = ensure_extracted("Archive_05_01_2025.gpx.zip", "Archive_05_01_2025.gpx"
 # New raw GPX files (not zipped)
 f_1234 = REPO / "TRACK1234_2022.gpx"   # Track 4: Elba → N. Sardinia
 f_0606 = REPO / "Tracks060626.gpx"     # Tracks 13-18: Greek Aegean continuation
+f_t2s  = REPO / "Turkey to Syros.gpx"  # Bodrum → Syros passage
 
 # ── Streaming GPX parser ──────────────────────────────────────────────────────
 
@@ -152,6 +153,10 @@ print("  Tracks060626.gpx …")
 trk5 = parse_gpx_tracks(f_0606)
 print(f"    {len(trk5)} tracks  ({sum(len(v) for v in trk5.values()):,} pts)")
 
+print("  Turkey to Syros.gpx …")
+trk6 = parse_gpx_tracks(f_t2s)
+print(f"    {len(trk6)} tracks  ({sum(len(v) for v in trk6.values()):,} pts)")
+
 # ── Assemble ordered route ────────────────────────────────────────────────────
 # Two solid GPS segments separated by an estimated gap (dashed on map):
 #
@@ -183,6 +188,7 @@ SEG1_PHASES = [
 ]
 
 SEG2_PHASES = [
+    ('Turkey to Syros Track', trk6),  # Bodrum → Syros (passage plan)
     ('Turkey2Greece',trk3),   # Turkey/Bodrum → Dodecanese
     ('Track 8',      trk3),   # Dodecanese / Aegean
     ('Track 9',      trk3),   # Aegean toward Athens
@@ -208,7 +214,7 @@ GAP_WAYPOINTS = [
     [38.17, 20.49],   # Kefalonia / W. Greece
     [37.94, 22.95],   # Gulf of Corinth / Corinth Canal
     [37.63, 23.60],   # Athens / Saronic Gulf
-    [37.36, 26.75],   # Samos/Ikaria (Track 13 start)
+    [37.33, 27.27],   # Turkey/Bodrum (Turkey to Syros track start)
 ]
 
 print("\n── Assembling route segments ─────────────────────────────────────────")
