@@ -166,8 +166,8 @@ def parse_wordpress_xml(xml_path):
         display_date, iso_date = parse_date(pub_str)
         region_display, region_key = categorize_post(cat_slugs)
         content_local = re.sub(
-            r'https://sailingoroboro\.com/wp-content/uploads/\d{4}/\d{2}/',
-            'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/',
+            r'https://sailingoroboro\.com/wp-content/uploads/\d{4}/\d{2}/([^\s"\'<>]+)',
+            lambda m: 'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/' + m.group(1).lower(),
             content
         )
         image = extract_first_image(content_local)
@@ -519,10 +519,10 @@ def build_post(post, prev_post, next_post):
     # Remove WordPress shortcodes
     content = re.sub(r'\[caption[^\]]*\](.*?)\[/caption\]', r'\1', content, flags=re.DOTALL)
     content = re.sub(r'\[/?[a-z_]+[^\]]*\]', '', content)
-    # Rewrite WordPress upload URLs → flat R2 CDN paths (no year/month)
+    # Rewrite WordPress upload URLs → flat R2 CDN paths (no year/month), lowercased
     content = re.sub(
-        r'https://sailingoroboro\.com/wp-content/uploads/\d{4}/\d{2}/',
-        'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/',
+        r'https://sailingoroboro\.com/wp-content/uploads/\d{4}/\d{2}/([^\s"\'<>]+)',
+        lambda m: 'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/' + m.group(1).lower(),
         content
     )
     # Apply wpautop to convert double newlines → <p> tags
