@@ -613,21 +613,42 @@ function initMap(containerId) {{
     interactive: false, keyboard: false,
   }}).addTo(map));
 
-  const makeIcon = (color = '#2E86AB') => L.divIcon({{
+  // ── Marker icons ────────────────────────────────────────────
+  const makeIcon = () => L.divIcon({{
     className: '',
-    html: `<div style="width:11px;height:11px;background:${{color}};border:2.5px solid white;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.35);"></div>`,
+    html: '<div style="width:11px;height:11px;background:#2E86AB;border:2.5px solid white;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.35);"></div>',
     iconSize: [11,11], iconAnchor: [5,5],
   }});
-
-  const currentIcon = L.divIcon({{
+  const makeActiveIcon = () => L.divIcon({{
     className: '',
-    html: `<div style="width:14px;height:14px;background:#E76F51;border:3px solid white;border-radius:50%;box-shadow:0 2px 8px rgba(231,111,81,.6);animation:pulse 2s infinite;"></div><style>@keyframes pulse{{0%,100%{{box-shadow:0 0 0 0 rgba(231,111,81,.4)}}50%{{box-shadow:0 0 0 8px rgba(231,111,81,0)}}}}</style>`,
-    iconSize: [14,14], iconAnchor: [7,7],
+    html: '<div style="width:16px;height:16px;background:#E76F51;border:3px solid white;border-radius:50%;box-shadow:0 0 0 5px rgba(231,111,81,0.28),0 2px 10px rgba(0,0,0,0.3);"></div>',
+    iconSize: [16,16], iconAnchor: [8,8],
   }});
 
+  // ── Build all markers ────────────────────────────────────────
+  const allMarkers = [];
+  let activeIdx = -1;
+
+  // activateWaypoint: highlight dot, open popup, sync sidebar
+  function activateWaypoint(idx) {{
+    if (activeIdx >= 0 && allMarkers[activeIdx]) {{
+      allMarkers[activeIdx].setIcon(makeIcon());
+    }}
+    activeIdx = idx;
+    allMarkers[idx].setIcon(makeActiveIcon());
+    allMarkers[idx].openPopup();
+    map.setView(WAYPOINTS[idx].coords, 7, {{ animate: true }});
+    document.querySelectorAll('.waypoint-item').forEach(el => el.classList.remove('active'));
+    const sidebarItem = document.querySelector('[data-waypoint="' + idx + '"]');
+    if (sidebarItem) {{
+      sidebarItem.classList.add('active');
+      sidebarItem.scrollIntoView({{ behavior: 'smooth', block: 'nearest' }});
+    }}
+  }}
+
   WAYPOINTS.forEach((wp, i) => {{
-    const isLast = (i === WAYPOINTS.length - 1);
-    const icon   = isLast ? currentIcon : makeIcon();
+    const marker = L.marker(wp.coords, {{ icon: makeIcon() }}).addTo(map);
+    allMarkers.push(marker);
 
     let links = '';
     if (wp.slugs && wp.slugs.length) {{
@@ -642,20 +663,21 @@ function initMap(containerId) {{
       ${{links}}
     </div>`;
 
-    const marker = L.marker(wp.coords, {{ icon }}).addTo(map);
     marker.bindPopup(popup, {{ maxWidth: 260, className: 'oroboro-popup' }});
-
-    // Sidebar interaction
-    const item = document.querySelector(`[data-waypoint="${{i}}"]`);
-    if (item) {{
-      item.addEventListener('click', () => {{
-        map.setView(wp.coords, 7, {{ animate: true }});
-        marker.openPopup();
-        document.querySelectorAll('.waypoint-item').forEach(el => el.classList.remove('active'));
-        item.classList.add('active');
-      }});
-    }}
+    // Clicking the dot also activates the sidebar item
+    marker.on('click', () => activateWaypoint(i));
   }});
+
+  // ── Sidebar → map (event delegation — works regardless of init order) ──
+  const wpList = document.querySelector('.waypoint-list');
+  if (wpList) {{
+    wpList.addEventListener('click', e => {{
+      const item = e.target.closest('.waypoint-item');
+      if (!item) return;
+      const idx = parseInt(item.dataset.waypoint, 10);
+      if (!isNaN(idx) && idx >= 0 && idx < allMarkers.length) activateWaypoint(idx);
+    }});
+  }}
 
   const style = document.createElement('style');
   style.textContent = `.oroboro-popup .leaflet-popup-content-wrapper{{border-radius:10px;box-shadow:0 8px 30px rgba(0,0,0,.15);padding:4px}}.oroboro-popup .leaflet-popup-tip{{background:#fff}}`;
