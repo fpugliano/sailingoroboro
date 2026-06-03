@@ -427,13 +427,26 @@ POST_LOCS = [
     ("2nd-atlantic-crossing",             "North Atlantic",            35.00, -45.00, "Sep 2021", "atlantic"),
 ]
 
+# ── Inland locations: visited by land, not on the sailing track ──────────────
+# These use their real city coordinates (not snapped) and get a distinct marker.
+INLAND_POSTS = {
+    'sao-paulo':                  (-23.5505, -46.6333, "São Paulo"),
+    'brasilia':                   (-15.7801, -47.9292, "Brasília"),
+    'pirenopolis':                (-15.8517, -48.9597, "Pirenópolis"),
+    'ouro-preto-or-black-gold':   (-20.3856, -43.5035, "Ouro Preto"),
+}
+
 # ── Snap every post to the nearest GPS point on the actual route ──────────────
 print("\n── Matching posts to route ───────────────────────────────────────────")
 
 snapped = {}   # slug → (lat, lon)
 for slug, name, alat, alon, date, region in POST_LOCS:
-    pt = nearest(alat, alon, all_pts)
-    snapped[slug] = (round(pt[0], 4), round(pt[1], 4))
+    if slug in INLAND_POSTS:
+        ilat, ilon, _ = INLAND_POSTS[slug]
+        snapped[slug] = (round(ilat, 4), round(ilon, 4))
+    else:
+        pt = nearest(alat, alon, all_pts)
+        snapped[slug] = (round(pt[0], 4), round(pt[1], 4))
 
 # ── Cluster nearby posts into one map pin ────────────────────────────────────
 def coord_key(lat, lon, prec=2):
@@ -454,6 +467,7 @@ for slug, name, alat, alon, date, region in POST_LOCS:
         continue
     seen_keys.add(ck)
     group = clusters[ck]
+    is_inland = all(g[0] in INLAND_POSTS for g in group)
     waypoints_out.append({
         'name':   group[0][1],
         'coords': [group[0][4], group[0][5]],
@@ -461,6 +475,7 @@ for slug, name, alat, alon, date, region in POST_LOCS:
         'slug':   group[0][0],
         'slugs':  [g[0] for g in group],
         'region': group[0][3],
+        'inland': is_inland,
     })
 
 # ── Extra geographic waypoints (named GPS saves + key milestone positions) ────
@@ -502,6 +517,7 @@ for wid, wname, wlat, wlon, wdate, wreg in EXTRA:
         'slug':   None,
         'slugs':  [],
         'region': wreg,
+        'inland': False,
     })
 
 print(f"  {len(waypoints_out)} map pins ({len(POST_LOCS)} posts + extras)")
@@ -541,7 +557,8 @@ for wp in waypoints_out:
         f'date:{json.dumps(wp["date"])}, '
         f'slug:{json.dumps(wp["slug"])}, '
         f'slugs:{json.dumps(wp["slugs"])}, '
-        f'region:{json.dumps(wp["region"])} }}'
+        f'region:{json.dumps(wp["region"])}, '
+        f'inland:{json.dumps(wp.get("inland", False))} }}'
     )
 
 wp_block = ',\n'.join(wp_lines)
@@ -619,9 +636,17 @@ function initMap(containerId) {{
     html: '<div style="width:11px;height:11px;background:#2E86AB;border:2.5px solid white;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.35);"></div>',
     iconSize: [11,11], iconAnchor: [5,5],
   }});
-  const makeActiveIcon = () => L.divIcon({{
+  // Inland marker: diamond shape, warm sand colour — not on the sailing track
+  const makeInlandIcon = () => L.divIcon({{
     className: '',
-    html: '<div style="width:16px;height:16px;background:#E76F51;border:3px solid white;border-radius:50%;box-shadow:0 0 0 5px rgba(231,111,81,0.28),0 2px 10px rgba(0,0,0,0.3);"></div>',
+    html: '<div style="width:9px;height:9px;background:#C8A882;border:2px solid white;transform:rotate(45deg);box-shadow:0 2px 5px rgba(0,0,0,0.3);"></div>',
+    iconSize: [11,11], iconAnchor: [5,5],
+  }});
+  const makeActiveIcon = (inland) => L.divIcon({{
+    className: '',
+    html: inland
+      ? '<div style="width:13px;height:13px;background:#E76F51;border:2.5px solid white;transform:rotate(45deg);box-shadow:0 0 0 4px rgba(231,111,81,0.28);"></div>'
+      : '<div style="width:16px;height:16px;background:#E76F51;border:3px solid white;border-radius:50%;box-shadow:0 0 0 5px rgba(231,111,81,0.28),0 2px 10px rgba(0,0,0,0.3);"></div>',
     iconSize: [16,16], iconAnchor: [8,8],
   }});
 
@@ -632,10 +657,11 @@ function initMap(containerId) {{
   // activateWaypoint: highlight dot, open popup, sync sidebar
   function activateWaypoint(idx) {{
     if (activeIdx >= 0 && allMarkers[activeIdx]) {{
-      allMarkers[activeIdx].setIcon(makeIcon());
+      const prev = WAYPOINTS[activeIdx];
+      allMarkers[activeIdx].setIcon(prev.inland ? makeInlandIcon() : makeIcon());
     }}
     activeIdx = idx;
-    allMarkers[idx].setIcon(makeActiveIcon());
+    allMarkers[idx].setIcon(makeActiveIcon(WAYPOINTS[idx].inland));
     allMarkers[idx].openPopup();
     map.setView(WAYPOINTS[idx].coords, 7, {{ animate: true }});
     document.querySelectorAll('.waypoint-item').forEach(el => el.classList.remove('active'));
@@ -647,7 +673,7 @@ function initMap(containerId) {{
   }}
 
   WAYPOINTS.forEach((wp, i) => {{
-    const marker = L.marker(wp.coords, {{ icon: makeIcon() }}).addTo(map);
+    const marker = L.marker(wp.coords, {{ icon: wp.inland ? makeInlandIcon() : makeIcon() }}).addTo(map);
     allMarkers.push(marker);
 
     let links = '';

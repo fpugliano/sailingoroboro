@@ -28,76 +28,79 @@ const ROUTE_DIDIM_MYKONOS  = [[37.375, 27.265], [37.4833, 26.9833], [37.5667, 26
 const ROUTE_COORDS = ROUTE_PT1.concat(ROUTE_PT2);
 
 const WAYPOINTS = [
-  { name:"Cape Town", coords:[-33.9043, 18.4251], date:"Sep 2018", slug:"about-the-name-of-the-boat", slugs:["about-the-name-of-the-boat", "choosing-the-right-boat", "quitting-our-jobs", "sailing-vessel-oroboro", "three-weeks-worth-of-work", "enough-with-work", "7%c2%bd-weeks", "stress-test", "how-the-boat-was-built", "discovering-south-africa", "cape-town-arrival"], region:"south-africa" },
-  { name:"Langebaan", coords:[-33.1961, 17.9899], date:"Dec 2018", slug:"shake-down-sail-to-langebaan", slugs:["shake-down-sail-to-langebaan"], region:"south-africa" },
-  { name:"Cape Town \u2192 Namibia", coords:[-33.8802, 18.4365], date:"Dec 2018", slug:"maiden-voyage", slugs:["maiden-voyage"], region:"south-africa" },
-  { name:"L\u00fcderitz, Namibia", coords:[-26.6417, 15.155], date:"Dec 2018", slug:"passage-to-namibia", slugs:["passage-to-namibia", "kolmanskop-namibia"], region:"namibia" },
-  { name:"Hottentot Bay", coords:[-24.4903, 14.3705], date:"Dec 2018", slug:"hottentot-bay-namibia", slugs:["hottentot-bay-namibia"], region:"namibia" },
-  { name:"Tropic of Capricorn", coords:[-23.4049, 14.3353], date:"Jan 2019", slug:"crossing-the-tropic-of-capricorn", slugs:["crossing-the-tropic-of-capricorn"], region:"namibia" },
-  { name:"South Atlantic", coords:[-18.8681, -18.6088], date:"Feb 2019", slug:"crossing-the-south-atlantic-ocean", slugs:["crossing-the-south-atlantic-ocean"], region:"atlantic" },
-  { name:"St Helena", coords:[-15.9244, -5.7233], date:"Mar 2019", slug:"st-helena", slugs:["st-helena"], region:"atlantic" },
-  { name:"Trindade Island", coords:[-20.5023, -29.3142], date:"Mar 2019", slug:"trindade", slugs:["trindade"], region:"atlantic" },
-  { name:"Ilha Grande", coords:[-23.1376, -44.1635], date:"Mar 2019", slug:"welcome-to-brazil", slugs:["welcome-to-brazil", "how-to-repair-a-spectra-newport-watermaker", "ilha-grande"], region:"brazil" },
-  { name:"Ubatuba", coords:[-23.4522, -45.0526], date:"Apr 2019", slug:"ubatuba", slugs:["ubatuba"], region:"brazil" },
-  { name:"Rio de Janeiro", coords:[-22.9162, -43.169], date:"Apr 2019", slug:"carnival-in-rio-de-janeiro", slugs:["carnival-in-rio-de-janeiro"], region:"brazil" },
-  { name:"Ouro Preto", coords:[-20.2994, -40.2892], date:"Apr 2019", slug:"ouro-preto-or-black-gold", slugs:["ouro-preto-or-black-gold", "brasilia", "pirenopolis", "vitoria"], region:"brazil" },
-  { name:"S\u00e3o Paulo", coords:[-23.507, -45.1126], date:"May 2019", slug:"sao-paulo", slugs:["sao-paulo"], region:"brazil" },
-  { name:"Cabo Frio", coords:[-22.9113, -41.9946], date:"May 2019", slug:"cabo-frio", slugs:["cabo-frio"], region:"brazil" },
-  { name:"B\u00fazios", coords:[-22.7468, -41.8839], date:"May 2019", slug:"armacao-dos-buzios-simply-known-as-buzios", slugs:["armacao-dos-buzios-simply-known-as-buzios"], region:"brazil" },
-  { name:"Guarapari", coords:[-20.6412, -40.467], date:"May 2019", slug:"guarapari", slugs:["guarapari"], region:"brazil" },
-  { name:"Abrolhos", coords:[-17.9688, -38.7003], date:"May 2019", slug:"abrolhos", slugs:["abrolhos"], region:"brazil" },
-  { name:"Cumuruxatiba", coords:[-17.1016, -39.1745], date:"May 2019", slug:"cumuruxatiba", slugs:["cumuruxatiba"], region:"brazil" },
-  { name:"Coroa Vermelha", coords:[-16.4396, -39.013], date:"May 2019", slug:"corao-vernelho", slugs:["corao-vernelho"], region:"brazil" },
-  { name:"Porto Seguro", coords:[-16.4485, -39.059], date:"May 2019", slug:"porto-seguro", slugs:["porto-seguro"], region:"brazil" },
-  { name:"Santa Cruz Cabr\u00e1lia", coords:[-16.2825, -39.0047], date:"May 2019", slug:"santo-andre-and-santa-cruz-cabralia", slugs:["santo-andre-and-santa-cruz-cabralia"], region:"brazil" },
-  { name:"Ilh\u00e9us", coords:[-14.7809, -39.0356], date:"2019", slug:"ilheus", slugs:["ilheus"], region:"brazil" },
-  { name:"Itacar\u00e9", coords:[-14.2764, -38.9929], date:"2019", slug:"itacare", slugs:["itacare"], region:"brazil" },
-  { name:"Bahia coast", coords:[-13.9988, -38.8998], date:"2019", slug:"the-dark-science-of-weather-forecasts", slugs:["the-dark-science-of-weather-forecasts"], region:"brazil" },
-  { name:"Camam\u00f9 Bay", coords:[-13.9382, -38.9974], date:"2019", slug:"camamu-bay", slugs:["camamu-bay"], region:"brazil" },
-  { name:"Salvador de Bahia", coords:[-12.9724, -38.5158], date:"Aug 2019", slug:"salvador-de-bahia", slugs:["salvador-de-bahia"], region:"brazil" },
-  { name:"Morro de S\u00e3o Paulo", coords:[-13.3802, -38.9075], date:"Sep 2019", slug:"morro-de-sao-paulo", slugs:["morro-de-sao-paulo"], region:"brazil" },
-  { name:"Sto. Ant\u00f4nio Paragua\u00e7u", coords:[-12.7427, -38.8753], date:"Sep 2019", slug:"santo-antonio-do-paraguacu", slugs:["santo-antonio-do-paraguacu"], region:"brazil" },
-  { name:"Itaparica", coords:[-12.8888, -38.6872], date:"Nov 2019", slug:"itaparica", slugs:["itaparica"], region:"brazil" },
-  { name:"Equator", coords:[-4.1472, -35.9513], date:"Oct 2019", slug:"crossing-the-equator", slugs:["crossing-the-equator"], region:"brazil" },
-  { name:"Recife", coords:[-8.0537, -34.8673], date:"Nov 2019", slug:"recife", slugs:["recife"], region:"brazil" },
-  { name:"Olinda", coords:[-8.0184, -34.8123], date:"Nov 2019", slug:"olinda", slugs:["olinda"], region:"brazil" },
-  { name:"Jacar\u00e9", coords:[-7.0275, -34.8566], date:"Nov 2019", slug:"jacare", slugs:["jacare"], region:"brazil" },
-  { name:"Pipa Beach", coords:[-6.2018, -34.9148], date:"Nov 2019", slug:"pipa", slugs:["pipa"], region:"brazil" },
-  { name:"Tib\u00e3o do Sul", coords:[-6.1499, -34.9288], date:"Nov 2019", slug:"tibao-do-sul", slugs:["tibao-do-sul"], region:"brazil" },
-  { name:"Jo\u00e3o Pessoa", coords:[-7.0368, -34.8575], date:"Nov 2019", slug:"joao-pessoa", slugs:["joao-pessoa"], region:"brazil" },
-  { name:"Fortaleza", coords:[-3.7195, -38.5289], date:"Nov 2019", slug:"fortaleza", slugs:["fortaleza", "from-brazil-to-the-caribbean-in-60-seconds"], region:"brazil" },
-  { name:"French Guiana", coords:[5.1812, -52.2239], date:"Dec 2019", slug:"french-guiana", slugs:["french-guiana"], region:"caribbean" },
-  { name:"Trinidad", coords:[10.8637, -61.229], date:"Dec 2019", slug:"trinidad", slugs:["trinidad"], region:"caribbean" },
-  { name:"Tobago", coords:[11.1642, -60.7283], date:"Jan 2020", slug:"tobago", slugs:["tobago"], region:"caribbean" },
-  { name:"Grenada", coords:[12.1139, -61.7495], date:"Jan 2020", slug:"grenada", slugs:["grenada", "covid-19-in-paradise", "hurricanes-and-caribbean", "oroboros-energy-system", "water-maker", "one-year-in-the-caribbean", "vendee-globe-2020", "how-to-rebuild-a-spectra-watermaker", "recap-of-year-2020"], region:"caribbean" },
-  { name:"US Virgin Islands", coords:[18.3125, -64.9081], date:"Jan 2021", slug:"entering-the-greater-antilles", slugs:["entering-the-greater-antilles", "us-virgin-islands"], region:"caribbean" },
-  { name:"Spanish Virgin Islands", coords:[18.2615, -65.5781], date:"Apr 2021", slug:"spanish-virgin-islands", slugs:["spanish-virgin-islands"], region:"caribbean" },
-  { name:"Puerto Rico", coords:[18.5778, -66.3884], date:"Apr 2021", slug:"puerto-rico", slugs:["puerto-rico", "anti-fouling-review-pettit-trinidad-pro-sucks"], region:"caribbean" },
-  { name:"Dominican Republic", coords:[19.1971, -69.3292], date:"Apr 2021", slug:"dominican-republic", slugs:["dominican-republic"], region:"caribbean" },
-  { name:"Bahamas", coords:[24.6831, -76.8746], date:"Apr 2021", slug:"sailing-in-the-bahamas", slugs:["sailing-in-the-bahamas"], region:"caribbean" },
-  { name:"North Atlantic", coords:[33.8937, -45.1304], date:"Sep 2021", slug:"2nd-atlantic-crossing", slugs:["2nd-atlantic-crossing"], region:"atlantic" },
-  { name:"Azores", coords:[38.4927, -28.7072], date:"2021", slug:null, slugs:[], region:"atlantic" },
-  { name:"Lisbon", coords:[37.0857, -9.468], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Gibraltar", coords:[36.1486, -5.3564], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Cape Trafalgar", coords:[36.1459, -6.053], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Sotogrande", coords:[36.2297, -5.2303], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Cabo de Gata", coords:[36.564, -2.1474], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Ibiza", coords:[38.8011, 1.4073], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Mallorca", coords:[39.5638, 2.6462], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Menorca", coords:[40.0793, 4.0189], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Cadaqu\u00e9s", coords:[42.2773, 3.2887], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Marseille", coords:[42.9458, 5.3948], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Saint-Tropez", coords:[43.2711, 6.6273], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Nice", coords:[43.5605, 7.247], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Corsica", coords:[43.1732, 8.889], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Sardinia", coords:[41.298, 9.3415], date:"2022", slug:null, slugs:[], region:"europe" },
-  { name:"Elba", coords:[42.7669, 10.4116], date:"2021", slug:null, slugs:[], region:"europe" },
-  { name:"Sicily", coords:[41.298, 9.3415], date:"2022", slug:null, slugs:[], region:"europe" },
-  { name:"Turkey", coords:[37.3388, 27.2583], date:"2022", slug:null, slugs:[], region:"europe" },
-  { name:"Dodecanese", coords:[36.449, 28.23], date:"2023", slug:null, slugs:[], region:"europe" },
-  { name:"Athens/Aegean", coords:[37.4093, 23.1305], date:"2024", slug:null, slugs:[], region:"europe" },
-  { name:"Cyclades", coords:[37.38, 25.2396], date:"2024", slug:null, slugs:[], region:"europe" },
-  { name:"Greece (current)", coords:[36.9769, 25.1102], date:"2025", slug:null, slugs:[], region:"europe" }
+  { name:"Cape Town", coords:[-33.9043, 18.4251], date:"Sep 2018", slug:"about-the-name-of-the-boat", slugs:["about-the-name-of-the-boat", "choosing-the-right-boat", "quitting-our-jobs", "sailing-vessel-oroboro", "three-weeks-worth-of-work", "enough-with-work", "7%c2%bd-weeks", "stress-test", "how-the-boat-was-built", "discovering-south-africa", "cape-town-arrival"], region:"south-africa", inland:false },
+  { name:"Langebaan", coords:[-33.1961, 17.9899], date:"Dec 2018", slug:"shake-down-sail-to-langebaan", slugs:["shake-down-sail-to-langebaan"], region:"south-africa", inland:false },
+  { name:"Cape Town \u2192 Namibia", coords:[-33.8802, 18.4365], date:"Dec 2018", slug:"maiden-voyage", slugs:["maiden-voyage"], region:"south-africa", inland:false },
+  { name:"L\u00fcderitz, Namibia", coords:[-26.6417, 15.155], date:"Dec 2018", slug:"passage-to-namibia", slugs:["passage-to-namibia", "kolmanskop-namibia"], region:"namibia", inland:false },
+  { name:"Hottentot Bay", coords:[-24.4903, 14.3705], date:"Dec 2018", slug:"hottentot-bay-namibia", slugs:["hottentot-bay-namibia"], region:"namibia", inland:false },
+  { name:"Tropic of Capricorn", coords:[-23.4049, 14.3353], date:"Jan 2019", slug:"crossing-the-tropic-of-capricorn", slugs:["crossing-the-tropic-of-capricorn"], region:"namibia", inland:false },
+  { name:"South Atlantic", coords:[-18.8681, -18.6088], date:"Feb 2019", slug:"crossing-the-south-atlantic-ocean", slugs:["crossing-the-south-atlantic-ocean"], region:"atlantic", inland:false },
+  { name:"St Helena", coords:[-15.9244, -5.7233], date:"Mar 2019", slug:"st-helena", slugs:["st-helena"], region:"atlantic", inland:false },
+  { name:"Trindade Island", coords:[-20.5023, -29.3142], date:"Mar 2019", slug:"trindade", slugs:["trindade"], region:"atlantic", inland:false },
+  { name:"Ilha Grande", coords:[-23.1376, -44.1635], date:"Mar 2019", slug:"welcome-to-brazil", slugs:["welcome-to-brazil", "how-to-repair-a-spectra-newport-watermaker", "ilha-grande"], region:"brazil", inland:false },
+  { name:"Ubatuba", coords:[-23.4522, -45.0526], date:"Apr 2019", slug:"ubatuba", slugs:["ubatuba"], region:"brazil", inland:false },
+  { name:"Rio de Janeiro", coords:[-22.9162, -43.169], date:"Apr 2019", slug:"carnival-in-rio-de-janeiro", slugs:["carnival-in-rio-de-janeiro"], region:"brazil", inland:false },
+  { name:"Ouro Preto", coords:[-20.3856, -43.5035], date:"Apr 2019", slug:"ouro-preto-or-black-gold", slugs:["ouro-preto-or-black-gold"], region:"brazil", inland:true },
+  { name:"S\u00e3o Paulo", coords:[-23.5505, -46.6333], date:"May 2019", slug:"sao-paulo", slugs:["sao-paulo"], region:"brazil", inland:true },
+  { name:"Bras\u00edlia", coords:[-15.7801, -47.9292], date:"May 2019", slug:"brasilia", slugs:["brasilia"], region:"brazil", inland:true },
+  { name:"Piren\u00f3polis", coords:[-15.8517, -48.9597], date:"May 2019", slug:"pirenopolis", slugs:["pirenopolis"], region:"brazil", inland:true },
+  { name:"Cabo Frio", coords:[-22.9113, -41.9946], date:"May 2019", slug:"cabo-frio", slugs:["cabo-frio"], region:"brazil", inland:false },
+  { name:"B\u00fazios", coords:[-22.7468, -41.8839], date:"May 2019", slug:"armacao-dos-buzios-simply-known-as-buzios", slugs:["armacao-dos-buzios-simply-known-as-buzios"], region:"brazil", inland:false },
+  { name:"Guarapari", coords:[-20.6412, -40.467], date:"May 2019", slug:"guarapari", slugs:["guarapari"], region:"brazil", inland:false },
+  { name:"Vit\u00f3ria", coords:[-20.2994, -40.2892], date:"May 2019", slug:"vitoria", slugs:["vitoria"], region:"brazil", inland:false },
+  { name:"Abrolhos", coords:[-17.9688, -38.7003], date:"May 2019", slug:"abrolhos", slugs:["abrolhos"], region:"brazil", inland:false },
+  { name:"Cumuruxatiba", coords:[-17.1016, -39.1745], date:"May 2019", slug:"cumuruxatiba", slugs:["cumuruxatiba"], region:"brazil", inland:false },
+  { name:"Coroa Vermelha", coords:[-16.4396, -39.013], date:"May 2019", slug:"corao-vernelho", slugs:["corao-vernelho"], region:"brazil", inland:false },
+  { name:"Porto Seguro", coords:[-16.4485, -39.059], date:"May 2019", slug:"porto-seguro", slugs:["porto-seguro"], region:"brazil", inland:false },
+  { name:"Santa Cruz Cabr\u00e1lia", coords:[-16.2825, -39.0047], date:"May 2019", slug:"santo-andre-and-santa-cruz-cabralia", slugs:["santo-andre-and-santa-cruz-cabralia"], region:"brazil", inland:false },
+  { name:"Ilh\u00e9us", coords:[-14.7809, -39.0356], date:"2019", slug:"ilheus", slugs:["ilheus"], region:"brazil", inland:false },
+  { name:"Itacar\u00e9", coords:[-14.2764, -38.9929], date:"2019", slug:"itacare", slugs:["itacare"], region:"brazil", inland:false },
+  { name:"Bahia coast", coords:[-13.9988, -38.8998], date:"2019", slug:"the-dark-science-of-weather-forecasts", slugs:["the-dark-science-of-weather-forecasts"], region:"brazil", inland:false },
+  { name:"Camam\u00f9 Bay", coords:[-13.9382, -38.9974], date:"2019", slug:"camamu-bay", slugs:["camamu-bay"], region:"brazil", inland:false },
+  { name:"Salvador de Bahia", coords:[-12.9724, -38.5158], date:"Aug 2019", slug:"salvador-de-bahia", slugs:["salvador-de-bahia"], region:"brazil", inland:false },
+  { name:"Morro de S\u00e3o Paulo", coords:[-13.3802, -38.9075], date:"Sep 2019", slug:"morro-de-sao-paulo", slugs:["morro-de-sao-paulo"], region:"brazil", inland:false },
+  { name:"Sto. Ant\u00f4nio Paragua\u00e7u", coords:[-12.7427, -38.8753], date:"Sep 2019", slug:"santo-antonio-do-paraguacu", slugs:["santo-antonio-do-paraguacu"], region:"brazil", inland:false },
+  { name:"Itaparica", coords:[-12.8888, -38.6872], date:"Nov 2019", slug:"itaparica", slugs:["itaparica"], region:"brazil", inland:false },
+  { name:"Equator", coords:[-4.1472, -35.9513], date:"Oct 2019", slug:"crossing-the-equator", slugs:["crossing-the-equator"], region:"brazil", inland:false },
+  { name:"Recife", coords:[-8.0537, -34.8673], date:"Nov 2019", slug:"recife", slugs:["recife"], region:"brazil", inland:false },
+  { name:"Olinda", coords:[-8.0184, -34.8123], date:"Nov 2019", slug:"olinda", slugs:["olinda"], region:"brazil", inland:false },
+  { name:"Jacar\u00e9", coords:[-7.0275, -34.8566], date:"Nov 2019", slug:"jacare", slugs:["jacare"], region:"brazil", inland:false },
+  { name:"Pipa Beach", coords:[-6.2018, -34.9148], date:"Nov 2019", slug:"pipa", slugs:["pipa"], region:"brazil", inland:false },
+  { name:"Tib\u00e3o do Sul", coords:[-6.1499, -34.9288], date:"Nov 2019", slug:"tibao-do-sul", slugs:["tibao-do-sul"], region:"brazil", inland:false },
+  { name:"Jo\u00e3o Pessoa", coords:[-7.0368, -34.8575], date:"Nov 2019", slug:"joao-pessoa", slugs:["joao-pessoa"], region:"brazil", inland:false },
+  { name:"Fortaleza", coords:[-3.7195, -38.5289], date:"Nov 2019", slug:"fortaleza", slugs:["fortaleza", "from-brazil-to-the-caribbean-in-60-seconds"], region:"brazil", inland:false },
+  { name:"French Guiana", coords:[5.1812, -52.2239], date:"Dec 2019", slug:"french-guiana", slugs:["french-guiana"], region:"caribbean", inland:false },
+  { name:"Trinidad", coords:[10.8637, -61.229], date:"Dec 2019", slug:"trinidad", slugs:["trinidad"], region:"caribbean", inland:false },
+  { name:"Tobago", coords:[11.1642, -60.7283], date:"Jan 2020", slug:"tobago", slugs:["tobago"], region:"caribbean", inland:false },
+  { name:"Grenada", coords:[12.1139, -61.7495], date:"Jan 2020", slug:"grenada", slugs:["grenada", "covid-19-in-paradise", "hurricanes-and-caribbean", "oroboros-energy-system", "water-maker", "one-year-in-the-caribbean", "vendee-globe-2020", "how-to-rebuild-a-spectra-watermaker", "recap-of-year-2020"], region:"caribbean", inland:false },
+  { name:"US Virgin Islands", coords:[18.3125, -64.9081], date:"Jan 2021", slug:"entering-the-greater-antilles", slugs:["entering-the-greater-antilles", "us-virgin-islands"], region:"caribbean", inland:false },
+  { name:"Spanish Virgin Islands", coords:[18.2615, -65.5781], date:"Apr 2021", slug:"spanish-virgin-islands", slugs:["spanish-virgin-islands"], region:"caribbean", inland:false },
+  { name:"Puerto Rico", coords:[18.5778, -66.3884], date:"Apr 2021", slug:"puerto-rico", slugs:["puerto-rico", "anti-fouling-review-pettit-trinidad-pro-sucks"], region:"caribbean", inland:false },
+  { name:"Dominican Republic", coords:[19.1971, -69.3292], date:"Apr 2021", slug:"dominican-republic", slugs:["dominican-republic"], region:"caribbean", inland:false },
+  { name:"Bahamas", coords:[24.6831, -76.8746], date:"Apr 2021", slug:"sailing-in-the-bahamas", slugs:["sailing-in-the-bahamas"], region:"caribbean", inland:false },
+  { name:"North Atlantic", coords:[33.8937, -45.1304], date:"Sep 2021", slug:"2nd-atlantic-crossing", slugs:["2nd-atlantic-crossing"], region:"atlantic", inland:false },
+  { name:"Azores", coords:[38.4927, -28.7072], date:"2021", slug:null, slugs:[], region:"atlantic", inland:false },
+  { name:"Lisbon", coords:[37.0857, -9.468], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Gibraltar", coords:[36.1486, -5.3564], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Cape Trafalgar", coords:[36.1459, -6.053], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Sotogrande", coords:[36.2297, -5.2303], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Cabo de Gata", coords:[36.564, -2.1474], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Ibiza", coords:[38.8011, 1.4073], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Mallorca", coords:[39.5638, 2.6462], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Menorca", coords:[40.0793, 4.0189], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Cadaqu\u00e9s", coords:[42.2773, 3.2887], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Marseille", coords:[42.9458, 5.3948], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Saint-Tropez", coords:[43.2711, 6.6273], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Nice", coords:[43.5605, 7.247], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Corsica", coords:[43.1732, 8.889], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Sardinia", coords:[41.298, 9.3415], date:"2022", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Elba", coords:[42.7669, 10.4116], date:"2021", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Sicily", coords:[41.298, 9.3415], date:"2022", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Turkey", coords:[37.3388, 27.2583], date:"2022", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Dodecanese", coords:[36.449, 28.23], date:"2023", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Athens/Aegean", coords:[37.4093, 23.1305], date:"2024", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Cyclades", coords:[37.38, 25.2396], date:"2024", slug:null, slugs:[], region:"europe", inland:false },
+  { name:"Greece (current)", coords:[36.9769, 25.1102], date:"2025", slug:null, slugs:[], region:"europe", inland:false }
 ];
 
 /* ─ Map initialisation ─────────────────────────────────────────── */
@@ -139,9 +142,17 @@ function initMap(containerId) {
     html: '<div style="width:11px;height:11px;background:#2E86AB;border:2.5px solid white;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.35);"></div>',
     iconSize: [11,11], iconAnchor: [5,5],
   });
-  const makeActiveIcon = () => L.divIcon({
+  // Inland marker: diamond shape, warm sand colour — not on the sailing track
+  const makeInlandIcon = () => L.divIcon({
     className: '',
-    html: '<div style="width:16px;height:16px;background:#E76F51;border:3px solid white;border-radius:50%;box-shadow:0 0 0 5px rgba(231,111,81,0.28),0 2px 10px rgba(0,0,0,0.3);"></div>',
+    html: '<div style="width:9px;height:9px;background:#C8A882;border:2px solid white;transform:rotate(45deg);box-shadow:0 2px 5px rgba(0,0,0,0.3);"></div>',
+    iconSize: [11,11], iconAnchor: [5,5],
+  });
+  const makeActiveIcon = (inland) => L.divIcon({
+    className: '',
+    html: inland
+      ? '<div style="width:13px;height:13px;background:#E76F51;border:2.5px solid white;transform:rotate(45deg);box-shadow:0 0 0 4px rgba(231,111,81,0.28);"></div>'
+      : '<div style="width:16px;height:16px;background:#E76F51;border:3px solid white;border-radius:50%;box-shadow:0 0 0 5px rgba(231,111,81,0.28),0 2px 10px rgba(0,0,0,0.3);"></div>',
     iconSize: [16,16], iconAnchor: [8,8],
   });
 
@@ -152,10 +163,11 @@ function initMap(containerId) {
   // activateWaypoint: highlight dot, open popup, sync sidebar
   function activateWaypoint(idx) {
     if (activeIdx >= 0 && allMarkers[activeIdx]) {
-      allMarkers[activeIdx].setIcon(makeIcon());
+      const prev = WAYPOINTS[activeIdx];
+      allMarkers[activeIdx].setIcon(prev.inland ? makeInlandIcon() : makeIcon());
     }
     activeIdx = idx;
-    allMarkers[idx].setIcon(makeActiveIcon());
+    allMarkers[idx].setIcon(makeActiveIcon(WAYPOINTS[idx].inland));
     allMarkers[idx].openPopup();
     map.setView(WAYPOINTS[idx].coords, 7, { animate: true });
     document.querySelectorAll('.waypoint-item').forEach(el => el.classList.remove('active'));
@@ -167,7 +179,7 @@ function initMap(containerId) {
   }
 
   WAYPOINTS.forEach((wp, i) => {
-    const marker = L.marker(wp.coords, { icon: makeIcon() }).addTo(map);
+    const marker = L.marker(wp.coords, { icon: wp.inland ? makeInlandIcon() : makeIcon() }).addTo(map);
     allMarkers.push(marker);
 
     let links = '';
