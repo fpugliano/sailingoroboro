@@ -259,6 +259,51 @@ GAP_WAYPOINTS = [
     [37.0850, 25.1483],  # Parikia, Paros
 ]
 
+# ── Short reconstructed routes (Aegean / Turkey) ─────────────────────────────
+
+LEROS_DIDIM = [
+    # Lakki, Leros → Didim marina (Turkey)
+    [37.1183, 26.8533],  # Lakki harbor, Leros
+    [37.1417, 26.8200],  # Exit Lakki bay, head N
+    [37.1883, 26.8667],  # N tip of Leros
+    [37.2167, 26.9333],  # Between Leros and Kalymnos
+    [37.2650, 27.0167],  # Open water NE
+    [37.3100, 27.1167],  # Approaching Turkish coast
+    [37.3583, 27.2000],  # Turkish coastal water
+    [37.3750, 27.2650],  # Didim marina
+]
+
+DIDIM_PATMOS = [
+    # Didim marina (Turkey) → Skala, Patmos
+    [37.3750, 27.2650],  # Didim marina
+    [37.3667, 27.0333],  # Head W along Turkish coast
+    [37.3833, 26.8000],  # Through Turkish/Greek channel
+    [37.3667, 26.6667],  # Past Arki island
+    [37.3383, 26.5833],  # Approach Patmos from E
+    [37.3183, 26.5483],  # Skala, Patmos
+]
+
+MYKONOS_DIDIM = [
+    # Mykonos (old port) → Didim marina
+    [37.4467, 25.3250],  # Mykonos old port
+    [37.5167, 25.6333],  # ENE past Naxos gap
+    [37.6167, 26.0167],  # Ikaria north coast
+    [37.5700, 26.4833],  # Fourni islands
+    [37.5333, 26.8000],  # Toward Samos strait
+    [37.4500, 27.0167],  # SE toward Didim
+    [37.3750, 27.2650],  # Didim marina
+]
+
+DIDIM_MYKONOS = [
+    # Didim marina → Mykonos (old port)  — slightly different route
+    [37.3750, 27.2650],  # Didim marina
+    [37.4833, 26.9833],  # NW past Samos area
+    [37.5667, 26.5167],  # W past Fourni
+    [37.6333, 26.1167],  # W past Ikaria
+    [37.5500, 25.7167],  # WSW toward Mykonos
+    [37.4467, 25.3250],  # Mykonos old port
+]
+
 print("\n── Assembling route segments ─────────────────────────────────────────")
 seg1_pts = []
 print("  Segment 1 (Cape Town → N. Sardinia):")
@@ -480,9 +525,13 @@ for s in uncertain:
 
 # ── Generate js/map.js ────────────────────────────────────────────────────────
 
-route1_js = json.dumps([[round(p[0],4), round(p[1],4)] for p in simp1])
-route2_js = json.dumps([[round(p[0],4), round(p[1],4)] for p in simp2])
-gap_js    = json.dumps(GAP_WAYPOINTS)
+route1_js        = json.dumps([[round(p[0],4), round(p[1],4)] for p in simp1])
+route2_js        = json.dumps([[round(p[0],4), round(p[1],4)] for p in simp2])
+sardinia_paros_js = json.dumps(GAP_WAYPOINTS)
+leros_didim_js   = json.dumps(LEROS_DIDIM)
+didim_patmos_js  = json.dumps(DIDIM_PATMOS)
+mykonos_didim_js = json.dumps(MYKONOS_DIDIM)
+didim_mykonos_js = json.dumps(DIDIM_MYKONOS)
 
 # Pre-join so f-string doesn't contain backslash inside {}
 wp_lines = []
@@ -501,22 +550,31 @@ wp_block = ',\n'.join(wp_lines)
 simp_total = len(simp1) + len(simp2)
 MAPJS = f'''/* ============================================
    Sailing Oroboro — Journey Map
-   Generated from real GPS tracks:
+   GPS sources:
      TracksOROBOROall.gpx   (Cape Town → Caribbean 2020, 8 tracks)
      Archive_08_20_2021.gpx (Grenada → Azores → Elba,    3 tracks)
      TRACK1234_2022.gpx     (Elba → N. Sardinia,          1 track)
-     [estimated gap]        (La Maddalena → E. Sardinia → Egadi → Licata → Malta → Pylos → Peloponnese → Milos → Parikia)
      Archive_05_01_2025.gpx (Turkey → Greek islands,      5 tracks)
      Tracks060626.gpx       (Greek Aegean / Sporades,      6 tracks)
+   Reconstructed routes (solid, no GPS):
+     Sardinia → E coast → Egadi → SW Sicily → Licata → Malta → Pylos → Peloponnese → Milos → Paros
+     Lakki (Leros) → Didim  |  Didim → Patmos
+     Mykonos → Didim  |  Didim → Mykonos
    Raw GPS points : {raw_total:,}  →  simplified to {simp_total:,}
    ============================================ */
 
-// Two continuous GPS segments with an estimated gap between them
-const ROUTE_PT1 = {route1_js};   // Cape Town → N. Sardinia
-const ROUTE_PT2 = {route2_js};   // Turkey → Greek Aegean/Sporades
-const ROUTE_GAP = {gap_js};      // estimated route: Sardinia → Sicily → Malta → Pylos → Peloponnese → Paros (dashed)
+// ── GPS segments ───────────────────────────────────────────────────
+const ROUTE_PT1 = {route1_js};      // Cape Town → N. Sardinia (real GPS)
+const ROUTE_PT2 = {route2_js};      // Turkey → Greek Aegean/Sporades (real GPS)
 
-// Combined for backwards compatibility (minimap etc.)
+// ── Reconstructed routes (no GPS, waypoint-based) ─────────────────
+const ROUTE_SARDINIA_PAROS = {sardinia_paros_js};  // La Maddalena → E. Sardinia → Egadi → Licata → Malta → Pylos → Peloponnese → Milos → Parikia
+const ROUTE_LEROS_DIDIM    = {leros_didim_js};     // Lakki, Leros → Didim marina
+const ROUTE_DIDIM_PATMOS   = {didim_patmos_js};    // Didim marina → Skala, Patmos
+const ROUTE_MYKONOS_DIDIM  = {mykonos_didim_js};   // Mykonos → Didim
+const ROUTE_DIDIM_MYKONOS  = {didim_mykonos_js};   // Didim → Mykonos
+
+// For minimap start/end markers
 const ROUTE_COORDS = ROUTE_PT1.concat(ROUTE_PT2);
 
 const WAYPOINTS = [
@@ -536,16 +594,12 @@ function initMap(containerId) {{
     maxZoom: 18,
   }}).addTo(map);
 
-  // Real GPS track — two solid segments
+  // All route segments — solid lines throughout
   const solidStyle = {{ color: '#2E86AB', weight: 2.5, opacity: 0.80, lineJoin: 'round' }};
-  L.polyline(ROUTE_PT1, solidStyle).addTo(map);
-  L.polyline(ROUTE_PT2, solidStyle).addTo(map);
-
-  // Estimated gap: La Maddalena → Sardinia E coast → Egadi → SW Sicily → Licata → Malta → Pylos → Peloponnese → Milos → Parikia, Paros
-  L.polyline(ROUTE_GAP, {{
-    color: '#2E86AB', weight: 2, opacity: 0.45,
-    dashArray: '6, 7', lineJoin: 'round',
-  }}).addTo(map);
+  [ROUTE_PT1, ROUTE_SARDINIA_PAROS, ROUTE_PT2,
+   ROUTE_LEROS_DIDIM, ROUTE_DIDIM_PATMOS,
+   ROUTE_MYKONOS_DIDIM, ROUTE_DIDIM_MYKONOS
+  ].forEach(seg => L.polyline(seg, solidStyle).addTo(map));
 
   const makeIcon = (color = '#2E86AB') => L.divIcon({{
     className: '',
@@ -607,9 +661,10 @@ function initMiniMap(containerId) {{
   }});
   L.tileLayer('https://{{s}}.basemaps.cartocdn.com/rastertiles/voyager/{{z}}/{{x}}/{{y}}{{r}}.png',
     {{ maxZoom: 10 }}).addTo(map);
-  L.polyline(ROUTE_PT1, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map);
-  L.polyline(ROUTE_PT2, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map);
-  L.polyline(ROUTE_GAP, {{ color: '#2E86AB', weight: 1.5, opacity: 0.4, dashArray: '5, 6' }}).addTo(map);
+  [ROUTE_PT1, ROUTE_SARDINIA_PAROS, ROUTE_PT2,
+   ROUTE_LEROS_DIDIM, ROUTE_DIDIM_PATMOS,
+   ROUTE_MYKONOS_DIDIM, ROUTE_DIDIM_MYKONOS
+  ].forEach(seg => L.polyline(seg, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map));
   L.circleMarker(ROUTE_PT1[0],
     {{ radius: 5, color: '#E9C46A', fillColor: '#E9C46A', fillOpacity: 1, weight: 2 }}).addTo(map);
   L.circleMarker(ROUTE_PT2[ROUTE_PT2.length - 1],
@@ -627,8 +682,12 @@ out = REPO / 'js' / 'map.js'
 out.write_text(MAPJS, encoding='utf-8')
 size_kb = out.stat().st_size / 1024
 print(f"\n── Done ──────────────────────────────────────────────────────────────")
-print(f"  Seg1    : {len(simp1):,} pts  (Cape Town → N. Sardinia)")
-print(f"  Gap     : {len(GAP_WAYPOINTS)} estimated waypoints  (dashed)")
-print(f"  Seg2    : {len(simp2):,} pts  (Turkey → Sporades)")
+print(f"  Seg1              : {len(simp1):,} pts  (Cape Town → N. Sardinia)")
+print(f"  Sardinia → Paros  : {len(GAP_WAYPOINTS)} waypoints  (solid, reconstructed)")
+print(f"  Seg2              : {len(simp2):,} pts  (Turkey → Sporades)")
+print(f"  Leros → Didim     : {len(LEROS_DIDIM)} waypoints")
+print(f"  Didim → Patmos    : {len(DIDIM_PATMOS)} waypoints")
+print(f"  Mykonos → Didim   : {len(MYKONOS_DIDIM)} waypoints")
+print(f"  Didim → Mykonos   : {len(DIDIM_MYKONOS)} waypoints")
 print(f"  Written: js/map.js  ({size_kb:.0f} KB)")
 print(f"  Pins    : {len(waypoints_out)}")
