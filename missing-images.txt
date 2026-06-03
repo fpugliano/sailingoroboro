@@ -1,0 +1,125 @@
+Missing images: 60 URLs have no match in wp-images/
+(Case-mismatch only: 72 — present in export but wrong case)
+======================================================================
+
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/51D3844E-BAFF-4FFF-9BF2-711B79EF5D99.jpg
+  → recife.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/764717ad-222c-4b42-821d-6a4ec93eefd4.jpg
+  → santo-antonio-do-paraguacu.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/BMV712Smart-296x300.png
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/BMV712Smart.jpg
+  → oroboros-energy-system.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/BjSB83ugRnClrNvfZD1iA-e1554633912478.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/CruiseAir-12000-BTU-300x300.jpg
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/E1201603-453C-4EE6-87CA-C1E71E748D91.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/GonzaloTrack.png
+  → hurricanes-and-caribbean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/IMG_0237-300x156.jpg
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/IMG_0238-139x300.png
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/IMG_8590-rotated.jpg
+  → us-virgin-islands.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/LBOLE1631.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/LIfeline-battery.jpg
+  → oroboros-energy-system.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/LphHqfQ3RIWpgO4G9RMFA.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/MultiPlus-270x300.png
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/MultiPlus.jpg
+  → oroboros-energy-system.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/Newport-400c-Website-Shadow-300x200.jpg
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/Phoenix-12375-300x173.jpg
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/QeORQfOHSKK6ewRcNAT0hQ-e1554633867603.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/R3Ou6BlZSqqZAmCTB2a2AQ.jpg
+  → hurricanes-and-caribbean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/Sterling-300x200.jpeg
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/Sterling.jpg
+  → oroboros-energy-system.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/Tsitsikamma-canopy.jpg
+  → discovering-south-africa.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/Venus-300x269.png
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/VenusGX.jpg
+  → oroboros-energy-system.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ais700-RadarRings-1-300x180.png
+  → three-weeks-worth-of-work.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/dolphins-1.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fe7dd0dc-63fd-4ad0-bcf0-5981cb2c401b.jpg
+  → oroboros-energy-system.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_1e4.jpeg
+  → carnival-in-rio-de-janeiro.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_1eb.jpeg
+  → carnival-in-rio-de-janeiro.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_95e.jpeg
+  → itaparica.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_aac.jpeg
+  → recife.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_0077.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_0107.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_0115.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_0157.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1193.jpg
+  → discovering-south-africa.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1248-1024x768.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1249-1024x768.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1273-1024x768.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1289-1024x768.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1297-768x1024.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1311-1024x768.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1324-1024x768.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1498-1-e1545318750769.jpg
+  → passage-to-namibia.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1516.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1586.jpg
+  → passage-to-namibia.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1717.jpg
+  → passage-to-namibia.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_5548.jpg
+  → hurricanes-and-caribbean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8756-1024x1024.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8758-e1544420193607.jpg
+  → shake-down-sail-to-langebaan.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_9813-1.jpg
+  → cape-town-arrival.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/jogw2jiBS0SE13fml9gW8g-e1554631543925.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oro2.jpg
+  → passage-to-namibia.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sunset.jpg
+  → crossing-the-south-atlantic-ocean.html
+  → passage-to-namibia.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sushi.jpg
+  → crossing-the-south-atlantic-ocean.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/t7z4fqWTQuNJxN8gRf0NA-rotated.jpg
+  → 2nd-atlantic-crossing.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/uDJf6E59SBmvmJlP912BQ.jpg
+  → ubatuba.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/vmljPWGRWuZHRUT86EXoA.jpg
+  → santo-antonio-do-paraguacu.html
+https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/wFG5QKhQS4ajcSFeqjS0A-e1554633434596.jpg
+  → ubatuba.html

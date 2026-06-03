@@ -1,0 +1,4 @@
+MultiPlus.jpg: https://www.victronenergy.com/upload/documents/Multiplus.png
+ais700-RadarRings-1-300x180.png: https://static.garmincdn.com/en/products/010-02321-00/g/cf-lg.jpg
+ais700-RadarRings-1-300x180.png: https://static.garmincdn.com/en/products/010-01979-00/g/cf-lg.jpg
+ais700-RadarRings-1-300x180.png: https://www.milltechmarine.com/assets/images/XB-8000.jpg
