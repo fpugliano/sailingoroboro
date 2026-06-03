@@ -166,7 +166,7 @@ print(f"    {len(trk6)} tracks  ({sum(len(v) for v in trk6.values()):,} pts)")
 #   Phase 2b(2021-b)   : Azores → Elba          — Archive_08_20_2021.gpx Track 3
 #   Phase 3 (2022)     : Elba → N. Sardinia     — TRACK1234_2022.gpx Track 4
 #
-#  [GAP — estimated dashed line: N. Sardinia → Turkey, mid-2022, no GPS recorded]
+#  [GAP — estimated dashed: La Maddalena → E. Sardinia → Egadi → SW Sicily → Licata → Malta → Pylos → Peloponnese → Milos → Parikia, Paros]
 #
 #  SEGMENT 2 — Turkey → Greece / Aegean (continuous real GPS)
 #   Phase 4 (2022-2023): Turkey → Greek islands — Archive_05_01_2025.gpx
@@ -202,19 +202,61 @@ SEG2_PHASES = [
     ('Track 18',     trk5),   # Athens → N. Aegean/Sporades (new)
 ]
 
-# Estimated waypoints for the unrecorded gap (N. Sardinia → Turkey, mid-2022)
+# Estimated waypoints for the unrecorded gap, mid-2022:
+#   La Maddalena → E. Sardinia → Egadi Islands → SW Sicily → Licata
+#   → Malta → Pylos → Peloponnese coast → Milos → Parikia, Paros
 GAP_WAYPOINTS = [
-    [41.30,  9.34],   # Porto Pozzo, N. Sardinia  (Track 4 endpoint)
-    [39.22,  9.11],   # S. Sardinia / Cagliari
-    [38.13, 13.37],   # Palermo, Sicily
-    [38.26, 15.63],   # Strait of Messina
-    [37.07, 15.29],   # SE Sicily / Siracusa
-    [35.90, 14.51],   # Malta
-    [36.50, 19.00],   # Central Ionian Sea
-    [38.17, 20.49],   # Kefalonia / W. Greece
-    [37.94, 22.95],   # Gulf of Corinth / Corinth Canal
-    [37.63, 23.60],   # Athens / Saronic Gulf
-    [37.33, 27.27],   # Turkey/Bodrum (Turkey to Syros track start)
+    # ── La Maddalena Archipelago (Track 4 endpoint) ───────────
+    [41.2995,  9.3380],  # Porto Pozzo / La Maddalena
+    [41.2267,  9.4133],  # La Maddalena island
+    [41.1050,  9.5317],  # S. Caprera — leaving archipelago
+    # ── East coast of Sardinia, southbound ────────────────────
+    [40.9917,  9.6233],  # Golfo Aranci
+    [40.8967,  9.7267],  # Tavolara island
+    [40.5583,  9.7267],  # Siniscola coast
+    [40.2833,  9.5983],  # Cala Gonone
+    [39.9333,  9.6883],  # Arbatax
+    [39.5150,  9.6267],  # Capo Monte Santu
+    [39.1033,  9.5400],  # Villasimius / Capo Carbonara (SE tip)
+    # ── Open water crossing to Egadi Islands ──────────────────
+    [38.6000,  9.9500],  # Clearing SE Sardinia
+    [38.1500, 10.8500],  # Sicilian Channel, mid-crossing
+    [38.0000, 11.6500],  # Approaching NW Sicily
+    [37.9533, 12.1783],  # Egadi approach
+    # ── Egadi Islands and SW coast of Sicily ──────────────────
+    [37.9317, 12.3283],  # Favignana, Egadi Islands
+    [37.7983, 12.4367],  # Marsala
+    [37.6483, 12.5900],  # Mazara del Vallo
+    [37.5683, 12.7583],  # Menfi coast
+    [37.5050, 13.0783],  # Sciacca
+    [37.3233, 13.4083],  # Porto Empedocle
+    [37.0983, 13.9417],  # Licata
+    # ── Crossing to Malta ─────────────────────────────────────
+    [36.6500, 14.1000],  # Open water SE of Sicily
+    [36.1833, 14.3333],  # Approaching Malta from N
+    [35.9000, 14.5133],  # Valletta, Malta
+    # ── Ionian Sea crossing to Pylos ──────────────────────────
+    [35.8500, 15.6000],  # Open Ionian Sea
+    [36.0000, 17.2000],  # Mid Ionian
+    [36.3000, 19.0000],  # E Ionian approach
+    [36.6000, 20.5000],  # W Greece coast approach
+    [36.8167, 21.3500],  # Methoni
+    [36.9133, 21.6817],  # Pylos / Navarino Bay
+    # ── Along the Peloponnese coast ───────────────────────────
+    [36.8167, 21.9500],  # Koroni
+    [36.6000, 22.0500],  # S. Messenia coast
+    [36.3733, 22.4883],  # Cape Matapan / Tenaro (southernmost point)
+    [36.6000, 22.5500],  # Laconic Gulf coast
+    [36.7567, 22.5683],  # Gythion
+    [36.5000, 22.9000],  # S. Laconia toward Cape Malea
+    [36.4450, 23.1983],  # Cape Malea
+    # ── NE toward the Cyclades ────────────────────────────────
+    [36.5500, 23.5500],  # Open Aegean, heading NE
+    # ── Milos ─────────────────────────────────────────────────
+    [36.7233, 24.4433],  # Adamas, Milos
+    # ── Paros ─────────────────────────────────────────────────
+    [36.9500, 24.8000],  # Between Milos and Paros
+    [37.0850, 25.1483],  # Parikia, Paros
 ]
 
 print("\n── Assembling route segments ─────────────────────────────────────────")
@@ -463,7 +505,7 @@ MAPJS = f'''/* ============================================
      TracksOROBOROall.gpx   (Cape Town → Caribbean 2020, 8 tracks)
      Archive_08_20_2021.gpx (Grenada → Azores → Elba,    3 tracks)
      TRACK1234_2022.gpx     (Elba → N. Sardinia,          1 track)
-     [estimated gap]        (N. Sardinia → Turkey, mid-2022, no GPS)
+     [estimated gap]        (La Maddalena → E. Sardinia → Egadi → Licata → Malta → Pylos → Peloponnese → Milos → Parikia)
      Archive_05_01_2025.gpx (Turkey → Greek islands,      5 tracks)
      Tracks060626.gpx       (Greek Aegean / Sporades,      6 tracks)
    Raw GPS points : {raw_total:,}  →  simplified to {simp_total:,}
@@ -472,7 +514,7 @@ MAPJS = f'''/* ============================================
 // Two continuous GPS segments with an estimated gap between them
 const ROUTE_PT1 = {route1_js};   // Cape Town → N. Sardinia
 const ROUTE_PT2 = {route2_js};   // Turkey → Greek Aegean/Sporades
-const ROUTE_GAP = {gap_js};      // estimated N. Sardinia → Turkey (dashed)
+const ROUTE_GAP = {gap_js};      // estimated route: Sardinia → Sicily → Malta → Pylos → Peloponnese → Paros (dashed)
 
 // Combined for backwards compatibility (minimap etc.)
 const ROUTE_COORDS = ROUTE_PT1.concat(ROUTE_PT2);
@@ -499,7 +541,7 @@ function initMap(containerId) {{
   L.polyline(ROUTE_PT1, solidStyle).addTo(map);
   L.polyline(ROUTE_PT2, solidStyle).addTo(map);
 
-  // Estimated gap: N. Sardinia → Turkey (mid-2022, no GPS recorded)
+  // Estimated gap: La Maddalena → Sardinia E coast → Egadi → SW Sicily → Licata → Malta → Pylos → Peloponnese → Milos → Parikia, Paros
   L.polyline(ROUTE_GAP, {{
     color: '#2E86AB', weight: 2, opacity: 0.45,
     dashArray: '6, 7', lineJoin: 'round',
