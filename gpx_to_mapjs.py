@@ -30,6 +30,9 @@ print("── Extracting GPX files ───────────────
 f_all  = ensure_extracted("TracksOROBOROall.gpx.zip",   "TracksOROBOROall.gpx")
 f_2021 = ensure_extracted("Archive_08_20_2021.gpx.zip", "Archive_08_20_2021.gpx")
 f_2025 = ensure_extracted("Archive_05_01_2025.gpx.zip", "Archive_05_01_2025.gpx")
+# New raw GPX files (not zipped)
+f_1234 = REPO / "TRACK1234_2022.gpx"   # Track 4: Elba → N. Sardinia
+f_0606 = REPO / "Tracks060626.gpx"     # Tracks 13-18: Greek Aegean continuation
 
 # ── Streaming GPX parser ──────────────────────────────────────────────────────
 
@@ -141,14 +144,30 @@ print("  Archive_05_01_2025.gpx …")
 trk3 = parse_gpx_tracks(f_2025)
 print(f"    {len(trk3)} tracks  ({sum(len(v) for v in trk3.values()):,} pts)")
 
+print("  TRACK1234_2022.gpx …")
+trk4 = parse_gpx_tracks(f_1234)
+print(f"    {len(trk4)} tracks  ({sum(len(v) for v in trk4.values()):,} pts)")
+
+print("  Tracks060626.gpx …")
+trk5 = parse_gpx_tracks(f_0606)
+print(f"    {len(trk5)} tracks  ({sum(len(v) for v in trk5.values()):,} pts)")
+
 # ── Assemble ordered route ────────────────────────────────────────────────────
-# Chronological voyage order:
+# Two solid GPS segments separated by an estimated gap (dashed on map):
+#
+#  SEGMENT 1 — Cape Town → N. Sardinia (continuous real GPS)
 #   Phase 1 (2018-2020): Cape Town → Caribbean  — TracksOROBOROall.gpx
 #   Phase 2 (2021-a)   : Grenada → Azores       — Archive_08_20_2021.gpx Track 1+2
-#   Phase 3 (2021-b)   : Azores → Elba          — Archive_08_20_2021.gpx Track 3
-#   Phase 4 (2021-2025): Turkey → Greece loops  — Archive_05_01_2025.gpx
+#   Phase 2b(2021-b)   : Azores → Elba          — Archive_08_20_2021.gpx Track 3
+#   Phase 3 (2022)     : Elba → N. Sardinia     — TRACK1234_2022.gpx Track 4
+#
+#  [GAP — estimated dashed line: N. Sardinia → Turkey, mid-2022, no GPS recorded]
+#
+#  SEGMENT 2 — Turkey → Greece / Aegean (continuous real GPS)
+#   Phase 4 (2022-2023): Turkey → Greek islands — Archive_05_01_2025.gpx
+#   Phase 5 (2023-2025): Greek Aegean loops     — Tracks060626.gpx
 
-PHASE1 = [
+SEG1_PHASES = [
     ('CPT>STH',      trk1),   # Cape Town → St. Helena
     ('STH>BRZ',      trk1),   # St. Helena → Brazil
     ('ILHAG>VITORIA',trk1),   # Ilha Grande → Vitória
@@ -157,37 +176,73 @@ PHASE1 = [
     ('FORTA>TOBAGO', trk1),   # Fortaleza → Tobago
     ('Caribe2019',   trk1),   # Caribbean 2019
     ('Caribe2020',   trk1),   # Caribbean 2020
-]
-PHASE2 = [
-    ('Track 1',      trk2),   # Grenada → Bahamas   (named Grenada2Bahamas in 2025 file)
-    ('Track 2',      trk2),   # Bahamas → Azores    (2nd Atlantic crossing)
+    ('Track 1',      trk2),   # Grenada → Bahamas
+    ('Track 2',      trk2),   # Bahamas → Azores (2nd Atlantic crossing)
     ('Track 3',      trk2),   # Azores → Elba
+    ('Track 4',      trk4),   # Elba → N. Sardinia (Porto Pozzo)
 ]
-PHASE4 = [
-    ('Turkey2Greece',trk3),   # Turkey → Greek islands
+
+SEG2_PHASES = [
+    ('Turkey2Greece',trk3),   # Turkey/Bodrum → Dodecanese
     ('Track 8',      trk3),   # Dodecanese / Aegean
     ('Track 9',      trk3),   # Aegean toward Athens
     ('Track 10',     trk3),   # Cyclades
-    ('Track 11',     trk3),   # Cyclades / Dodecanese  (most recent)
+    ('Track 11',     trk3),   # Cyclades / Dodecanese
+    ('Track 13',     trk5),   # Samos/Ikaria → Cyclades (new)
+    ('Track 14',     trk5),   # Cyclades (new)
+    ('Track 15',     trk5),   # Cyclades (new)
+    ('Track 16',     trk5),   # Cyclades → Athens (new)
+    ('Track 17',     trk5),   # Athens/Piraeus area (new)
+    ('Track 18',     trk5),   # Athens → N. Aegean/Sporades (new)
 ]
 
-print("\n── Assembling route ──────────────────────────────────────────────────")
-all_pts = []
-for name, src in PHASE1 + PHASE2 + PHASE4:
+# Estimated waypoints for the unrecorded gap (N. Sardinia → Turkey, mid-2022)
+GAP_WAYPOINTS = [
+    [41.30,  9.34],   # Porto Pozzo, N. Sardinia  (Track 4 endpoint)
+    [39.22,  9.11],   # S. Sardinia / Cagliari
+    [38.13, 13.37],   # Palermo, Sicily
+    [38.26, 15.63],   # Strait of Messina
+    [37.07, 15.29],   # SE Sicily / Siracusa
+    [35.90, 14.51],   # Malta
+    [36.50, 19.00],   # Central Ionian Sea
+    [38.17, 20.49],   # Kefalonia / W. Greece
+    [37.94, 22.95],   # Gulf of Corinth / Corinth Canal
+    [37.63, 23.60],   # Athens / Saronic Gulf
+    [37.36, 26.75],   # Samos/Ikaria (Track 13 start)
+]
+
+print("\n── Assembling route segments ─────────────────────────────────────────")
+seg1_pts = []
+print("  Segment 1 (Cape Town → N. Sardinia):")
+for name, src in SEG1_PHASES:
     if name in src:
         seg = src[name]
-        all_pts.extend(seg)
-        print(f"  +{len(seg):6,} pts  [{name}]")
+        seg1_pts.extend(seg)
+        print(f"    +{len(seg):6,} pts  [{name}]")
     else:
-        print(f"  WARNING: track {name!r} not found", file=sys.stderr)
+        print(f"    WARNING: track {name!r} not found", file=sys.stderr)
 
+seg2_pts = []
+print("  Segment 2 (Turkey → Aegean/Sporades):")
+for name, src in SEG2_PHASES:
+    if name in src:
+        seg = src[name]
+        seg2_pts.extend(seg)
+        print(f"    +{len(seg):6,} pts  [{name}]")
+    else:
+        print(f"    WARNING: track {name!r} not found", file=sys.stderr)
+
+all_pts   = seg1_pts + seg2_pts
 raw_total = len(all_pts)
-print(f"\n  Raw total : {raw_total:,} points")
+print(f"\n  Seg1 raw : {len(seg1_pts):,} pts")
+print(f"  Seg2 raw : {len(seg2_pts):,} pts")
+print(f"  Total    : {raw_total:,} pts")
 
-# ── Simplify with RDP ─────────────────────────────────────────────────────────
+# ── Simplify each segment separately with RDP ─────────────────────────────────
 EPS = 0.012   # ~1.2 km tolerance at equator
-simplified = rdp(all_pts, EPS)
-print(f"  After RDP (ε={EPS}°) : {len(simplified):,} points")
+simp1 = rdp(seg1_pts, EPS)
+simp2 = rdp(seg2_pts, EPS)
+print(f"  After RDP (ε={EPS}°): seg1={len(simp1):,}  seg2={len(simp2):,}  gap={len(GAP_WAYPOINTS)} estimated pts")
 
 # ── Blog post → coordinate table ──────────────────────────────────────────────
 # (slug, display_name, approx_lat, approx_lon, date_str, region)
@@ -377,7 +432,9 @@ for s in uncertain:
 
 # ── Generate js/map.js ────────────────────────────────────────────────────────
 
-route_js = json.dumps([[round(p[0],4), round(p[1],4)] for p in simplified])
+route1_js = json.dumps([[round(p[0],4), round(p[1],4)] for p in simp1])
+route2_js = json.dumps([[round(p[0],4), round(p[1],4)] for p in simp2])
+gap_js    = json.dumps(GAP_WAYPOINTS)
 
 # Pre-join so f-string doesn't contain backslash inside {}
 wp_lines = []
@@ -393,16 +450,26 @@ for wp in waypoints_out:
 
 wp_block = ',\n'.join(wp_lines)
 
+simp_total = len(simp1) + len(simp2)
 MAPJS = f'''/* ============================================
    Sailing Oroboro — Journey Map
    Generated from real GPS tracks:
-     TracksOROBOROall.gpx  (Cape Town → Caribbean 2020,  8 tracks)
-     Archive_08_20_2021.gpx (Grenada → Azores → Elba,   3 tracks)
-     Archive_05_01_2025.gpx (Turkey → Greece loops,      5 tracks)
-   Raw GPS points : {raw_total:,}  →  simplified to {len(simplified):,}
+     TracksOROBOROall.gpx   (Cape Town → Caribbean 2020, 8 tracks)
+     Archive_08_20_2021.gpx (Grenada → Azores → Elba,    3 tracks)
+     TRACK1234_2022.gpx     (Elba → N. Sardinia,          1 track)
+     [estimated gap]        (N. Sardinia → Turkey, mid-2022, no GPS)
+     Archive_05_01_2025.gpx (Turkey → Greek islands,      5 tracks)
+     Tracks060626.gpx       (Greek Aegean / Sporades,      6 tracks)
+   Raw GPS points : {raw_total:,}  →  simplified to {simp_total:,}
    ============================================ */
 
-const ROUTE_COORDS = {route_js};
+// Two continuous GPS segments with an estimated gap between them
+const ROUTE_PT1 = {route1_js};   // Cape Town → N. Sardinia
+const ROUTE_PT2 = {route2_js};   // Turkey → Greek Aegean/Sporades
+const ROUTE_GAP = {gap_js};      // estimated N. Sardinia → Turkey (dashed)
+
+// Combined for backwards compatibility (minimap etc.)
+const ROUTE_COORDS = ROUTE_PT1.concat(ROUTE_PT2);
 
 const WAYPOINTS = [
 {wp_block}
@@ -421,12 +488,15 @@ function initMap(containerId) {{
     maxZoom: 18,
   }}).addTo(map);
 
-  // Real GPS polyline
-  L.polyline(ROUTE_COORDS, {{
-    color: '#2E86AB',
-    weight: 2.5,
-    opacity: 0.80,
-    lineJoin: 'round',
+  // Real GPS track — two solid segments
+  const solidStyle = {{ color: '#2E86AB', weight: 2.5, opacity: 0.80, lineJoin: 'round' }};
+  L.polyline(ROUTE_PT1, solidStyle).addTo(map);
+  L.polyline(ROUTE_PT2, solidStyle).addTo(map);
+
+  // Estimated gap: N. Sardinia → Turkey (mid-2022, no GPS recorded)
+  L.polyline(ROUTE_GAP, {{
+    color: '#2E86AB', weight: 2, opacity: 0.45,
+    dashArray: '6, 7', lineJoin: 'round',
   }}).addTo(map);
 
   const makeIcon = (color = '#2E86AB') => L.divIcon({{
@@ -489,10 +559,12 @@ function initMiniMap(containerId) {{
   }});
   L.tileLayer('https://{{s}}.basemaps.cartocdn.com/rastertiles/voyager/{{z}}/{{x}}/{{y}}{{r}}.png',
     {{ maxZoom: 10 }}).addTo(map);
-  L.polyline(ROUTE_COORDS, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map);
-  L.circleMarker(ROUTE_COORDS[0],
+  L.polyline(ROUTE_PT1, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map);
+  L.polyline(ROUTE_PT2, {{ color: '#2E86AB', weight: 2, opacity: 0.85 }}).addTo(map);
+  L.polyline(ROUTE_GAP, {{ color: '#2E86AB', weight: 1.5, opacity: 0.4, dashArray: '5, 6' }}).addTo(map);
+  L.circleMarker(ROUTE_PT1[0],
     {{ radius: 5, color: '#E9C46A', fillColor: '#E9C46A', fillOpacity: 1, weight: 2 }}).addTo(map);
-  L.circleMarker(ROUTE_COORDS[ROUTE_COORDS.length - 1],
+  L.circleMarker(ROUTE_PT2[ROUTE_PT2.length - 1],
     {{ radius: 6, color: '#E76F51', fillColor: '#E76F51', fillOpacity: 1, weight: 2 }}).addTo(map);
   return map;
 }}
@@ -507,6 +579,8 @@ out = REPO / 'js' / 'map.js'
 out.write_text(MAPJS, encoding='utf-8')
 size_kb = out.stat().st_size / 1024
 print(f"\n── Done ──────────────────────────────────────────────────────────────")
+print(f"  Seg1    : {len(simp1):,} pts  (Cape Town → N. Sardinia)")
+print(f"  Gap     : {len(GAP_WAYPOINTS)} estimated waypoints  (dashed)")
+print(f"  Seg2    : {len(simp2):,} pts  (Turkey → Sporades)")
 print(f"  Written: js/map.js  ({size_kb:.0f} KB)")
-print(f"  Route   : {len(simplified):,} simplified coords")
 print(f"  Pins    : {len(waypoints_out)}")
