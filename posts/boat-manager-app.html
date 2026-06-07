@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>I Built a Boat Manager App — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <header class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-region">Boat Systems</span>
+      <span class="post-header-date">June 07, 2026</span>
+    </div>
+    <h1>I Built a Boat Manager App</h1>
+  </header>
+
+  <div class="post-body">
+    <div class="post-body-inner">
+      <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
+        ← Back to all posts
+      </a>
+      <article class="post-content clearfix">
+
+<p>After seven years of sailing Oroboro across three oceans, I've fixed a lot of things. Engines, watermakers, windlasses, autopilots, standing rigging, running rigging, antifouling, plumbing, electronics — you name it, it has probably broken on us at least once.</p>
+
+<p>For years, my maintenance "system" was a combination of a physical notebook, a note on my phone, a few WhatsApp messages to myself, and whatever I could remember. It worked, mostly. Until it didn't.</p>
+
+<p>The moment that finally pushed me over the edge was in the Azores, trying to figure out when we last replaced the impeller on the port engine. I knew it had been done. I was pretty sure it was in Trinidad. Or was it Grenada? It was definitely before the Atlantic crossing. But when exactly? How many hours had it run since? I had no idea. I ended up replacing it anyway, just to be safe, but the nagging feeling stayed with me.</p>
+
+<h2>The Problem With Boat Maintenance</h2>
+
+<p>A bluewater cruiser is one of the most complex things you can own. Oroboro has two diesel engines, a watermaker, a generator, solar panels, wind generators, an autopilot, a SSB radio, two VHF radios, an AIS transponder, a furling genoa, a furling main, a parasailor, an asymmetrical spinnaker, anchoring systems, safety equipment with expiry dates, and on and on. Each system needs regular maintenance on its own schedule.</p>
+
+<p>Most cruisers manage this with spreadsheets (if they're organized) or notebooks (if they're not). The problem with spreadsheets is that they live on one device and you always forget to update them. The problem with notebooks is that they get wet, lost, or filled up.</p>
+
+<p>What I really wanted was something that:</p>
+
+<ul>
+<li>Lived on my phone (always with me)</li>
+<li>Worked offline (I'm at anchor in a remote bay, there's no WiFi)</li>
+<li>Synced to the cloud when I did have connectivity</li>
+<li>Kept my data private and encrypted (a boat's maintenance log is sensitive)</li>
+<li>Was simple enough that I'd actually use it</li>
+</ul>
+
+<p>I couldn't find anything that checked all those boxes. So I built it.</p>
+
+<h2>What I Built</h2>
+
+<p>The <a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Oroboro Boat Manager</a> is a web app that runs in your browser and can be installed on your phone's home screen like a native app. It's built around a simple idea: every task on the boat gets logged, every completion gets noted, and the full history is always there when you need it.</p>
+
+<p>You can add tasks for any system — "Replace impeller, port engine, every 200 hours" — and then log completions with dates, notes, and photos. The app tracks what's overdue, what's coming up, and what's been done. It also lets you store photos, which turned out to be incredibly useful for documenting repairs and capturing serial numbers of parts.</p>
+
+<p>The data is encrypted on your device using AES-GCM before it's ever sent to the cloud. Your PIN never leaves your phone. I can't read your data, and neither can anyone else. It syncs across devices so Yuka and I both have the same view of what's been done.</p>
+
+<h2>Building It on Passages</h2>
+
+<p>I wrote most of the app during passages, which is fitting. There's something about being offshore with a 4-hour watch schedule and nothing but ocean in every direction that clears the mind. The first version was a simple task list. Over the Atlantic crossing and the Mediterranean season, I kept adding things: photo uploads, cloud sync, encrypted storage, a PIN system with a hint for those moments when you can't remember which PIN you used.</p>
+
+<p>The backend runs on Cloudflare Workers, the same infrastructure that hosts our blog. Serverless, cheap, and global. Your data is stored in Cloudflare KV as an encrypted blob. The whole thing costs me almost nothing to run.</p>
+
+<h2>Try It</h2>
+
+<p>It's free. Open <a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">boat.sailingoroboro.com</a> on your phone, set a PIN, and start adding your boat's systems and tasks. You can install it to your home screen for the full app feel. No account required, no ads, no subscription.</p>
+
+<p>If you find it useful, I'd love to hear about it. Drop me a message on Instagram at <a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">@sailingoroboro</a>.</p>
+
+<p>Happy sailing — and may your impellers always be fresh.</p>
+
+<p>— Francesco</p>
+
+      </article>
+      <nav class="post-nav" aria-label="Post navigation">
+      <a class="post-nav-item" href="/posts/2nd-atlantic-crossing.html">
+        <div class="post-nav-label">← Previous</div>
+        <div class="post-nav-title">2nd Atlantic Crossing</div>
+      </a>
+      </nav>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
+</footer>
+<script src="../js/main.js"></script>
+</body>
+</html>
