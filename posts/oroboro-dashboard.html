@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>I built my own boat dashboard — and it looks better than the $3,000 Victron screen — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="description" content="After years staring at a 1995-style Victron Remote Console, I built my own boat dashboard on a Raspberry Pi. It connects to SignalK, shows wind, speed, depth, battery, solar, and tanks — all in one glance.">
+  <meta property="og:title" content="I built my own boat dashboard — and it looks better than the $3,000 Victron screen — S/V Oroboro">
+  <meta property="og:description" content="After years staring at a 1995-style Victron Remote Console, I built my own boat dashboard on a Raspberry Pi. It connects to SignalK, shows wind, speed, depth, battery, solar, and tanks — all in one glance.">
+  <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-logo-21.jpg">
+  <meta property="og:url" content="https://sailingoroboro.com/posts/oroboro-dashboard.html">
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <header class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-region">Technology</span>
+      <span class="post-header-date">June 10, 2026</span>
+    </div>
+    <h1>I built my own boat dashboard — and it looks better than the $3,000 Victron screen</h1>
+  </header>
+
+  <div class="post-body">
+    <div class="post-body-inner">
+      <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
+        ← Back to all posts
+      </a>
+      <article class="post-content clearfix">
+
+<p>After years staring at a 1995-style Victron Remote Console crammed into the nav station, I finally built my own dashboard. And it looks better.</p>
+
+<figure style="margin: 2rem 0;">
+  <img src="../images/posts/Old Dashboard.PNG" alt="The old Victron Remote Console" style="width:100%;border-radius:8px;">
+  <figcaption style="font-size:0.85rem;color:var(--muted);margin-top:0.5rem;text-align:center;">The old Victron Remote Console — functional but ugly</figcaption>
+</figure>
+
+<p>The old display showed battery, solar, and tanks. Fine. But the numbers were small, the interface was designed for technicians, and every time I glanced at it underway I had to lean in and squint.</p>
+
+<p>The new dashboard runs on a Raspberry Pi 4 tucked behind the nav station screen. It connects to our SignalK server over WebSocket and shows everything in one glance:</p>
+
+<ul>
+<li>Speed over ground and depth — numbers large enough to read from the settee</li>
+<li>A full wind rose with apparent and true wind, calculated client-side from the NMEA 2000 data</li>
+<li>A 10-minute true wind speed history graph</li>
+<li>Battery state of charge, solar production from each of our three panel arrays (Rigid Panels 960W, Flex Panels 1 and 2 at 200W each)</li>
+<li>AC and DC loads, inverter status, shore power detection</li>
+<li>Water tank levels in both percentage and liters</li>
+</ul>
+
+<figure style="margin: 2rem 0;">
+  <img src="../images/posts/New Dashboard.jpg" alt="The new Oroboro boat dashboard" style="width:100%;border-radius:8px;">
+  <figcaption style="font-size:0.85rem;color:var(--muted);margin-top:0.5rem;text-align:center;">The new dashboard — everything at a glance</figcaption>
+</figure>
+
+<p>Wind data comes from the NMEA 2000 backbone via a CAN HAT on the Pi. Electrical data comes from our Victron Cerbo GX over WiFi via the Venus SignalK plugin and MQTT. True wind is calculated in the browser from apparent wind and boat speed — the same way KIP does it.</p>
+
+<p>The whole thing is plain HTML, CSS, and vanilla JavaScript. No frameworks. No dependencies. No cloud. No subscription. It loads instantly, works offline, and runs forever on a Pi that costs €50.</p>
+
+<p>The code is open source and free on GitHub. If you have SignalK on your boat, you can have this running in an afternoon.</p>
+
+<p style="margin-top:2rem;">
+  <a href="https://github.com/fpugliano/oroboro-dashboard" target="_blank" rel="noopener" style="display:inline-block;padding:0.65rem 1.4rem;background:var(--accent,#2563eb);color:#fff;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;">View on GitHub →</a>
+</p>
+
+      </article>
+      <nav class="post-nav" aria-label="Post navigation">
+        <a class="post-nav-item" href="/posts/boat-manager-app.html">
+          <div class="post-nav-label">← Previous</div>
+          <div class="post-nav-title">I Built a Boat Manager App</div>
+        </a>
+      </nav>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
+</footer>
+<script src="../js/main.js"></script>
+</body>
+</html>
