@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Links — S/V Oroboro</title>
+  <meta name="description" content="Francesco and Yuka sailing the world on a Leopard 40 catamaran. Blog, voyage map, boat dashboard, and more.">
+  <meta name="robots" content="noindex">
+  <meta property="og:title" content="Links — S/V Oroboro">
+  <meta property="og:description" content="Francesco and Yuka sailing the world on a Leopard 40 catamaran. Blog, voyage map, boat dashboard, and more.">
+  <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-logo-21.jpg">
+  <meta property="og:url" content="https://sailingoroboro.com/links.html">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy:   #0B1426;
+      --ocean:  #1E3A5F;
+      --teal:   #2E86AB;
+      --sky:    #A8DADC;
+      --white:  #FFFFFF;
+      --muted:  rgba(255,255,255,0.52);
+      --border: rgba(255,255,255,0.18);
+    }
+
+    html, body {
+      min-height: 100%;
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--navy);
+      color: var(--white);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100svh;
+      padding: 2.5rem 1.25rem 2rem;
+    }
+
+    .card {
+      width: 100%;
+      max-width: 420px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0;
+    }
+
+    /* ── Logo ── */
+    .logo {
+      width: 80px;
+      height: 80px;
+      object-fit: contain;
+      margin-bottom: 1.1rem;
+    }
+
+    /* ── Identity ── */
+    .name {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.75rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+      color: var(--white);
+      margin-bottom: 0.45rem;
+      text-align: center;
+    }
+
+    .tagline {
+      font-size: 0.82rem;
+      font-weight: 400;
+      color: var(--muted);
+      text-align: center;
+      line-height: 1.5;
+      margin-bottom: 2rem;
+    }
+
+    /* ── Buttons ── */
+    .links {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 0.65rem;
+      margin-bottom: 2.25rem;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      min-height: 52px;
+      padding: 0.85rem 1.25rem;
+      border-radius: 12px;
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 0.95rem;
+      font-weight: 500;
+      text-decoration: none;
+      letter-spacing: 0.01em;
+      transition: opacity 0.15s, transform 0.1s;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .btn:active {
+      opacity: 0.82;
+      transform: scale(0.98);
+    }
+
+    /* neutral: border only */
+    .btn-neutral {
+      background: transparent;
+      border: 1.5px solid var(--border);
+      color: var(--white);
+    }
+
+    .btn-neutral:hover {
+      background: rgba(255,255,255,0.07);
+      border-color: rgba(255,255,255,0.32);
+    }
+
+    /* accent: solid teal */
+    .btn-teal {
+      background: var(--teal);
+      border: 1.5px solid var(--teal);
+      color: var(--white);
+    }
+
+    .btn-teal:hover {
+      background: #257799;
+      border-color: #257799;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      font-size: 0.75rem;
+      color: var(--muted);
+      text-align: center;
+      line-height: 1.6;
+    }
+
+    .footer a {
+      color: var(--sky);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img class="logo" src="/img/logo-white.png" alt="S/V Oroboro">
+    <h1 class="name">S/V Oroboro</h1>
+    <p class="tagline">Sailing the world on a Leopard 40 · Cape Town → Mediterranean</p>
+
+    <nav class="links" aria-label="Links">
+      <a class="btn btn-neutral" href="https://sailingoroboro.com/blog.html">Read the blog</a>
+      <a class="btn btn-neutral" href="https://sailingoroboro.com/map.html">Interactive voyage map</a>
+      <a class="btn btn-teal" href="https://build.sailingoroboro.com" target="_blank" rel="noopener">Build our boat dashboard</a>
+      <a class="btn btn-teal" href="https://app.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager app</a>
+      <a class="btn btn-neutral" href="https://sailingoroboro.com/about.html">About us</a>
+    </nav>
+
+    <footer class="footer">
+      &copy; 2026 Francesco &amp; Yuka &middot;
+      <a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">@sailingoroboro</a>
+    </footer>
+  </div>
+</body>
+</html>
