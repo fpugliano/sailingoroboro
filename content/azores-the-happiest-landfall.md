@@ -7,7 +7,7 @@ region: Azores
 categories: [Sailing, Atlantic-Crossing]
 lat: 38.53
 lon: -28.63
-hero: azores/horta-white-suits.jpg
+hero: azores/horta-arrival.jpg
 ---
 
 Some landfalls you forget by the next passage. Horta is not one of them.
