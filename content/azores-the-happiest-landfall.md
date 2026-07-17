@@ -16,6 +16,8 @@ Some landfalls you forget by the next passage. Horta is not one of them.
 
 We arrived in the middle of the night, salt-crusted and wide-eyed after the storm we told you about in the last post — and out of the darkness came a dinghy. In it: Michael and Jill of S/V Gerty, the "welcome committee" we mentioned back then, holding a bottle of champagne and a SIM card. True sailors know exactly what you need after an ocean: bubbles to celebrate, and internet to find out what the world had done to itself while you were gone. It was COVID time; we hadn't even cleared in yet. We celebrated anyway, right there in the cockpit, and became lifelong friends in the process. Extraordinary human beings.
 
+![Michael and Jill of S/V Gerty alongside in the dark — champagne, a SIM card, and a lifelong friendship.](azores/gerty-welcome-night.jpg)
+
 Clearing in was its own theater. The next morning an orange dinghy came alongside carrying two figures in full white suits — gloves, hoods, the works — just to check us in.
 
 ![The COVID check-in crew alongside Oroboro — full PPE on an orange dinghy in the Atlantic.](azores/horta-white-suits.jpg)
