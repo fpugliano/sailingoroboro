@@ -968,6 +968,16 @@ def main():
     # ── Markdown posts from content/ ─────────────────────────────────────────
     md_posts = parse_markdown_posts()
 
+    # ── Markdown overrides legacy: drop XML post when same slug exists in content/ ──
+    md_slugs = {p['slug'] for p in md_posts}
+    filtered = []
+    for p in legacy_posts:
+        if p['slug'] in md_slugs:
+            print(f"  slug '{p['slug']}': markdown overrides legacy, skipping XML version")
+        else:
+            filtered.append(p)
+    legacy_posts = filtered
+
     # ── Merge all sources and sort chronologically by sort_date ──────────────
     all_posts = legacy_posts + md_posts + PREBUILT_POSTS
     all_posts.sort(key=lambda p: p.get('sort_date') or p.get('iso_date') or '0000')
