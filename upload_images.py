@@ -51,7 +51,7 @@ except ImportError:
     except ImportError:
         sys.exit("Pillow not installed. Run: /usr/bin/pip3 install Pillow pillow-heif")
 
-R2_BUCKET    = 'oroboro-blog'
+R2_BUCKET    = 'oroboro-media'
 R2_PUBLIC_BASE = 'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/'
 MAX_LONG_EDGE  = 1600
 JPEG_QUALITY   = 85
