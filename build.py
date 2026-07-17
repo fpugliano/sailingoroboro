@@ -775,17 +775,32 @@ def build_post(post, prev_post, next_post):
   </div>
 </main>'''
 
-    # og: meta for SEO / social sharing
-    excerpt_esc = html.escape(post['excerpt'])
-    title_full  = html.escape(post['title']) + ' — S/V Oroboro'
-    slug_esc    = html.escape(post['slug'])
+    # Per-post og: / twitter: social preview
+    title_full = html.escape(post['title']) + ' — S/V Oroboro'
+    slug_esc   = html.escape(post['slug'])
+
+    # ~150-char plain-text description from the already-extracted excerpt
+    desc_raw = post['excerpt']
+    if len(desc_raw) > 150:
+        desc_raw = desc_raw[:150].rsplit(' ', 1)[0] + '…'
+    desc_esc = html.escape(desc_raw)
+
+    # Image: hero (already resolved to absolute R2 URL in post['image'] for
+    # markdown posts) → first image (same field for legacy posts) → site default
+    og_image = html.escape(post.get('image') or R2_BASE + 'oroboro-logo-21.jpg')
+    og_url   = f'https://sailingoroboro.com/posts/{slug_esc}.html'
+
     og_head = (
-        f'\n  <meta name="description" content="{excerpt_esc}">'
+        f'\n  <meta name="description" content="{desc_esc}">'
+        f'\n  <meta property="og:type" content="article">'
         f'\n  <meta property="og:title" content="{title_full}">'
-        f'\n  <meta property="og:description" content="{excerpt_esc}">'
-        f'\n  <meta property="og:image" content="{R2_BASE}oroboro-logo-21.jpg">'
-        f'\n  <meta property="og:url" content="https://sailingoroboro.com/posts/{slug_esc}.html">'
+        f'\n  <meta property="og:description" content="{desc_esc}">'
+        f'\n  <meta property="og:image" content="{og_image}">'
+        f'\n  <meta property="og:url" content="{og_url}">'
         f'\n  <meta name="twitter:card" content="summary_large_image">'
+        f'\n  <meta name="twitter:title" content="{title_full}">'
+        f'\n  <meta name="twitter:description" content="{desc_esc}">'
+        f'\n  <meta name="twitter:image" content="{og_image}">'
     )
     return html_page(post['title'], body, css_path='../', extra_head=og_head)
 
