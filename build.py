@@ -14,12 +14,82 @@ import os
 import html
 from datetime import datetime
 from pathlib import Path
+import yaml
+import markdown as _md
 
 # ─── Config ──────────────────────────────────────────────────────────────────
 
-WP_XML    = Path.home() / "Documents/Blog Documentation/Oroboro Blog Back Up Text.xml"
-OUT_DIR   = Path(__file__).parent
-POSTS_DIR = OUT_DIR / "posts"
+WP_XML      = Path.home() / "Documents/Blog Documentation/Oroboro Blog Back Up Text.xml"
+OUT_DIR     = Path(__file__).parent
+POSTS_DIR   = OUT_DIR / "posts"
+CONTENT_DIR = OUT_DIR / "content"
+
+R2_BASE = 'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/'
+
+# Sort-date overrides for legacy posts whose WordPress pubDate ≠ event date.
+# Only affects chronological ordering; display_date is unchanged.
+SORT_DATE_OVERRIDES = {
+    '2nd-atlantic-crossing': '2021-05-03',  # published Sep 2021; voyage departed May 3 2021
+}
+
+# Hand-authored posts that live in posts/ but have no XML or content/ source.
+# build.py includes them in blog/index listings but does NOT regenerate their HTML.
+PREBUILT_POSTS = [
+    {
+        'title':           'I Built a Boat Manager App',
+        'slug':            'boat-manager-app',
+        'display_date':    'June 07, 2026',
+        'iso_date':        '2026-06-07',
+        'sort_date':       '2026-06-07',
+        'region':          'boat',
+        'region_display':  'Boat Systems',
+        'excerpt':         "After eight years of sailing Oroboro across three oceans, I've fixed a lot of things. I couldn't find a boat management app that worked for real bluewater cruisers — so I built one.",
+        'image':           R2_BASE + 'blogpost.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['Boat Systems'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     True,
+        'published_display': None,
+    },
+    {
+        'title':           'I built my own boat dashboard — and it looks better than the €250 Victron screen',
+        'slug':            'oroboro-dashboard',
+        'display_date':    'June 10, 2026',
+        'iso_date':        '2026-06-10',
+        'sort_date':       '2026-06-10',
+        'region':          'boat',
+        'region_display':  'Technology',
+        'excerpt':         'After years staring at a 1995-style Victron Remote Console, I built my own on a Raspberry Pi. Plain HTML, CSS, and JavaScript — no frameworks, no cloud, no subscription.',
+        'image':           '/images/posts/New Dashboard.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['Technology'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     True,
+        'published_display': None,
+    },
+]
+
+# Region mapping for markdown post frontmatter region: values
+MARKDOWN_REGION_MAP = {
+    'azores':          ('atlantic2', 'Azores'),
+    'north atlantic':  ('atlantic2', 'North Atlantic'),
+    'atlantic':        ('atlantic',  'South Atlantic'),
+    'atlantic-crossing': ('atlantic', 'South Atlantic'),
+    'europe':          ('europe',    'Europe'),
+    'mediterranean':   ('europe',    'Mediterranean'),
+    'portugal':        ('europe',    'Europe'),
+    'sailing':         ('sailing',   'Sailing'),
+    'boat':            ('boat',      'Boat'),
+    'technology':      ('boat',      'Technology'),
+    'caribbean':       ('caribbean', 'Caribbean'),
+    'brazil':          ('brazil',    'Brazil'),
+}
 
 # Region mapping: category slug → display name + filter key
 REGION_MAP = {
@@ -108,6 +178,121 @@ def wpautop(content):
             block = block.replace('\n', '<br>\n')
             result.append(f'<p>{block}</p>')
     return '\n'.join(result)
+
+def categorize_md_region(region_str, categories):
+    """Map markdown frontmatter region/categories to (region_key, region_display)."""
+    key = region_str.lower().strip()
+    if key in MARKDOWN_REGION_MAP:
+        return MARKDOWN_REGION_MAP[key]
+    for cat in (categories or []):
+        ckey = cat.lower().strip().replace('-', ' ').replace('_', ' ')
+        if ckey in MARKDOWN_REGION_MAP:
+            return MARKDOWN_REGION_MAP[ckey]
+    fallback = region_str.lower().replace(' ', '-')
+    return (fallback, region_str)
+
+
+_IMG_RE = re.compile(r'<img([^>]*)>', re.IGNORECASE)
+
+def rewrite_md_images(html_content):
+    """Rewrite bare image paths to full R2 URLs and wrap in wp-caption figure."""
+    def _sub(m):
+        attrs = m.group(1)
+        alt_m = re.search(r'alt="([^"]*)"', attrs)
+        src_m = re.search(r'src="([^"]*)"', attrs)
+        alt = alt_m.group(1) if alt_m else ''
+        src = src_m.group(1) if src_m else ''
+        if src and not src.startswith('http'):
+            src = R2_BASE + src
+        if alt:
+            return (
+                f'<figure class="wp-caption aligncenter" style="max-width:100%">\n'
+                f'<img src="{src}" alt="{html.escape(alt)}" class="aligncenter">\n'
+                f'<p class="wp-caption-text">{html.escape(alt)}</p>\n'
+                f'</figure>'
+            )
+        return f'<img src="{src}" alt="">'
+    return _IMG_RE.sub(_sub, html_content)
+
+
+def parse_markdown_posts():
+    """Parse all *.md files in content/ (ignoring _ prefixed files)."""
+    posts = []
+    if not CONTENT_DIR.exists():
+        return posts
+    for md_file in sorted(CONTENT_DIR.glob('[!_]*.md')):
+        with open(md_file, 'r', encoding='utf-8') as f:
+            raw = f.read()
+        if not raw.startswith('---'):
+            print(f"  WARNING: {md_file.name} missing frontmatter, skipping")
+            continue
+        parts = raw.split('---', 2)
+        if len(parts) < 3:
+            print(f"  WARNING: {md_file.name} malformed frontmatter, skipping")
+            continue
+        try:
+            fm = yaml.safe_load(parts[1]) or {}
+        except yaml.YAMLError as e:
+            print(f"  WARNING: {md_file.name} YAML error: {e}, skipping")
+            continue
+        body = parts[2].strip()
+
+        title      = str(fm.get('title', ''))
+        slug       = str(fm.get('slug', md_file.stem))
+        date_str   = str(fm.get('date', ''))       # event date YYYY-MM-DD
+        pub_str    = str(fm.get('published', ''))   # publication date YYYY-MM-DD
+        region_raw = str(fm.get('region', ''))
+        cats_raw   = fm.get('categories', [])
+        if isinstance(cats_raw, str):
+            cats_raw = [cats_raw]
+        hero = str(fm.get('hero', ''))
+
+        # Event date for display and sorting
+        try:
+            evt_dt = datetime.strptime(date_str, '%Y-%m-%d')
+            display_date = evt_dt.strftime('%B %d, %Y')
+        except ValueError:
+            display_date = date_str
+
+        # Publication date for dual-date display
+        try:
+            pub_dt = datetime.strptime(pub_str, '%Y-%m-%d')
+            published_display = pub_dt.strftime('%B %Y')
+        except ValueError:
+            published_display = pub_str if pub_str else None
+
+        region_key, region_display = categorize_md_region(region_raw, cats_raw)
+
+        # Convert markdown → HTML (HTML comments like <!-- IMG: ... --> pass through)
+        converter = _md.Markdown(extensions=['fenced_code', 'tables'])
+        content_html = converter.convert(body)
+        content_html = rewrite_md_images(content_html)
+
+        excerpt = text_excerpt(content_html)
+        image   = (R2_BASE + hero) if hero else extract_first_image(content_html)
+
+        posts.append({
+            'title':             title,
+            'slug':              slug,
+            'pub_date':          pub_str,
+            'display_date':      display_date,
+            'iso_date':          date_str,
+            'sort_date':         date_str,
+            'published_display': published_display,
+            'content':           content_html,
+            'categories':        cats_raw,
+            'cat_slugs':         [c.lower().replace(' ', '-') for c in cats_raw],
+            'region':            region_key,
+            'region_display':    region_display,
+            'image':             image,
+            'excerpt':           excerpt,
+            'is_markdown':       True,
+            'is_prebuilt':       False,
+            'nav_exclude':       False,
+        })
+        print(f"  Loaded markdown post: {slug} ({date_str})")
+    return posts
+
 
 def parse_date(pub_date_str):
     """Parse WordPress pubDate to a nice display string."""
@@ -234,7 +419,11 @@ FOOTER_HTML = '''<footer class="footer">
 HEAD_COMMON = '''  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="{css_path}css/style.css">
-  <link rel="icon" href="/img/logo-mark.png" type="image/png">'''
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">'''
 
 
 def html_page(title, body, css_path='/', extra_head='', extra_scripts='', body_class=''):
@@ -514,40 +703,52 @@ def build_blog(posts):
 # ─── Single Post Page ─────────────────────────────────────────────────────────
 
 def build_post(post, prev_post, next_post):
-    # Clean up WordPress content: fix image paths, remove shortcodes
-    content = post['content']
-    # Remove WordPress shortcodes
-    content = re.sub(r'\[caption[^\]]*\](.*?)\[/caption\]', r'\1', content, flags=re.DOTALL)
-    content = re.sub(r'\[/?[a-z_]+[^\]]*\]', '', content)
-    # Rewrite WordPress upload URLs → flat R2 CDN paths (no year/month), lowercased
-    content = re.sub(
-        r'https://sailingoroboro\.com/wp-content/uploads/\d{4}/\d{2}/([^\s"\'<>]+)',
-        lambda m: 'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/' + m.group(1).lower(),
-        content
-    )
-    # Apply wpautop to convert double newlines → <p> tags
-    content = wpautop(content)
+    if post.get('is_markdown'):
+        # Markdown posts: content is already rendered HTML; skip WP cleanup
+        content = post['content']
+    else:
+        # WordPress posts: clean shortcodes, rewrite image URLs, apply wpautop
+        content = post['content']
+        content = re.sub(r'\[caption[^\]]*\](.*?)\[/caption\]', r'\1', content, flags=re.DOTALL)
+        content = re.sub(r'\[/?[a-z_]+[^\]]*\]', '', content)
+        content = re.sub(
+            r'https://sailingoroboro\.com/wp-content/uploads/\d{4}/\d{2}/([^\s"\'<>]+)',
+            lambda m: R2_BASE + m.group(1).lower(),
+            content
+        )
+        content = wpautop(content)
 
     cats_html = ''
     for cat in post['categories'][:3]:
         cats_html += f'<span class="post-header-region">{html.escape(cat)}</span>'
 
+    # Date display: new markdown posts show event date + publication date
+    if post.get('published_display'):
+        date_html = (f'{html.escape(post["display_date"])} · '
+                     f'<span style="opacity:0.7">published {html.escape(post["published_display"])}</span>')
+    else:
+        date_html = html.escape(post["display_date"])
+
+    # Prev/next nav — skip nav_excluded posts (tech posts not in voyage sequence)
+    eff_prev = prev_post if (prev_post and not prev_post.get('nav_exclude')) else None
+    eff_next = next_post if (next_post and not next_post.get('nav_exclude')) else None
+
     nav_html = ''
-    if prev_post or next_post:
+    if eff_prev or eff_next:
         nav_html = '<nav class="post-nav" aria-label="Post navigation">'
-        if prev_post:
+        if eff_prev:
             nav_html += f'''
-      <a class="post-nav-item" href="/posts/{html.escape(prev_post["slug"])}.html">
+      <a class="post-nav-item" href="/posts/{html.escape(eff_prev["slug"])}.html">
         <div class="post-nav-label">← Previous</div>
-        <div class="post-nav-title">{html.escape(prev_post["title"])}</div>
+        <div class="post-nav-title">{html.escape(eff_prev["title"])}</div>
       </a>'''
         else:
             nav_html += '<div></div>'
-        if next_post:
+        if eff_next:
             nav_html += f'''
-      <a class="post-nav-item post-nav-next" href="/posts/{html.escape(next_post["slug"])}.html">
+      <a class="post-nav-item post-nav-next" href="/posts/{html.escape(eff_next["slug"])}.html">
         <div class="post-nav-label">Next →</div>
-        <div class="post-nav-title">{html.escape(next_post["title"])}</div>
+        <div class="post-nav-title">{html.escape(eff_next["title"])}</div>
       </a>'''
         nav_html += '</nav>'
 
@@ -556,7 +757,7 @@ def build_post(post, prev_post, next_post):
   <header class="post-header">
     <div class="post-header-meta">
       {cats_html}
-      <span class="post-header-date">{html.escape(post["display_date"])}</span>
+      <span class="post-header-date">{date_html}</span>
     </div>
     <h1>{html.escape(post["title"])}</h1>
   </header>
@@ -574,7 +775,19 @@ def build_post(post, prev_post, next_post):
   </div>
 </main>'''
 
-    return html_page(post['title'], body, css_path='../')
+    # og: meta for SEO / social sharing
+    excerpt_esc = html.escape(post['excerpt'])
+    title_full  = html.escape(post['title']) + ' — S/V Oroboro'
+    slug_esc    = html.escape(post['slug'])
+    og_head = (
+        f'\n  <meta name="description" content="{excerpt_esc}">'
+        f'\n  <meta property="og:title" content="{title_full}">'
+        f'\n  <meta property="og:description" content="{excerpt_esc}">'
+        f'\n  <meta property="og:image" content="{R2_BASE}oroboro-logo-21.jpg">'
+        f'\n  <meta property="og:url" content="https://sailingoroboro.com/posts/{slug_esc}.html">'
+        f'\n  <meta name="twitter:card" content="summary_large_image">'
+    )
+    return html_page(post['title'], body, css_path='../', extra_head=og_head)
 
 
 # ─── Static Pages ─────────────────────────────────────────────────────────────
@@ -721,48 +934,62 @@ document.addEventListener('DOMContentLoaded', function() {
 
 def main():
     POSTS_DIR.mkdir(exist_ok=True)
+    CONTENT_DIR.mkdir(exist_ok=True)
 
-    # Parse WordPress XML
-    posts = parse_wordpress_xml(WP_XML)
-
-    if not posts:
+    # ── Legacy WordPress posts ────────────────────────────────────────────────
+    legacy_posts = parse_wordpress_xml(WP_XML)
+    if not legacy_posts:
         print("ERROR: No posts found. Check the XML path.")
         return
 
-    # Generate index
+    # Apply sort-date overrides (event date ≠ pubDate for some legacy posts)
+    for p in legacy_posts:
+        p['sort_date']        = SORT_DATE_OVERRIDES.get(p['slug'], p['iso_date'])
+        p['published_display'] = None
+        p['is_markdown']      = False
+        p['is_prebuilt']      = False
+        p['nav_exclude']      = False
+
+    # ── Markdown posts from content/ ─────────────────────────────────────────
+    md_posts = parse_markdown_posts()
+
+    # ── Merge all sources and sort chronologically by sort_date ──────────────
+    all_posts = legacy_posts + md_posts + PREBUILT_POSTS
+    all_posts.sort(key=lambda p: p.get('sort_date') or p.get('iso_date') or '0000')
+
+    voyage_posts = [p for p in all_posts if not p.get('is_prebuilt')]
+    total_generated = len([p for p in all_posts if not p.get('is_prebuilt')])
+
+    # ── Static pages ─────────────────────────────────────────────────────────
     print("Building index.html...")
-    index_html = build_index(posts)
-    (OUT_DIR / 'index.html').write_text(index_html, encoding='utf-8')
+    (OUT_DIR / 'index.html').write_text(build_index(all_posts), encoding='utf-8')
 
-    # Generate blog index
     print("Building blog.html...")
-    blog_html = build_blog(posts)
-    (OUT_DIR / 'blog.html').write_text(blog_html, encoding='utf-8')
+    (OUT_DIR / 'blog.html').write_text(build_blog(all_posts), encoding='utf-8')
 
-    # Generate about page
     print("Building about.html...")
-    about_html = build_about()
-    (OUT_DIR / 'about.html').write_text(about_html, encoding='utf-8')
+    (OUT_DIR / 'about.html').write_text(build_about(), encoding='utf-8')
 
-    # Generate map page
     print("Building map.html...")
-    map_html = build_map(posts)
-    (OUT_DIR / 'map.html').write_text(map_html, encoding='utf-8')
+    (OUT_DIR / 'map.html').write_text(build_map(all_posts), encoding='utf-8')
 
-    # Generate individual post pages
-    print(f"Building {len(posts)} post pages...")
-    for i, post in enumerate(posts):
-        prev_post = posts[i - 1] if i > 0 else None
-        next_post = posts[i + 1] if i < len(posts) - 1 else None
+    # ── Post pages (skip prebuilt — their HTML is hand-authored) ─────────────
+    print(f"Building {total_generated} post pages...")
+    for i, post in enumerate(all_posts):
+        if post.get('is_prebuilt'):
+            continue
+        prev_post = all_posts[i - 1] if i > 0 else None
+        next_post = all_posts[i + 1] if i < len(all_posts) - 1 else None
         post_html = build_post(post, prev_post, next_post)
-        out_path = POSTS_DIR / f'{post["slug"]}.html'
+        out_path  = POSTS_DIR / f'{post["slug"]}.html'
         out_path.write_text(post_html, encoding='utf-8')
 
-    print(f"\n✓ Built {len(posts) + 4} HTML files successfully.")
-    print(f"  Posts: {POSTS_DIR}")
-    print(f"  Site:  {OUT_DIR}")
+    print(f"\n✓ Built {total_generated + 4} HTML files successfully.")
+    print(f"  Voyage posts : {total_generated}  ({len(legacy_posts)} legacy + {len(md_posts)} markdown)")
+    print(f"  Tech posts   : {len(PREBUILT_POSTS)}  (pre-built, not regenerated)")
+    print(f"  Site         : {OUT_DIR}")
     print("\nTo deploy:")
-    print("  cd ~/Documents/SailingOroboro\\ Website && git add -A && git commit -m 'Build site' && git push")
+    print("  git add -A && git commit -m 'Build site' && git push")
 
 
 if __name__ == '__main__':

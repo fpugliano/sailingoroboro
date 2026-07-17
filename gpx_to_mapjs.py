@@ -425,6 +425,8 @@ POST_LOCS = [
     ("sailing-in-the-bahamas",            "Bahamas",                   24.70, -77.79, "Apr 2021", "caribbean"),
     # ── 2021: 2nd Atlantic Crossing ───────────────────────────────────────
     ("2nd-atlantic-crossing",             "North Atlantic",            35.00, -45.00, "Sep 2021", "atlantic"),
+    # ── 2021: Azores ─────────────────────────────────────────────────────
+    ("azores-the-happiest-landfall",      "Azores (Horta, Faial)",     38.53, -28.63, "Jun 2021", "atlantic"),
 ]
 
 # ── Inland locations: visited by land, not on the sailing track ──────────────

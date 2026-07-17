@@ -1,0 +1,5 @@
+markdown>=3.4
+PyYAML>=6.0
+Pillow>=9.0
+pillow-heif>=0.13
+boto3>=1.26
