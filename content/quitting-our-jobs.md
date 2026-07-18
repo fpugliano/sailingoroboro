@@ -4,7 +4,7 @@ title: "Quitting our jobs"
 date: 2018-09-20
 region: sailing
 categories: [Job]
-hero: quitting-jobs/img_9106.jpg
+hero: quitting-jobs/img_9572.jpg
 ---
 
 Quitting our jobs was one of the hardest things we've ever done, especially because we loved what we were doing - well, the greater portion thereof.
@@ -23,13 +23,13 @@ As soon as we learned the exact date for the splash of our boat, we decided to t
 
 Alea iacta est (The die is cast)
 
-![Our San Jose neighborhood — the familiar streets of the life we were leaving behind](quitting-jobs/img_9259.jpg)
+![My eBay badge — the last day I would ever need it](quitting-jobs/img_9259.jpg)
 
 We gave our employers generous notice, and that gave both of our teams enough time to search for our successors. A long notice also helped us, because we had enough time to catch up with and say goodbye to all the people we've worked with during the course of the years. And they are a lot!
 
 So now here we are now: jobless. For the first time in our lives since college. No more intelligent conversations with our peers under the fluorescent. No more presentations, staff meetings, one-on-ones, V2MOMs, status reports, performance reviews and compliance trainings.
 
-![San Jose, California — the city we called home, and soon would be leaving](quitting-jobs/img_9572.jpg)
+![Saying goodbye to our beloved house was not easy](quitting-jobs/img_9572.jpg)
 
 Friends and coworkers are asking me how my last day at work feels like. Well, to me it feels exactly like when I graduated from college.
 
