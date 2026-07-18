@@ -4,14 +4,12 @@ title: "Quitting our jobs"
 date: 2018-09-20
 region: sailing
 categories: [Job]
-hero: quitting-jobs/img_9242.jpg
+hero: quitting-jobs/img_9106.jpg
 ---
 
 Quitting our jobs was one of the hardest things we've ever done, especially because we loved what we were doing - well, the greater portion thereof.
 
 With our jobs, we also leave behind the security and comfort of our established lives. What about friends? What about health insurance? Mortgage? How long will our savings last? Who will offer us another job if we stay out of the workforce for so long? These and many other questions kept us often awake at night.
-
-![Looking out over the San Francisco Bay from the East Bay hills — the world we were about to leave behind](quitting-jobs/img_9242.jpg)
 
 But a dream stays a dream if you are too scared to chase it. And most people's dreams remains just that. Fear of the unknown keeps them away from unfolding the possibilities in life.
 
@@ -38,5 +36,7 @@ Friends and coworkers are asking me how my last day at work feels like. Well, to
 As a matter of fact, as soon as I got home after my last day at the office this afternoon, Yuka welcomed me saying: Congratulations! I asked: What for? And she said: you've just graduated from eBay.
 
 She is absolutely right!
+
+![What we shipped to Cape Town](quitting-jobs/img_9242.jpg)
 
 ![Home — the last familiar view before the adventure began](quitting-jobs/img_9573.jpg)
