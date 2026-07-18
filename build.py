@@ -44,7 +44,7 @@ PREBUILT_POSTS = [
         'region':          'boat',
         'region_display':  'Boat Systems',
         'excerpt':         "After eight years of sailing Oroboro across three oceans, I've fixed a lot of things. I couldn't find a boat management app that worked for real bluewater cruisers — so I built one.",
-        'image':           R2_BASE + 'boat-manager/engine-maintenance-portrait.jpg',
+        'image':           R2_BASE + 'boat-manager/engine-maintenance-portrait.png',
         'content':         None,
         'pub_date':        '',
         'categories':      ['Boat Systems'],
