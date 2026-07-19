@@ -6,7 +6,7 @@ region: South Africa
 categories:
 - South Africa
 raw_html: true
-hero: false-bay.jpg
+hero: img_7798-1.jpg
 ---
 
 <p>We are in the final stretch with the work that needs to be done on the boat.  Everything is coming together, and so we took our first weekend off to relax, decompress, and explore some areas of this beautiful country.<br>
