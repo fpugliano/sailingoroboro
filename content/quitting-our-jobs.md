@@ -15,7 +15,7 @@ But a dream stays a dream if you are too scared to chase it. And most people's d
 
 And in the end, it's not the years in your life that count. It's the life in your years.
 
-![Mountain View, California — the Silicon Valley tech corridor where we spent years building our careers](quitting-jobs/img_9106.jpg)
+![Yuka at her office — surrounded by international flags and elephant figurines, the Silicon Valley tech world we were about to leave behind](quitting-jobs/yuka-linkedin.jpg)
 
 We spent countless hours planning and dreaming about the next step in our lives. So we thought that when it was finally going to be time to quit our jobs, we would be prepared, and it would be easy. We were wrong. It hasn't been easy at all.
 
