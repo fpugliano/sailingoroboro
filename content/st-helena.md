@@ -52,8 +52,6 @@ hero: 5hpdgjnsmolkfggjzagw.jpg
 
 <p>Anne's Place was once an iconic restaurant, but since Anne fell ill, the place is mismanaged — food is bad and service is worse. Very sad. But it's still worth stopping by to browse through the books and see what other sailors wrote when they made landfall here.</p>
 
-<img class="aligncenter wp-image-1881 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/heoudxvlthwgioadkfjka-1.jpg" alt="Anne's Place in St Helena" width="4032" height="3024" />
-
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-annes-place.jpg" alt="Yuka inside Anne's Place, the ceiling covered in international flags and yacht burgees from sailors who have passed through">
 
 <h3>2. Jacob's Ladder</h3>
@@ -73,9 +71,21 @@ hero: 5hpdgjnsmolkfggjzagw.jpg
 
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-jacobs-ladder-top.jpg" alt="Yuka at the top of Jacob's Ladder, next to the St Helena visitor information board reading 'The most extraordinary place on earth!'">
 
-<h3>3. Napoleon's house</h3>
+<h3>3. Napoleon's house — Longwood</h3>
 
 <p>Napoleon spent the last six years of his life exiled at Longwood House on St Helena. The French government owns and maintains the property today, and you can visit the rooms where he lived, worked, and eventually died. It's a sober and fascinating place — the contrast between Napoleon's imperial past and the remote, humid island where he ended his days is striking.</p>
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-longwood-gate.jpg" alt="Francesco and Yuka at the Longwood House entrance gate, signed 'LONGWOOD HOUSE / MAISON DE NAPOLEON'">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-longwood-exterior.jpg" alt="Yuka in front of Longwood House — the white building with green shutters and garden where Napoleon spent his exile">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-longwood-bedroom.jpg" alt="Napoleon's bedroom at Longwood House — the green canopy bed where he slept during his years of exile">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-longwood-billiard-room.jpg" alt="The reception room at Longwood House — Napoleon busts, mahogany table, period chairs and fireplace">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-longwood-death-room.jpg" alt="The room at Longwood House where Napoleon died — a cot draped in purple cloth with imperial gold bees">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-longwood-death-painting.jpg" alt="A large painting hanging in Longwood House depicting Napoleon on his deathbed, surrounded by his entourage">
 
 <video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-historic-building-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-historic-building.mov" type="video/mp4">
@@ -84,15 +94,27 @@ hero: 5hpdgjnsmolkfggjzagw.jpg
 
 <h3>4. Napoleon's tomb</h3>
 
-<p>Napoleon was buried at St Helena when he died in 1821, in a shaded valley called Sane Valley. His remains were later repatriated to France in 1840, but the tomb remains — a simple granite slab in a quiet, tree-lined enclosure. It's a surprisingly peaceful and moving place.</p>
+<p>Napoleon was buried at St Helena when he died in 1821, in a shaded valley called Sane Valley. His remains were later repatriated to France in 1840, but the original tomb remains — a simple stone slab enclosed by iron railings in a quiet, lush enclosure. A surprisingly peaceful and moving place.</p>
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-napoleon-tomb-sign.jpg" alt="Napoleon's Tomb directional sign in English and French, with visiting hours">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-napoleon-tomb.jpg" alt="Napoleon's original tomb — a stone slab enclosed by black iron railings surrounded by lush tropical garden">
 
 <h3>5. Halley's Observatory site</h3>
 
-<p>Edmond Halley — of Halley's Comet fame — came to St Helena in 1676 to catalog the stars of the Southern Hemisphere. The site of his observatory still exists near Longwood, a small nod to one of the island's less-known historical connections to science.</p>
+<p>Edmond Halley — of Halley's Comet fame — came to St Helena in 1676 to catalogue the stars of the Southern Hemisphere. He was the first to systematically map the southern sky, and it was here on this remote island that he built the observatory that launched his career. The site still exists near Longwood.</p>
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-halleys-sign.jpg" alt="The weathered 'Site of Halley's Observatory' signpost pointing left, set among tropical plants">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-halleys-mount.jpg" alt="Halley's Mount information board describing Edmond Halley's mission to St Helena in 1676 to catalogue the southern stars">
 
 <h3>6. Diana's Peak</h3>
 
-<p>Diana's Peak is the highest point on the island at 818 metres. The interior of St Helena is a complete contrast to the barren volcanic coast you see on approach — lush, green, and misty. Hiking to Diana's Peak takes you through cloud forest where endemic plants, including the famous St Helena wirebird habitat, can be found.</p>
+<p>Diana's Peak is the highest point on the island at 818 metres. The interior of St Helena is a complete contrast to the barren volcanic coast you see on approach — lush, green and misty. Hiking to Diana's Peak takes you through cloud forest, with sweeping views back across the island to the ocean.</p>
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-dianas-peak-sign.jpg" alt="Diana's Peak National Park wooden sign at the Cabbage Tree Road trailhead — 'Follow the Creatures, 2-3 hours'">
+
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sth-dianas-peak-view.jpg" alt="Panoramic view from Diana's Peak — lush green St Helena highlands rolling down to dramatic volcanic ridges and the South Atlantic Ocean">
 
 <h3>7. Plantation House and Jonathan the tortoise</h3>
 
