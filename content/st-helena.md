@@ -1,0 +1,49 @@
+---
+slug: st-helena
+title: St Helena
+date: '2019-03-10'
+region: sailing
+categories:
+- Sailing
+raw_html: true
+hero: 5hpdgjnsmolkfggjzagw.jpg
+---
+
+<p>Oroboro dropped the anchor in St Helena on Wednesday 01/09/2019.  St Helena is an iconic place because it was cut off from the rest of the world for centuries.  No wonder the British chose this island to exile Napoleon, after he run away from Isola d'Elba, in Italy.</p>
+<p>St Helena could only be reached by sea until a few years ago, when an airport was built.  Now you have weekly flights from Johannesburg every Saturday, but the hoped for arrival of thousands of tourists has failed to materialize, leaving local businesses and investors in debt and struggling to survive.</p>
+<p>Luckily the town is still unspoiled, they built only 2 hotels since the airport opened.  So you can still enjoy the place.</p>
+<p>In St Helena, you can't anchor: you need to pick up a mooring ball.  The mooring area is on the west of the town and you have 2 different sets of buoys, yellow and red. Yellows are for boats up to 25 tons, reds up to 35 tons.</p>
+<p>You call Port Control on VHF channel 16 when approaching the island and they will assign you a buoy.  The buoys are clearly numbered.  We picked up Yellow 25.  The first day is free. Every day after, it costs £2 or £3 per day.</p>
+<img class="aligncenter wp-image-1878 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/5hpdgjnsmolkfggjzagw.jpg" alt="St Helena anchorage" width="4032" height="3024" />
+<p>To go on shore you need to take a water taxi.  You can call them on the VHF, it's a little wooden boat.  You pay £1.50 each way.  The driver keeps track of all the rides you take and you can pay all at once before leaving the island.</p>
+<img class="aligncenter wp-image-1582 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/d0a0b0ac-7bd1-4098-a9db-5d32fa87ce5f.jpg" alt="Our Uber on St Helena island" width="960" height="1280" />
+<p>Disembarking the water taxi can be a little tricky if the swell is large.  You have some ropes on the pontoon hanging from metal structures that you need to hang on to when climbing off the water taxi.</p>
+<img class="aligncenter wp-image-1858 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/misgxpsxrikhsldfo4oxwg.jpg" alt="Disembarking in St Helena Island" width="4032" height="3024" />
+<div class="photoGrid two clearfix full-width-element">
+<p>The check-in formalities are quite easy, you go to Port Control first, which is located right at the docks, and then you have to go to Immigration, which is in the Police station up the hill, so it's a nice walk through the village.  They are open Monday through Friday.  The total cost for checking in is £20.00.  When you leave the island, you need to check out with Customs and Immigration.  If you leave during the weekend, you check out the Friday before departure.Don't forget that when you get there, you need to show proof of an insurance that clearly shows that it covers evacuation costs.  If you don't have one, you will have to buy it on the island at Solomons’ Insurance Office.  It only costs a few pounds.</p>
+<p>Since a 2017, believe it or not, there is a Yacht Club on St Helena!  It is run by James and his wife, 2 ST Helena natives who circumnavigated the globe with their kids a few years ago.</p>
+<img class="aligncenter wp-image-1880 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/vpk2htmot7sb8dj3qqmnng-e1552211920527.jpg" alt="St Helena Yacht Club" width="3088" height="2316" />
+<p>At the club you can buy an Internet voucher, have a beer and mingle with other sailors.  Internet is super expensive on the island, there are a few hot spots but they all charge the same rates and they are equally slow (6.60 pounds per hour).</p>
+<img class="aligncenter wp-image-1883 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/bv4c33hgtfghlwzmb1xwdg.jpg" alt="Signing the book at Yacht Club in St Helena" width="4032" height="3024" />
+<p>7 things to do in St Helena:<br>
+<ul><br>
+ 	<li>Visit and sign the book at Anne's Place (although now the Yatch Club keeps one as well)</li><br>
+ 	<li>Climb Jacob's ladder. 699 steps, 180 meters high. Fastest record ascent: 5 mins and 16 seconds</li><br>
+ 	<li>Napoleon's house</li><br>
+ 	<li>Napoleon's tomb</li><br>
+ 	<li>Halley's observatory site</li><br>
+ 	<li>Diana's Peak</li><br>
+ 	<li>Plantation House</li><br>
+</ul><br>
+Anne's Place was an iconic restaurant but since Anne fell sick, not the place is mismanaged.  Food is bad and service is worst.  Very sad.  But it's interesting to browse through the books and see what other sailors wrote when they got here during the crossing.</p>
+<img class="aligncenter wp-image-1881 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/heoudxvlthwgioadkfjka-1.jpg" alt="Anne's Place in St Helena Island" width="4032" height="3024" />
+<p>To have a decent meal you have to go to the restaurant of the Mantis Hotel.</p>
+<img class="aligncenter wp-image-1897 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/lx268irtow1aogfacsvw.jpg" alt="Mantis Hotel in St Helena Island" width="4032" height="3024" />
+<p>There is no bakery in town anymore, so all shops sale just stale industrial bread.  It's very hard to find vegetables and provisioning here is not a good idea.  Everything is expensive!<br>
+<div></p>
+<p>Oh, and did I mention there are no ATM machines in town?  So bring some British Pounds or you will have to go to the bank.</p>
+<p>Nature is amazing on the island.  When you approach the island from see, it looks bare and dry.  But if you take a ride in the inside, vegetation is very lush.</p>
+<p></div></p>
+<p>Row video of Oroboro moored in St Helena:</p>
+<p>Our stay in St Helena was very nice, it's a mandatory stop if you're crossing the South Atlantic ocean on a sailboat, and we feel so privileged to have done that.</p>
+<p></div></p>

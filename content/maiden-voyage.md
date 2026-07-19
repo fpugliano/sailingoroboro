@@ -4,7 +4,7 @@ title: "Maiden voyage"
 date: 2018-12-19
 region: sailing
 categories: [Atlantic-Crossing, Sailing, South Africa]
-hero: oroboro-logo-21.jpg
+hero: oroboro-intro/img_1504.jpg
 ---
 
 The time has finally come for us to set sail for our maiden voyage. We have worked out a navigation plan, and we have started to monitor the weather. Our plan is to sail to Luderitz, Namibia, some 460 nautical miles north of Cape Town along the west coast of South Africa. We'll spend a few days there, and then we'll sail north to Walvis Bay, about 200 nautical miles along the infamous Skeleton Coast. Finally, we'll turn west and cross towards St Helena and Brazil.

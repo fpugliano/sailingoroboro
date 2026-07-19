@@ -263,10 +263,14 @@ def parse_markdown_posts():
 
         region_key, region_display = categorize_md_region(region_raw, cats_raw)
 
-        # Convert markdown → HTML (HTML comments like <!-- IMG: ... --> pass through)
-        converter = _md.Markdown(extensions=['fenced_code', 'tables'])
-        content_html = converter.convert(body)
-        content_html = rewrite_md_images(content_html)
+        if fm.get('raw_html', False):
+            # Body is pre-rendered HTML (converted from XML); use verbatim.
+            content_html = body
+        else:
+            # Convert markdown → HTML (HTML comments pass through)
+            converter = _md.Markdown(extensions=['fenced_code', 'tables'])
+            content_html = converter.convert(body)
+            content_html = rewrite_md_images(content_html)
 
         excerpt = text_excerpt(content_html)
         image   = (R2_BASE + hero) if hero else extract_first_image(content_html)
