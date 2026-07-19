@@ -25,6 +25,14 @@ Unfortunately the Port Authority requires you to get a berth at the Royal Cape Y
 
 However, if you stay anywhere else other than RCYC and you want to check out of the country, you need to get a letter from RCYC saying that they didn't have a berth available for you and that you don't owe them any fees. Then you need to get a letter from the marina you're staying, saying that you have paid your fees. You need to show these letters to the Port Authority so that they can clear you out. Finally you have to visit Immigration and Customs. It's a rather complicated process, but people have been very nice with us.
 
-So we did the provisioning, filled the tanks, had a very pleasant dinner with our friends, and on Saturday December 15th we departed. Crossing the swing bridge one last time made me very sad for a moment. But as a mariner, you need to get used to thinking ahead, so my mind was already on those 460 nautical miles between Cape Town and Luderitz.
+So we did the provisioning, filled the tanks, had a very pleasant dinner with our friends, and on Saturday December 15th we departed.
+
+![Saying farewell to the Cape Grace marina team](oroboro-intro/img_1422.jpg)
+
+Crossing the swing bridge one last time made me very sad for a moment. But as a mariner, you need to get used to thinking ahead, so my mind was already on those 460 nautical miles between Cape Town and Luderitz.
+
+![Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town](oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg)
+
+![Waving goodbye as Oroboro passes through the swing bridge](oroboro-intro/evlbe4843.jpg)
 
 Oroboro to us is the best boat, we prepared her well, and we trust her. Goodbye Cape Town, goodbye South Africa. We will be back one day.

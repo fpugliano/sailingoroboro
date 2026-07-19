@@ -95,13 +95,7 @@ With departure approaching, the real work began: provisioning for weeks at sea.
 
 ![Robertson wine, Windhoek beer, and Patrón — the drinks provisioning for the Atlantic crossing](oroboro-intro/img_1454.jpg)
 
-![Saying farewell to the Cape Grace marina team](oroboro-intro/img_1422.jpg)
-
-On December 15, 2018, we cast off. Oroboro cleared the V&A Waterfront swing bridge and headed north into the Atlantic.
-
-![Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town](oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg)
-
-![Waving goodbye as Oroboro passes through the swing bridge](oroboro-intro/evlbe4843.jpg)
+On December 15, 2018, we cast off and headed north into the Atlantic.
 
 ![Sunset through the saloon forward windows — the first night at sea](oroboro-intro/img_1504.jpg)
 
