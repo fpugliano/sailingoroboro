@@ -25,7 +25,19 @@ Unfortunately the Port Authority requires you to get a berth at the Royal Cape Y
 
 However, if you stay anywhere else other than RCYC and you want to check out of the country, you need to get a letter from RCYC saying that they didn't have a berth available for you and that you don't owe them any fees. Then you need to get a letter from the marina you're staying, saying that you have paid your fees. You need to show these letters to the Port Authority so that they can clear you out. Finally you have to visit Immigration and Customs. It's a rather complicated process, but people have been very nice with us.
 
-So we did the provisioning, filled the tanks, had a very pleasant dinner with our friends, and on Saturday December 15th we departed.
+So we did the provisioning, filled the tanks.
+
+![Full safety equipment inventory spread on the foredeck — life jackets, EPIRB, flares, tethers, PLBs, and the Oroboro life ring](oroboro-intro/img_0562.jpg)
+
+![First load of provisions arriving dockside](oroboro-intro/img_1415.jpg)
+
+![Yuka surrounded by the full provision inventory spread across the saloon](oroboro-intro/img_1416.jpg)
+
+![Canned goods, pasta, chocolate, and biscuits — enough for weeks offshore](oroboro-intro/img_1419.jpg)
+
+![Robertson wine, Windhoek beer, and Patrón — the drinks provisioning for the Atlantic crossing](oroboro-intro/img_1454.jpg)
+
+We had a very pleasant dinner with our friends, and on Saturday December 15th we departed.
 
 ![Saying farewell to the Cape Grace marina team](oroboro-intro/img_1422.jpg)
 

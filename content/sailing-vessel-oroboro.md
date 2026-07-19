@@ -67,8 +67,6 @@ The weeks at Cape Grace were a blur of deliveries, installations, and testing. H
 
 ![San Francisco — our home port, lettered on the hull](oroboro-intro/img_0591.jpg)
 
-![Full safety equipment inventory spread on the foredeck — life jackets, EPIRB, flares, tethers, PLBs, and the Oroboro life ring](oroboro-intro/img_0562.jpg)
-
 ![Yuka unpacking the ISTEC parasailor bag on the foredeck](oroboro-intro/img_0747.jpg)
 
 ![The yellow parasailor pulling Oroboro on a grey day off Cape Town](oroboro-intro/img_1324.jpg)
@@ -83,17 +81,7 @@ For the shake-down sail we headed north to Langebaan, a sheltered lagoon about 1
 
 ![Yuka at the helm during the Langebaan shake-down, a cargo ship on the horizon](oroboro-intro/img_1295.jpg)
 
-With departure approaching, the real work began: provisioning for weeks at sea.
-
 ![Yuka holds the Oroboro banner at Cape Grace — departure day almost here](oroboro-intro/img_1399.jpg)
-
-![First load of provisions arriving dockside](oroboro-intro/img_1415.jpg)
-
-![Yuka surrounded by the full provision inventory spread across the saloon](oroboro-intro/img_1416.jpg)
-
-![Canned goods, pasta, chocolate, and biscuits — enough for weeks offshore](oroboro-intro/img_1419.jpg)
-
-![Robertson wine, Windhoek beer, and Patrón — the drinks provisioning for the Atlantic crossing](oroboro-intro/img_1454.jpg)
 
 On December 15, 2018, we cast off and headed north into the Atlantic.
 
