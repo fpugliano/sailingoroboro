@@ -8,7 +8,11 @@ hero: namibia/img_1860.jpg
 
 We left Cape Town on Saturday December 15th 2018 with the 13:15 V&A Waterfront marina swing bridge opening. When calling Port Control over the VHF on channel 14 to ask permission to leave the harbor for one last time, I felt the importance of the moment and didn't forget to thank the people in the tower and wish them happy holidays: "Port Control, Port Control, Port Control, this is Sailing Vessel Oroboro, Oroboro, Oroboro over... [...] Port Control we are asking permission to leave the V&A Waterfront, destination Brazil via Luderitz and Walvis Bay in Namibia and then St Helena... [...] Port Control on behalf of the whole crew on Oroboro I wanted to thank you for keeping us safe, and I wish you happy holidays. We love your country and hope we'll be back one day! [...] To which they replied: Thank you Oroboro, we were happy to have you here! Fair winds!
 
-![Namibian coastline — desert dunes meeting the Atlantic](namibia/img_1860.jpg)
+![Saying farewell to the Cape Grace marina team](oroboro-intro/img_1422.jpg)
+
+![Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town](oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg)
+
+![Waving goodbye as Oroboro passes through the swing bridge](oroboro-intro/evlbe4843.jpg)
 
 **Saturday December 15th, 2018**
 
@@ -56,6 +60,6 @@ Last but not least, I think there can't be any crew better than this. We are eve
 
 ![Francesco and Yuka at the Kolmannskuppe entrance](namibia/img_1691.jpg)
 
-![Coming ashore on the Skeleton Coast](namibia/img_1747.jpg)
-
 Life is good.
+
+![Namibian coastline — desert dunes meeting the Atlantic](namibia/img_1860.jpg)
