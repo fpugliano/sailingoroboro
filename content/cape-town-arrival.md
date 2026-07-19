@@ -71,8 +71,6 @@ Exploring every inch of the boat was like unwrapping a very large present. Every
 
 ![Oroboro tied alongside at the Cape Grace dock](cape-town/img_9644.jpg)
 
-![Three solar panels on the bimini hardtop](cape-town/img_9677.jpg)
-
 ![The anchor locker and chain hawse pipe at the bow](cape-town/img_9635.jpg)
 
 ![An open deck hatch revealing the hull storage space](cape-town/img_9634.jpg)
