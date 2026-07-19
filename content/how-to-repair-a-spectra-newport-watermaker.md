@@ -32,4 +32,12 @@ There is very little about Clark Pumps and Spectra watermakers on internet. So w
 
 Huge thanks to Jonathan Halden of Halden Marine Service in Fort Lauderdale for providing the parts in an expedite way. Jonathan is very active on the Cruisers Forum and he has a proven record of helping the community with his expertise and services. This repair wouldn't have happened without him.
 
-[Watch the repair video on YouTube](https://www.youtube.com/watch?v=P19GC6GxQ7A&t=116s)
+<div class="video-embed">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/P19GC6GxQ7A?start=116"
+    title="How to repair a Spectra Newport 400 MKII watermaker — Clark Pump field repair"
+    loading="lazy"
+    allowfullscreen
+    allow="accelerometer; encrypted-media; gyroscope; picture-in-picture">
+  </iframe>
+</div>
