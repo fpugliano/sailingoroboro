@@ -17,6 +17,8 @@ And in the end, it's not the years in your life that count. It's the life in you
 
 ![Yuka at her office — surrounded by international flags and elephant figurines, the Silicon Valley tech world we were about to leave behind](quitting-jobs/yuka-linkedin.jpg)
 
+![Francesco at eBay, celebrating the launch of Fresh Feed — one of the last projects before leaving](quitting-jobs/img_8678.jpg)
+
 We spent countless hours planning and dreaming about the next step in our lives. So we thought that when it was finally going to be time to quit our jobs, we would be prepared, and it would be easy. We were wrong. It hasn't been easy at all.
 
 As soon as we learned the exact date for the splash of our boat, we decided to turn in our resignations. Because we worked in the same industry - it's a small world, we thought it would be better to do it at exactly the same time. So we picked up a date and a time that worked well for both of us. When that day come, we went through the details one last time during breakfast, and we left home with one mission: going to the office and quit. Once we did it, we felt sad, but also relieved.
