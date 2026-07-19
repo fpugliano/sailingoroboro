@@ -4,7 +4,7 @@ title: "Quitting our jobs"
 date: 2018-09-20
 region: sailing
 categories: [Job]
-hero: quitting-jobs/img_9572.jpg
+hero: quitting-jobs/img_9259.jpg
 ---
 
 Quitting our jobs was one of the hardest things we've ever done, especially because we loved what we were doing - well, the greater portion thereof.
