@@ -29,7 +29,7 @@ Then we drove east toward Knysna, and we stopped for the night in a fantastic co
 
 ![The outdoor lounge terrace at the lodge, shaded by sail awnings](discovering-sa/img_1059.jpg)
 
-<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none">
+<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075-poster.jpg">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075.mov" type="video/mp4">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075.mov" type="video/quicktime">
 </video>
@@ -56,7 +56,7 @@ The following day we hiked the Mouth Trail. We started at Sandy Bay and we hiked
 
 ![The Storms River mouth — dark, tannic water cutting through sheer green cliffs](discovering-sa/p1000442.jpg)
 
-<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none">
+<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211-poster.jpg">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211.mov" type="video/mp4">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211.mov" type="video/quicktime">
 </video>

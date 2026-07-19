@@ -9,7 +9,7 @@ hero: oroboro-intro/img_0897.jpg
 
 As we got on the docks at Cape Grace marina and we saw Oroboro for the first time, we were just ecstatic! It looked more beautiful than we ever dreamt of.
 
-<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none">
+<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604-poster.jpg">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604.mov" type="video/mp4">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604.mov" type="video/quicktime">
 </video>
@@ -100,7 +100,7 @@ Our first stop in the South Atlantic was St. Helena, the remote British island w
 
 ![Oroboro seen from the St. Helena clifftops — a small white hull in the deep blue](oroboro-intro/p1010151.jpg)
 
-<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none">
+<video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146-poster.jpg">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146.mov" type="video/mp4">
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146.mov" type="video/quicktime">
 </video>
