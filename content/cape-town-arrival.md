@@ -4,7 +4,7 @@ title: "Cape Town: 33° 54' 21.9\" S - 18° 25' 15.7\" E"
 date: 2018-09-29
 region: sailing
 categories: [Sailing]
-hero: cape-town/img_9629.jpg
+hero: cape-town/img_9855.jpg
 ---
 
 After 2 long flights and a 6 hours layover in Zurich, we landed in Cape Town, South Africa. First time for both of us in the Southern hemisphere and on the African continent. We are very excited by the fact that this year we are going to have Spring and Summer twice!
