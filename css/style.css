@@ -583,7 +583,9 @@ ul  { list-style: none; }
 
 .about-section .about-grid {
   grid-template-columns: 1fr;
-  max-width: 640px;
+  max-width: 960px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .about-text {
@@ -591,6 +593,9 @@ ul  { list-style: none; }
   margin-top: 1.25rem;
   font-size: 1.05rem;
   line-height: 1.75;
+  max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about-details {
@@ -598,6 +603,9 @@ ul  { list-style: none; }
   grid-template-columns: 1fr 1fr;
   gap: 1.25rem;
   margin-top: 2rem;
+  max-width: 560px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about-detail {
@@ -605,6 +613,7 @@ ul  { list-style: none; }
   padding: 1rem 1.25rem;
   border-radius: var(--radius);
   border: 1px solid rgba(255,255,255,0.08);
+  text-align: center;
 }
 
 .about-detail-label {
@@ -638,6 +647,7 @@ ul  { list-style: none; }
   gap: 1rem;
   margin-top: 2rem;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .about-link {
