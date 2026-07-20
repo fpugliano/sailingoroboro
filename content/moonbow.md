@@ -23,7 +23,7 @@ A moonbow.
 
 A moonbow is the same optical phenomenon as a rainbow. Moonlight enters water droplets suspended in the air, refracts, reflects off the back of the droplet, and exits at an angle that separates the wavelengths — the same physics Descartes worked out in 1637. The only difference is the light source. The moon, at full phase, is roughly 400,000 times dimmer than the sun. That's still enough to make a rainbow. But the human eye, operating in low-light scotopic mode, can't pick up the colours — they are there in the physics, but invisible to us. What you see is a white arc. Faint, clean, unmistakable.
 
-A camera with a long exposure can record the colours. I tried. The boat was moving, I was tired, and I wasn't about to go below for a tripod. I didn't get the shot. It doesn't matter.
+A camera with a long exposure can record the colours. I tried with my iPhone. The boat was moving, and I failed. It doesn't matter.
 
 ---
 
