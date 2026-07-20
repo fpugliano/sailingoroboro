@@ -12,6 +12,24 @@ hero: img_0469.jpg
 ---
 
 <p>This is exactly how long it took us to make the boat self-sufficient: we can now efficiently produce our own electricity and make our own potable water, plus we have the right systems to monitor and manage all this.  What's there not to like?</p>
+<h2>Behind the Build</h2>
+<p>Buying a boat essentially bare and having to add all the systems aftermarket is no small feat. Supervising contractors, making decisions on the fly, and tackling unexpected problems is never easy — let alone in a country you don’t know, where everything is unfamiliar and every solution needs to be discovered from scratch. But Cape Town turned out to be a magnificent place to get work done, and at a remarkably affordable price. The craftsmen we worked with were professional, resourceful, and took real pride in their trade. These are people we will remember for the rest of our lives.</p>
+<h3>The Solar Arch</h3>
+<p>One of the biggest and most visible projects was a custom stainless steel solar arch, designed to carry three large panels on the hardtop. It was fabricated from scratch in a local workshop and installed in just a few days.</p>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/solar-arch-fabrication.jpg" alt="The solar arch frame taking shape in the Cape Town workshop" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/solar-arch-welding.jpg" alt="Welding the stainless steel arch frame" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/solar-arch-dock-assembly.jpg" alt="Fitting the solar panels to the arch on the dock before lifting it onto the boat" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/solar-arch-complete.jpg" alt="Oroboro with the completed solar arch and three panels installed at V&amp;A Waterfront" />
+<h3>Making It a Home</h3>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/interior-install.jpg" alt="Yuka and a technician working on the interior electrical installation" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/electrical-panel.jpg" alt="The completed electrical panel — circuit breakers, VHF radio, and chartplotter all in place" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/arch-wiring.jpg" alt="Running wiring through the solar arch, high above the cockpit with the V&amp;A marina below" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/logo-application.jpg" alt="Two craftsmen carefully applying the Oroboro name and logo to the hull" />
+<h3>Ready to Sail</h3>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/safety-gear.jpg" alt="All the safety equipment laid out for inspection — life jackets, flares, tethers, EPIRB" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/ropes.jpg" alt="Color-coded and labeled running lines — Genoa, Main Sheet, Spinnaker, Reefs, Halyards — each in its place" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/team.jpg" alt="Francesco, one of our contractors, and Yuka — the team that made it all happen" />
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7wks/parasailor.jpg" alt="Francesco and Yuka under the Parasailor on its first sail — the moment we had been dreaming of" />
 <p>The next problem to tackle was: can this "floating apartment" we've been living on for the past month, also sail comfortably and safely?  How well can Oroboro point into the wind?  How efficient is the sails plan?  How fast can she sail? How will the standing and running riggings, blocks and tackles, shackles, halyards and sails hold up?  How easy will it be to hoist our Parasailor?  And what about the asymmetric?  Do we need a 2:1 halyard  to hoist it?  What can we do to improve performance and safety?   How easy it will be to sail the boat with a short-handed crew?  In fair and also in rough weather?  How does the boat heaves-to?  Lots of question marks...  So we started to take Oroboro out for test sails.</p>
 <p>Getting out of the V&amp;A Waterfront marina is tricky.  You have to go through two swing bridges.  They open only at 15 minutes before the hour and after the hour. You need to call them on channel 71 to tell them you want to cross.  Then you have to call the Cape Town port authority and ask permission to leave the harbor.  Cape Town port authority is on channel 14, whereas the rest of the ports authorities in the country are on channel 09.</p>
 <p>Once out of the harbor, we hoisted the asymmetric spinnaker, in 10 knots of True Wind.  We rigged soft shackles on the bows, and added a bridal sheet.  This was the first time for us to have to rig a spinnaker, and we were impressed by how easy it was to do this on a cat. Preparation is the key, of course, as there are many things that can go wrong.  So we triple checked everything and everything went well.</p>
