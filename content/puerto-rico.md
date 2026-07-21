@@ -7,6 +7,7 @@ categories:
 - Sailing
 raw_html: true
 hero: img_8876.jpg
+card_position: top
 ---
 
 <p>You can tell we are approaching the end of the Tropics:  Weather patterns are starting to change!</p>

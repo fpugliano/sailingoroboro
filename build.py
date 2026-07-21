@@ -246,6 +246,7 @@ def parse_markdown_posts():
         if isinstance(cats_raw, str):
             cats_raw = [cats_raw]
         hero = str(fm.get('hero', ''))
+        card_position = str(fm.get('card_position', ''))
 
         # Event date for display and sorting
         try:
@@ -289,6 +290,7 @@ def parse_markdown_posts():
             'region':            region_key,
             'region_display':    region_display,
             'image':             image,
+            'card_position':     card_position,
             'excerpt':           excerpt,
             'is_markdown':       True,
             'is_prebuilt':       False,
@@ -461,7 +463,9 @@ def build_index(posts):
     for p in latest:
         img_html = ''
         if p['image']:
-            img_html = f'<img src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}" loading="lazy">'
+            pos = p.get('card_position', '')
+            pos_style = f' style="object-position:{html.escape(pos)}"' if pos else ''
+            img_html = f'<img src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}" loading="lazy"{pos_style}>'
         else:
             img_html = '<div class="post-card-no-image">⛵</div>'
 
@@ -665,7 +669,9 @@ def build_blog(posts):
     for p in reversed(posts):
         img_html = ''
         if p['image']:
-            img_html = f'<img src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}" loading="lazy">'
+            pos = p.get('card_position', '')
+            pos_style = f' style="object-position:{html.escape(pos)}"' if pos else ''
+            img_html = f'<img src="{html.escape(p["image"])}" alt="{html.escape(p["title"])}" loading="lazy"{pos_style}>'
         else:
             img_html = '<div class="post-card-no-image">⛵</div>'
 
