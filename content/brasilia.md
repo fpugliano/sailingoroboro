@@ -3,7 +3,7 @@ slug: brasilia
 title: "Brasilia"
 date: 2019-05-12
 categories: [Sailing]
-hero: img_2519.jpg
+hero: img_2304.jpg
 ---
 
 From Vitoria, we flew to Brasilia to spend a couple of days exploring this unique town. Brasilia is the modernist city that a very cool and visionary and charismatic president of Brazil, Juscelino Kubitschek, wanted to be created from scratch.

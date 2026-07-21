@@ -6,7 +6,7 @@ region: sailing
 categories:
 - Sailing
 raw_html: true
-hero: img_4828.jpg
+hero: img_4720.jpg
 ---
 
 <p>The Abrolhos archipelago Park Ranger Joyce mentioned to us that Cumuruxatiba was a great place to stop.  I'm glad we followed her advice because the place was really fantastic.</p>
