@@ -43,6 +43,9 @@ hero: 88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/beach-bar-pergola.jpg" alt="Barbuda's open-air beach bar — thatched pergola, hammock, barrel tables on white sand" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/yuka-empty-beach.jpg" alt="Yuka walking an empty Barbuda beach — the island was ours" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/donkey-beach.jpg" alt="One of Barbuda's famous wild donkeys grazing at the edge of the beach" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<p>The other thing Barbuda is famous for: a seaplane is the only scheduled link to the outside world. We watched it come and go every day.</p>
+<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-beach-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-beach.mov" type="video/quicktime"></video>
+<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-oroboro-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-oroboro.mp4" type="video/mp4"></video>
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/cockpit-pizza-beer.jpg" alt="Pizza and a cold Carib on Oroboro's cockpit — boats in turquoise water behind" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 
 <p>We spent 3 months in this paradise, kite boarding every day.</p>
