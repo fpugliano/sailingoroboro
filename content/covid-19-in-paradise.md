@@ -44,8 +44,12 @@ hero: 88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/yuka-empty-beach.jpg" alt="Yuka walking an empty Barbuda beach — the island was ours" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/donkey-beach.jpg" alt="One of Barbuda's famous wild donkeys grazing at the edge of the beach" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 <p>The other thing Barbuda is famous for: a seaplane is the only scheduled link to the outside world. We watched it come and go every day.</p>
-<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-beach-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-beach.mov" type="video/quicktime"></video>
+<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-beach-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-beach.mp4" type="video/mp4"></video>
+<p style="text-align:center;font-style:italic;font-size:0.9em;margin-top:-0.5rem;color:#666;">The seaplane landing in front of Barbuda's beach — the island's only scheduled link to the outside world</p>
+
 <video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-oroboro-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/seaplane-oroboro.mp4" type="video/mp4"></video>
+<p style="text-align:center;font-style:italic;font-size:0.9em;margin-top:-0.5rem;color:#666;">The seaplane taxiing past Oroboro and the other boats at anchor</p>
+
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/cockpit-pizza-beer.jpg" alt="Pizza and a cold Carib on Oroboro's cockpit — boats in turquoise water behind" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 
 <p>We spent 3 months in this paradise, kite boarding every day.</p>
@@ -57,9 +61,15 @@ hero: 88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kite-francesco-grin.jpg" alt="Francesco kiteboarding in Barbuda, grinning" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kite-francesco-jump.jpg" alt="Francesco airborne in Barbuda" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 
-<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kite-anchorage-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kite-anchorage.mov" type="video/quicktime"></video>
+<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kite-anchorage-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kite-anchorage.mp4" type="video/mp4"></video>
+<p style="text-align:center;font-style:italic;font-size:0.9em;margin-top:-0.5rem;color:#666;">Kiteboarding in the Barbuda anchorage — our daily routine for three months</p>
+
 <video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kitesurfing-barbuda-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/kitesurfing-barbuda.mp4" type="video/mp4"></video>
-<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/drone-beach-kite-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/drone-beach-kite.mov" type="video/quicktime"></video>
+<p style="text-align:center;font-style:italic;font-size:0.9em;margin-top:-0.5rem;color:#666;">Aerial kiteboarding edit over Barbuda's turquoise water</p>
+
+<video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/drone-beach-kite-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/drone-beach-kite.mp4" type="video/mp4"></video>
+<p style="text-align:center;font-style:italic;font-size:0.9em;margin-top:-0.5rem;color:#666;">Drone footage over Barbuda's beach — the kite is visible over the lagoon</p>
+
 
 <p>Yuka in half a day and a few tries, learned the back-roll!&#160; Took me two weeks to learn it a few years ago!&#160; She is such a better kiteboarder than me.</p>
 <p>https://instagram.com/p/CA_TItcAw5O/</p>
