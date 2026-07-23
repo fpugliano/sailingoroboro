@@ -7,7 +7,7 @@ categories:
 - Caribbean
 - Sailing
 raw_html: true
-hero: 88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg
+hero: barbuda/oroboro-bow-barbuda.jpg
 ---
 
 <p>Since we come back from Japan after the Christmas holidays, we were having a very good time sailing north along the island&#8217;s chain.&#160; We had friends visiting us in Grenada and in Guadeloupe, and and we were really enjoying ourselves.&#160; Life was good!</p>
@@ -19,7 +19,7 @@ hero: 88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg
  	<li>Many Europeans cruisers rushed towards the French islands, thinking that they would be better off in a European Union&#8217;s country.</li><br>
  	<li>Some of those who had planed to cross to the Mediterranean (like us) or to the Pacific (like Joaquin and Monica), had to change their plans.</li><br>
 </ul>Nobody knew what was going to happen, there was confusion and panic.&#160; There were news of sailors who were refused Safe harbor or Innocent passage in the Caribbean, the Mediterranean and the Pacific.&#160; Xenophobia was spreading across the island nations and among cruisers themselves.</p>
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg" class="aligncenter size-full wp-image-6656" alt="Cruisers xenophobia" width="1124" height="901">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/88cb5673-19cf-4602-b6f2-4a7003c2de27.jpeg" class="aligncenter size-full wp-image-6656" alt="Cruisers xenophobia" style="max-width:562px;width:100%;display:block;margin:0 auto;">
 <p>Yuka and I considered our options, and decided to stay put in Barbuda:&#160; Small island nation, government probably too small to really mess it up, like what they did in Europe or U.S.A.&#160; We knew it was something serious, because we followed the news from Italy, whereas the rest of the world was still debating if covid was nothing more than a flu.&#160; &#160;In the United States, President Donald Trump himself was (and still is) a covid and face-mask denier.&#160; Luckily, we had a much better idea of what was going on.</p>
 <p>We were in Barbuda when we heard that a lock-down with curfew (yes, curfew like in war times!) was going to be imposed in the country.&#160; Barbuda is a small island with about 1,600 residents who live in one village, and no supermarkets.&#160; We didn&#8217;t think twice:&#160; We set sails for Antigua where the big supermarket is, we provisioned for a month and we returned to Barbuda on the same day.&#160; We wanted to stay as far away as possible from civilization. And Barbuda was the perfect place for that.&#160; At some point when we were in Antigua we heard rumors that by midnight on the same day, they were going to prohibit boats to sail from Antigua to Barbuda, so we left in a hurry and arrived there at night.</p>
 
