@@ -10,8 +10,7 @@ hero: oroboro-intro/img_0897.jpg
 As we got on the docks at Cape Grace marina and we saw Oroboro for the first time, we were just ecstatic! It looked more beautiful than we ever dreamt of.
 
 <video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604-poster.jpg">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604.mov" type="video/mp4">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604.mov" type="video/quicktime">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604.mp4" type="video/mp4">
 </video>
 
 Naval architects Alexander Simonis and Maarten Voogd have done an excellent job in optimizing space, setting a new standard for cruising catamarans. The innovative layout makes the interior space feel like a larger yacht. As soon as you step in the saloon it's hard to believe that this is "only" a 40 foot. Compared to a same length catamaran of only a few years ago, it feels so much bigger.
@@ -101,8 +100,7 @@ Our first stop in the South Atlantic was St. Helena, the remote British island w
 ![Oroboro seen from the St. Helena clifftops — a small white hull in the deep blue](oroboro-intro/p1010151.jpg)
 
 <video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146-poster.jpg">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146.mov" type="video/mp4">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146.mov" type="video/quicktime">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_2146.mp4" type="video/mp4">
 </video>
 
 ![Oroboro from the masthead — solar panels covering the coachroof, open ocean in every direction](oroboro-intro/img_2206.jpg)

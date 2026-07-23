@@ -32,8 +32,7 @@ The bay is surrounded by tall sand dunes, and the contrast between the golden sa
 When looking north, we could see hundreds of dunes that on our Navionics charts are marked as Blue Mountains. Now we could understand why "blue". They really looked blue from where we were looking!
 
 <video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1744-poster.jpg">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1744.mov" type="video/mp4">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1744.mov" type="video/quicktime">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1744.mp4" type="video/mp4">
 </video>
 
 ![Aerial view of the Namibian Skeleton Coast — dunes meeting the Atlantic](namibia/img_1860.jpg)

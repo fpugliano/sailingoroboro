@@ -28,12 +28,12 @@ Around 2 pm, as predicted, we started seeing constant 30 knots of wind from the 
 <p>We started with one reef in the main and one in the jib.  Wind around 20/25 knots.  The boat felt very safe, and we were doing around 9 knots at 60/70 degrees angle into the wind.  We marked the reef 1 line and the halyard, so that next time that we'll need to reef it's going to be simpler.</p>
 <p>Then the wind increased to a steady 30/35, gusting 38.  According to the Beaufort scale, this is a Force 8, gale force wind!  We put another reef in the the main and the jib. We were just flying:</p>
 <video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/stress-test/img_0781-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/stress-test/img_0781.mov" type="video/mp4">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/stress-test/img_0781.mp4" type="video/mp4">
 </video>
 <p>The boat was still handling very well, pounding into the waves.  Waves were not big, but at very short intervals, like in the med.  So it was perfect test ground.</p>
 <p>It was intense, but we never felt unsafe.  As a matter of fact, if we went down in the saloon and closed the cockpit door, it was very quite and comfortable:</p>
 <video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/stress-test/img_0494-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/stress-test/img_0494.mov" type="video/mp4">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/stress-test/img_0494.mp4" type="video/mp4">
 </video>
 <p>A little accident happened when we tried to tack, with the jib sheets getting caught in the cleats at the mast.  Lots of noise from the jib flapping around and the jib sheets flying like crazy.  We managed to furl the jib and stabilize it, but then we had to clean the mess, with the jib sheets all tangled with other ropes at the mast.  That was intense!  I will need to find a system to cover those cleats to avoid this kind of accidents happening in the future.  But for the time being, we decided that moving forward when we'll have to tack under such a strong wind, we'll just furl in the jib first, then tack.  Better be safe than sorry.  At sea, there are a lot of things that can quickly go wrong, so we need to be able to manage that risk.</p>
 <p>The next item on the list was checking how the boat would sail with just the jib into strong winds and waves.  So we dropped the main completely, and we sailed just with a little handkerchief of jib.  We did about 5 knots of speed in 30/35 knots of wind at 60/70 degrees.</p>

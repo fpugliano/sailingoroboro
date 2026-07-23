@@ -30,8 +30,7 @@ Then we drove east toward Knysna, and we stopped for the night in a fantastic co
 ![The outdoor lounge terrace at the lodge, shaded by sail awnings](discovering-sa/img_1059.jpg)
 
 <video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075-poster.jpg">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075.mov" type="video/mp4">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075.mov" type="video/quicktime">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1075.mp4" type="video/mp4">
 </video>
 
 Next to this country house we discovered a fabulous restaurant called Zinzi, where we had a fantastic lunch.
@@ -57,8 +56,7 @@ The following day we hiked the Mouth Trail. We started at Sandy Bay and we hiked
 ![The Storms River mouth — dark, tannic water cutting through sheer green cliffs](discovering-sa/p1000442.jpg)
 
 <video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211-poster.jpg">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211.mov" type="video/mp4">
-  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211.mov" type="video/quicktime">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/discovering-sa/img_1211.mp4" type="video/mp4">
 </video>
 
 On the way back to Cape Town, we stopped in a nice lodge and had a tour in a jeep to see wild life. Very nice jeep trails that reminded me of my dirt bike rides in Death Valley. The settings were perfect, and we were really lucky to see a cheetah very close.
