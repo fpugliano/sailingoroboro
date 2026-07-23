@@ -81,6 +81,8 @@ hero: barbuda/oroboro-bow-barbuda.jpg
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/sunset-barbuda.jpg" alt="Sunset over the Atlantic from Barbuda — brilliant orange and pink" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/yuka-bonfire.jpg" alt="Yuka by a beach bonfire at night — Barbuda's deep blue dusk sky" style="width:100%;border-radius:8px;margin:1.5rem 0;">
 
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/beach-pavilion-covid.jpg" alt="An open-air beach pavilion on Barbuda's white sand — our gym during the lockdown months" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+
 <p>Spending the hurricane season in the hurricane alley is not something to be taken with a light hearth.&#160; But this is a topic for a different post.</p>
 <p>&#160;</p>
 <p>&#160;</p>
