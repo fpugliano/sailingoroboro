@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 wp-images/
 Oroboro_Blog_Back_Up_All.xml
+
+# Full-resolution consolidated GPS track — local only, never publish
+Consolidated-Track/ConsolidatedTrack.gpx
