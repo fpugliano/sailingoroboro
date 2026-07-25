@@ -7,6 +7,15 @@ categories: [Job]
 hero: quitting-jobs/img_9259.jpg
 ---
 
+<div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
+  <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 1</p>
+  <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">Quitting Our Jobs</p>
+  <p style="font-family:'Inter',sans-serif;font-size:0.9rem;color:#2C3E50;margin:0 0 1.1rem;line-height:1.65;">Before Oroboro, before the ocean, there was a question: could you actually do it? In this episode, Francesco and Yuka explain what it takes to walk into an office and resign — and why it turned out to be nothing like they expected.</p>
+  <audio controls style="width:100%;display:block;border-radius:4px;">
+    <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/podcast/Sailing_Oroboro_Ep_01.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 Quitting our jobs was one of the hardest things we've ever done, especially because we loved what we were doing - well, the greater portion thereof.
 
 With our jobs, we also leave behind the security and comfort of our established lives. What about friends? What about health insurance? Mortgage? How long will our savings last? Who will offer us another job if we stay out of the workforce for so long? These and many other questions kept us often awake at night.

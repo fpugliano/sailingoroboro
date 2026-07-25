@@ -7,6 +7,15 @@ categories: [Boat, Boat Systems]
 hero: oroboro-intro/img_0897.jpg
 ---
 
+<div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
+  <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 2</p>
+  <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">The Boat</p>
+  <p style="font-family:'Inter',sans-serif;font-size:0.9rem;color:#2C3E50;margin:0 0 1.1rem;line-height:1.65;">Two hulls, two engines, and a dream. In this episode, Francesco explains how he and Yuka spent years choosing the right boat for a world voyage — and describes the moment they first stepped aboard Oroboro in Cape Town.</p>
+  <audio controls style="width:100%;display:block;border-radius:4px;">
+    <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/podcast/Sailing_Oroboro_Ep_02.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 As we got on the docks at Cape Grace marina and we saw Oroboro for the first time, we were just ecstatic! It looked more beautiful than we ever dreamt of.
 
 <video controls style="width:100%;max-width:720px;display:block;margin:2rem auto;" preload="none" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_9604-poster.jpg">

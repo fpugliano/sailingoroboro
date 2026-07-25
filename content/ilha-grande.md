@@ -9,6 +9,15 @@ raw_html: true
 hero: fullsizeoutput_1ba.jpeg
 ---
 
+<div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
+  <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 5</p>
+  <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">Paraty &amp; The Opera Singer</p>
+  <p style="font-family:'Inter',sans-serif;font-size:0.9rem;color:#2C3E50;margin:0 0 1.1rem;line-height:1.65;">Seven months in Brazil was never the plan. But Paraty — with its cobblestone streets, bossa nova, and tides that flood the town like Venice — made it hard to leave. And one night at anchor in Ilha Grande, an Argentine opera singer and a guitarist who had never met began talking to each other across the water.</p>
+  <audio controls style="width:100%;display:block;border-radius:4px;">
+    <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/podcast/Sailing_Oroboro_Ep_05.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 <p>Ilha Grande (The Big Island) is a perfect ground for cruising:  there are 365 little islands and 2,000 wild white sandy beaches within 3 to 6 hours of navigation among each other at the most.  This is where the rich and famous Brazilians have their holiday homes, and it can get pretty busy in summer, with lots of motorboats (floating discos) and sailboats (few foreigners, mostly from Argentina).  Here you can go from one beautiful anchorage to another in just a few hours, you can always find a place that is protected from the wind and the swell.  It is so diverse, that you can easily spend years exploring the area.</p>
 <p>I think that on day one at our first anchorage in Sitio Forte, Yuka told me "forget the Caribbean, I want to spend a couple of years here, not just a few months!".</p>
 <p>And she is right, this place deserves a longer stay.  But unfortunately our 3 months Visa can only be extended for an extra 3 months, and we have a long way to go to reach the Caribbean, about 4,000 nm, which is just as long as the ocean crossing from Cape Town.  And we also want to explore other parts of Brazil.  So we limited our stay to exactly 2 months.</p>

@@ -10,6 +10,15 @@ raw_html: true
 hero: img_2968.jpg
 ---
 
+<div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
+  <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 4</p>
+  <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">St. Helena to Brazil: The Longest Leg</p>
+  <p style="font-family:'Inter',sans-serif;font-size:0.9rem;color:#2C3E50;margin:0 0 1.1rem;line-height:1.65;">2,271 nautical miles, 18 days at sea, two people — and a watermaker that failed on day three. Also: water rationing, a 14kg tuna, a Golden Globe solo racer in the middle of the Atlantic, and the first light of Brazil at 2am.</p>
+  <audio controls style="width:100%;display:block;border-radius:4px;">
+    <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/podcast/Sailing_Oroboro_Ep_04.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 <p>We made it!</p>
 <p>Exactly 51 days after leaving Cape Town, Oroboro has arrived in Ilha Grande, Brazil.  Crossing the South Atlantic ocean has been an incredible experience that we will treasure for the rest of our lives.  Here is an excerpt from our old style Ship Log Book.<br>
 <h2><img class="aligncenter wp-image-1648 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2968.jpg" alt="Logbook on Oroboro" width="3910" height="2930" /></h2><br>

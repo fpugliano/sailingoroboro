@@ -10,6 +10,15 @@ raw_html: true
 hero: chiesa_di_ognissanti_firenze_facciata.jpg
 ---
 
+<div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
+  <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 6</p>
+  <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">Salvador de Bahia</p>
+  <p style="font-family:'Inter',sans-serif;font-size:0.9rem;color:#2C3E50;margin:0 0 1.1rem;line-height:1.65;">Salvador de Bahia is the third largest city in Brazil, and the one where its African roots run deepest. It also has a surprising connection to Francesco's hometown of Florence — and to the very name of the Americas. Plus: a Candomblé ceremony, a lunch in a favela, and the strangest thing you can witness in a harbour.</p>
+  <audio controls style="width:100%;display:block;border-radius:4px;">
+    <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/podcast/Sailing_Oroboro_Ep_06.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 <p>Salvador the Bahia is an important landmark in our voyage.</p>
 <p>After visiting Cape of Good Hope last year, seeing a full scale reproduction of the caravela used by Bartolomeu Diaz in Mossel Bay (South Africa), dropping anchor in the exact spot where Pedro Álvares Cabral made the fist landfall in Brazil 500+ years ago (which is not Porto Seguro, as some people believe), now it was time for us to learn more about an Italian explorer: Amerigo Vespucci!</p>
 <p>There is a very interesting book about the "supposedly" 4 voyages of Amerigo Vespucci, written by M. Fernandez de Navarrete, the famous Spanish Marine Historian. The title is "<i>Viajes de Américo Vespucio".  </i>My friend Joaquin graciously lent it to me.</p>

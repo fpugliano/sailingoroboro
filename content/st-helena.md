@@ -9,6 +9,15 @@ raw_html: true
 hero: 5hpdgjnsmolkfggjzagw.jpg
 ---
 
+<div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
+  <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 3</p>
+  <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">St. Helena: Napoleon's Island</p>
+  <p style="font-family:'Inter',sans-serif;font-size:0.9rem;color:#2C3E50;margin:0 0 1.1rem;line-height:1.65;">After 25 days at sea from Cape Town, Oroboro drops anchor at one of the most remote and storied islands on Earth. Napoleon died here. Halley mapped the stars here. And Jonathan — a giant tortoise born in 1832 — is still very much alive here.</p>
+  <audio controls style="width:100%;display:block;border-radius:4px;">
+    <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/podcast/Sailing_Oroboro_Ep_03.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
 <p>Oroboro dropped anchor at St Helena on Wednesday, January 9, 2019. St Helena is an iconic place — it was cut off from the rest of the world for centuries. No wonder the British chose this island to exile Napoleon after he escaped from Elba, in Italy.</p>
 
 <p>St Helena could only be reached by sea until a few years ago, when an airport was built. Now there are weekly flights from Johannesburg every Saturday, but the hoped-for wave of tourists never materialised, leaving local businesses and investors in debt and struggling to survive.</p>
