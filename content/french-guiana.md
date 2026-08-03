@@ -34,6 +34,50 @@ We would have loved to see the launch of a Soyuz or Ariane, but unfortunately it
 <p>I was a bit preoccupied because to get there we have to sail along the coast of Venezuela, a beautiful but very dangerous country.  We'll make sure to stay well off-shore, were pirates can't reach us with their powerboats!</p>
 <p>Piracy in Venezuela is a big problem.  There are many reports of pirates attacking yachts, and the corrupted authorities don't do anything.  What a pity, it's such a beautiful country otherwise.  The Italian explorer and navigator Amerigo Vespucci named this country after Venice, Italy.  When he landed on the coast along the area of Lake Maracaibo, the stilt houses reminded him of the city of Venice.</p>
 <p>I hope one day, if the political situation changes, I will be able to visit.  For now, it's a no man's land, and we'll have to be extra careful when navigating along its coast.<sup id="cite_ref-FOOTNOTEThomas2005189_36-0" class="reference"></sup></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+<figure style="margin:2rem 0;text-align:center;">
+  <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/french-guiana-track.gif"
+       alt="S/V Oroboro GPS sailing track — French Guiana, November–December 2019"
+       style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; French Guiana &mdash; November&ndash;December 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; French Guiana, Nov&ndash;Dec 2019</h2>
+<p>Two stops after the 7-day magic-carpet passage from Fortaleza, Brazil.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Iles du Salut</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Nov 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Former penal colony &middot; &Icirc;le Royale &amp; Saint-Joseph</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Kourou</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Dec 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">7-day passage from Fortaleza &middot; Guiana Space Center visit</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed-in charts of each stop in French Guiana, with GPS track overlay.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/french-guiana-iles-du-salut.png" alt="Iles du Salut anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Iles du Salut</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/french-guiana-kourou.png" alt="Kourou anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Kourou</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived November&ndash;December 2019.</p>

@@ -47,3 +47,59 @@ hero: 7a48b6a6-cb57-4406-ac58-08e58dba0727.jpg
 <p>Charlotte Amalie is a lovely town, we had a lot of fun walking in its deserted streets:</p>
 <img class="aligncenter size-full wp-image-7405" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8647.jpg" alt="" width="3024" height="4032" />
 <p>We had a great time in St John, but soon it was time to leave for the Spanish Virgin Islands!</p>
+
+<figure style="margin:2rem 0;text-align:center;">
+  <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/usvi-track.gif"
+       alt="S/V Oroboro GPS sailing track — US Virgin Islands, January–April 2021"
+       style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; US Virgin Islands &mdash; January&ndash;April 2021 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; US Virgin Islands, Jan&ndash;Apr 2021</h2>
+<p>Three islands, each utterly different from the other, after the long COVID pause in Barbuda.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">St Croix &mdash; Christiansted</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Jan 2021</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">First USVI stop &middot; Buck Island Reef NM</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">St John</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Feb&ndash;Mar 2021</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">90% National Park &middot; mooring balls only</td>
+    </tr>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">St Thomas &mdash; Charlotte Amalie</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Apr 2021</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Historic sand-floor synagogue</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed-in charts of each USVI stop, with GPS track overlay.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/usvi-st-croix-christiansted.png" alt="St Croix Christiansted anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St Croix &mdash; Christiansted</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/usvi-st-john.png" alt="St John anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St John</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/usvi-st-thomas-charlotte-amalie.png" alt="St Thomas Charlotte Amalie anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St Thomas &mdash; Charlotte Amalie</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived January&ndash;April 2021.</p>

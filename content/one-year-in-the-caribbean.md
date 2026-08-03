@@ -130,6 +130,76 @@ hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
 <video controls poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/quik-edit-march-2020-poster.jpg" style="width:100%;border-radius:10px;margin:2rem 0;box-shadow:var(--shadow-md);"><source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/quik-edit-march-2020.mp4" type="video/mp4"></video>
 <p style="text-align:center;font-style:italic;font-size:0.9em;margin-top:-0.5rem;color:#666;">A GoPro Quik edit from March 2020 — sailing in the Grenadines just before Covid changed everything</p>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<figure style="margin:2rem 0;text-align:center;">
+  <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-track.gif"
+       alt="S/V Oroboro GPS sailing track — Lesser Antilles, 2020"
+       style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; Lesser Antilles &mdash; 2020 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; Lesser Antilles, 2020</h2>
+<p>Five stops through the island chain, from the Grenadines to Antigua, before COVID changed everything.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Union Island (Happy Island)</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">2020</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Happy Island bar &middot; kite boarding</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Bequia &mdash; Admiralty Bay</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">2020</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Port Elizabeth &middot; restaurants &middot; sea cave</td>
+    </tr>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">St Lucia &mdash; The Pitons</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">2020</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Most dramatic Caribbean anchorage</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Guadeloupe &mdash; Bas-du-Fort</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">2020</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">New Ballistic RIB dinghy &middot; Caraibe Marine</td>
+    </tr>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Antigua &mdash; English Harbour</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Mar 2020</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Nelson&rsquo;s Dockyard &middot; Antigua Yacht Club</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed-in charts of each stop through the Lesser Antilles, with GPS track overlay.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-union-island-happy-island.png" alt="Union Island (Happy Island) anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Union Island &mdash; Happy Island</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-bequia-admiralty-bay.png" alt="Bequia Admiralty Bay anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Bequia &mdash; Admiralty Bay</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-st-lucia-the-pitons.png" alt="St Lucia The Pitons anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St Lucia &mdash; The Pitons</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-guadeloupe-bas-du-fort.png" alt="Guadeloupe Bas-du-Fort anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Guadeloupe &mdash; Bas-du-Fort</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-antigua-english-harbour.png" alt="Antigua English Harbour anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Antigua &mdash; English Harbour</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived 2020.</p>
