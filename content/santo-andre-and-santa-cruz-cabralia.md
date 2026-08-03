@@ -7,7 +7,7 @@ categories:
 - Brazil
 - Sailing
 raw_html: true
-hero: img_5099.jpg
+hero: img_5071.jpg
 ---
 
 <p><strong>Santa Cruz Cabrália, May 2019</strong></p>

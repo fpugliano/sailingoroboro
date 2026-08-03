@@ -7,7 +7,7 @@ categories:
 - Brazil
 - Sailing
 raw_html: true
-hero: chiesa_di_ognissanti_firenze_facciata.jpg
+hero: fullsizeoutput_a9f.jpeg
 ---
 
 <p><strong>Salvador de Bahia, August 2019</strong></p>

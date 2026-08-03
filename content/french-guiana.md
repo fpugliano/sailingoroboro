@@ -6,7 +6,7 @@ region: sailing
 categories:
 - Sailing
 raw_html: true
-hero: tracks.jpg
+hero: img_8556.jpg
 ---
 
 <p><strong>French Guiana, December 2019</strong></p>

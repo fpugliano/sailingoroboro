@@ -4,7 +4,7 @@ slug: 2nd-atlantic-crossing
 date: 2021-05-03
 region: atlantic-crossing
 categories: [Atlantic-Crossing, Sailing]
-hero: atlantic-crossing/spinnaker.jpg
+hero: fullsizeoutput_149.jpeg
 ---
 
 **Atlantic Ocean, May 2021**

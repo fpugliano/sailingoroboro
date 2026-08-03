@@ -6,7 +6,7 @@ region: sailing
 categories:
 - Sailing
 raw_html: true
-hero: img_2476.jpg
+hero: img_4535.jpg
 ---
 
 <p><strong>Pirenópolis, April 2019</strong></p>
