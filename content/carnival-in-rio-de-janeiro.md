@@ -1,7 +1,7 @@
 ---
 slug: carnival-in-rio-de-janeiro
 title: Carnival in Rio de Janeiro!
-date: '2019-04-15'
+date: '2019-02-01'
 region: brazil
 categories:
 - Brazil

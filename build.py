@@ -251,7 +251,7 @@ def parse_markdown_posts():
         # Event date for display and sorting
         try:
             evt_dt = datetime.strptime(date_str, '%Y-%m-%d')
-            display_date = evt_dt.strftime('%B %d, %Y')
+            display_date = evt_dt.strftime('%B %Y')
         except ValueError:
             display_date = date_str
 

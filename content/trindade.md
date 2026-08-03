@@ -1,7 +1,7 @@
 ---
 slug: trindade
 title: Trindade
-date: '2019-03-12'
+date: '2019-01-01'
 region: sailing
 categories:
 - Sailing

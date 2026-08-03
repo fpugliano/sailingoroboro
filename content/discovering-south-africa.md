@@ -1,7 +1,7 @@
 ---
 slug: discovering-south-africa
 title: "Discovering South Africa"
-date: 2018-12-04
+date: '2018-11-01'
 region: sailing
 categories: [South Africa]
 hero: img_1035.jpg

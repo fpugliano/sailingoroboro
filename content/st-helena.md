@@ -1,7 +1,7 @@
 ---
 slug: st-helena
 title: St Helena
-date: '2019-03-10'
+date: '2019-01-01'
 region: sailing
 categories:
 - Sailing

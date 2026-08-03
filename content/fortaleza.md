@@ -1,7 +1,7 @@
 ---
 slug: fortaleza
 title: Fortaleza
-date: '2019-11-13'
+date: '2019-09-01'
 region: brazil
 categories:
 - Brazil

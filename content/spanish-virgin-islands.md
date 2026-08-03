@@ -1,7 +1,7 @@
 ---
 slug: spanish-virgin-islands
 title: Spanish Virgin Islands
-date: '2021-04-09'
+date: '2021-02-01'
 region: sailing
 categories:
 - Sailing

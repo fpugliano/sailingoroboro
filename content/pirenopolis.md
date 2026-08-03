@@ -1,7 +1,7 @@
 ---
 slug: pirenopolis
 title: Pirenopolis
-date: '2019-05-13'
+date: '2019-04-01'
 region: sailing
 categories:
 - Sailing

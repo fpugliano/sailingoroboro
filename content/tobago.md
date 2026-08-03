@@ -1,7 +1,7 @@
 ---
 slug: tobago
 title: Tobago
-date: '2020-01-03'
+date: '2019-10-01'
 region: sailing
 categories:
 - Sailing

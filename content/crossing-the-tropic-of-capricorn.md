@@ -1,7 +1,7 @@
 ---
 slug: crossing-the-tropic-of-capricorn
 title: The Tropic of Capricorn
-date: '2019-01-01'
+date: '2018-12-01'
 region: Namibia
 categories:
 - Namibia

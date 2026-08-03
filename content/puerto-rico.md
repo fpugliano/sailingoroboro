@@ -1,7 +1,7 @@
 ---
 slug: puerto-rico
 title: Puerto Rico
-date: '2021-04-13'
+date: '2021-02-01'
 region: sailing
 categories:
 - Sailing

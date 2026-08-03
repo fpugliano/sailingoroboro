@@ -1,7 +1,7 @@
 ---
 slug: dominican-republic
 title: Dominican Republic
-date: '2021-04-23'
+date: '2021-03-01'
 region: sailing
 categories:
 - Sailing

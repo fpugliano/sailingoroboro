@@ -1,7 +1,7 @@
 ---
 slug: trinidad
 title: Trinidad
-date: '2019-12-31'
+date: '2019-09-01'
 region: sailing
 categories:
 - Sailing

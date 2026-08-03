@@ -1,7 +1,7 @@
 ---
 slug: camamu-bay
 title: Camamù Bay
-date: '2019-07-09'
+date: '2019-05-01'
 region: brazil
 categories:
 - Brazil

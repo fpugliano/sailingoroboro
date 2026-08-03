@@ -1,7 +1,7 @@
 ---
 slug: armacao-dos-buzios-simply-known-as-buzios
 title: Armação dos Búzios, simply known as Búzios
-date: '2019-05-06'
+date: '2019-04-01'
 region: sailing
 categories:
 - Sailing

@@ -1,7 +1,7 @@
 ---
 slug: one-year-in-the-caribbean
 title: One year in the Caribbean...
-date: '2020-11-15'
+date: '2019-11-01'
 region: caribbean
 categories:
 - Caribbean

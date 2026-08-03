@@ -1,7 +1,7 @@
 ---
 slug: santo-antonio-do-paraguacu
 title: Santo Antônio do Paraguaçu
-date: '2019-09-16'
+date: '2019-07-01'
 region: brazil
 categories:
 - Brazil

@@ -1,7 +1,7 @@
 ---
 slug: us-virgin-islands
 title: US Virgin Islands
-date: '2021-04-07'
+date: '2021-01-01'
 region: sailing
 categories:
 - Sailing

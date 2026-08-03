@@ -1,7 +1,7 @@
 ---
 slug: vitoria
 title: Vitoria
-date: '2019-05-11'
+date: '2019-04-01'
 region: sailing
 categories:
 - Sailing

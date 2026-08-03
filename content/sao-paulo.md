@@ -1,7 +1,7 @@
 ---
 slug: sao-paulo
 title: Sao Paulo
-date: '2019-05-14'
+date: '2019-04-01'
 region: sailing
 categories:
 - Sailing
