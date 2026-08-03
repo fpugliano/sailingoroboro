@@ -11,20 +11,156 @@ hero: 4a3890cd-857f-4496-b763-d7f8b1582f34.jpg
 ---
 
 <p>After sailing 4,387nm and spending 35 days at sea, Oroboro safely anchored in Ilha Grande, Brazil, on February 1st, 2019.</p>
-<p>I felt like the early explorers, and I thought I could name the bay "Baia de Fevereiro" (just like Rio was named Rio de Janeiro because discovered on January 1st).  I know... silly thoughts.</p>
-<p>The Bay of Ilha Grande is just spectacular, with 365 islands and 2,000 white sandy beaches.  Sometimes I feel like being on a lake in Italy, like Lake Como.  But the lake is surrounded by a lush tropical forest instead.</p>
+<p>I felt like the early explorers, and I thought I could name the bay "Baia de Fevereiro" (just like Rio was named Rio de Janeiro because discovered on January 1st).  I know... silly thoughts.</p>
+<p>The Bay of Ilha Grande is just spectacular, with 365 islands and 2,000 white sandy beaches.  Sometimes I feel like being on a lake in Italy, like Lake Como.  But the lake is surrounded by a lush tropical forest instead.</p>
 <img class="aligncenter wp-image-1996 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/4a3890cd-857f-4496-b763-d7f8b1582f34.jpg" alt="Arriving in Brazil" width="1600" height="1200" />
-<p>What makes Brazil really special is its people.  The sound of the language, the kindness, and the smiles!  We get around pretty well with our Portuñol (mix of Spanish and Portuguese), since very few people speak English.  Funny enough, often times when they say something I don't understand, they turn to Yuka asking to translate it for me.  With her tan body and radiant smile, she is often mistaken for a Brazilian.</p>
+
+<figure style="margin:2rem 0;text-align:center;">
+  <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/brazil-track-overview.gif"
+       alt="S/V Oroboro GPS sailing track — Ilha Grande and Paraty area, February to April 2019"
+       style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; Ilha Grande &amp; Paraty &mdash; February&ndash;April 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<p>What makes Brazil really special is its people.  The sound of the language, the kindness, and the smiles!  We get around pretty well with our Portu&ntilde;ol (mix of Spanish and Portuguese), since very few people speak English.  Funny enough, often times when they say something I don't understand, they turn to Yuka asking to translate it for me.  With her tan body and radiant smile, she is often mistaken for a Brazilian.</p>
 <p>We checked in Angra dos Reis, named like this because discovered on January 6:</p>
 <img class="aligncenter wp-image-2087 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/reis.jpg" alt="Angra dos Reis" width="1476" height="984" />
 <p>Then we headed to Paraty, one of the maybe 2 most well preserved towns in Brazil to my knowledge (the other one being Ouro Preto).</p>
 <p>What-a-town!</p>
-<p>Paraty means “river of fish” in the Tupi language.  It was founded by the Portugueses in 1667 and when gold was discovered in the mountains of Mina Gerais and the "Caminho do Ouro" (gold trail) connecting the town to Ouro Preto was built, it become the main port for exporting gold to Rio de Janeiro.</p>
+<p>Paraty means "river of fish" in the Tupi language.  It was founded by the Portugueses in 1667 and when gold was discovered in the mountains of Mina Gerais and the "Caminho do Ouro" (gold trail) connecting the town to Ouro Preto was built, it become the main port for exporting gold to Rio de Janeiro.</p>
 <p>Since then, Paraty has been out of the mainstream, which is why it did not change for centuries, until a paved road was built from Rio de Janeiro to Santos in the 1970s. Then from a small and almost abandoned fishing village Paraty become a tourist destination.</p>
-<p>The historic downtown is paved with large cobblestones and it's pedestrian only.  During spring tides, the seawater level rises and floods the streets through small openings in the seawalls that separate the city from the harbor.  The streets are only flooded for a short time, and a few shop owners put out boards to make a bridge for the benefit of pedestrians.  Just like in Venice!</p>
-<p>The town is full of cafes, restaurants, pousadas (hotels) and nice boutiques.  At night, it becomes very lively and you have live music in almost all restaurants and cafes. Bossa nova and samba, of course!  There is also a cachaça distillery, a mandatory stop for everyone.  Food is just fantastic, with the Moqueca being our favorite dish so far.</p>
-<p>We just love this small town and we decided to make it our Head Quarters.  From here, we can sail to countless secluded anchorages and deserted beaches, both on the continent and also in Ilha Grande, one of the most pristine and richest ecosystems in the world.</p>
-<p>It's a fantastic cruising ground, and we are enjoying it very much.  Especially the Admiral:</p>
+<p>The historic downtown is paved with large cobblestones and it's pedestrian only.  During spring tides, the seawater level rises and floods the streets through small openings in the seawalls that separate the city from the harbor.  The streets are only flooded for a short time, and a few shop owners put out boards to make a bridge for the benefit of pedestrians.  Just like in Venice!</p>
+<p>The town is full of cafes, restaurants, pousadas (hotels) and nice boutiques.  At night, it becomes very lively and you have live music in almost all restaurants and cafes. Bossa nova and samba, of course!  There is also a cacha&ccedil;a distillery, a mandatory stop for everyone.  Food is just fantastic, with the Moqueca being our favorite dish so far.</p>
+<p>We just love this small town and we decided to make it our Head Quarters.  From here, we can sail to countless secluded anchorages and deserted beaches, both on the continent and also in Ilha Grande, one of the most pristine and richest ecosystems in the world.</p>
+<p>It's a fantastic cruising ground, and we are enjoying it very much.  Especially the Admiral:</p>
 <img class="aligncenter wp-image-1995 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_3729.jpg" alt="Oroboro galley" width="4032" height="3024" />
-<p>More to follow on Ilha Grande in the next posts.  Stay tuned!</p>
+
+<h2>Every anchorage &mdash; Ilha Grande &amp; Paraty, February&ndash;April 2019</h2>
+
+<p>We stayed in this area for almost three months, making it our cruising home base before heading north toward Rio, B&uacute;zios, and eventually 4,000nm of Brazilian coastline. Below is a complete record of every stop, with GPS-mapped detail for each anchorage.</p>
+
+<div style="overflow-x:auto;margin:1.5rem 0;">
+<table style="width:100%;border-collapse:collapse;font-size:0.88rem;line-height:1.5;">
+  <thead>
+    <tr style="background:#1a1a2e;color:white;">
+      <th style="padding:8px 12px;text-align:left;">Stop</th>
+      <th style="padding:8px 12px;text-align:left;">Date</th>
+      <th style="padding:8px 12px;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Ilha Grande bay</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb 1, 2019</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Landfall after 35 days, 4,387nm from Cape Town</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Angra dos Reis</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb 2</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Customs check-in</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>S&iacute;tio Forte</strong> (Ilha Grande)</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Early Feb</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">First anchorage; Thelma called on VHF offering fish lasagna</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Abra&atilde;o</strong> (Ilha Grande)</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Only village on the island; no cars, no roads</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Praia dos Meros</strong> (Ilha Grande)</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb&ndash;Mar</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">The opera singer night</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Mamangu&aacute;</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb&ndash;Mar</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Tropical fjord, 8km long</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Saco do C&eacute;u</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb&ndash;Mar</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">&ldquo;Bag of the Sky&rdquo;</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Enseada das Estrelas</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb&ndash;Mar</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">&ldquo;Bay of the Stars&rdquo;</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Paraty</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Feb&ndash;Apr</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">HQ for 2 months; cobblestone streets flood at spring tides (like Venice)</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Praia do Sobrado</strong> (near Ubatuba)</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">~Apr 7</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Overnight stop; beautiful rainbow</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Ubatuba</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Apr 8</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Crossed Tropic of Capricorn on foot</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Ilha Anchieta</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Apr</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Former Brazilian Alcatraz; WWII Japanese prisoners; beautiful beach anchorage</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Ilhote de Couves</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Apr</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Storm refuge; 26 knots; waited for cold front</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Rio de Janeiro</strong> &mdash; Marina de Gl&oacute;ria</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Mar&ndash;Apr</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">2 weeks; Carnival; met Alex Thomson (Hugo Boss IMOCA)</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Cabo Frio</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Apr</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Entered via Boqueir&atilde;o passage</td></tr>
+    <tr><td style="padding:7px 12px;border-bottom:1px solid #ddd;"><strong>Praia do Forno</strong></td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Apr</td><td style="padding:7px 12px;border-bottom:1px solid #ddd;">Cabo Frio area</td></tr>
+    <tr style="background:#f8f8ff;"><td style="padding:7px 12px;"><strong>B&uacute;zios</strong> &mdash; Praia dos Ossos</td><td style="padding:7px 12px;">Apr</td><td style="padding:7px 12px;">Brigitte Bardot statue; Yuka PADI dive course</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2>Anchorage maps</h2>
+
+<p>Every anchorage, zoomed in &mdash; GPS track from our Raymarine chartplotter overlaid on OpenStreetMap.</p>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-angra-dos-reis.png" alt="Angra dos Reis anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Angra dos Reis &mdash; customs check-in</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-sitio-forte.png" alt="Sítio Forte anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">S&iacute;tio Forte, Ilha Grande &mdash; first anchorage in Brazil</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-abraao.png" alt="Abraão anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Abra&atilde;o, Ilha Grande &mdash; the only village, no cars</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-praia-dos-meros.png" alt="Praia dos Meros anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Praia dos Meros &mdash; the opera singer night</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-mamangua.png" alt="Mamanguá anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Mamangu&aacute; &mdash; tropical fjord, 8km long</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-saco-do-ceu.png" alt="Saco do Céu anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Saco do C&eacute;u &mdash; &ldquo;Bag of the Sky&rdquo;</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-enseada-das-estrelas.png" alt="Enseada das Estrelas anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Enseada das Estrelas &mdash; &ldquo;Bay of the Stars&rdquo;</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-paraty.png" alt="Paraty anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Paraty &mdash; our HQ for two months</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-praia-do-sobrado.png" alt="Praia do Sobrado anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Praia do Sobrado &mdash; overnight stop south of Ubatuba</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-ubatuba.png" alt="Ubatuba anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Ubatuba &mdash; Tropic of Capricorn; Ilha Anchieta nearby</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-ilha-anchieta.png" alt="Ilha Anchieta anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Ilha Anchieta &mdash; Brazil's Alcatraz; beautiful beach anchorage</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-ilhote-de-couves.png" alt="Ilhote de Couves anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Ilhote de Couves &mdash; storm refuge, 26 knots</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-rio-de-janeiro.png" alt="Rio de Janeiro anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Rio de Janeiro, Marina de Gl&oacute;ria &mdash; Carnival &amp; Alex Thomson</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-cabo-frio.png" alt="Cabo Frio anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Cabo Frio &mdash; via Boqueir&atilde;o passage</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-praia-do-forno.png" alt="Praia do Forno anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">Praia do Forno, Cabo Frio area</figcaption>
+  </figure>
+
+  <figure style="margin:0;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/anchorage-buzios.png" alt="Búzios anchorage map" style="width:100%;border-radius:6px;display:block;" />
+    <figcaption style="font-size:0.8rem;color:#555;padding:4px 2px;">B&uacute;zios, Praia dos Ossos &mdash; Brigitte Bardot &amp; PADI dive course</figcaption>
+  </figure>
+
+</div>
+
+<p style="font-size:0.78rem;color:#888;margin-top:0.5rem;">Map data &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors. GPS tracks from Raymarine chartplotter, archived May 2019.</p>
+
+<p>More to follow on Ilha Grande in the next posts.  Stay tuned!</p>
 <p>&nbsp;</p>
