@@ -32,6 +32,11 @@ SORT_DATE_OVERRIDES = {
     '2nd-atlantic-crossing': '2021-05-03',  # published Sep 2021; voyage departed May 3 2021
 }
 
+# Legacy XML slugs to drop entirely (superseded by a content/ markdown post with a different slug).
+LEGACY_SKIP = {
+    '7%c2%bd-weeks',  # superseded by 7-and-a-half-weeks.md
+}
+
 # Hand-authored posts that live in posts/ but have no XML or content/ source.
 # build.py includes them in blog/index listings but does NOT regenerate their HTML.
 PREBUILT_POSTS = [
@@ -988,6 +993,8 @@ def main():
     for p in legacy_posts:
         if p['slug'] in md_slugs:
             print(f"  slug '{p['slug']}': markdown overrides legacy, skipping XML version")
+        elif p['slug'] in LEGACY_SKIP:
+            print(f"  slug '{p['slug']}': in LEGACY_SKIP, dropping")
         else:
             filtered.append(p)
     legacy_posts = filtered
