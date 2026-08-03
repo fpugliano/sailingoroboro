@@ -752,3 +752,55 @@ We made it! We crossed the North Atlantic!
 ---
 
 ![Why I love the 3 to 6 am watch. Wind at the instruments, the world asleep, and three hours of ocean all to yourself.](atlantic-crossing/night-instruments.jpg)
+
+
+<figure style="margin:2rem 0;text-align:center;">
+  <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/2nd-atlantic-crossing-track.gif" alt="">
+  </div>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; 2nd Atlantic Crossing &mdash; Bahamas to Azores &mdash; May 2021 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; 2nd Atlantic Crossing, May 2021</h2>
+<p>3,054nm in 20 days from Marsh Harbour to Horta &mdash; the fastest and happiest passage yet.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Marsh Harbour &mdash; Bahamas</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">May 3 2021</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Departure &middot; farewell fireworks with Plan B &middot; Atlantic crossing staging</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Horta &mdash; Faial, Azores</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">May 20 2021</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">3,054nm / 20 days &middot; COVID check-in &middot; Peter Caf&eacute; Sport &middot; GIF welcome from S/V Gerty</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed charts of the departure and arrival for the 2nd Atlantic crossing.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/2nd-atlantic-crossing-marsh-harbour-bahamas.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Marsh Harbour &mdash; Bahamas</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/2nd-atlantic-crossing-horta-faial-azores.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Horta &mdash; Faial, Azores</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived May 2021.</p>

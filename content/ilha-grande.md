@@ -43,3 +43,66 @@ hero: fullsizeoutput_1ba.jpeg
 <p>Ilha Grande is a great cruising ground, it's a pity that boats that circumnavigate don't stop here and go straight to the Caribbean.  They would love it.</p>
 <p>My friend Allan Ward was right about Brazil, and we are happy to be here, despite all the negative feedback from other cruisers we told us to avoid this country.</p>
 <p>&nbsp;</p>
+
+
+<figure style="margin:2rem 0;text-align:center;">
+  <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-track.gif" alt="">
+  </div>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; Ilha Grande, Brazil &mdash; Feb&ndash;Apr 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; Ilha Grande, Feb&ndash;Apr 2019</h2>
+<p>First Brazil landfall after the South Atlantic crossing &mdash; a tropical island paradise.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Abra&atilde;o</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Feb 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Brazil landfall &middot; no cars &middot; cobblestone streets &middot; first caipirinhas</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">S&iacute;tio Forte &mdash; Praia da Tapera</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Feb&ndash;Mar 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Thelma's fish lasagna &middot; SUP &middot; snorkeling &middot; best anchorage on the island</td>
+    </tr>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Mamanguá</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Mar&ndash;Apr 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Tropical fjord &middot; 8km-long inlet &middot; secluded fishing village</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed charts of each Ilha Grande anchorage, with GPS track overlay.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-abraao-ilha-grande.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Abra&atilde;o</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-sitio-forte-praia-da-tapera.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">S&iacute;tio Forte &mdash; Praia da Tapera</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-mamangua.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Mamanguá</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived February&ndash;April 2019.</p>

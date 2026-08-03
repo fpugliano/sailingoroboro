@@ -19,3 +19,44 @@ hero: img_4720.jpg
 <p>The town of Cumuruxatiba is very nice: If you were running from the law, nobody would ever find you here, I think.</p>
 <p>We spent a couple of nights here, then we headed north towards the infamous Porto Seguro.  Infamous because, despite the name, getting in the river and anchoring in front of the town is very tricky.  The few cruising boats that venture to sail along the coast of Brazil, prefer to anchor further north in Santo Andrè and take a bus to Porto Seguro.</p>
 <p>Well, this is so not us!  We feel like the earlier explorers, and if it is true that Pedro Alvares Cabral landed in Porto Seguro with his caravelas, so will Oroboro and Plan B!  You bet!</p>
+
+
+<figure style="margin:2rem 0;text-align:center;">
+  <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/cumuruxatiba-track.gif" alt="">
+  </div>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; Cumuruxatiba, Brazil &mdash; May 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; Cumuruxatiba, May 2019</h2>
+<p>An off-the-beaten-path fishing village south of the Abrolhos marine park.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Cumuruxatiba</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">May 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Lobster R$40/kg &middot; coral reef entrance &middot; deserted beach village</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed chart of the Cumuruxatiba anchorage.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/cumuruxatiba-cumuruxatiba.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Cumuruxatiba</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived May 2019.</p>

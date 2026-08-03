@@ -47,3 +47,55 @@ hero: fullsizeoutput_fc6.jpeg
 <p>So to resolve the issue, as Captain of the Ship I issued an Executive Order declaring it is midnight right now at sundown, and the bottle of champagne was opened to keep with the tradition.</p>
 <p>Happy New Year everybody!</p>
 <p></div></p>
+
+
+<figure style="margin:2rem 0;text-align:center;">
+  <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/tropic-capricorn-track.gif" alt="">
+  </div>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; Namibia &mdash; Spencer Bay &amp; Walvis Bay &mdash; Dec 2018&ndash;Jan 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; Spencer Bay &amp; Walvis Bay, Dec 2018&ndash;Jan 2019</h2>
+<p>Crossing the Tropic of Capricorn on the Winter Solstice, then Christmas at Walvis Bay.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Spencer Bay</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Dec 20&ndash;21 2018</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Crossed Tropic of Capricorn on Winter Solstice &middot; Otavi wreck nearby</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Walvis Bay</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Dec 24 2018 &ndash; Jan 1 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Christmas Eve fog arrival &middot; pelican &amp; seal customs &middot; Sandwich Bay 4x4 &middot; departed Jan 1 for St Helena</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed charts of Spencer Bay and Walvis Bay, with GPS track overlay.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/tropic-of-capricorn-spencer-bay.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Spencer Bay</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/tropic-of-capricorn-walvis-bay.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Walvis Bay</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived December 2018&ndash;January 2019.</p>

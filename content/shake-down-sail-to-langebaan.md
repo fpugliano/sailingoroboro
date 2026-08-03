@@ -80,3 +80,49 @@ hero: img_1273-1024x768.jpg
 <p><!-- wp:paragraph --><br>
 <p>Namibia here we come!!!</p><br>
 <!-- /wp:paragraph --></p>
+
+
+<figure style="margin:2rem 0;text-align:center;">
+  <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/langebaan-track.gif" alt="">
+  </div>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; Langebaan, South Africa &mdash; Dec 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; Langebaan, Dec 2018</h2>
+<p>65nm shake-down sail from Cape Town to test Oroboro before the ocean crossing.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Kraalbaai</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Dec 3&ndash;4 2018</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Anchor drop &middot; only boat in the bay &middot; fresh fish gift from the neighbours</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Mikonos Marina</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Dec 4&ndash;5 2018</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Sterling battery charger bypass &middot; Shearwater 39 neighbour</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed chart of the Kraalbaai anchorage in Langebaan Lagoon.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/langebaan-kraalbaai-langebaan-lagoon.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Kraalbaai &mdash; Langebaan Lagoon</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived December 2018.</p>

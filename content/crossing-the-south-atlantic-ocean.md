@@ -398,3 +398,71 @@ Unfortunately I am told that today many cruisers don’t keep a good watch, not 
 <p>Comparing all these forecast models allows me to gauge the confidence level in the forecast. The GFS/ECMWF forecasts are a good benchmark. So far I haven’t been impressed with the proprietary PredictWind models, but with all 4 forecasts I can have a greater confidence to make the best decision.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+<figure style="margin:2rem 0;text-align:center;">
+  <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
+    <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/south-atlantic-crossing-track.gif" alt="">
+  </div>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
+    S/V Oroboro GPS track &mdash; South Atlantic Crossing &mdash; Jan&ndash;Feb 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
+  </figcaption>
+</figure>
+
+<h2>Every anchorage &mdash; South Atlantic Crossing, Jan&ndash;Feb 2019</h2>
+<p>51 days and 4,122nm from Walvis Bay to Ilha Grande, via St Helena and a Trindade island detour.</p>
+<table style="width:100%;border-collapse:collapse;font-size:0.92rem;margin:1.5rem 0;">
+  <thead>
+    <tr style="background:#1a6faf;color:white;">
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Stop</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Date</th>
+      <th style="padding:0.6rem 0.8rem;text-align:left;">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Walvis Bay</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Jan 1 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Crossing departure &middot; 4,122nm / 51-day voyage total</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">St Helena &mdash; James Bay</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">~Jan 9&ndash;13 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Mooring ball Yellow 25 &middot; Jamestown water taxi &middot; Napoleon exile island</td>
+    </tr>
+    <tr style="background:#f4f8fc;">
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Trindade Island</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">~Jan 28 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">50nm detour &middot; watermaker failure &middot; Brazilian Navy outpost &middot; 14kg tuna</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Ilha Grande</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Feb 19 2019</td>
+      <td style="padding:0.5rem 0.8rem;border-bottom:1px solid #dde;">Brazil landfall &middot; end of South Atlantic crossing</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Anchorage maps</h2>
+<p>Zoomed charts of key waypoints on the South Atlantic crossing.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/south-atlantic-crossing-walvis-bay.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Walvis Bay</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/south-atlantic-crossing-st-helena-james-bay.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St Helena &mdash; James Bay</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
+      <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/south-atlantic-crossing-trindade-island.png" alt="">
+    </div>
+    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Trindade Island</figcaption>
+  </figure>
+</div>
+<p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived January&ndash;February 2019.</p>

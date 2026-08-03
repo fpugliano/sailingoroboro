@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "4ebd44831903d052",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f820904e516259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4b5f70ef535207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "water-maker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "water-maker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a849ae3da937ff98",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c8b772c3705a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28dbf168d720b0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f73bffc6116cf3de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f3209facad6d8db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68a41deefe702ca6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae2072fd2492098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d120e8a1469daabc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "water-maker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for water-maker"
+            }
+          },
+          {
+            "id": "7772a7c9698a6359",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "water-maker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from water-maker"
+            }
+          },
+          {
+            "id": "1b0825bb7a36d498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a010fb591277d693",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d89da8bb19188f08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "water-maker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of water-maker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ba4b5f70ef535207",
+  "lastOpenFiles": [
+    "moonbow.md",
+    "7-and-a-half-weeks.md",
+    "abrolhos.md",
+    "anti-fouling-review-pettit-trinidad-pro-sucks.md",
+    "about-the-name-of-the-boat.md",
+    "7%c2%bd-weeks.md",
+    "2nd-atlantic-crossing.md"
+  ]
+}
