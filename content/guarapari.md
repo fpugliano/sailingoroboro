@@ -9,6 +9,9 @@ raw_html: true
 hero: img_2204.jpg
 ---
 
+<p><strong>Guarapari, April 2019</strong></p>
+
+
 <p>Guarapari was just a technical stop on our way to the Abrolhos archipelago.  Nice town.</p>
 <img class="aligncenter wp-image-2655 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2204.jpg" alt="Guarapari, Brazil" width="2260" height="1638" />
 <p>And on the way there we caught a nice Mahi mahi that Yuka cooked to perfection.</p>

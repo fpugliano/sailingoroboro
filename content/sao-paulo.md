@@ -9,6 +9,9 @@ raw_html: true
 hero: img_2519.jpg
 ---
 
+<p><strong>São Paulo, April 2019</strong></p>
+
+
 <p>After Brasilia, we flew to Sao Paulo.  For me this visit had a special meaning, since I was going to meet for the first time a dear old friend, Gianfranco, who moved here practically at the same time that I moved to California.</p>
 <p>I met Gianfranco in a translator's forum 30 years ago.  At the time he was living in England, then he moved to Sardinia and later to Brazil.  We had exchanged countless emails and messages over chat, but we never had the chance to meet in person.</p>
 <p>It's been thanks to Gianfranco if I got the opportunity to get a job at eBay and move to California.  It was him who passed me the job post.  I remember that day as if it were yesterday.</p>

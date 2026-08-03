@@ -9,6 +9,9 @@ raw_html: true
 hero: meteor.jpg
 ---
 
+<p><strong>João Pessoa, November 2019</strong></p>
+
+
 <p>We sailed out of Joao Pessoa around midnight. Around 3 am, while sailing north from Joao Pessoa to Natal, I saw a red flare in the night sky on the starboard side. The flare was so bright that illuminated the sea below. It looked like it was descending towards the water, in an east to west direction. What was it? I hoped Yuka was in the cockpit with me to confirm what I saw, but she was off watch, sleeping in the cabin down below. The night was dark with no moon. 20 knots of wind on the beam, waves 2 meters high.</p>
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/meteor.jpg" class="aligncenter size-full wp-image-5256" alt="Meteor in the night sky" width="756" height="491">
 <p>I looked at the radar and couldn’t see anything in the direction of the flare. I looked at the AIS, and there were a couple of cargos going north 10 miles behind me, and one going south 20 miles in front of me. I played with the radar settings, trying to see if it detected a vessel in my starboard direction. Nothing.</p>

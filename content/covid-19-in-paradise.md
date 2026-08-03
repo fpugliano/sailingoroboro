@@ -10,6 +10,9 @@ raw_html: true
 hero: barbuda/oroboro-bow-barbuda.jpg
 ---
 
+<p><strong>Barbuda, January 2020</strong></p>
+
+
 <p>Since we come back from Japan after the Christmas holidays, we were having a very good time sailing north along the island&#8217;s chain.&#160; We had friends visiting us in Grenada and in Guadeloupe, and and we were really enjoying ourselves.&#160; Life was good!</p>
 <p>We celebrated my birthday in Antigua with Joaquin, Monica and their dear Catalan friends Riccardo and Isabel:</p>
 <p>Then, all of a sudden, the Covid-19 pandemic happened and year 2020 became history.</p>

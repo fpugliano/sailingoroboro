@@ -6,6 +6,9 @@ categories: [Sailing]
 hero: img_2304.jpg
 ---
 
+**Brasília, April 2019**
+
+
 From Vitoria, we flew to Brasilia to spend a couple of days exploring this unique town. Brasilia is the modernist city that a very cool and visionary and charismatic president of Brazil, Juscelino Kubitschek, wanted to be created from scratch.
 
 Among many other architects, Lucio Costa was selected by a jury to carry out this huge undertaking. Oscar Niemeyer was the chief architect of most public buildings, Joaquim Cardozo was the structural engineer, and Roberto Burle Marx was the landscape designer.

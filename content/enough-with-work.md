@@ -9,6 +9,9 @@ raw_html: true
 hero: img_7798-1.jpg
 ---
 
+<p><strong>Cape Town, South Africa, November 2018</strong></p>
+
+
 <p>We are in the final stretch with the work that needs to be done on the boat.  Everything is coming together, and so we took our first weekend off to relax, decompress, and explore some areas of this beautiful country.<br>
 <h2>False Bay</h2><br>
 <img class="alignleft wp-image-985 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/false-bay.jpg" alt="False Bay, Cape Town" width="1062" height="420" /></p>

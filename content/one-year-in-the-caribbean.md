@@ -9,6 +9,9 @@ raw_html: true
 hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
 ---
 
+<p><strong>Caribbean, November 2019</strong></p>
+
+
 <p>It's amazing how time flies!&nbsp; We just realized we've arrived to the Caribbean exactly one year ago.&nbsp; Little did we know back then that the world was going to change like we've never seen before.&nbsp; Lockdowns, curfews, face masks, contact tracing, emergency laws...</p>
 <p>After Saint Vincent and the Grenadines lifted the requirement to quarantine in a hotel on land, we left Antigua and Barbuda and headed south because it is safer during the Hurricane Season.&nbsp; We spent a couple of months in the Grenadines kite boarding and religiously watching the weather for the next hurricane.</p>
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg" class="aligncenter size-full wp-image-7065" alt="Frigate" width="3024" height="3024">

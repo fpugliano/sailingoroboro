@@ -10,6 +10,9 @@ raw_html: true
 hero: 48kfhgubsr2pesekq3mudg.jpg
 ---
 
+<p><strong>Rio de Janeiro, Brazil, February 2019</strong></p>
+
+
 <p>To be honest, at the beginning I wasn't particularly interested in visiting Rio, especially during Carnival. Rio was very low on my personal list of places to visit. But my Catalan friends Joaquin and Monica invited us to sail all the way there as guests on their boat, a beautiful Leopard 45. How could we turn down such an offer?</p>
 <p>Joaquin and Monica had also some old time friends visiting, Ricardo and Isabel.  For Yuka and I this sailing trip as guests was also like a full immersion Spanish culture class (and cuisine).  Learning something new every day from very experienced sailors!  Ricardo and Isabel, on top of being a great singer/guitar players and having circumnavigated on a classic wooden sailboat, are also excellent cooks, and taught Yuka how to make bread and the Arros a banda, a very popular dish along the Valencian coast of Spain.</p>
 <img class="aligncenter wp-image-2467 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/48kfhgubsr2pesekq3mudg.jpg" alt="Arriving in Rio de Janeiro by sea" width="4032" height="3024" />

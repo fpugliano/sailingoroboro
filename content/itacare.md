@@ -9,6 +9,9 @@ raw_html: true
 hero: img_5172.jpg
 ---
 
+<p><strong>Itacaré, May 2019</strong></p>
+
+
 <p>We left Ilheus at 3 am in order to be able to get to Itacaré at high tide.  We were really not impressed by the town and the Iate Clube. The rain didn't help either.  Sorry Jorge Amado!  Some other times maybe.</p>
 <p>Itacaré is located in the mouth of the Rio da Contas, and charts unfortunately are not accurate for this destination.  If you are used to charts of the US West coast like I am, looking at the charts of Brazil it can be kind of a shock to realize how approximate they are.</p>
 <p>The entrance of Itacaré is marked by a light on top of a reef, with sand bars, strong currents and breaking waves.  We had drawings of the entrance and some waypoints, but we didn't trust them.  Our motto is "assume all charts are wrong unless proved otherwise".</p>

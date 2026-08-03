@@ -9,6 +9,9 @@ raw_html: true
 hero: tracks.jpg
 ---
 
+<p><strong>French Guiana, December 2019</strong></p>
+
+
 <p>French Guiana! At last!  I have dreamed to sail here for a long time.  I can't believe that we are finally there!</p>
 <img class="alignnone wp-image-5379 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/tracks.jpg" alt="Our track from Brazil to French Guiana" width="1906" height="1154" />
 <p>It took us 7 days and 7 hours to sail from Fortaleza to Kourou. Our best 24 hour run was 182 nautical miles, helped by 2 knots of current in our favor. This is why this route is called “the magic carpet”.  You basically get 48 nautical miles a day for free.  Where else in the world you can get these conditions?  Nowhere else that I know of!</p>

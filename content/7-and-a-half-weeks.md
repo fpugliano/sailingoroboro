@@ -11,6 +11,9 @@ raw_html: true
 hero: img_0469.jpg
 ---
 
+<p><strong>Cape Town, South Africa, November 2018</strong></p>
+
+
 <p>This is exactly how long it took us to make the boat self-sufficient: we can now efficiently produce our own electricity and make our own potable water, plus we have the right systems to monitor and manage all this.  What's there not to like?</p>
 <h2>Behind the Build</h2>
 <p>Buying a boat essentially bare and having to add all the systems aftermarket is no small feat. Supervising contractors, making decisions on the fly, and tackling unexpected problems is never easy — let alone in a country you don’t know, where everything is unfamiliar and every solution needs to be discovered from scratch. But Cape Town turned out to be a magnificent place to get work done, and at a remarkably affordable price. The craftsmen we worked with were professional, resourceful, and took real pride in their trade. These are people we will remember for the rest of our lives.</p>

@@ -6,6 +6,9 @@ categories: [Sailing]
 hero: img_4828.jpg
 ---
 
+**Ilhéus, May 2019**
+
+
 Ilheus is an overnight from Coroa Vermelha, about 18 hours. We left at 3pm and by 9:30 am we were anchored in front of the Iate Clube. Yuka and I are really getting into the rhythm of these overnight sails. We do watches of 3 hours, try to really maximize the sleeping time.
 
 We departed with 14/16 knots of wind on the beam, then the wind increased just around sunset to 18/20 knots. Before it got dark we decided to put a reef in the main to have a more relaxed night, also because we were sailing at 8.5 knots and if we kept going at this pace we would have arrived in Ilheus at 3 am!

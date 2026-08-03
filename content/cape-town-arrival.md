@@ -7,6 +7,9 @@ categories: [Sailing]
 hero: cape-town/img_9855.jpg
 ---
 
+**Cape Town, South Africa, September 2018**
+
+
 After 2 long flights and a 6 hours layover in Zurich, we landed in Cape Town, South Africa. First time for both of us in the Southern hemisphere and on the African continent. We are very excited by the fact that this year we are going to have Spring and Summer twice!
 
 I had mixed feelings about Cape Town, and didn't quite know what to expect. About a year ago I read a New York Times article describing the terrible water crisis the city was experiencing, with government limiting water consumption to 13 gallons a day per person. The article mentioned a Day Zero, when most taps were expected to be shut off and residents would have to line up at distribution points for their daily allotment.

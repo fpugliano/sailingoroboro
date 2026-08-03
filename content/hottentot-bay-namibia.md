@@ -7,6 +7,9 @@ categories: [Namibia, Sailing]
 hero: namibia/img_1747.jpg
 ---
 
+**Hottentot Bay, Namibia, December 2018**
+
+
 We left Luderitz in awe for what we discovered. The town itself is very nice, with interesting colonial architecture, the anchorage is very well protected from the swell and people are very friendly. What's there not to like? Truth to be told, we would have liked to do some kite-surfing, but because of the cold Benguela current the water temperature here is around 10/12 degrees Celsius. A little too cold for us...
 
 In Luderitz there is a spot where the kitesurfing and windsurfing speed world records are set every year. The event is called Luderitz Speed Challenge. I think this year's speed record for kite surfing was set at about 52 knots. Insanely fast. Too bad the contest was held in October. Two months too late for us.

@@ -10,6 +10,9 @@ raw_html: true
 hero: img_3366.jpg
 ---
 
+<p><strong>Camamù Bay, May 2019</strong></p>
+
+
 <p>Some 30 nautical miles north of Itacar&egrave; lays the Bay of Camamu. There are a lot of different villages in the bay and up the river. For us it was the first time navigating in a river, most of it uncharted.<br>
 <h3>Cajaiba</h3><br>
 If you are interested in local culture, you might enjoy a visit to Cajaiba, the village where most of Brazil's "schooners" are built.  This village is incredible, you will not find it on tourists guides like the Lonely Planet, and a search query on Google returns 0 results.</p>

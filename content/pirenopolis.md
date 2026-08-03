@@ -9,6 +9,9 @@ raw_html: true
 hero: img_2476.jpg
 ---
 
+<p><strong>Pirenópolis, April 2019</strong></p>
+
+
 <p>While in Brazilia, we decided to get a rental and go visit Pirenopolis, well known for its waterfalls and Portuguese colonial architecture.  We found the name of the town fascinating, and being Joaquin and Monica Catalans, we decided to check it out.</p>
 <p>Along the way we saw a beautiful waterfall:</p>
 <img class="aligncenter wp-image-2854 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2476.jpg" alt="Waterfalls in Brazil" width="2648" height="2445" />

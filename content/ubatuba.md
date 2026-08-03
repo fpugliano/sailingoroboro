@@ -10,6 +10,9 @@ raw_html: true
 hero: lbole1631.jpg
 ---
 
+<p><strong>Ubatuba, April 2019</strong></p>
+
+
 <p>Our first sail out of the bay of Ilha Grande was to Ubatuba, some 30 nautical miles south west.  It was a very nice sensation to get Oroboro in blue ocean waters again.</p>
 <p><strong>Praia do Sobrado</strong></p>
 <p>We stopped here to avoid getting in Ubatuba after sunset.  This anchorage is very well protected and we saw an incredibly beautiful rainbow here.</p>

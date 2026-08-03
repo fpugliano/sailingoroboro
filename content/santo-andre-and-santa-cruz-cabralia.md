@@ -10,6 +10,9 @@ raw_html: true
 hero: img_5099.jpg
 ---
 
+<p><strong>Santa Cruz Cabrália, May 2019</strong></p>
+
+
 <p>To get to Santa Cruz Cabralia we anchored in front of Santo Andrè, also sadly known as Villa do Sete a Um (Seven to One).  It's here that the German team had its Head Quarters during the Brazil Soccer World Cup.  And everybody knows how it ended up for Brazil.</p>
 <p>The entrance in the river is pretty easy, differently from Porto Seguro.  There are sand banks to be avoided, and it's kind of weird having to motor up parallel and so close to the reef, but nothing like Porto Seguro.  You just need to time it with the tide, that's all.</p>
 <p>We dropped the anchor in front of the restaurant La Gaviota, highly recommended by our friend Allan Ward.  The anchorage provided good shelter from the cold front passing by.  And it was an excellent base to visit Santa Cruz Cabralia, named after Pedro Álvares Cabral of course.</p>

@@ -9,6 +9,9 @@ categories:
 hero: img_2543.jpg
 ---
 
+**South Atlantic Ocean, January 2019**
+
+
 It was Day 8 of the St Helena to Brazil leg. Position: 19°55'S, 024°17'W. Deep in the South Atlantic, with no land in any direction for over a thousand miles.
 
 We had been at sea continuously for 37 days. The watermaker had broken three days earlier, and we were rationing water to survive the remaining 1,100 nautical miles to Brazil. Trindade Island — a remote Brazilian Navy outpost, home to about 30 soldiers and a handful of scientists — was somewhere ahead of us, and we were hoping they'd give us fresh water and diesel. It was intense sailing. Not dangerous, but demanding. Every day brought a new problem to solve.

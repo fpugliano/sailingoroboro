@@ -7,6 +7,9 @@ categories: [Atlantic-Crossing, Sailing, South Africa]
 hero: oroboro-intro/img_1504.jpg
 ---
 
+**Cape Town, South Africa, December 2018**
+
+
 The time has finally come for us to set sail for our maiden voyage. We have worked out a navigation plan, and we have started to monitor the weather. Our plan is to sail to Luderitz, Namibia, some 460 nautical miles north of Cape Town along the west coast of South Africa. We'll spend a few days there, and then we'll sail north to Walvis Bay, about 200 nautical miles along the infamous Skeleton Coast. Finally, we'll turn west and cross towards St Helena and Brazil.
 
 We can't believe that three months have gone by. We have never been bored during this time, we worked hard to make our boat blue water capable for the ocean crossing. We feel so blessed to start our adventure from such an iconic place like Cape Town.

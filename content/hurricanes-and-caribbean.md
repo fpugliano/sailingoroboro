@@ -9,6 +9,9 @@ raw_html: true
 hero: hurrican-tracks-from-noaa-1.jpg
 ---
 
+<p><strong>Caribbean, August 2020</strong></p>
+
+
 <p>It wasn't in our plans to spend the Hurricane Season in the Caribbean.  By now, we should be enjoying good food and good weather in the Western Med.  Our plan was to cross "the pond" in May, so that we could be in Portugal by June 15th.  Then Covid-19 happened, and we thought it would be better to cancel the crossing, since the situation in Europe was so bad.</p>
 <p>The Hurricane Season in the Caribbean runs officially from June 1st through November 30th.  The Hurricane Box is considered by most insurance companies to be the area between 12 degrees 40 minutes North and 23 degrees 30 minutes North Latitude, and 55 degrees West to 85 degrees West Longitude.  The truth is, that if you look at the hurricanes tracks recorded by NOAA since 1990, the area is much bigger and covers all the north Atlantic basin:</p>
 <img class="aligncenter size-full wp-image-6737" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/hurrican-tracks-from-noaa-1.jpg" alt="" width="1892" height="1154" />

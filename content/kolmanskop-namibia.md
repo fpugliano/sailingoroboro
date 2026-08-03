@@ -7,6 +7,9 @@ categories: [Namibia, Sailing, South Africa]
 hero: namibia/dji_0064.jpg
 ---
 
+**Kolmanskop, Namibia, December 2018**
+
+
 Oroboro safely anchored in Luderitz, Namibia. The anchorage provides good holding, although it's exposed to strong winds (we anchored in 35 knots of wind). In town there are a couple of supermarkets, gas stations and banks. The local Yacht Club has a nice bar. The main reason why we anchored here is to be able to visit a ghost town.
 
 ![Kolmanskop from above — the Namib Desert reclaiming the ghost town](namibia/dji_0064.jpg)

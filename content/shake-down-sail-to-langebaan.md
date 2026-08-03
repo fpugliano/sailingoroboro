@@ -11,6 +11,9 @@ raw_html: true
 hero: img_1273-1024x768.jpg
 ---
 
+<p><strong>Langebaan, South Africa, December 2018</strong></p>
+
+
 <p><!-- wp:paragraph --><br>
 <p>The time has come for us to do a "shake down sail" to further test the boat - and ourselves - before the ocean crossing.  We decided to spend a few night at anchor in Langebaan, a very nice bay some 65 nautical miles north of Cape Town.  Sailing from Cape Town to Langebaan is tricky, you need to carefully time your coming back when there's a depression that brings north westerly winds.  Otherwise you will be beating for 10+ hours. </p><br>
 <!-- /wp:paragraph --></p>

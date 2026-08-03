@@ -9,6 +9,9 @@ raw_html: true
 hero: img_4313.jpg
 ---
 
+<p><strong>Búzios, April 2019</strong></p>
+
+
 <p>Buzios used to be an unknown fishermen village until Brigitte Bardot made it famous by spending here her vacation time with her Brazilian boyfriend in the early '60s.  At the time Buzios didn’t even have electricity and from the old pictures, looked like a bucolic place.</p>
 <p>There is a statue of Brigitte on the boardwalk, but she doesn't seem happy:  Probably disturbed by all the tourist taking pictures with her.  C'mon Brigitte, give me a smile!</p>
 <img class="aligncenter wp-image-2626 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4313.jpg" alt="Brigitte Bardot in Armação dos Búzios" width="4032" height="3024" />

@@ -7,6 +7,9 @@ hero: grenada/approaching-grenada.jpg
 raw_html: true
 ---
 
+<p><strong>Grenada, January 2020</strong></p>
+
+
 <p>The sail from Tobago to Grenada was a beautiful overnight spinnaker sail. Yuka and I are now so used to our 3-hour night watches, and we handled it really well.</p>
 
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/approaching-grenada.jpg" alt="Approaching Grenada from the sea — the lush green volcanic hills emerge from the blue" style="width:100%;border-radius:8px;margin:1.5rem 0;">

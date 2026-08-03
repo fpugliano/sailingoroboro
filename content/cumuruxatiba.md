@@ -9,6 +9,9 @@ raw_html: true
 hero: img_4720.jpg
 ---
 
+<p><strong>Cumuruxatiba, May 2019</strong></p>
+
+
 <p>The Abrolhos archipelago Park Ranger Joyce mentioned to us that Cumuruxatiba was a great place to stop.  I'm glad we followed her advice because the place was really fantastic.</p>
 <p>It's just an overnight sail from Abrolhos.  The entrance is tricky, because there is a narrow channel across a shallow coral reef.  In these cases, local knowledge is better, so we asked a fisherman to guide us in.</p>
 <p>The anchorage is right off a nice little town with a cobblestone main road and lots of restaurants and pousadas. Off the beaten path, this little village would be a perfect retreat. The beach is fantastic, and the pousadas and beach restaurant are very well manicured.</p>

@@ -9,6 +9,9 @@ raw_html: true
 hero: img_8585.jpg
 ---
 
+<p><strong>Trinidad, September 2019</strong></p>
+
+
 <p>The leg from Kurou in French Guiana to Trinidad was about 650 nautical miles and we enjoyed every mile of it.  Conditions were perfect, we flew the parasailor night and day.  We had 2 knots of current in our favor, and that's why this route is called "the magic carpet".  What a wonderful sail!</p>
 <p>Philippe has been the perfect crew for this passage.  So perfect that Yuka and I asked him if he would like to join us for the crossing to the Med next spring!</p>
 <img class="aligncenter size-full wp-image-5437" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8585.jpg" alt="Our new crew!" width="4032" height="3024" />

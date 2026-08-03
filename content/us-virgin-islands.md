@@ -9,6 +9,9 @@ raw_html: true
 hero: 7a48b6a6-cb57-4406-ac58-08e58dba0727.jpg
 ---
 
+<p><strong>US Virgin Islands, January 2021</strong></p>
+
+
 <p>The first island of the US Virgin Island we made landfall was Saint Croix.  The USVI consists of three island, St John, St Thomas and St Croix.  St Croix is the most underrated of the three.</p>
 <p>St Croix's nickname is "Twin City" for its two towns, Frederiksted on the western side and Christiansted on the northeast part of the island.</p>
 <p>I almost cried when I saw a USPS truck in Christiansted.  I felt like I was back home in California!  The only strange thing is that cars here have the steering wheel on the passenger side but you still have to drive to the right hand side of the road.  Weird.</p>

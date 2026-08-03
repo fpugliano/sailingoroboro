@@ -11,6 +11,9 @@ raw_html: true
 hero: cabofrio.png
 ---
 
+<p><strong>Cabo Frio, May 2019</strong></p>
+
+
 <p>Time has come for us to start heading north towards the Caribbean.  We left once again Rio de Janario on April 1<sup>st</sup> at 22:00, destination Cabo Frio.</p>
 <p>We headed east, following almost the same track (red one in the screenshot) that 2 months before brought us to Ilha Grande from South Africa, at the end of our ocean crossing.</p>
 <p>We had mixed feelings, we thought that we were leaving too soon… But I guess that we need to get used to this kind of feeling in our cruising life.</p>

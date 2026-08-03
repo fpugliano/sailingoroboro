@@ -9,6 +9,9 @@ raw_html: true
 hero: fullsizeoutput_1ba.jpeg
 ---
 
+<p><strong>Ilha Grande, February 2019</strong></p>
+
+
 <div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
   <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 5</p>
   <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">Paraty &amp; The Opera Singer</p>

@@ -10,6 +10,9 @@ raw_html: true
 hero: caribbean_general_map.png
 ---
 
+<p><strong>Greater Antilles, January 2021</strong></p>
+
+
 <p>When Christopher Columbus in 1492 became the first European explorer to record his arrival in the Bahamas, the term West Indies was eventually used by Europeans to distinguish this region from the original Indies (i.e. India) and the East Indies of South Asia and Southeast Asia. West Indies are divided into Lesser Antilles to the south and Greater Antilles to the north west.</p>
 <p>In 2020 we visited almost all the islands of the Lesser Antilles (9 out of 13 countries).  We skipped 3 of them because they closed their borders because of Covid.  And we skipped Barbados because it's inconveniently located too much upwind.</p>
 <img class="aligncenter size-full wp-image-7249" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean_general_map.png" alt="Caribbean" width="1699" height="1000" />

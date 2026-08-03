@@ -10,6 +10,9 @@ raw_html: true
 hero: 0wtwbslrtyyrlldwejsaq-e1572726935656.jpg
 ---
 
+<p><strong>Itaparica, November 2019</strong></p>
+
+
 <p>Itaparica is an island right in front of Salvador, in the Baia de Todos Os Santos, the largest bay in Brazil, with 56 islands!</p>
 <p>We visited most of them, our favorite being Ilha do Bon Jesus, or as the locals call it, Ilha do Bon Suarez. Suarez is a guy who bought the island and build a beautiful million dollars house. His private security guards ensure that there is no crime around the anchorages of the island. But I'm digressing.</p>
 <p>In Itaparica, there is a nice anchorage on the east side with a small marina. The highlight of Itaparica for us was that we could get mineral water in our tanks almost for free. The water from the Fonte de Bica is of excellent quality. Actually, the best we've found in Brazil.</p>

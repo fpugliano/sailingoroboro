@@ -10,6 +10,9 @@ hero: img_8876.jpg
 card_position: top
 ---
 
+<p><strong>Puerto Rico, February 2021</strong></p>
+
+
 <p>You can tell we are approaching the end of the Tropics:  Weather patterns are starting to change!</p>
 <p>Back in the Lesser Antilles, winds were from 60° to 120° True, but most of the times blowing 90° True.  In Puerto Rico they can blow from around the clock. Squalls can be brutal.  I remember that in Brazil you have squalls that are called "Piraja" and can last from 20 to 40 minutes max, with maximum wind speed 26 knots and the wind coming from the same direction.</p>
 <p>Between Culebra and Vieques here in the Spanish Virgins we were caught in a sudden squall of 35 knots that lasted only 5 minutes but the wind backed 40 degrees.</p>

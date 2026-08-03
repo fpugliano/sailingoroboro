@@ -9,6 +9,9 @@ raw_html: true
 hero: a0615f4a-b396-4c85-89ac-9ba2aca5557b-1.jpg
 ---
 
+<p><strong>Sailing in the Bahamas, April 2021</strong></p>
+
+
 <p>After spending more than a year in the Lesser Antilles, including an unprecedented lockdown for Covid-19 and the busiest hurricanes seasons on record, the Bahamas were a very pleasant discovery to us:<br>
 <ul><br>
  	<li>The Bahamas are made of 700+ islands and 2,000+ cays in about the same 400 nautical miles that separate Grenada from Barbuda in the Lesser Antilles.  So much more to explore!</li><br>

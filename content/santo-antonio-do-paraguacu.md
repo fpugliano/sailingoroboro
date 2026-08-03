@@ -10,6 +10,9 @@ raw_html: true
 hero: fullsizeoutput_965.jpeg
 ---
 
+<p><strong>Santo Antônio do Paraguaçu, July 2019</strong></p>
+
+
 <p>We navigated the river Paraguaçu to get to see the beautiful and remote convent of Saint Antony.  What an experience!  We felt like in the movie Apocalypse Now, when Willard on the river patrol boat navigates toward Kurtz's outpost.  We didn't see a soul for hours in the river, not even a fisherman.  And then, all of the sudden we got to see this:</p>
 <img class="aligncenter size-full wp-image-4470" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_965.jpeg" alt="" width="4032" height="3024" />
 <p>We anchored right in front:</p>

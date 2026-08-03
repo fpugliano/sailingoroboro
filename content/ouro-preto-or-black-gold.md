@@ -6,6 +6,9 @@ categories: [Brazil]
 hero: img_2476.jpg
 ---
 
+**Ouro Preto, April 2019**
+
+
 During our stay in Rio, to take a break from the carnival with our friends Joaquin and Monica we decided to get a rental car and visit Petropolis. The visit interested me because I read that the aviation pioneer Santos Dumont was from there. Petropolis is just a few hours from Rio, it was going to be just a day trip.
 
 Little did we know... that was just the beginning of a more interesting and longer trip. Well, I kind of realized that Joaquin had something in mind when he asked me to make sure to bring our passports with us...

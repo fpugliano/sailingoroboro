@@ -9,6 +9,9 @@ raw_html: true
 hero: img_9348.jpg
 ---
 
+<p><strong>Dominican Republic, March 2021</strong></p>
+
+
 <p>We spent very little time in the Dominican Republic, unfortunately.  We only sailed to Samana Bay and Luperòn on the north coast.</p>
 <p>Samana Bay is a Humpback Whales Sanctuary.  It's also close to Los Haitises National Park where part of the movie Jurassic Park was filmed.</p>
 <p>Close to Samana, you can also go horseback riding to visit the best Waterfall we've seen since Brazil, the Cascada El Limòn!</p>

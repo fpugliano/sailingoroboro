@@ -9,6 +9,9 @@ raw_html: true
 hero: img_2304.jpg
 ---
 
+<p><strong>Vitoria, April 2019</strong></p>
+
+
 <p>In Vitoria we moored at the local Yacht Club. They charged us R$30 per person per day. The harbor is very small, and they only have powerboat and maybe two or three sailboats.  The mooring was pretty uncomfortable, bow to a big concrete pontoon exposed to the sea and the wind. For some reasons there was no breakwater.  So we had to get on the dinghy to go in the marina.</p>
 <p>Vitoria was planned to be only a technical stop.  But because the weather forecast predicted strong winds from the north for the following week - exactly the direction we needed to go to reach the Abrolhos archipelago - we decided to take advantage of the situation and fly to Brasilia and Sao Paolo. Why beating into the wind for 3 days?  We are here to enjoy life and see as much as possible of this beautiful country, what’s the hurry?</p>
 <p>One of the golden rules of cruising life is “not to have a schedule”.  You set sails only with the best conditions.</p>

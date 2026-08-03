@@ -9,6 +9,9 @@ raw_html: true
 hero: 318de927-66c0-45ee-ae51-c39627ed73d8-1.jpg
 ---
 
+<p><strong>Coroa Vermelha, May 2019</strong></p>
+
+
 <p>Oroboro dropped anchor in the very same place where 500+ years ago Pedro Álvares Cabral set foot on Brazil for the first time.&nbsp; The Bay is protected by a reef that is totally covered at high tide but nonetheless offers a very good shelter from winds from northeast and southeast.</p>
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/318de927-66c0-45ee-ae51-c39627ed73d8-1.jpg" class="aligncenter size-full wp-image-2958" alt="Corao Vermelha" width="1600" height="1200">
 <p>There is a huge cross in stainless steel to commemorate the event.</p>

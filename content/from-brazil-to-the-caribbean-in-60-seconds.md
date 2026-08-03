@@ -6,4 +6,7 @@ categories: [Sailing]
 hero: tracks.jpg
 ---
 
+**Atlantic Ocean, December 2019**
+
+
 This is a 60 seconds video depicting life on board Oroboro during the 1,600 nm passage from Brazil to the Caribbean.

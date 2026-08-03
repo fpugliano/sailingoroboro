@@ -10,6 +10,9 @@ raw_html: true
 hero: fullsizeoutput_b01.jpeg
 ---
 
+<p><strong>Olinda, August 2019</strong></p>
+
+
 <p>North of Recife there is one little town that after Parati and Ouro Preto, is one of the best preserved colonial villages in Brazil: Olinda.</p>
 <p>Not as big and as interesting as Parati and Ouro Preto, but the view from the top of the hill was great.  The Convento de São Francisco and the Mosteiro de São Bento are also very interesting and well preserved.</p>
 <p>Mario wanted to get an haircut in this barber shop:</p>

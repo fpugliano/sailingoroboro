@@ -10,6 +10,9 @@ raw_html: true
 hero: 51d3844e-baff-4fff-9bf2-711b79ef5d99.jpg
 ---
 
+<p><strong>Recife, November 2019</strong></p>
+
+
 <p>Mario arrived in Salvador as soon as he graduated High School. Well, he went to Greece first with his schoolmates to celebrate the end of high school, then rested a couple of days in Florence and finally flew to Salvador.</p>
 <p>We took him around in Salvador, showing him this beautiful town.  We were lucky, because in Pelourinho there was a literature festival with lots of concert and events going on.</p>
 <img class="aligncenter size-full wp-image-4832" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/51d3844e-baff-4fff-9bf2-711b79ef5d99.jpg" alt="" width="720" height="720" />

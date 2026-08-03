@@ -10,6 +10,9 @@ raw_html: true
 hero: fullsizeoutput_fc6.jpeg
 ---
 
+<p><strong>Walvis Bay, Namibia, December 2018</strong></p>
+
+
 <p>We crossed the Tropic of Capricorn at latitude&nbsp;23°26′ exactly on the Winter Solstice.&nbsp; What are the chances!&nbsp; This is the time of the year&nbsp;when the Sun reaches its zenith at this latitude.&nbsp; For someone who studied Celestial Navigation this is a very interesting phenomenon. We are officially in the tropics, even if the temperature says otherwise...</p>
 <h3>Spencer Bay</h3>After leaving Hottentot Bay we sailed close to the coast up to Spencer Bay, where we were hoping we could have gone to shore to visit the famous Otavi shipwreck.&nbsp;&nbsp;The Otavi&nbsp;was a steamer with a cargo of Guano that ran aground in 1945. Guano was found in abundance on Mercury island, right in Spencer Bay.
 <p>Same as the day before in Hottentoy Bay, by the time we arrived the wind picked up from 20 to 40 knots.&nbsp; We spent the night at anchor in hauling winds.&nbsp; The next day the wind was gone, but the swell left behind was too large for our little dinghy to attempt a visit on shore.</p>

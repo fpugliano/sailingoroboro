@@ -7,6 +7,9 @@ categories: [Atlantic-Crossing, Sailing]
 hero: atlantic-crossing/spinnaker.jpg
 ---
 
+**Atlantic Ocean, May 2021**
+
+
 Twenty days. 3,054 miles. One giant mahi-mahi, two dead bilge pumps, one lost propeller, and the best crew we could ask for. Here is the log, day by day, as we wrote it.
 
 On Monday May 3rd 2021, Oroboro started her second ocean crossing. We were lucky to share this voyage with our friend Philippe.

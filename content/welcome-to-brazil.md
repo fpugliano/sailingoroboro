@@ -10,6 +10,9 @@ raw_html: true
 hero: 4a3890cd-857f-4496-b763-d7f8b1582f34.jpg
 ---
 
+<p><strong>Ilha Grande, Brazil, March 2019</strong></p>
+
+
 <p>After sailing 4,387nm and spending 35 days at sea, Oroboro safely anchored in Ilha Grande, Brazil, on February 1st, 2019.</p>
 <p>I felt like the early explorers, and I thought I could name the bay "Baia de Fevereiro" (just like Rio was named Rio de Janeiro because discovered on January 1st).  I know... silly thoughts.</p>
 <p>The Bay of Ilha Grande is just spectacular, with 365 islands and 2,000 white sandy beaches.  Sometimes I feel like being on a lake in Italy, like Lake Como.  But the lake is surrounded by a lush tropical forest instead.</p>

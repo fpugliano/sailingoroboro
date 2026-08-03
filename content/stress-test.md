@@ -13,6 +13,9 @@ raw_html: true
 hero: south-east-corner-1.jpg
 ---
 
+<p><strong>Cape Town, South Africa, November 2018</strong></p>
+
+
 <p>A strong South East wind was predicted to be blowing on Saturday, so we decided to take this opportunity to go out and test the boat in rough weather.  We had a few things on our check-list:<br>
 <ul><br>
  	<li>How does the boat feel like when pounding into the waves.</li><br>

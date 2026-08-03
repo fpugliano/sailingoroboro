@@ -9,6 +9,9 @@ raw_html: true
 hero: img_4886.jpg
 ---
 
+<p><strong>Porto Seguro, May 2019</strong></p>
+
+
 <p>According to popular belief, Pedro Álvares Cabral landed here in 1500 and that's why the town was named Porto Seguro (Safe harbor).  However, what is officially considered the first Portuguese landfall in Brazil is Coroa Vermelha, some 16 kilometers north.</p>
 <p>Cabral sighted land most probably at Monte Pascoal, located between Cumuruxatiba and Porto Seguro, then sailed north and skipped Porto Seguro because the entrance in the river was not safe.  When they reached Cabralia which is protected from the winds from the north and also the south, and this makes it a good anchorage, they went on land, erected a cross and held a mass to mark the occasion.</p>
 <p>Apparently, it was only three years later Gonçalvo Coelho’s expedition arrived and planted a marker in what is now Porto Seguro.</p>

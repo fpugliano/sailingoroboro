@@ -9,6 +9,9 @@ raw_html: true
 hero: abrolhos.jpg
 ---
 
+<p><strong>Abrolhos, May 2019</strong></p>
+
+
 <p>Open Your Eyes! Abrolhos Archipelagos.</p>
 <p>Back in the old days, some Spanish charts bore the inscription "Abras los ojos" near reefs areas that might put the ship in danger. This was a warning to sailors, meaning Open Your Eyes, and it's the origin of the name Abrolhos archipelago. And if you look at the area on a chart, you can easily understand why you need to keep your eyes wide open. It's an area that extends approximately 60nm off the coast and it's long about 40nm. In this area of shallow waters where depth can go from 20 to 5 meters in a blink of an eye, you have plenty of coral reefs that pose a serious risk to navigation. And that's why you have countless wrecks here that can be visited by scuba diving.</p>
 <img class="aligncenter wp-image-2839 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/abrolhos.jpg" alt="RayMarine Axiom Pro chart plotter screen" width="2558" height="1360" />

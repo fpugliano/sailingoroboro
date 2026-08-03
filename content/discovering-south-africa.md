@@ -7,6 +7,9 @@ categories: [South Africa]
 hero: img_1035.jpg
 ---
 
+**South Africa, November 2018**
+
+
 This week we decided to slow down and take a few days off the boat to explore the region between Mossel Bay and the Storms River, also known as the Garden Route. This beautiful region it's wedged between mountains covered by the largest continuous Afromontane forest to the north, and the coves and beaches of the Indian Ocean coast to the south.
 
 We got a rental in Cape Town, and drove to Mossel Bay, named after the mussels (mossels in Dutch) that the first European settlers found in abundance here. Many explorer anchored their ships here. Bartolomeu Dias stopped here in 1488, followed by Vasco de Gama in 1497. To celebrate the 500th anniversary of Dias's landing, the town opened a museum where a reproduction of the caravel used by Dias for rounding the Cape in 1488 is on exhibit. We couldn't miss this opportunity!

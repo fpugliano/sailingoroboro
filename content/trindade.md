@@ -9,6 +9,9 @@ raw_html: true
 hero: rlapuo3yqqckm25ruchkw-e1552356573127.jpg
 ---
 
+<p><strong>Trindade, January 2019</strong></p>
+
+
 <p>Eight days after leaving St Helena, drama stroke on Oroboro: The Water maker started leaking from the Clark Pump!  A big leak!</p>
 <p>In my list of aftermarket systems to install on Oroboro, the water maker was #1 priority.  It come before everything else.  Having the ability to produce your own water is paramount on a boat intended for circumnavigation.  So you can imagine how I felt when the water maker failed after only 50 hours or operation. I was so proud of our Spectra <span class="il">Newport</span> 400 MKII, it's supposed to be the top.  The Clark Pump is such an interesting piece of engineering, I thought it would never fail.  I was wrong.</p>
 <p>I wasn't concerned about safety, since we had almost 800 liters of fresh water in our tanks and 2 weeks to arrive to Brazil.  Also, in our ditch bag we had a manual water maker that could be used in extreme cases.</p>

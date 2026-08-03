@@ -6,6 +6,9 @@ categories: [Sailing]
 hero: img_5099.jpg
 ---
 
+**Tibau do Sul, November 2019**
+
+
 We also visited Tibao do Sul. Initially we wanted to get there by boat. I read a Brazilian pilot book very popular among Brazilian sailors, where it was claimed that it was possible to enter the small river by boat. Various Brazilian skippers also specified the waypoints.
 
 However, by looking at the charts and on Google Maps I thought that it was going to be extremely difficult, if not impossible.

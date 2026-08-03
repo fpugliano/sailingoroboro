@@ -6,6 +6,9 @@ categories: [Sailing]
 hero: img_5172.jpg
 ---
 
+**Pipa Beach, November 2019**
+
+
 Pipa beach is a major surfing destination in Brazil. It was just a fishing village with no roads until some surfers in the 70s discovered it. Today is also a kiting destination. In fact, Pipa Beach means literally "Kite Beach".
 
 Yuka and Mario enjoyed it very much. And we finally were able to do some kite sessions!

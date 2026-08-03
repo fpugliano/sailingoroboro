@@ -10,6 +10,9 @@ raw_html: true
 hero: o2me6xujqmcgiu2leokbka.jpg
 ---
 
+<p><strong>Fortaleza, September 2019</strong></p>
+
+
 <p>The leg from Natal to Fortaleza was enjoyable at the beginning, but very tough once we got near Fortaleza.</p>
 <p>First of all Fortaleza is a very inhospitable and dangerous town. There is only one safe marina where to leave your boat. There are reports of boats being robbed twice in the same night when they anchored in front of the city harbor.</p>
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/o2me6xujqmcgiu2leokbka.jpg" class="aligncenter size-full wp-image-5009" alt="Fortaleza, the dangerous harbor" width="4032" height="3024">

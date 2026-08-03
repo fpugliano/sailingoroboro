@@ -6,6 +6,9 @@ categories: [Sailing]
 hero: atlantic-crossing/spinnaker.jpg
 ---
 
+**Atlantic Ocean, October 2019**
+
+
 
 <figure style="margin:2rem 0;text-align:center;">
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">

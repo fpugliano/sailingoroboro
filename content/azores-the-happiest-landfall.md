@@ -10,6 +10,9 @@ lon: -28.63
 hero: azores/horta-arrival.jpg
 ---
 
+**Azores, Portugal, June 2021**
+
+
 Some landfalls you forget by the next passage. Horta is not one of them.
 
 ![Arriving in Horta, Faial — the landfall every Atlantic sailor dreams about.](azores/horta-arrival.jpg)
