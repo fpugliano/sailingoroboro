@@ -7,7 +7,7 @@ categories:
 - Brazil
 - Sailing
 raw_html: true
-hero: ubatuba/img_3753.jpg
+hero: ubatuba/img_3805.jpg
 ---
 
 <p><strong>Ubatuba, April 2019</strong></p>
