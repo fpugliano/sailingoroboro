@@ -7,7 +7,7 @@ categories:
 - Atlantic-Crossing
 - Sailing
 raw_html: true
-hero: img_2968.jpg
+hero: img_2637.jpg
 ---
 
 <p><strong>South Atlantic Ocean, February 2019</strong></p>
