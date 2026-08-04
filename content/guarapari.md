@@ -6,7 +6,7 @@ region: sailing
 categories:
 - Sailing
 raw_html: true
-hero: img_2204.jpg
+hero: guarapari/img_4432.jpg
 ---
 
 <p><strong>Guarapari, April 2019</strong></p>
