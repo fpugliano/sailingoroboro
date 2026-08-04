@@ -12,9 +12,8 @@ A few miles south of the previous day's village bar, the shoreline hides a remar
 
 We landed the dinghy and Yuka immediately claimed the spring as her personal shower. The red-and-ochre sandstone is smoothed by centuries of flowing water, its surface covered with the scratched initials of everyone who has found this place before us. We were not the first, but we may have been the happiest to discover it.
 
-The date was the Fourth of July. We had American friends on board, and the combination of a hidden freshwater spring in the Brazilian wilderness and a national holiday called for a celebration. We decked the dinghy with small Stars and Stripes, anchored *Oroboro* off the island's beach, and toasted with caipirinhas from the cockpit looking out across the bay. Two catamarans anchored side by side in front of a white-sand beach under dramatic cumulus clouds: not a bad way to celebrate American independence.
+The date was the Fourth of July. The combination of a hidden freshwater spring in the Brazilian wilderness and a national holiday called for a celebration. We decked the dinghy with small Stars and Stripes, anchored *Oroboro* off the island's beach, and toasted with caipirinhas from the cockpit looking out across the bay. Two catamarans anchored side by side in front of a white-sand beach under dramatic cumulus clouds: not a bad way to celebrate American independence.
 
-The Tupi people called this bay *Baía de Todos os Santos* long before the Portuguese arrived and gave it that name. To them it was simply home — a warm, sheltered sea teeming with fish, oysters, and the freshwater springs they knew as *olhos d'água*, "eyes of water." This spring is one of those ancient eyes, still flowing.
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ilha-do-goio/img_6975.jpg" alt="Yuka at the freshwater spring at Ilha do Goio, water cascading from the sandstone cliff" style="max-width:100%">
