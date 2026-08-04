@@ -3,7 +3,7 @@ slug: brasilia
 title: "Brasilia"
 date: '2019-04-17'
 categories: [Sailing]
-hero: brasilia/img_4458.jpg
+hero: brasilia/img_4518.jpg
 ---
 
 **Brasília, April 2019**
