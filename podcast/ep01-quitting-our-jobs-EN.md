@@ -7,7 +7,7 @@
 
 **HOST:** Welcome to Sailing Oroboro — a podcast about trading a desk for a deck. I'm your host, and today I'm talking with Francesco, who together with his partner Yuka left their Silicon Valley careers to sail the world on their catamaran, Oroboro. Francesco, let's start at the very beginning. You and Yuka had good jobs. What were you doing?
 
-**FRANCESCO:** We were both in tech, in Silicon Valley. I was at eBay, Yuka was at LinkedIn. Good jobs, interesting work, smart colleagues. By most measures, life was going very well.
+**FRANCESCO:** We were both in tech, in Silicon Valley. I was a Localization Specialist at eBay, Yuka was a Localization Manager at LinkedIn. Good jobs, interesting work, smart colleagues. By most measures, life was going very well.
 
 **HOST:** So what made you want to leave all that behind?
 
