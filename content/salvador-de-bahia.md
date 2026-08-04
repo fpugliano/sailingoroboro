@@ -12,7 +12,6 @@ hero: fullsizeoutput_a9f.jpeg
 
 <p><strong>Salvador de Bahia, August 2019</strong></p>
 
-
 <div style="background:#F1E3CC;border-radius:8px;padding:1.5rem 1.75rem;margin:0 0 2rem;border-left:4px solid #2E86AB;">
   <p style="font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;color:#2E86AB;text-transform:uppercase;letter-spacing:0.08em;margin:0 0 0.35rem;">Sailing Oroboro Podcast &mdash; Episode 6</p>
   <p style="font-family:'Playfair Display',serif;font-size:1.15rem;color:#0B1426;margin:0 0 0.75rem;font-weight:600;">Salvador de Bahia</p>
@@ -134,695 +133,418 @@ hero: fullsizeoutput_a9f.jpeg
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5881.jpg" alt="Workers rappelling down a colonial building to repaint it" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 17 · Salvador de Bahia, Brazil · 27 May 2019<br>Workers rappelling down a colonial building to repaint it</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5882.jpg" alt="Aerial view over Mercado Modelo and the harbor" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 18 · Salvador de Bahia, Brazil · 27 May 2019<br>Aerial view over Mercado Modelo and the harbor from the upper city</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 17 · Salvador de Bahia, Brazil · 27 May 2019<br>Aerial view over Mercado Modelo and the harbor from the upper city</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5883.jpg" alt="Palácio Rio Branco — the neoclassical government palace facade" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 19 · Salvador de Bahia, Brazil · 27 May 2019<br>Palácio Rio Branco — the neoclassical government palace facade</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 18 · Salvador de Bahia, Brazil · 27 May 2019<br>Palácio Rio Branco — the neoclassical government palace facade</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5884.jpg" alt="A yellow colonial building under restoration in the historic centre" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 20 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial building under restoration in the historic centre</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5885.jpg" alt="Detail of the yellow colonial building under restoration" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 21 · Salvador de Bahia, Brazil · 27 May 2019<br>Detail of the yellow colonial building under restoration</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5886.jpg" alt="The yellow colonial building with workers on scaffolding" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 22 · Salvador de Bahia, Brazil · 27 May 2019<br>The same yellow colonial building, with workers on scaffolding</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 19 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial building under restoration in the historic centre</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5887.jpg" alt="Igreja de São Pedro dos Clérigos — a stone baroque church" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 23 · Salvador de Bahia, Brazil · 27 May 2019<br>Igreja de São Pedro dos Clérigos — a stone baroque church in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 20 · Salvador de Bahia, Brazil · 27 May 2019<br>Igreja de São Pedro dos Clérigos — a stone baroque church in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5888.jpg" alt="Bahiacafé Hotel blue facade in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 24 · Salvador de Bahia, Brazil · 27 May 2019<br>Bahiacafé Hotel blue facade in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 21 · Salvador de Bahia, Brazil · 27 May 2019<br>Bahiacafé Hotel blue facade in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5889.jpg" alt="The blue Scena boutique storefront in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 25 · Salvador de Bahia, Brazil · 27 May 2019<br>The blue 'Scena' boutique storefront in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 22 · Salvador de Bahia, Brazil · 27 May 2019<br>The blue 'Scena' boutique storefront in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5890.jpg" alt="Souvenir shops with a Havaianas flag in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 26 · Salvador de Bahia, Brazil · 27 May 2019<br>Souvenir shops with a Havaianas flag in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 23 · Salvador de Bahia, Brazil · 27 May 2019<br>Souvenir shops with a Havaianas flag in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5891.jpg" alt="Catedral Basílica da Sé facade in daytime" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 27 · Salvador de Bahia, Brazil · 27 May 2019<br>Catedral Basílica da Sé facade in daytime</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 24 · Salvador de Bahia, Brazil · 27 May 2019<br>Catedral Basílica da Sé facade in daytime</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5892.jpg" alt="A colorful Pelourinho cobblestone street" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 28 · Salvador de Bahia, Brazil · 27 May 2019<br>A colorful Pelourinho cobblestone street</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 25 · Salvador de Bahia, Brazil · 27 May 2019<br>A colorful Pelourinho cobblestone street</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5893.jpg" alt="Another colorful street scene in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 29 · Salvador de Bahia, Brazil · 27 May 2019<br>Another colorful street scene in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 26 · Salvador de Bahia, Brazil · 27 May 2019<br>Another colorful street scene in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5894.jpg" alt="Cobblestone alley in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 30 · Salvador de Bahia, Brazil · 27 May 2019<br>Cobblestone alley in Pelourinho</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5895.jpg" alt="A plaza construction area at sunrise" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 31 · Salvador de Bahia, Brazil · 27 May 2019<br>A plaza construction area at sunrise in the historic centre</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5896.jpg" alt="A white baroque church in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 32 · Salvador de Bahia, Brazil · 27 May 2019<br>A white baroque church in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 27 · Salvador de Bahia, Brazil · 27 May 2019<br>Cobblestone alley in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5897.jpg" alt="The white baroque church viewed from a different angle" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 33 · Salvador de Bahia, Brazil · 27 May 2019<br>The white baroque church viewed from a different angle</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 28 · Salvador de Bahia, Brazil · 27 May 2019<br>The white baroque church viewed from a different angle</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5898.jpg" alt="Largo do Pelourinho square with Igreja Nossa Senhora do Rosário dos Pretos" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 34 · Salvador de Bahia, Brazil · 27 May 2019<br>Largo do Pelourinho square with Igreja Nossa Senhora do Rosário dos Pretos</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 29 · Salvador de Bahia, Brazil · 27 May 2019<br>Largo do Pelourinho square with Igreja Nossa Senhora do Rosário dos Pretos</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5899.jpg" alt="A café terrace with a woman in traditional Bahian dress" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 35 · Salvador de Bahia, Brazil · 27 May 2019<br>A café terrace in Pelourinho with a woman in traditional Bahian dress</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 30 · Salvador de Bahia, Brazil · 27 May 2019<br>A café terrace in Pelourinho with a woman in traditional Bahian dress</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5900.jpg" alt="A blue colonial building facade seen from below" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 36 · Salvador de Bahia, Brazil · 27 May 2019<br>A blue colonial building facade seen from below</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 31 · Salvador de Bahia, Brazil · 27 May 2019<br>A blue colonial building facade seen from below</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5901.jpg" alt="A baroque church seen from below looking up" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 37 · Salvador de Bahia, Brazil · 27 May 2019<br>A baroque church seen from below, looking up</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 32 · Salvador de Bahia, Brazil · 27 May 2019<br>A baroque church seen from below, looking up</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5902.jpg" alt="A yellow colonial café building in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 38 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial café building in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 33 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial café building in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5903.jpg" alt="A yellow colonial café and restaurant at a Pelourinho corner" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 39 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial café and restaurant at a Pelourinho corner</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 34 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial café and restaurant at a Pelourinho corner</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5904.jpg" alt="Igreja e Convento de São Francisco — ornate stone baroque facade" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 40 · Salvador de Bahia, Brazil · 27 May 2019<br>Igreja e Convento de São Francisco — ornate stone baroque facade</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 35 · Salvador de Bahia, Brazil · 27 May 2019<br>Igreja e Convento de São Francisco — ornate stone baroque facade</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5905.jpg" alt="The São Francisco church doorway — detailed baroque stone carvings" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 41 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco church doorway — detailed baroque stone carvings</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 36 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco church doorway — detailed baroque stone carvings</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5906.jpg" alt="The São Francisco church doorway wider view" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 42 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco church doorway, wider view</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5907.jpg" alt="São Francisco cloister — azulejo tile panel with a Portuguese naval scene" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 43 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco cloister — azulejo tile panel with a Portuguese blue-and-white naval scene</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 37 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco church doorway, wider view</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5908.jpg" alt="São Francisco cloister — another azulejo tile panel" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 44 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco cloister — another azulejo tile panel</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 38 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco cloister — another azulejo tile panel</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5909.jpg" alt="São Francisco cloister — azulejo panel wider corridor view" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 45 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco cloister — azulejo panel, wider corridor view</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 39 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco cloister — azulejo panel, wider corridor view</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5910.jpg" alt="The ornate polychrome painted ceiling of the Igreja de São Francisco" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 46 · Salvador de Bahia, Brazil · 27 May 2019<br>The ornate polychrome painted ceiling of the Igreja de São Francisco</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5911.jpg" alt="Rooftop view over terracotta tile rooftops at dusk" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 47 · Salvador de Bahia, Brazil · 27 May 2019<br>Rooftop view over terracotta tile rooftops at dusk</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 40 · Salvador de Bahia, Brazil · 27 May 2019<br>The ornate polychrome painted ceiling of the Igreja de São Francisco</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5912.jpg" alt="São Francisco church interior from above — gilded baroque archway" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 48 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco church interior from above — gilded baroque archway over the nave</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 41 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco church interior from above — gilded baroque archway over the nave</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5913.jpg" alt="São Francisco interior from above — pews and gilded altars" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 49 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco interior from above — pews and gilded altars</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5914.jpg" alt="São Francisco interior from above — the organ and gilded altarpieces" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 50 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco interior from above — the organ and gilded altarpieces</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 42 · Salvador de Bahia, Brazil · 27 May 2019<br>São Francisco interior from above — pews and gilded altars</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5915.jpg" alt="Stone sundial Relógio do Sol Anno 1736 in the São Francisco cloister" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 51 · Salvador de Bahia, Brazil · 27 May 2019<br>Stone sundial inscribed 'Relógio do Sol Anno 1736' in the São Francisco cloister</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5916.jpg" alt="Church interior from above — empty nave with a checkerboard marble floor" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 52 · Salvador de Bahia, Brazil · 27 May 2019<br>Church interior from above — empty nave with a checkerboard marble floor</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5917.jpg" alt="Gilded baroque church interior from above angled view" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 53 · Salvador de Bahia, Brazil · 27 May 2019<br>Gilded baroque church interior from above, angled view</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5918.jpg" alt="Gilded baroque church interior" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 54 · Salvador de Bahia, Brazil · 27 May 2019<br>Gilded baroque church interior</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 43 · Salvador de Bahia, Brazil · 27 May 2019<br>Stone sundial inscribed 'Relógio do Sol Anno 1736' in the São Francisco cloister</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5919.jpg" alt="Yuka pointing at heraldic azulejo panels in the São Francisco cloister" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 55 · Salvador de Bahia, Brazil · 27 May 2019<br>Yuka pointing at heraldic azulejo panels in the São Francisco cloister</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5920.jpg" alt="A quatrefoil clover-shaped window looking out to dusk sky" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 56 · Salvador de Bahia, Brazil · 27 May 2019<br>A quatrefoil clover-shaped window in the cloister, looking out to the dusk sky</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 44 · Salvador de Bahia, Brazil · 27 May 2019<br>Yuka pointing at heraldic azulejo panels in the São Francisco cloister</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5921.jpg" alt="The São Francisco cloister corridor lined with azulejo tile murals" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 57 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco cloister corridor lined with azulejo tile murals</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5922.jpg" alt="The São Francisco baroque stone portal seen from below" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 58 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco baroque stone portal seen from below</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 45 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco cloister corridor lined with azulejo tile murals</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5923.jpg" alt="The São Francisco upper baroque facade with royal crest and statues" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 59 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco upper baroque facade with royal crest and statues</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 46 · Salvador de Bahia, Brazil · 27 May 2019<br>The São Francisco upper baroque facade with royal crest and statues</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5924.jpg" alt="A white baroque church exterior with an ornate iron gate" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 60 · Salvador de Bahia, Brazil · 27 May 2019<br>A white baroque church exterior with an ornate iron gate</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5925.jpg" alt="Francesco pointing at the tourist police sign in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 61 · Salvador de Bahia, Brazil · 27 May 2019<br>Francesco pointing at the 'Delegacia de Proteção ao Turista' (tourist police) sign in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 47 · Salvador de Bahia, Brazil · 27 May 2019<br>A white baroque church exterior with an ornate iron gate</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5926.jpg" alt="A blue colonial facade with a circular window" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 62 · Salvador de Bahia, Brazil · 27 May 2019<br>A blue colonial facade with a circular window in the upper city</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 48 · Salvador de Bahia, Brazil · 27 May 2019<br>A blue colonial facade with a circular window in the upper city</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5927.jpg" alt="Two floor murals — a cubist and an Afro-Brazilian figure" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 63 · Salvador de Bahia, Brazil · 27 May 2019<br>Two floor murals viewed from above — a cubist and an Afro-Brazilian figure</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 49 · Salvador de Bahia, Brazil · 27 May 2019<br>Two floor murals viewed from above — a cubist and an Afro-Brazilian figure</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5928.jpg" alt="Naïve folk art painting of Pelourinho for sale" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 64 · Salvador de Bahia, Brazil · 27 May 2019<br>Naïve folk art painting of Pelourinho for sale in the street</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 50 · Salvador de Bahia, Brazil · 27 May 2019<br>Naïve folk art painting of Pelourinho for sale in the street</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5929.jpg" alt="A barbershop at night through an open colonial doorway" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 65 · Salvador de Bahia, Brazil · 27 May 2019<br>A barbershop at night seen through an open colonial doorway in Pelourinho</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5930.jpg" alt="A Pelourinho street at dusk" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 66 · Salvador de Bahia, Brazil · 27 May 2019<br>A Pelourinho street at dusk</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 51 · Salvador de Bahia, Brazil · 27 May 2019<br>A barbershop at night seen through an open colonial doorway in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5931.jpg" alt="Two naïve art canvases — Pelourinho scene and capoeira silhouettes" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 67 · Salvador de Bahia, Brazil · 27 May 2019<br>Two stacked naïve art canvases — colorful Pelourinho scene above, capoeira silhouettes below</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 52 · Salvador de Bahia, Brazil · 27 May 2019<br>Two stacked naïve art canvases — colorful Pelourinho scene above, capoeira silhouettes below</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5932.jpg" alt="The Cantinho Jorge Amado cultural museum at dusk" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 68 · Salvador de Bahia, Brazil · 27 May 2019<br>The 'Cantinho Jorge Amado' cultural museum in a yellow building at dusk in Pelourinho</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5933.jpg" alt="Largo do Pelourinho at night under a stormy purple sky" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 69 · Salvador de Bahia, Brazil · 27 May 2019<br>Largo do Pelourinho at night under a stormy purple sky</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 53 · Salvador de Bahia, Brazil · 27 May 2019<br>The 'Cantinho Jorge Amado' cultural museum in a yellow building at dusk in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5934.jpg" alt="Yuka in Largo do Pelourinho at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 70 · Salvador de Bahia, Brazil · 27 May 2019<br>Yuka in Largo do Pelourinho at night</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 54 · Salvador de Bahia, Brazil · 27 May 2019<br>Yuka in Largo do Pelourinho at night</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5935.jpg" alt="A baroque church under scaffolding at night looking up" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 71 · Salvador de Bahia, Brazil · 27 May 2019<br>A baroque church under scaffolding at night, looking up from below</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 55 · Salvador de Bahia, Brazil · 27 May 2019<br>A baroque church under scaffolding at night, looking up from below</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5936.jpg" alt="Pelourinho cobblestone square at night deserted" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 72 · Salvador de Bahia, Brazil · 27 May 2019<br>Pelourinho cobblestone square at night, deserted</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 56 · Salvador de Bahia, Brazil · 27 May 2019<br>Pelourinho cobblestone square at night, deserted</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5937.jpg" alt="Igreja Nossa Senhora do Rosário dos Pretos at night through an iron gate" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 73 · Salvador de Bahia, Brazil · 27 May 2019<br>Igreja Nossa Senhora do Rosário dos Pretos at night, seen through an iron gate</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 57 · Salvador de Bahia, Brazil · 27 May 2019<br>Igreja Nossa Senhora do Rosário dos Pretos at night, seen through an iron gate</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5938.jpg" alt="A white baroque church at night worm's-eye view" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 74 · Salvador de Bahia, Brazil · 27 May 2019<br>A white baroque church at night, worm's-eye view</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5939.jpg" alt="A white neoclassical building with iron balconies looking up" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 75 · Salvador de Bahia, Brazil · 27 May 2019<br>A white neoclassical building with iron balconies, looking up at night</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 58 · Salvador de Bahia, Brazil · 27 May 2019<br>A white baroque church at night, worm's-eye view</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5940.jpg" alt="Pelourinho cobblestone street at night with parked cars" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 76 · Salvador de Bahia, Brazil · 27 May 2019<br>Pelourinho cobblestone street at night with parked cars</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 59 · Salvador de Bahia, Brazil · 27 May 2019<br>Pelourinho cobblestone street at night with parked cars</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5941.jpg" alt="A baroque church entrance from below at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 77 · Salvador de Bahia, Brazil · 27 May 2019<br>A baroque church entrance from below at night</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5942.jpg" alt="A yellow colonial Atelier e Galeria building seen from below" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 78 · Salvador de Bahia, Brazil · 27 May 2019<br>A yellow colonial 'Atelier e Galeria' building in Pelourinho, seen from below</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5943.jpg" alt="A mint-green colonial building at night with wrought iron balconies" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 79 · Salvador de Bahia, Brazil · 27 May 2019<br>A mint-green colonial building at night, with wrought iron balconies</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 60 · Salvador de Bahia, Brazil · 27 May 2019<br>A baroque church entrance from below at night</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5944.jpg" alt="The Conselho de Desenvolvimento da Comunidade Negra building at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 80 · Salvador de Bahia, Brazil · 27 May 2019<br>The 'Conselho de Desenvolvimento da Comunidade Negra' yellow building at night in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 61 · Salvador de Bahia, Brazil · 27 May 2019<br>The 'Conselho de Desenvolvimento da Comunidade Negra' yellow building at night in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5945.jpg" alt="A blue colonial building at night with glowing windows" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 81 · Salvador de Bahia, Brazil · 27 May 2019<br>A blue colonial building #40 at night in Pelourinho, with glowing windows</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 62 · Salvador de Bahia, Brazil · 27 May 2019<br>A blue colonial building #40 at night in Pelourinho, with glowing windows</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5946.jpg" alt="Looking down through a narrow arched colonial stairwell" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 82 · Salvador de Bahia, Brazil · 27 May 2019<br>Looking down through a narrow arched colonial stairwell in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 63 · Salvador de Bahia, Brazil · 27 May 2019<br>Looking down through a narrow arched colonial stairwell in Pelourinho</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5947.jpg" alt="Naïve folk painting of a Pelourinho carnival scene" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 83 · Salvador de Bahia, Brazil · 27 May 2019<br>Naïve folk painting of a Pelourinho carnival scene</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 64 · Salvador de Bahia, Brazil · 27 May 2019<br>Naïve folk painting of a Pelourinho carnival scene</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5948.jpg" alt="Naïve painting of capoeira silhouettes at orange sunset with sailboats" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 84 · Salvador de Bahia, Brazil · 27 May 2019<br>Naïve painting of capoeira silhouettes at an orange sunset, with sailboats on the bay</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5949.jpg" alt="Francesco in a colonial doorway at night with a souvenir shop below" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 85 · Salvador de Bahia, Brazil · 27 May 2019<br>Francesco in a colonial doorway at night, with a souvenir shop below</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5950.jpg" alt="A peach and terracotta colonial building at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 86 · Salvador de Bahia, Brazil · 27 May 2019<br>A peach and terracotta colonial building at night in Pelourinho</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 65 · Salvador de Bahia, Brazil · 27 May 2019<br>Naïve painting of capoeira silhouettes at an orange sunset, with sailboats on the bay</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5951.jpg" alt="The stone cross monument overlooking the Baía de Todos os Santos at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 87 · Salvador de Bahia, Brazil · 27 May 2019<br>The large angled stone cross monument overlooking the Baía de Todos os Santos at night</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 66 · Salvador de Bahia, Brazil · 27 May 2019<br>The large angled stone cross monument overlooking the Baía de Todos os Santos at night</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5966_poster.jpg">
 <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5966.mp4" type="video/mp4">
 </video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 88 · Salvador de Bahia, Brazil · 28 May 2019<br>Sunday mass at Igreja Nossa Senhora do Rosário dos Pretos — packed congregation facing the gilded altar</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5967_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5967.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 89 · Salvador de Bahia, Brazil · 28 May 2019<br>Sunday mass at Rosário dos Pretos — wider view of the full congregation</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5968.jpg" alt="The trompe-l'oeuvre baroque painted ceiling of the Catedral Basílica da Sé" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 90 · Salvador de Bahia, Brazil · 28 May 2019<br>The elaborate trompe-l'œil baroque painted ceiling of the Catedral Basílica da Sé</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5969_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5969.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 91 · Salvador de Bahia, Brazil · 28 May 2019<br>The church service in full swing — a drummer in a yellow shirt keeps the festive rhythm</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5970_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5970.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 92 · Salvador de Bahia, Brazil · 28 May 2019<br>The packed congregation of Rosário dos Pretos, seen from the back of the church</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5971_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5971.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 93 · Salvador de Bahia, Brazil · 28 May 2019<br>The church service with the choir loft and gilded organ visible above</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5972_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5972.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 94 · Salvador de Bahia, Brazil · 28 May 2019<br>The church service at the altar</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 67 · Salvador de Bahia, Brazil · 28 May 2019<br>Sunday mass at Igreja Nossa Senhora do Rosário dos Pretos — packed congregation facing the gilded altar</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5973.jpg" alt="Francesco and Yuka posing with the antique green Correio post box at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 95 · Salvador de Bahia, Brazil · 28 May 2019<br>Francesco and Yuka posing with the antique green 'Correio' post box in Pelourinho at night</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5973_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5973.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 96 · Salvador de Bahia, Brazil · 28 May 2019<br>Francesco and Yuka at the ornate Correio mailbox in Pelourinho</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5974.jpg" alt="Francesco and Yuka both touching the ornate Correio mailbox smiling" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 97 · Salvador de Bahia, Brazil · 28 May 2019<br>A closer shot — both touching the ornate Correio mailbox, smiling</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5974_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5974.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 98 · Salvador de Bahia, Brazil · 28 May 2019<br>Video of the Correio mailbox encounter</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 68 · Salvador de Bahia, Brazil · 28 May 2019<br>Francesco and Yuka posing with the antique green 'Correio' post box in Pelourinho at night</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5975.jpg" alt="Outdoor restaurant in a Pelourinho alley at night Yuka seated" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 99 · Salvador de Bahia, Brazil · 28 May 2019<br>Outdoor restaurant in a Pelourinho alley at night, Yuka seated at the table</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 69 · Salvador de Bahia, Brazil · 28 May 2019<br>Outdoor restaurant in a Pelourinho alley at night, Yuka seated at the table</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5976_poster.jpg">
 <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5976.mp4" type="video/mp4">
 </video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 100 · Salvador de Bahia, Brazil · 28 May 2019<br>African-Brazilian cultural performance — women in Candomblé dress dancing with leafy branches</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5977_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5977.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 101 · Salvador de Bahia, Brazil · 28 May 2019<br>The performance continues with dramatic red lighting and smoke</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5978_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5978.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 102 · Salvador de Bahia, Brazil · 28 May 2019<br>The stage fills with red fog during the cultural performance</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 70 · Salvador de Bahia, Brazil · 28 May 2019<br>African-Brazilian cultural performance — women in Candomblé dress dancing with leafy branches</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5979_poster.jpg">
 <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5979.mp4" type="video/mp4">
 </video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 103 · Salvador de Bahia, Brazil · 28 May 2019<br>Male dancers in colorful skirts performing on stage</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5980_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5980.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 104 · Salvador de Bahia, Brazil · 28 May 2019<br>Energetic male dancing in colorful skirts</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5981_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5981.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 105 · Salvador de Bahia, Brazil · 28 May 2019<br>The full group — mixed male and female dancers on stage</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 71 · Salvador de Bahia, Brazil · 28 May 2019<br>Male dancers in colorful skirts performing on stage</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5982_poster.jpg">
 <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5982.mp4" type="video/mp4">
 </video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 106 · Salvador de Bahia, Brazil · 28 May 2019<br>The full ensemble in Bahian-style dresses, samba rhythms</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 72 · Salvador de Bahia, Brazil · 28 May 2019<br>The full ensemble in Bahian-style dresses, samba rhythms</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5983.jpg" alt="Francesco walking through Pelourinho with a military police escort" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 107 · Salvador de Bahia, Brazil · 28 May 2019<br>Francesco walking through Pelourinho with a military police escort</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5984.jpg" alt="The police escort scene wider group with a woman in white" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 108 · Salvador de Bahia, Brazil · 28 May 2019<br>The same police escort scene — a wider group, with a woman in white alongside the officers</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_5985.jpg" alt="Group photo with three tourist police officers in Pelourinho" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 109 · Salvador de Bahia, Brazil · 28 May 2019<br>Group photo with three tourist police officers in a Pelourinho square</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 73 · Salvador de Bahia, Brazil · 28 May 2019<br>Francesco walking through Pelourinho with a military police escort</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6006.jpg" alt="Francesco and a local boat helper on Oroboro's cockpit" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 110 · Salvador de Bahia, Brazil · 29 May 2019<br>Francesco and a local boat helper on Oroboro's cockpit in the marina</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 74 · Salvador de Bahia, Brazil · 29 May 2019<br>Francesco and a local boat helper on Oroboro's cockpit in the marina</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6009.jpg" alt="View from Oroboro's helm toward the Salvador skyline" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 111 · Salvador de Bahia, Brazil · 29 May 2019<br>View from Oroboro's helm looking toward the Salvador skyline across the bay</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6010.jpg" alt="A man lifting the sun awning on Oroboro's deck" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 112 · Salvador de Bahia, Brazil · 29 May 2019<br>A man lifting the sun awning on Oroboro's deck as we prepare to head out</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 75 · Salvador de Bahia, Brazil · 29 May 2019<br>View from Oroboro's helm looking toward the Salvador skyline across the bay</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6011.jpg" alt="The Salvador favela waterfront seen from the water" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 113 · Salvador de Bahia, Brazil · 29 May 2019<br>The Salvador favela waterfront seen from the water — the contrast between the favela and modern towers behind it</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 76 · Salvador de Bahia, Brazil · 29 May 2019<br>The Salvador favela waterfront seen from the water — the contrast between the favela and modern towers behind it</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6012.jpg" alt="A local fisherman on a rustic wooden rowing raft with Oroboro behind" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 114 · Salvador de Bahia, Brazil · 29 May 2019<br>A local fisherman on a rustic wooden rowing raft, with Oroboro visible behind him</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 77 · Salvador de Bahia, Brazil · 29 May 2019<br>A local fisherman on a rustic wooden rowing raft, with Oroboro visible behind him</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6013.jpg" alt="Francesco selfie on the water with the Salvador waterfront behind" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 115 · Salvador de Bahia, Brazil · 29 May 2019<br>Francesco selfie on the water, with the Salvador waterfront behind him</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6014.jpg" alt="View from a wooden rowing boat heading to the fishing community" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 116 · Salvador de Bahia, Brazil · 29 May 2019<br>View from a wooden rowing boat heading toward the waterfront fishing community</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6015.jpg" alt="Sailboats moored in the Baía de Todos os Santos" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 117 · Salvador de Bahia, Brazil · 29 May 2019<br>Sailboats moored in the Baía de Todos os Santos</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 78 · Salvador de Bahia, Brazil · 29 May 2019<br>Francesco selfie on the water, with the Salvador waterfront behind him</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6016.jpg" alt="The waterfront fishing community with colorful laundry drying" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 118 · Salvador de Bahia, Brazil · 29 May 2019<br>The waterfront fishing community — colorful laundry drying on the rocks, a local woman below</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 79 · Salvador de Bahia, Brazil · 29 May 2019<br>The waterfront fishing community — colorful laundry drying on the rocks, a local woman below</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6017.jpg" alt="A waitress serves fried fish at a waterfront stall" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 119 · Salvador de Bahia, Brazil · 29 May 2019<br>A waitress serves fried fish at a waterfront stall, with the bay visible behind her</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 80 · Salvador de Bahia, Brazil · 29 May 2019<br>A waitress serves fried fish at a waterfront stall, with the bay visible behind her</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6018.jpg" alt="A fisherman holding a large grouper at the waterfront fish market" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 120 · Salvador de Bahia, Brazil · 29 May 2019<br>A fisherman holding a large grouper at the waterfront fish market</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6019.jpg" alt="Francesco and a friend eating at the waterfront stall" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 121 · Salvador de Bahia, Brazil · 29 May 2019<br>Francesco and a friend eating at the waterfront stall in the fishing community</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 81 · Salvador de Bahia, Brazil · 29 May 2019<br>A fisherman holding a large grouper at the waterfront fish market</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6020.jpg" alt="Holding a huge spiny lobster at the quay" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 122 · Salvador de Bahia, Brazil · 29 May 2019<br>Holding a huge spiny lobster at the quay, with the Baía de Todos os Santos behind</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6021.jpg" alt="A pile of spiny lobsters and grouper fish on the concrete quay" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 123 · Salvador de Bahia, Brazil · 29 May 2019<br>A pile of spiny lobsters and grouper fish on the concrete quay</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6022_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6022.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 124 · Salvador de Bahia, Brazil · 29 May 2019<br>Lobsters in a red net bag at the quay with the bay behind</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6023.jpg" alt="The lobster pile with a beer bottle for scale" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 125 · Salvador de Bahia, Brazil · 29 May 2019<br>The lobster pile with a beer bottle for scale</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6024.jpg" alt="Five spiny lobsters in a row showing their colorful tails" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 126 · Salvador de Bahia, Brazil · 29 May 2019<br>Five spiny lobsters arranged in a row showing their colorful tails</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 82 · Salvador de Bahia, Brazil · 29 May 2019<br>Holding a huge spiny lobster at the quay, with the Baía de Todos os Santos behind</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6025.jpg" alt="Local fishing boats moored in the Baía de Todos os Santos" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 127 · Salvador de Bahia, Brazil · 29 May 2019<br>Local fishing boats moored in the Baía de Todos os Santos</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6026.jpg" alt="The waterfront bar with an orange Schin umbrella" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 128 · Salvador de Bahia, Brazil · 29 May 2019<br>The waterfront bar with an orange Schin umbrella and plastic chairs</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 83 · Salvador de Bahia, Brazil · 29 May 2019<br>Local fishing boats moored in the Baía de Todos os Santos</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6027.jpg" alt="Fishing village waterfront homes with murals on the rocky coast" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 129 · Salvador de Bahia, Brazil · 29 May 2019<br>Fishing village waterfront homes on the rocky coast, with murals on the walls</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6028.jpg" alt="The concrete quay with a closed umbrella at the bar" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 130 · Salvador de Bahia, Brazil · 29 May 2019<br>The concrete quay with a closed umbrella at the waterfront bar</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 84 · Salvador de Bahia, Brazil · 29 May 2019<br>Fishing village waterfront homes on the rocky coast, with murals on the walls</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6029.jpg" alt="The fishing village seen from the water" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 131 · Salvador de Bahia, Brazil · 29 May 2019<br>The fishing village seen from the water, the orange bar umbrella still visible</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<video controls style="max-width:100%;width:720px;" poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6030_poster.jpg">
-<source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6030.mp4" type="video/mp4">
-</video>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 132 · Salvador de Bahia, Brazil · 29 May 2019<br>The local boat helper at Oroboro's helm with the waterfront fishing community behind him</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 85 · Salvador de Bahia, Brazil · 29 May 2019<br>The fishing village seen from the water, the orange bar umbrella still visible</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6031.jpg" alt="The Salvador tourist letter sign in front of Forte Santo Antônio da Barra" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 133 · Salvador de Bahia, Brazil · 29 May 2019<br>The 'Salvador' tourist letter sign in front of Forte Santo Antônio da Barra lighthouse</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 86 · Salvador de Bahia, Brazil · 29 May 2019<br>The 'Salvador' tourist letter sign in front of Forte Santo Antônio da Barra lighthouse</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6032.jpg" alt="The massive 16th-century stone walls of Forte Santo Antônio da Barra" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 134 · Salvador de Bahia, Brazil · 29 May 2019<br>The massive 16th-century stone walls of Forte Santo Antônio da Barra</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6033.jpg" alt="Rocky coastline with tide pools near Farol da Barra" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 135 · Salvador de Bahia, Brazil · 29 May 2019<br>Rocky coastline with tide pools near Farol da Barra (Barra Lighthouse)</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 87 · Salvador de Bahia, Brazil · 29 May 2019<br>The massive 16th-century stone walls of Forte Santo Antônio da Barra</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6034.jpg" alt="Historical information sign for Forte Santo Antônio da Barra" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 136 · Salvador de Bahia, Brazil · 29 May 2019<br>The historical information sign for Forte Santo Antônio da Barra — 'Brazil's First Fort'</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 88 · Salvador de Bahia, Brazil · 29 May 2019<br>The historical information sign for Forte Santo Antônio da Barra — 'Brazil's First Fort'</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6176.jpg" alt="A small white and yellow colonial church with a triangular gable" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 137 · Salvador de Bahia, Brazil · 5 June 2019<br>A small white and yellow colonial church with a triangular gable</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 89 · Salvador de Bahia, Brazil · 5 June 2019<br>A small white and yellow colonial church with a triangular gable</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6177.jpg" alt="Forte de Santo Antônio Além do Carmo — white fort walls with a watchtower" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 138 · Salvador de Bahia, Brazil · 5 June 2019<br>Forte de Santo Antônio Além do Carmo — white fort walls with a watchtower</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 90 · Salvador de Bahia, Brazil · 5 June 2019<br>Forte de Santo Antônio Além do Carmo — white fort walls with a watchtower</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6188.jpg" alt="Yuka at the Carimbos woodblock printing kiosk" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 139 · Salvador de Bahia, Brazil · 6 June 2019<br>Yuka at the 'Carimbos' woodblock printing kiosk in the Comércio district</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 91 · Salvador de Bahia, Brazil · 6 June 2019<br>Yuka at the 'Carimbos' woodblock printing kiosk in the Comércio district</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6199.jpg" alt="Banca de Frutas Xororó — a colorful tropical fruit market stall" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 140 · Salvador de Bahia, Brazil · 6 June 2019<br>'Banca de Frutas Xororó' — a colorful tropical fruit market stall</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 92 · Salvador de Bahia, Brazil · 6 June 2019<br>'Banca de Frutas Xororó' — a colorful tropical fruit market stall</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6200.jpg" alt="An ornate beaux-arts building with the Plano Inclinado Gonçalves funicular behind" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 141 · Salvador de Bahia, Brazil · 6 June 2019<br>An ornate beaux-arts building corner with the Plano Inclinado Gonçalves funicular behind</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6203.jpg" alt="A wide ornate commercial building facade in the Comércio district" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 142 · Salvador de Bahia, Brazil · 6 June 2019<br>A wide ornate commercial building facade in the Comércio district</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 93 · Salvador de Bahia, Brazil · 6 June 2019<br>An ornate beaux-arts building corner with the Plano Inclinado Gonçalves funicular behind</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6204.jpg" alt="A decaying abandoned ornate beaux-arts building" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 143 · Salvador de Bahia, Brazil · 6 June 2019<br>A decaying abandoned ornate beaux-arts building in the Comércio area</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 94 · Salvador de Bahia, Brazil · 6 June 2019<br>A decaying abandoned ornate beaux-arts building in the Comércio area</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6208.jpg" alt="Yuka in her orange jacket in front of a magnificent green Art Nouveau corner building" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 144 · Salvador de Bahia, Brazil · 6 June 2019<br>Yuka in her orange jacket in front of a magnificent green Art Nouveau corner building</figcaption>
-</figure>
-
-<figure style="margin:1.5rem 0;text-align:center;">
-<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/img_6212.jpg" alt="The ornate Art Nouveau building showing the decorative turret with an eagle sculpture" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 145 · Salvador de Bahia, Brazil · 6 June 2019<br>The same ornate Art Nouveau building, showing the decorative turret with an eagle sculpture</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 95 · Salvador de Bahia, Brazil · 6 June 2019<br>Yuka in her orange jacket in front of a magnificent green Art Nouveau corner building</figcaption>
 </figure>
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salvador-de-bahia/crqbe9978.jpg" alt="Yuka in front of an illuminated baroque church in Pelourinho at night" style="max-width:100%">
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 146 · Salvador de Bahia, Brazil · May 2019<br>Yuka standing in front of an illuminated baroque church in Pelourinho at night</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 96 · Salvador de Bahia, Brazil · May 2019<br>Yuka standing in front of an illuminated baroque church in Pelourinho at night</figcaption>
 </figure>
-
 
 <figure style="margin:2rem 0;text-align:center;">
   <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/salvador-track.gif"
        alt="S/V Oroboro GPS sailing track — Salvador de Bahia, July–August 2019"
        style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 147 · Salvador de Bahia, Brazil · August 2019<br>S/V Oroboro GPS track &mdash; Salvador de Bahia &mdash; July&ndash;August 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 97 · Salvador de Bahia, Brazil · August 2019<br>S/V Oroboro GPS track &mdash; Salvador de Bahia &mdash; July&ndash;August 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Brazil &mdash; Salvador de Bahia, July&ndash;August 2019</h2>
@@ -854,11 +576,11 @@ hero: fullsizeoutput_a9f.jpeg
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/salvador-salvador-terminal-nautico.png" alt="Salvador Terminal Náutico anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 148 · Salvador de Bahia, Brazil · August 2019<br>Salvador &mdash; Terminal N&aacute;utico</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 98 · Salvador de Bahia, Brazil · August 2019<br>Salvador &mdash; Terminal N&aacute;utico</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/salvador-sto-antonio-do-paraguacu.png" alt="Sto Antônio do Paraguaçu anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 149 · Salvador de Bahia, Brazil · August 2019<br>Sto Ant&ocirc;nio do Paragua&ccedil;u</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 99 · Salvador de Bahia, Brazil · August 2019<br>Sto Ant&ocirc;nio do Paragua&ccedil;u</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived July&ndash;August 2019.</p>
