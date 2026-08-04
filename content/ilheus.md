@@ -30,9 +30,7 @@ So we decided to go back on board, eat, sleep and depart at 3 am to get to Jacar
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilheus-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Ilh&eacute;us, Brazil &mdash; May 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Ilhéus, Brazil · May 2019<br>S/V Oroboro GPS track &mdash; Ilh&eacute;us, Brazil &mdash; May 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Ilh&eacute;us, May 2019</h2>
@@ -61,7 +59,7 @@ So we decided to go back on board, eat, sleep and depart at 3 am to get to Jacar
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilheus-ilheus-iate-club.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Ilh&eacute;us Iate Clube</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Ilhéus, Brazil · May 2019<br>Ilh&eacute;us Iate Clube</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived May 2019.</p>

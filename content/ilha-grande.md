@@ -26,21 +26,33 @@ hero: fullsizeoutput_1ba.jpeg
 <p>And she is right, this place deserves a longer stay.  But unfortunately our 3 months Visa can only be extended for an extra 3 months, and we have a long way to go to reach the Caribbean, about 4,000 nm, which is just as long as the ocean crossing from Cape Town.  And we also want to explore other parts of Brazil.  So we limited our stay to exactly 2 months.</p>
 <p><strong>Abraão</strong></p>
 <p>What makes Ilha Grande really special is the fact that there are no roads and no cars.  There is only one village called Abraão which is almost as charming as Paraty.  The streets are mostly unpaved, just sand and sometimes cobblestones.  The waterfront is filled with bars and restaurants, charming pousadas and a few campgrounds.  At night, live music everywhere.  Enchanting!</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter wp-image-2195 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_1ba.jpeg" alt="Abraão, Brazil" width="4032" height="3024" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Ilha Grande, Brazil · 17 February 2019<br>Abraão, Brazil</figcaption>
+</figure>
 <p>&nbsp;</p>
 <p><strong>Sitio Forte</strong></p>
 <p>This is a great anchorage with a small restaurant on the beach run by Thelma, on Praia da Tapera.  She makes a fantastic Fish Lasagna that you can also order through VHF radio and take on board.  We spent many days in this anchorage, SUPing and snorkeling.  Here we met Philippe and Federique, French/Swiss sailors who live in Brazil most of their lives and helped us a lot with local knowledge during our stay in Ilha Grande.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter wp-image-2209 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_66.jpeg" alt="Sitio Forte, Brazil" width="4032" height="3024" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Ilha Grande, Brazil · 5 February 2019<br>Sitio Forte, Brazil</figcaption>
+</figure>
 <p>&nbsp;</p>
 <p><strong>Praia dos Meros </strong></p>
 <p>In Praia dos Meros we reunited with Plan B, a Leopard 45 owned by the Spanish couple Joaquin and Monica.  We met them for the first time in Cape Town.  Like us, the took delivery of the boat in South Africa and set sails for Brazil a couple of months before us.  I'll dedicate a separate blog to them, because we will be sailing along with them all the way to the Caribbean.</p>
 <p>Plan B had some friends visiting, Ricardo and Isabel, who on top of being great sailors (circumnavigated the globe on a wooden monohull), are also great singers, particularly the style called Habaneras.  We spent an incredible good time with them at anchor in this little bay.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter wp-image-2017 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_0712.jpg" alt="Praia dos Meros, Brazil" width="4032" height="3024" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Ilha Grande, Brazil · 19 February 2019<br>Praia dos Meros, Brazil</figcaption>
+</figure>
 <p>One night, after dinner, Ricardo took out the guitar and started singing habaneras.  Unbeknown to us,  on the only other boat at anchor in the cove there was a professional Argentinian opera singer, who responded to each one of the Habaneras sung by Ricardo with an aria of famous operas.  There was no moon, and the stars reflected on the water.</p>
 <p>&nbsp;</p>
 <p><strong>Mamangua</strong></p>
 <p>Mamangua is like a tropical fiord, 8 km long and 2 km wide.  There is a very secluded fishing village with a few houses and a beach restaurant.  We were there with Joaquin and Monica of Plan B.  Joaquin took this shot of us.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter wp-image-2216 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/d5c33ef0-19b1-492d-ab20-b2b01bbcfe65.jpg" alt="Mamangua, Brazil" width="1600" height="1200" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Ilha Grande, Brazil · February 2019<br>Mamangua, Brazil</figcaption>
+</figure>
 <p>&nbsp;</p>
 <p>There are so many other anchorages that we visited, some with poetic names like Saco do Ceu or Enseada das Estrelas.</p>
 <p>Ilha Grande is a great cruising ground, it's a pity that boats that circumnavigate don't stop here and go straight to the Caribbean.  They would love it.</p>
@@ -52,9 +64,7 @@ hero: fullsizeoutput_1ba.jpeg
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Ilha Grande, Brazil &mdash; Feb&ndash;Apr 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Ilha Grande, Brazil · February 2019<br>S/V Oroboro GPS track &mdash; Ilha Grande, Brazil &mdash; Feb&ndash;Apr 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Ilha Grande, Feb&ndash;Apr 2019</h2>
@@ -93,19 +103,19 @@ hero: fullsizeoutput_1ba.jpeg
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-abraao-ilha-grande.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Abra&atilde;o</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Ilha Grande, Brazil · February 2019<br>Abra&atilde;o</figcaption>
   </figure>
   <figure style="margin:0;">
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-sitio-forte-praia-da-tapera.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">S&iacute;tio Forte &mdash; Praia da Tapera</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Ilha Grande, Brazil · February 2019<br>S&iacute;tio Forte &mdash; Praia da Tapera</figcaption>
   </figure>
   <figure style="margin:0;">
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/ilha-grande-mamangua.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Mamanguá</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Ilha Grande, Brazil · February 2019<br>Mamanguá</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived February&ndash;April 2019.</p>

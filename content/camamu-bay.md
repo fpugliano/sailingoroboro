@@ -16,8 +16,14 @@ hero: img_3366.jpg
 <p>Some 30 nautical miles north of Itacar&egrave; lays the Bay of Camamu. There are a lot of different villages in the bay and up the river. For us it was the first time navigating in a river, most of it uncharted.<br>
 <h3>Cajaiba</h3><br>
 If you are interested in local culture, you might enjoy a visit to Cajaiba, the village where most of Brazil's "schooners" are built.  This village is incredible, you will not find it on tourists guides like the Lonely Planet, and a search query on Google returns 0 results.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter size-full wp-image-3153" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_3366.jpg" alt="Cajaiba, the only church" width="3938" height="2954" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Camamu Bay, Brazil · 21 May 2019<br>Cajaiba, the only church</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter size-full wp-image-3889" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/vxru23rqw21nygkimiag.jpg" alt="Cajaiba, elementary school" width="4032" height="3024" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Camamu Bay, Brazil · 21 May 2019<br>Cajaiba, elementary school</figcaption>
+</figure>
 <p>I believe everyone in the village works in the "shipping yard".  Well, if that can be called a shipping yard.  The process of building 1 boat takes about 9 months and 20 men.</p>
 <p>These impressive wooden ships are built entirely by hand using traditional "old school" boat building methods.</p>
 <p>Most of the workers were wearing flip flops, and there was no concern about safety:  Look at this guy using a chain saw...</p>
@@ -31,7 +37,10 @@ Sailing south in the Rio da Serra, we arrived to the little village of Mara&ugra
 <p>Mara&ugrave; was for us just a staging stop to get to che famous Cachoeira do Trememb&eacute;.  There isn't really much going on here.</p>
 <h3>Cachoeira do Trememb&eacute;</h3>
 This waterfall is pretty amazing.  You can get there with your dinghy navigating on the river.  Quite a unique experience.  Here is our track if someone wants to get there:
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter wp-image-3912" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_62f.jpeg" alt="Tracks from Maraù to Cachoeira do Tremembé" width="357" height="773" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Camamu Bay, Brazil · 20 May 2019<br>Tracks from Maraù to Cachoeira do Tremembé</figcaption>
+</figure>
 <p>When we got there the spectacle was amazing...  Where else in the world you can get to a waterfall by sailing on your own sailboat up a river?</p>
 <h3>Camam&ugrave;</h3>
 Camam&ugrave; is the most insignificant town we've visited so far in Brazil.  It reminds me of Bakersfield, CA.
@@ -54,9 +63,7 @@ Barra Grande is a charming little village that reminded me a lot Abraho in Ilha 
   <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-track.gif"
        alt="S/V Oroboro GPS sailing track — Camamu Bay, June 2019"
        style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Camamu Bay &mdash; June 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Camamu Bay, Brazil · May 2019<br>S/V Oroboro GPS track &mdash; Camamu Bay &mdash; June 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Brazil &mdash; Camamu Bay, June 2019</h2>
@@ -108,27 +115,27 @@ Barra Grande is a charming little village that reminded me a lot Abraho in Ilha 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-cajaiba.png" alt="Cajaiba anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Cajaiba</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Camamu Bay, Brazil · May 2019<br>Cajaiba</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-camamu.png" alt="Camamú anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Camam&uacute;</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Camamu Bay, Brazil · May 2019<br>Camam&uacute;</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-cachoeira-do-tremembe.png" alt="Cachoeira do Tremembé anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Cachoeira do Trememb&eacute;</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Camamu Bay, Brazil · May 2019<br>Cachoeira do Trememb&eacute;</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-marau.png" alt="Maraú anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Mara&uacute;</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Camamu Bay, Brazil · May 2019<br>Mara&uacute;</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-ilha-do-goio.png" alt="Ilha do Goiò anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Ilha do Goi&ograve;</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 9 · Camamu Bay, Brazil · May 2019<br>Ilha do Goi&ograve;</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/camamu-bay-barra-grande.png" alt="Barra Grande anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Barra Grande</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 10 · Camamu Bay, Brazil · May 2019<br>Barra Grande</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived June 2019.</p>

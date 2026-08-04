@@ -45,7 +45,12 @@ Comfortable sail, averaged 6.0 SOG under full main and genoa in the first 19 hou
 
 As predicted, we'll be in a patch of very light winds until tomorrow, so we decided to take down the white sails and hoist the spinnaker.
 
-![The parasailor goes up. Light winds, blue skies, and three weeks of ocean ahead.](atlantic-crossing/spinnaker.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/spinnaker.jpg" alt="The parasailor goes up. Light winds, blue skies, and three weeks of ocean ahead." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Atlantic Ocean · May 2021<br>The parasailor goes up. Light winds, blue skies, and three weeks of ocean ahead.</figcaption>
+</figure>
+
 
 ## Day 3 — Atlantic Crossing
 *Tue May 04 2021*
@@ -54,7 +59,12 @@ Last night we had to bring down the parasailor and motorsail for 7 hours. This m
 
 At 6 am I caught the biggest Mahi Mahi I've ever seen! It was huge! When standing, it arrived to my shoulder! The fight was insane, but I won! Now we have fish for a month! The freezer is full!
 
-![The biggest Mahi Mahi I've ever caught — shoulder height when standing. The fight lasted ten minutes.](https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_149.jpeg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_149.jpeg" alt="The biggest Mahi Mahi I've ever caught — shoulder height when standing. The fight lasted ten minutes." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Atlantic Ocean · 4 May 2021<br>The biggest Mahi Mahi I've ever caught — shoulder height when standing. The fight lasted ten minutes.</figcaption>
+</figure>
+
 
 Yuka kept the bones to make the broth for the Arroz a banda. Philippe promised to make us the famous Thelma Fish Lasagna.
 
@@ -85,7 +95,12 @@ We hope that at last 35/37N we'll be well on top of the Azores High, where we ca
 
 Of course, this is just a theory. We adjust our plans as we go, each time we'll get new forecasts.
 
-![The zig-zag, explained. And no, we were not drunk.](atlantic-crossing/route-map.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/route-map.jpg" alt="The zig-zag, explained. And no, we were not drunk." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Atlantic Ocean · May 2021<br>The zig-zag, explained. And no, we were not drunk.</figcaption>
+</figure>
+
 
 But so far we can't complain: We've had "magazine-like" sailing conditions. Flat seas, sunny days and starry nights.
 
@@ -118,7 +133,12 @@ While we are motorsailing east in light wind conditions, we are also preparing f
 
 Downloading and studying grib files and synoptic charts. Plotting the course and analyzing the forecasts models. GFS, ECMWF, PWG, PWE… you name it.
 
-![The cockpit weather station. Every weather window starts with a screen full of grib files and a lot of coffee.](atlantic-crossing/grib-charts.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/grib-charts.jpg" alt="The cockpit weather station. Every weather window starts with a screen full of grib files and a lot of coffee." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Atlantic Ocean · May 2021<br>The cockpit weather station. Every weather window starts with a screen full of grib files and a lot of coffee.</figcaption>
+</figure>
+
 
 There are dozens of different mathematical models out there. And none of them is exactly right, otherwise there wouldn't be so many.
 
@@ -144,7 +164,12 @@ The good thing is that the crew is well rested and in good spirit. It was great 
 
 Philippe today cooked the famous Thelma Fish Lasagna. It's the signature dish of Thelma, the owner of this little shack in Brazil where we used to anchor. It was delicious!
 
-![Philippe's Thelma Fish Lasagna — made with the mahi-mahi bones Yuka had saved two days earlier.](https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/t7z4fqwtqunjxn8grf0na-rotated.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/t7z4fqwtqunjxn8grf0na-rotated.jpg" alt="Philippe's Thelma Fish Lasagna — made with the mahi-mahi bones Yuka had saved two days earlier." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Atlantic Ocean · May 2021<br>Philippe's Thelma Fish Lasagna — made with the mahi-mahi bones Yuka had saved two days earlier.</figcaption>
+</figure>
+
 
 Yuka and Philippe are preparing a lot of food to avoid cooking on Fri/Sat/Sun, when the cold front and associated squalls will pass over us.
 
@@ -178,7 +203,12 @@ What-a-ride!
 
 We clocked 159 nm in a day! We had sustained winds of 25 gusting 28 knots all day, big 3 meters waves and Oroboro was steadily surfing at 10 knots SOG. The adrenaline is still flowing!
 
-![Oroboro running hard. From the cockpit the ocean looks manageable — below decks, it's a different story.](atlantic-crossing/stern-ocean.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/stern-ocean.jpg" alt="Oroboro running hard. From the cockpit the ocean looks manageable — below decks, it's a different story." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Atlantic Ocean · May 2021<br>Oroboro running hard. From the cockpit the ocean looks manageable — below decks, it's a different story.</figcaption>
+</figure>
+
 
 Unfortunately I spent my night shift pumping out water from the port bilge and investigating a leak. The electric bilge pump decided to fail in the most inappropriate moment. So I also had to replace it.
 
@@ -298,7 +328,12 @@ So we are sticking to his recommended route. If we get too much wind, we'll head
 
 For now, we are sailing beautifully under spinnaker. The swell is so mild that Philippe and I decided to transfer diesel from the jerry cans into our tanks. So our tanks are now full again.
 
-![Refilling in the middle of the ocean. Philippe at the ready, jerry can at hand — tanks topped off at the halfway mark.](https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_151-1.jpeg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_151-1.jpeg" alt="Refilling in the middle of the ocean. Philippe at the ready, jerry can at hand — tanks topped off at the halfway mark." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Atlantic Ocean · May 2021<br>Refilling in the middle of the ocean. Philippe at the ready, jerry can at hand — tanks topped off at the halfway mark.</figcaption>
+</figure>
+
 
 Yuka is playing with Duolingo, I think her Spanish will be better than mine by the time we get to the Balearic. I'm being lazy, and still haven't cranked up with my Portuguese course.
 
@@ -350,7 +385,12 @@ We are heading east keeping below the 34 degree of latitude, towards an imaginar
 
 I should play these numbers together with the previous 30N-60W at the Lotto once we are in the Azores. I think they're lucky numbers.
 
-![The helm station on a good day: chartplotter tracking the course, genoa pulling steady, and the sea doing what you ask of it.](atlantic-crossing/helm-station.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/helm-station.jpg" alt="The helm station on a good day: chartplotter tracking the course, genoa pulling steady, and the sea doing what you ask of it." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Atlantic Ocean · May 2021<br>The helm station on a good day: chartplotter tracking the course, genoa pulling steady, and the sea doing what you ask of it.</figcaption>
+</figure>
+
 
 Today I found out that the bilge pump I replaced only two days ago it's not working. It gets warm but it doesn't turn. The motor is seized. What caused these bilge pumps to fail it's a mystery. I run out of spares, so hopefully we can replace it in Horta.
 
@@ -586,7 +626,12 @@ Oroboro did an incredible job! She will soon get a fresh water rinse and all the
 
 For us? A good night sleep, Alas!
 
-![At our arrival in Horta, we had a very warm welcome committee: S/V Gerty!](https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/625abe79-f885-4b63-afbe-3438c02a8c68.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/625abe79-f885-4b63-afbe-3438c02a8c68.jpg" alt="At our arrival in Horta, we had a very warm welcome committee: S/V Gerty!" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 9 · Atlantic Ocean · May 2021<br>At our arrival in Horta, we had a very warm welcome committee: S/V Gerty!</figcaption>
+</figure>
+
 
 ---
 
@@ -670,7 +715,12 @@ I started watching Netflix series with Michael Douglas, called The Kominsky Meth
 
 Yuka is watching Micheal Jordan Last Dance. Philippe is watching Breaking Bad.
 
-![Two screens at midnight: AIS tracking a cargo ship on the left, The Kominsky Method on the right. This is what offshore sailing actually looks like after week two.](atlantic-crossing/night-screens.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/night-screens.jpg" alt="Two screens at midnight: AIS tracking a cargo ship on the left, The Kominsky Method on the right. This is what offshore sailing actually looks like after week two." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 10 · Atlantic Ocean · May 2021<br>Two screens at midnight: AIS tracking a cargo ship on the left, The Kominsky Method on the right. This is what offshore sailing actually looks like after week two.</figcaption>
+</figure>
+
 
 The boat is doing fine, the water maker is working properly and there isn't much to do other than making sure we'll be at our best for when we have to cross the semi-permanent low pressure system that is just off the coast of Portugal.
 
@@ -754,16 +804,19 @@ We made it! We crossed the North Atlantic!
 
 ---
 
-![Why I love the 3 to 6 am watch. Wind at the instruments, the world asleep, and three hours of ocean all to yourself.](atlantic-crossing/night-instruments.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/night-instruments.jpg" alt="Why I love the 3 to 6 am watch. Wind at the instruments, the world asleep, and three hours of ocean all to yourself." style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 11 · Atlantic Ocean · May 2021<br>Why I love the 3 to 6 am watch. Wind at the instruments, the world asleep, and three hours of ocean all to yourself.</figcaption>
+</figure>
+
 
 
 <figure style="margin:2rem 0;text-align:center;">
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/2nd-atlantic-crossing-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; 2nd Atlantic Crossing &mdash; Bahamas to Azores &mdash; May 2021 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 12 · Atlantic Ocean · May 2021<br>S/V Oroboro GPS track &mdash; 2nd Atlantic Crossing &mdash; Bahamas to Azores &mdash; May 2021 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; 2nd Atlantic Crossing, May 2021</h2>
@@ -797,13 +850,13 @@ We made it! We crossed the North Atlantic!
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/2nd-atlantic-crossing-marsh-harbour-bahamas.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Marsh Harbour &mdash; Bahamas</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 13 · Atlantic Ocean · May 2021<br>Marsh Harbour &mdash; Bahamas</figcaption>
   </figure>
   <figure style="margin:0;">
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/2nd-atlantic-crossing-horta-faial-azores.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Horta &mdash; Faial, Azores</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 14 · Atlantic Ocean · May 2021<br>Horta &mdash; Faial, Azores</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived May 2021.</p>

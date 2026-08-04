@@ -17,7 +17,10 @@ hero: img_2304.jpg
 <p>One of the golden rules of cruising life is “not to have a schedule”.  You set sails only with the best conditions.</p>
 <p>We discussed with Joaquin and Monica, and we unanimously voted for booking the flights for the next day.  So we hired a marinero to take care of our boats during our absence, and off we went.  In Vitoria, the only things we saw (other than the Immigration office, where we went to extend our Visas), where the Cathedral and the theater.</p>
 <p>Also, we took a picture of one of the ugliest high rise building we saw so far.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter wp-image-2684 size-full" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2304.jpg" alt="Monster building in Vitoria" width="3024" height="4032" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Vitória, Brazil · 16 April 2019<br>Monster building in Vitoria</figcaption>
+</figure>
 <p>We are really looking forward to get to Brasilia and see the work of Lúcio Costa, Oscar Niemeyer and other great architects.</p>
 
 
@@ -25,9 +28,7 @@ hero: img_2304.jpg
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/vitoria-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Vit&oacute;ria, Brazil &mdash; May 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Vitória, Brazil · April 2019<br>S/V Oroboro GPS track &mdash; Vit&oacute;ria, Brazil &mdash; May 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Vit&oacute;ria, May 2019</h2>
@@ -56,7 +57,7 @@ hero: img_2304.jpg
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/vitoria-vitoria-yacht-club.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Vit&oacute;ria Yacht Club</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Vitória, Brazil · April 2019<br>Vit&oacute;ria Yacht Club</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived May 2019.</p>

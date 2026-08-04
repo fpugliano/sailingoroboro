@@ -11,11 +11,26 @@ hero: namibia/img_1860.jpg
 
 We left Cape Town on Saturday December 15th 2018 with the 13:15 V&A Waterfront marina swing bridge opening. When calling Port Control over the VHF on channel 14 to ask permission to leave the harbor for one last time, I felt the importance of the moment and didn't forget to thank the people in the tower and wish them happy holidays: "Port Control, Port Control, Port Control, this is Sailing Vessel Oroboro, Oroboro, Oroboro over... [...] Port Control we are asking permission to leave the V&A Waterfront, destination Brazil via Luderitz and Walvis Bay in Namibia and then St Helena... [...] Port Control on behalf of the whole crew on Oroboro I wanted to thank you for keeping us safe, and I wish you happy holidays. We love your country and hope we'll be back one day! [...] To which they replied: Thank you Oroboro, we were happy to have you here! Fair winds!
 
-![Saying farewell to the Cape Grace marina team](oroboro-intro/img_1422.jpg)
 
-![Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town](oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1422.jpg" alt="Saying farewell to the Cape Grace marina team" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Lüderitz, Namibia · December 2018<br>Saying farewell to the Cape Grace marina team</figcaption>
+</figure>
 
-![Waving goodbye as Oroboro passes through the swing bridge](oroboro-intro/evlbe4843.jpg)
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg" alt="Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Lüderitz, Namibia · December 2018<br>Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/evlbe4843.jpg" alt="Waving goodbye as Oroboro passes through the swing bridge" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Lüderitz, Namibia · December 2018<br>Waving goodbye as Oroboro passes through the swing bridge</figcaption>
+</figure>
+
 
 **Saturday December 15th, 2018**
 
@@ -33,19 +48,39 @@ The third day at 3 am the wind suddenly died. There was a small low pressure sys
 
 In the afternoon the wind came back and we hoisted the asymmetrical spinnaker. The sea was flat, so Oroboro was sailing very nicely along the coast from Orange river to Luderitz, where we arrived around 9:30 pm. Usually it is not a good idea entering a harbor that you don't know at night, but we didn't have any other option. Luckily the port control guy over the VHF was very friendly, and gave us useful tips on where to anchor.
 
-![German colonial architecture in Lüderitz](namibia/img_1614.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1614.jpg" alt="German colonial architecture in Lüderitz" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Lüderitz, Namibia · December 2018<br>German colonial architecture in Lüderitz</figcaption>
+</figure>
+
 
 **Luderitz, Namibia**
 
 The next morning we went on shore to check in with custom and immigrations, and the procedure was a breeze. We didn't have to pay any money, unlike in some countries in the Caribbean, and the authorities were very friendly and laid back. For the first time since I was a child I saw a carbon copy paper used for filling in the immigration forms!
 
-![Yuka at Lüderitz customs and passport control](namibia/img_1589.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1589.jpg" alt="Yuka at Lüderitz customs and passport control" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Lüderitz, Namibia · December 2018<br>Yuka at Lüderitz customs and passport control</figcaption>
+</figure>
+
 
 Luderitz itself was a surprise — a small German colonial town on the edge of the Namibian desert, with colourful Art Nouveau buildings that looked like they had been picked up from Hamburg and dropped on the Skeleton Coast. A day trip out to Kolmanskop, the diamond-mining ghost town a few kilometres inland, was unmissable. Abandoned in 1956, the desert is slowly reclaiming it.
 
-![Looking out through a crumbling Kolmanskop window onto the desert](namibia/img_1639.jpg)
 
-![The main house at Kolmanskop, half-buried in sand](namibia/img_1653.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1639.jpg" alt="Looking out through a crumbling Kolmanskop window onto the desert" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Lüderitz, Namibia · 20 December 2018<br>Looking out through a crumbling Kolmanskop window onto the desert</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1653.jpg" alt="The main house at Kolmanskop, half-buried in sand" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Lüderitz, Namibia · 20 December 2018<br>The main house at Kolmanskop, half-buried in sand</figcaption>
+</figure>
+
 
 **Numbers:**
 
@@ -61,20 +96,28 @@ Night watches were hard, especially the shift from midnight to 3 am. Full moons 
 
 Last but not least, I think there can't be any crew better than this. We are even getting a South African accent with a slight Portuguese twist. And Joao and Ligia are learning some Italian as well!
 
-![Francesco and Yuka at the Kolmannskuppe entrance](namibia/img_1691.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1691.jpg" alt="Francesco and Yuka at the Kolmannskuppe entrance" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Lüderitz, Namibia · December 2018<br>Francesco and Yuka at the Kolmannskuppe entrance</figcaption>
+</figure>
+
 
 Life is good.
 
-![Namibian coastline — desert dunes meeting the Atlantic](namibia/img_1860.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1860.jpg" alt="Namibian coastline — desert dunes meeting the Atlantic" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 9 · Lüderitz, Namibia · 22 December 2018<br>Namibian coastline — desert dunes meeting the Atlantic</figcaption>
+</figure>
+
 
 
 <figure style="margin:2rem 0;text-align:center;">
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-passage-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Cape Town to Namibia &mdash; Dec 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 10 · Lüderitz, Namibia · December 2018<br>S/V Oroboro GPS track &mdash; Cape Town to Namibia &mdash; Dec 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Cape Town to Namibia, Dec 2018</h2>
@@ -113,19 +156,19 @@ Life is good.
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-passage-luderitz.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">L&uuml;deritz</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 11 · Lüderitz, Namibia · December 2018<br>L&uuml;deritz</figcaption>
   </figure>
   <figure style="margin:0;">
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-passage-hottentot-bay.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Hottentot Bay</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 12 · Lüderitz, Namibia · December 2018<br>Hottentot Bay</figcaption>
   </figure>
   <figure style="margin:0;">
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-passage-walvis-bay.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Walvis Bay</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 13 · Lüderitz, Namibia · December 2018<br>Walvis Bay</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived December 2018.</p>

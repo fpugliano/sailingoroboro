@@ -28,7 +28,12 @@ We arrived in this beautiful bay under a fresh breeze flying our Parasailor. As 
 
 The next morning the wind was gone. We decided to organize a little expedition on shore. But the swell was still quite large, so we weren't sure we could land with the dinghy. We tried one spot but we had to give up, then we moved to a different one and by timing it very carefully, we made landfall. It's been our little Normandy landing. There was no one but us. And a jackal!
 
-![Dinghy on the Skeleton Coast — our Normandy landing](namibia/img_1747.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1747.jpg" alt="Dinghy on the Skeleton Coast — our Normandy landing" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Hottentot Bay, Namibia · 22 December 2018<br>Dinghy on the Skeleton Coast — our Normandy landing</figcaption>
+</figure>
+
 
 The bay is surrounded by tall sand dunes, and the contrast between the golden sand dunes and the blue ocean is spectacular. We climbed one of the dunes and saw Oroboro safely at anchor in the middle of the bay, the one and only boat on this desolated coast.
 
@@ -38,7 +43,12 @@ When looking north, we could see hundreds of dunes that on our Navionics charts 
   <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1744.mp4" type="video/mp4">
 </video>
 
-![Aerial view of the Namibian Skeleton Coast — dunes meeting the Atlantic](namibia/img_1860.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1860.jpg" alt="Aerial view of the Namibian Skeleton Coast — dunes meeting the Atlantic" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Hottentot Bay, Namibia · 22 December 2018<br>Aerial view of the Namibian Skeleton Coast — dunes meeting the Atlantic</figcaption>
+</figure>
+
 
 There is only one other place in the world where the light is so surreal that makes you feel as if you were dreaming, and that is Venice, Italy. Venice and Namibia. Two different worlds, a contradiction in terms.
 
@@ -49,9 +59,7 @@ I am a lousy photographer, and I'm sure that these pictures can't make justice t
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-coast-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Namibia &mdash; Skeleton Coast &mdash; Dec 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Hottentot Bay, Namibia · December 2018<br>S/V Oroboro GPS track &mdash; Namibia &mdash; Skeleton Coast &mdash; Dec 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Namibia Skeleton Coast, Dec 2018</h2>
@@ -85,13 +93,13 @@ I am a lousy photographer, and I'm sure that these pictures can't make justice t
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-coast-luderitz.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">L&uuml;deritz</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Hottentot Bay, Namibia · December 2018<br>L&uuml;deritz</figcaption>
   </figure>
   <figure style="margin:0;">
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/namibia-coast-hottentot-bay.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Hottentot Bay</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Hottentot Bay, Namibia · December 2018<br>Hottentot Bay</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived December 2018.</p>

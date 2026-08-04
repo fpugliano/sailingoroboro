@@ -13,7 +13,10 @@ hero: meteor.jpg
 
 
 <p>We sailed out of Joao Pessoa around midnight. Around 3 am, while sailing north from Joao Pessoa to Natal, I saw a red flare in the night sky on the starboard side. The flare was so bright that illuminated the sea below. It looked like it was descending towards the water, in an east to west direction. What was it? I hoped Yuka was in the cockpit with me to confirm what I saw, but she was off watch, sleeping in the cabin down below. The night was dark with no moon. 20 knots of wind on the beam, waves 2 meters high.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/meteor.jpg" class="aligncenter size-full wp-image-5256" alt="Meteor in the night sky" width="756" height="491">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · João Pessoa, Brazil · November 2019<br>Meteor in the night sky</figcaption>
+</figure>
 <p>I looked at the radar and couldn’t see anything in the direction of the flare. I looked at the AIS, and there were a couple of cargos going north 10 miles behind me, and one going south 20 miles in front of me. I played with the radar settings, trying to see if it detected a vessel in my starboard direction. Nothing.</p>
 <p>How come my radar doesn’t return any echo for a vessel? Is the person who fired the red flare in a liferaft?</p>
 <p>I made sure my VHF radio was on channel 16 and that the volume was at the max. No communications. I took a picture of my lat and long and the time on my i70 to mark my position.</p>
@@ -43,9 +46,7 @@ hero: meteor.jpg
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/joao-pessoa-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Jo&atilde;o Pessoa, Brazil &mdash; Nov 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · João Pessoa, Brazil · November 2019<br>S/V Oroboro GPS track &mdash; Jo&atilde;o Pessoa, Brazil &mdash; Nov 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Jo&atilde;o Pessoa, Nov 2019</h2>
@@ -74,7 +75,7 @@ hero: meteor.jpg
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/joao-pessoa-joao-pessoa-departure.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Jo&atilde;o Pessoa &mdash; Departure</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · João Pessoa, Brazil · November 2019<br>Jo&atilde;o Pessoa &mdash; Departure</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived November 2019.</p>

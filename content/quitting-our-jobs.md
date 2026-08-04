@@ -27,9 +27,19 @@ But a dream stays a dream if you are too scared to chase it. And most people's d
 
 And in the end, it's not the years in your life that count. It's the life in your years.
 
-![Yuka at her office — surrounded by international flags and elephant figurines, the Silicon Valley tech world we were about to leave behind](quitting-jobs/yuka-linkedin.jpg)
 
-![Francesco at eBay, celebrating the launch of Fresh Feed — one of the last projects before leaving](quitting-jobs/img_8678.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/yuka-linkedin.jpg" alt="Yuka at her office — surrounded by international flags and elephant figurines, the Silicon Valley tech world we were about to leave behind" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Cape Town, South Africa · September 2018<br>Yuka at her office — surrounded by international flags and elephant figurines, the Silicon Valley tech world we were about to leave behind</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/img_8678.jpg" alt="Francesco at eBay, celebrating the launch of Fresh Feed — one of the last projects before leaving" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Cape Town, South Africa · 7 November 2016<br>Francesco at eBay, celebrating the launch of Fresh Feed — one of the last projects before leaving</figcaption>
+</figure>
+
 
 We spent countless hours planning and dreaming about the next step in our lives. So we thought that when it was finally going to be time to quit our jobs, we would be prepared, and it would be easy. We were wrong. It hasn't been easy at all.
 
@@ -37,13 +47,23 @@ As soon as we learned the exact date for the splash of our boat, we decided to t
 
 Alea iacta est (The die is cast)
 
-![My eBay badge — the last day I would ever need it](quitting-jobs/img_9259.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/img_9259.jpg" alt="My eBay badge — the last day I would ever need it" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Cape Town, South Africa · September 2018<br>My eBay badge — the last day I would ever need it</figcaption>
+</figure>
+
 
 We gave our employers generous notice, and that gave both of our teams enough time to search for our successors. A long notice also helped us, because we had enough time to catch up with and say goodbye to all the people we've worked with during the course of the years. And they are a lot!
 
 So now here we are now: jobless. For the first time in our lives since college. No more intelligent conversations with our peers under the fluorescent. No more presentations, staff meetings, one-on-ones, V2MOMs, status reports, performance reviews and compliance trainings.
 
-![Saying goodbye to our beloved house was not easy](quitting-jobs/img_9572.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/img_9572.jpg" alt="Saying goodbye to our beloved house was not easy" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Cape Town, South Africa · September 2018<br>Saying goodbye to our beloved house was not easy</figcaption>
+</figure>
+
 
 Friends and coworkers are asking me how my last day at work feels like. Well, to me it feels exactly like when I graduated from college.
 
@@ -51,6 +71,16 @@ As a matter of fact, as soon as I got home after my last day at the office this 
 
 She is absolutely right!
 
-![What we shipped to Cape Town](quitting-jobs/img_9242.jpg)
 
-![Home — the last familiar view before the adventure began](quitting-jobs/img_9573.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/img_9242.jpg" alt="What we shipped to Cape Town" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Cape Town, South Africa · September 2018<br>What we shipped to Cape Town</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/img_9573.jpg" alt="Home — the last familiar view before the adventure began" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Cape Town, South Africa · September 2018<br>Home — the last familiar view before the adventure began</figcaption>
+</figure>
+

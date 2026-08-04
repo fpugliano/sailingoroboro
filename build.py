@@ -200,7 +200,17 @@ def categorize_md_region(region_str, categories):
 _IMG_RE = re.compile(r'<img([^>]*)>', re.IGNORECASE)
 
 def rewrite_md_images(html_content):
-    """Rewrite bare image paths to full R2 URLs and wrap in wp-caption figure."""
+    """Rewrite bare image paths to full R2 URLs and wrap in wp-caption figure.
+    Skips <img> tags already inside <figure> blocks (captioned by add_captions.js)."""
+    # Temporarily replace <figure>...</figure> blocks with tokens so the img
+    # substitution below doesn't touch images that already have captions.
+    _saved = []
+    def _protect(m):
+        _saved.append(m.group(0))
+        return f'\x00FIG{len(_saved)-1}\x00'
+    protected = re.sub(r'<figure\b[^>]*>.*?</figure\s*>', _protect,
+                       html_content, flags=re.DOTALL | re.IGNORECASE)
+
     def _sub(m):
         attrs = m.group(1)
         alt_m = re.search(r'alt="([^"]*)"', attrs)
@@ -217,7 +227,11 @@ def rewrite_md_images(html_content):
                 f'</figure>'
             )
         return f'<img src="{src}" alt="">'
-    return _IMG_RE.sub(_sub, html_content)
+
+    result = _IMG_RE.sub(_sub, protected)
+    for i, fig in enumerate(_saved):
+        result = result.replace(f'\x00FIG{i}\x00', fig)
+    return result
 
 
 def parse_markdown_posts():

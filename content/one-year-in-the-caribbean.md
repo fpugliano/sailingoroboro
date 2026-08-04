@@ -14,14 +14,23 @@ hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
 
 <p>It's amazing how time flies!&nbsp; We just realized we've arrived to the Caribbean exactly one year ago.&nbsp; Little did we know back then that the world was going to change like we've never seen before.&nbsp; Lockdowns, curfews, face masks, contact tracing, emergency laws...</p>
 <p>After Saint Vincent and the Grenadines lifted the requirement to quarantine in a hotel on land, we left Antigua and Barbuda and headed south because it is safer during the Hurricane Season.&nbsp; We spent a couple of months in the Grenadines kite boarding and religiously watching the weather for the next hurricane.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg" class="aligncenter size-full wp-image-7065" alt="Frigate" width="3024" height="3024">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Caribbean · 23 November 2019<br>Frigate</figcaption>
+</figure>
 <p class="">The peak of Hurricane Season in the northern Atlantic runs between July and September, when tropical storms form south of the Cape Verde islands at a rhythm of 1 every 3 days.</p>
 <p class=""><span style="color: #2a2a2a">Cape Verde hurricanes typically develop from tropical waves that form in the African savanna during the wet season, and then move into the African steppes. From there the disturbances move westward and become tropical storms soon after moving off the coast.&nbsp; </span></p>
 <p class=""><span style="color: #2a2a2a">These Cape Verde-type hurricanes often are among the strongest, longest-lasting, and most dangerous.</span></p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/cape-verde_orig.jpg" class="aligncenter size-full wp-image-7002" alt="Cape Verde hurricanes" width="1024" height="379">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Caribbean · November 2019<br>Cape Verde hurricanes</figcaption>
+</figure>
 <p>The 2020 Hurricane season so far has seen a total of 29 named storms, 11 hurricanes, and 4 major hurricanes.&nbsp; It's been a record breaking season: all the letters of the Latin alphabet have been used and we are now using the Greek alphabet.&nbsp; It only happened once before, in 2005.&nbsp; But there's still a month to go to the official end of the Hurricane Season.</p>
 <p>Anyways, here we are in Bequia enjoying a cold beer:</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4720.jpg" class="aligncenter size-full wp-image-7003" alt="Bequia" width="4032" height="3024">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Caribbean · November 2019<br>Bequia</figcaption>
+</figure>
 <p>Summer in the Caribbean is very hot, humid and windless.&nbsp; But, we enjoyed some good wind for kite boarding until mid August.</p>
 <p>&nbsp;</p>
 <p>At some point our Raymarine Axiom stopped working.&nbsp; We tried to trouble shoot but there was nothing to do.&nbsp; Luckily it was still covered by the warranty, but we had to ship it back to the US.&nbsp; Unfortunately in Saint Vincent and the Grenadines there is no FedEx, and the Government stupidly imposes 50% taxes on anything coming from abroad, even parts under warranty.&nbsp; And because of Covid, they suspended the tax exemption to Yachts In Transit.&nbsp; Strange countries, these island nations.</p>
@@ -45,7 +54,10 @@ hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
 - Under warranty gel-coat repair</p>
 <p>We found a good sail maker and we had the 3rd reef installed on our main sail.&nbsp; We hope to never have to use it, but as our friend Joaquin says, "it's a safety item, just like your life raft".</p>
 <p>Hauling out in Grenada was not as great as in Trinidad.&nbsp; Clark's Court boatyard in Greneda and Powerboats in Trinidad have exactly the same cost, but unfortunately in Clark's Court they don't offer the AC unit, making living on board unbearable.&nbsp; &nbsp;So we were forced to get an AirBnB for the duration of the haul out.</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/321aa3ca-98cb-4527-b658-5d18891ff288.jpg" class="aligncenter size-full wp-image-7066" alt="" width="3024" height="3024">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Caribbean · 20 October 2020</figcaption>
+</figure>
 <p>Contractors in Grenada are generally less skilled then in Trinidad.&nbsp; Also, in Trinidad, the boatyard guarantees the quality of the work carried out by their contractors, and only contractors approved by the boatyard can work on your boat. They also vet contractor's quotes.</p>
 <p>In Grenada you are on your own, so you need to select and supervise contractors by yourself.&nbsp; That makes things very difficult.&nbsp; Luckily, labor is as low as USD30.00 per hour.</p>
 <p>Anyways, we are very pleased with the results of the work carried out in Grenada, and now Oroboro is ready for the next Ocean crossing in May 2021.</p>
@@ -57,64 +69,184 @@ hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
 
 <p>Sailing north through the Grenadines chain was one of the highlights of the year. From Union Island&#8217;s famous Happy Island bar to Bequia&#8217;s beautiful Admiralty Bay, these small islands pack an enormous amount of character.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/happy-island-kite.jpg" alt="A kite in the air near Happy Island — the tiny man-made bar island in Union Island's lagoon" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Caribbean · November 2019<br>A kite in the air near Happy Island — the tiny man-made bar island in Union Island's lagoon</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/pro-center-beach-bar.jpg" alt="The Pro Center beach bar and kite school — "Hairoun and Carib sold here"" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Caribbean · November 2019<br>The Pro Center beach bar and kite school —</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/sandbar-island-turquoise.jpg" alt="A small palm-fringed sandbar island surrounded by brilliant turquoise water" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Caribbean · November 2019<br>A small palm-fringed sandbar island surrounded by brilliant turquoise water</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/yuka-dock-harbor.jpg" alt="Yuka on a waterfront dock — the green harbor hills behind her" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Caribbean · November 2019<br>Yuka on a waterfront dock — the green harbor hills behind her</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/hillsborough-bay.jpg" alt="A calm Caribbean bay with a stone seawall and boats moored alongside" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 9 · Caribbean · November 2019<br>A calm Caribbean bay with a stone seawall and boats moored alongside</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/oroboro-at-anchor-foliage.jpg" alt="Oroboro at anchor in a sheltered bay, framed by tropical foliage" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 10 · Caribbean · November 2019<br>Oroboro at anchor in a sheltered bay, framed by tropical foliage</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/bequia-sea-cave.jpg" alt="A sea cave with a wooden dock walkway in Bequia — crystal clear turquoise water at the entrance" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 11 · Caribbean · November 2019<br>A sea cave with a wooden dock walkway in Bequia — crystal clear turquoise water at the entrance</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/bequia-admiralty-bay.jpg" alt="Yuka under a large tree in Port Elizabeth, Bequia — Admiralty Bay anchorage behind her" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 12 · Caribbean · November 2019<br>Yuka under a large tree in Port Elizabeth, Bequia — Admiralty Bay anchorage behind her</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/bequia-main-street.jpg" alt="Port Elizabeth main street, Bequia — colorful shops and the "Welcome to the Debistro" sign" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 13 · Caribbean · November 2019<br>Port Elizabeth main street, Bequia — colorful shops and the</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/bequia-beach-bar.jpg" alt="A Bequia waterfront beach bar — open-air thatched roof with Sparrow's Rum and Captain Blugh XO on the shelf" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 14 · Caribbean · November 2019<br>A Bequia waterfront beach bar — open-air thatched roof with Sparrow's Rum and Captain Blugh XO on the shelf</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/bequia-restaurant-terrace.jpg" alt="Yuka at a restaurant terrace in Bequia overlooking the anchorage" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 15 · Caribbean · November 2019<br>Yuka at a restaurant terrace in Bequia overlooking the anchorage</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/oroboro-st-vincent-bay.jpg" alt="Oroboro anchored in a lush St Vincent bay — palm fronds in the foreground, volcanic hills behind" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 16 · Caribbean · November 2019<br>Oroboro anchored in a lush St Vincent bay — palm fronds in the foreground, volcanic hills behind</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/rasta-bar-exterior.jpg" alt="A colorful rasta-themed bar exterior with eclectic decor in the Grenadines" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 17 · Caribbean · November 2019<br>A colorful rasta-themed bar exterior with eclectic decor in the Grenadines</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/local-bar-staff.jpg" alt="Two locals smiling from behind a colorful Caribbean bar counter" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 18 · Caribbean · November 2019<br>Two locals smiling from behind a colorful Caribbean bar counter</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/caribbean-market-stalls.jpg" alt="Colorful open-air market stalls with tropical fruit and souvenirs" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 19 · Caribbean · November 2019<br>Colorful open-air market stalls with tropical fruit and souvenirs</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/windy-beach-thatched.jpg" alt="Francesco beside a lone palm-leaf thatched shelter on a windy white sand beach" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 20 · Caribbean · November 2019<br>Francesco beside a lone palm-leaf thatched shelter on a windy white sand beach</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/beach-resort-palms.jpg" alt="A pristine white sand beach with palm trees and a thatched beach bar along the water's edge" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 21 · Caribbean · November 2019<br>A pristine white sand beach with palm trees and a thatched beach bar along the water's edge</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/yuka-white-dress-beach.jpg" alt="Yuka in a white dress on a white sand beach among palm trees" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 22 · Caribbean · November 2019<br>Yuka in a white dress on a white sand beach among palm trees</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/yuka-kiteboarding-smile.jpg" alt="Yuka kiteboarding — all smiles in the turquoise water" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 23 · Caribbean · November 2019<br>Yuka kiteboarding — all smiles in the turquoise water</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/birthday-cake-onboard.jpg" alt="Francesco blowing out the birthday candle — Yuka watching with a big smile" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 24 · Caribbean · November 2019<br>Francesco blowing out the birthday candle — Yuka watching with a big smile</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/restaurant-stone-wall.jpg" alt="Francesco raising a glass of wine in a stone-walled Caribbean restaurant with a colorful abstract painting" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 25 · Caribbean · November 2019<br>Francesco raising a glass of wine in a stone-walled Caribbean restaurant with a colorful abstract painting</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/customs-office.jpg" alt="Clearing customs — the officer at his desk, papers and stamps at the ready" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 26 · Caribbean · November 2019<br>Clearing customs — the officer at his desk, papers and stamps at the ready</figcaption>
+</figure>
 
 <h2>Saint Lucia</h2>
 
 <p>Saint Lucia was a quick stop but impossible to forget. The Pitons are among the most dramatic anchorages in the world.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/pitons-st-lucia.jpg" alt="The iconic Piton volcanic peak in St Lucia rising above sailboats anchored at its base" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 27 · Caribbean · November 2019<br>The iconic Piton volcanic peak in St Lucia rising above sailboats anchored at its base</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/st-lucia-anse-chastanet.jpg" alt="A tropical beach in St Lucia — thatched umbrellas, loungers, and a dense jungle hillside above" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 28 · Caribbean · November 2019<br>A tropical beach in St Lucia — thatched umbrellas, loungers, and a dense jungle hillside above</figcaption>
+</figure>
 
 <h2>Guadeloupe — New Dinghy</h2>
 
 <p>We spent a few weeks in Guadeloupe, based out of the marina in Bas-du-Fort. The main mission: replacing our aging dinghy with a brand new Ballistic RIB purchased at Caraibe Marine.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/guadeloupe-marina-dock.jpg" alt="Yuka on the marina boardwalk in Guadeloupe — sailboats reflected in flat water, Le Kaye La restaurant behind her" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 29 · Caribbean · November 2019<br>Yuka on the marina boardwalk in Guadeloupe — sailboats reflected in flat water, Le Kaye La restaurant behind her</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/caraibe-marine-sign.jpg" alt="Caraibe Marine — the French Caribbean marine shop where we bought our new dinghy" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 30 · Caribbean · November 2019<br>Caraibe Marine — the French Caribbean marine shop where we bought our new dinghy</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/new-dinghy-unboxed.jpg" alt="Our new Ballistic RIB dinghy freshly unwrapped at Caraibe Marine" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 31 · Caribbean · November 2019<br>Our new Ballistic RIB dinghy freshly unwrapped at Caraibe Marine</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/new-dinghy-dock.jpg" alt="The new Ballistic dinghy with its Suzuki outboard at the dock for the first time" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 32 · Caribbean · November 2019<br>The new Ballistic dinghy with its Suzuki outboard at the dock for the first time</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/old-new-dinghy.jpg" alt="Old and new side by side — the gray original and the freshly delivered Ballistic" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 33 · Caribbean · November 2019<br>Old and new side by side — the gray original and the freshly delivered Ballistic</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/guadeloupe-town-hall.jpg" alt="Yuka in front of a beautiful colonial-style French Caribbean town hall building" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 34 · Caribbean · November 2019<br>Yuka in front of a beautiful colonial-style French Caribbean town hall building</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/double-rainbow-catamaran.jpg" alt="A double rainbow arching over a catamaran at anchor — one of those Caribbean moments" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 35 · Caribbean · November 2019<br>A double rainbow arching over a catamaran at anchor — one of those Caribbean moments</figcaption>
+</figure>
 
 <h2>Antigua</h2>
 
 <p>Antigua was our last stop before Covid locked everything down in March 2020. English Harbour and Nelson&#8217;s Dockyard are a sailor&#8217;s pilgrimage — 18th-century British naval history surrounded by the Caribbean&#8217;s most beautiful charter fleet.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/antigua-marina-overview.jpg" alt="Nelson's Dockyard marina in Antigua — an elevated view of the fleet packed into the sheltered harbour" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 36 · Caribbean · November 2019<br>Nelson's Dockyard marina in Antigua — an elevated view of the fleet packed into the sheltered harbour</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/nelsons-dockyard.jpg" alt="The old stone and brick warehouses of Nelson's Dockyard, English Harbour — 18th-century history" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 37 · Caribbean · November 2019<br>The old stone and brick warehouses of Nelson's Dockyard, English Harbour — 18th-century history</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/antigua-stone-ruin.jpg" alt="Inside an old stone ruin at English Harbour — a window frames the harbour beyond" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 38 · Caribbean · November 2019<br>Inside an old stone ruin at English Harbour — a window frames the harbour beyond</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/antigua-yacht-club.jpg" alt="Yuka in front of the Antigua Yacht Club in Falmouth Harbour" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 39 · Caribbean · November 2019<br>Yuka in front of the Antigua Yacht Club in Falmouth Harbour</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/shockwave-trimaran.jpg" alt="The racing trimaran SHOCKWAVE in Antigua — an extraordinary machine" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 40 · Caribbean · November 2019<br>The racing trimaran SHOCKWAVE in Antigua — an extraordinary machine</figcaption>
+</figure>
 
 <h2>Moments from the year</h2>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/bougainvillea-food-stand.jpg" alt="A brilliant bougainvillea tree in full bloom beside a painted Caribbean food kiosk" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 41 · Caribbean · November 2019<br>A brilliant bougainvillea tree in full bloom beside a painted Caribbean food kiosk</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/double-rainbow-anchorage.jpg" alt="A full double rainbow arching over an anchorage crowded with sailboats" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 42 · Caribbean · November 2019<br>A full double rainbow arching over an anchorage crowded with sailboats</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/new-kite-delivery.jpg" alt="Yuka carrying a new Duotone kite bag — fresh kite day!" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 43 · Caribbean · November 2019<br>Yuka carrying a new Duotone kite bag — fresh kite day!</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean/chandlery-selfie.jpg" alt="Francesco at a chandlery, grinning — Sea Foam motor treatment in hand" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 44 · Caribbean · November 2019<br>Francesco at a chandlery, grinning — Sea Foam motor treatment in hand</figcaption>
+</figure>
 
 <h2>Videos</h2>
 
@@ -137,9 +269,7 @@ hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
   <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-track.gif"
        alt="S/V Oroboro GPS sailing track — Lesser Antilles, 2020"
        style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Lesser Antilles &mdash; 2020 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 45 · Caribbean · November 2019<br>S/V Oroboro GPS track &mdash; Lesser Antilles &mdash; 2020 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Lesser Antilles, 2020</h2>
@@ -186,23 +316,23 @@ hero: ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-union-island-happy-island.png" alt="Union Island (Happy Island) anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Union Island &mdash; Happy Island</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 46 · Caribbean · November 2019<br>Union Island &mdash; Happy Island</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-bequia-admiralty-bay.png" alt="Bequia Admiralty Bay anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Bequia &mdash; Admiralty Bay</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 47 · Caribbean · November 2019<br>Bequia &mdash; Admiralty Bay</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-st-lucia-the-pitons.png" alt="St Lucia The Pitons anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St Lucia &mdash; The Pitons</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 48 · Caribbean · November 2019<br>St Lucia &mdash; The Pitons</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-guadeloupe-bas-du-fort.png" alt="Guadeloupe Bas-du-Fort anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Guadeloupe &mdash; Bas-du-Fort</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 49 · Caribbean · November 2019<br>Guadeloupe &mdash; Bas-du-Fort</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/lesser-antilles-antigua-english-harbour.png" alt="Antigua English Harbour anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Antigua &mdash; English Harbour</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 50 · Caribbean · November 2019<br>Antigua &mdash; English Harbour</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived 2020.</p>

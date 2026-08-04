@@ -12,13 +12,19 @@ raw_html: true
 
 <p>The sail from Tobago to Grenada was a beautiful overnight spinnaker sail. Yuka and I are now so used to our 3-hour night watches, and we handled it really well.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/approaching-grenada.jpg" alt="Approaching Grenada from the sea — the lush green volcanic hills emerge from the blue" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Grenada · January 2020<br>Approaching Grenada from the sea — the lush green volcanic hills emerge from the blue</figcaption>
+</figure>
 
 <p>When we approached Prickly Bay a big squall forced us to take down the parasailor in a hurry and put it away still wet. Luckily we were very close to the anchorage.</p>
 
 <p>The anchorage in Prickly Bay was very crowded. We had never seen so many sailboats at anchor! Since we left Ilha Grande in Brazil, usually Oroboro (and Plan B) were anchored among fishing boats, not sailing boats. We need to get used to it.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/prickly-bay-marina.jpg" alt="Prickly Bay marina — our home for the first weeks in Grenada" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Grenada · January 2020<br>Prickly Bay marina — our home for the first weeks in Grenada</figcaption>
+</figure>
 
 <p>The check-in formalities were a breeze. The Customs and Immigration office were located in the same building — no running around town from customs to immigration and to the Navy, like we did in Brazil! The only consolation is that in Brazil they didn't ask any money. Here in the Caribbean, things would be different.</p>
 
@@ -44,44 +50,87 @@ raw_html: true
 
 <p>Grenada's most northerly island, Carriacou, is a 90-minute sail from the main island and a world apart. The water turns electric turquoise, the anchorages are uncrowded, and the beach life is pure Caribbean.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/oroboro-drone-carriacou.jpg" alt="Oroboro at anchor off Carriacou — drone view with two people waving from the deck" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Grenada · January 2020<br>Oroboro at anchor off Carriacou — drone view with two people waving from the deck</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/yuka-sup-carriacou.jpg" alt="Yuka SUP paddling near the palm-fringed islets north of Carriacou" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Grenada · January 2020<br>Yuka SUP paddling near the palm-fringed islets north of Carriacou</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/yuka-sup-island.jpg" alt="Yuka on the paddleboard with Carriacou's sandbar island behind her" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Grenada · January 2020<br>Yuka on the paddleboard with Carriacou's sandbar island behind her</figcaption>
+</figure>
 
 <p>The snorkeling around Carriacou is exceptional. In one afternoon we saw a sea turtle, a starfish, and a reef full of Caribbean fish.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/sea-turtle-carriacou.jpg" alt="A sea turtle gliding through the crystal clear water around Carriacou" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Grenada · January 2020<br>A sea turtle gliding through the crystal clear water around Carriacou</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/yuka-snorkeling-carriacou.jpg" alt="Yuka snorkeling — Oroboro and the island are just behind her" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Grenada · January 2020<br>Yuka snorkeling — Oroboro and the island are just behind her</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/starfish-carriacou.jpg" alt="Starfish on the sandy seafloor around Carriacou" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Grenada · January 2020<br>Starfish on the sandy seafloor around Carriacou</figcaption>
+</figure>
 
 <p>The beaches near Carriacou are some of the most beautiful we've seen — white sand, shallow turquoise water, the odd beach bar, and absolutely no crowds.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/grenadines-beach-kite-cat.jpg" alt="A perfect white sand Grenadines beach with a small red-sailed beach catamaran at the waterline" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 9 · Grenada · January 2020<br>A perfect white sand Grenadines beach with a small red-sailed beach catamaran at the waterline</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/grenadines-beach-umbrellas.jpg" alt="Thatched-roof umbrellas on a white sand Grenadines beach" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 10 · Grenada · January 2020<br>Thatched-roof umbrellas on a white sand Grenadines beach</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/yuka-carriacou-beach.jpg" alt="Yuka on the beach — Oroboro anchored just offshore" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 11 · Grenada · January 2020<br>Yuka on the beach — Oroboro anchored just offshore</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/carriacou-empty-beach.jpg" alt="An empty beach with Oroboro anchored just beyond the surf" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 12 · Grenada · January 2020<br>An empty beach with Oroboro anchored just beyond the surf</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/sa-flag-beach-carriacou.jpg" alt="A South African flag flying on a Carriacou beach — sailors come from everywhere" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 13 · Grenada · January 2020<br>A South African flag flying on a Carriacou beach — sailors come from everywhere</figcaption>
+</figure>
 
 <p>Yuka took advantage of the flat lagoons around Carriacou to get some kiteboarding hours in.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/yuka-kiteboarding-carriacou.jpg" alt="Yuka kiteboarding with the village and coastline visible on shore behind her" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 14 · Grenada · January 2020<br>Yuka kiteboarding with the village and coastline visible on shore behind her</figcaption>
+</figure>
 
 <p>We returned to Grenada a couple of months later. No visit is complete without a meal at <strong>BB's Crabback</strong> in St. George's — the best local seafood restaurant on the island, and the walls prove it.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/bbs-restaurant.jpg" alt="Yuka in front of BB's Crabback Caribbean Restaurant in St. George's, Grenada" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 15 · Grenada · January 2020<br>Yuka in front of BB's Crabback Caribbean Restaurant in St. George's, Grenada</figcaption>
+</figure>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/bbs-interior.jpg" alt="The wall inside BB's covered in framed press clippings and magazine covers" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 16 · Grenada · January 2020<br>The wall inside BB's covered in framed press clippings and magazine covers</figcaption>
+</figure>
 
 <p>We also spent time in Carriacou in the summer of 2020, as the Caribbean slowly reopened after the pandemic.</p>
 
+<figure style="margin:1.5rem 0;text-align:center;">
 <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/carriacou-tyrrell-bay.jpg" alt="Carriacou's Tyrrell Bay — turquoise water, palm-lined beach, and the beach bar strip" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 17 · Grenada · January 2020<br>Carriacou's Tyrrell Bay — turquoise water, palm-lined beach, and the beach bar strip</figcaption>
+</figure>
 
 <figure style="margin:2rem 0;text-align:center;">
   <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/grenada-track.gif"
        alt="S/V Oroboro GPS sailing track — Grenada &amp; Carriacou, January–March 2020"
        style="max-width:100%;border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);" />
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Grenada &amp; Carriacou &mdash; January&ndash;March 2020 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 18 · Grenada · January 2020<br>S/V Oroboro GPS track &mdash; Grenada &amp; Carriacou &mdash; January&ndash;March 2020 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Grenada &amp; Carriacou, Jan&ndash;Mar 2020</h2>
@@ -118,15 +167,15 @@ raw_html: true
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1rem;margin:1.5rem 0;">
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/grenada-prickly-bay.png" alt="Prickly Bay anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Prickly Bay</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 19 · Grenada · January 2020<br>Prickly Bay</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/grenada-st-george-s.png" alt="St George's anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">St George&rsquo;s</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 20 · Grenada · January 2020<br>St George&rsquo;s</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/grenada-tyrrell-bay-carriacou.png" alt="Tyrrell Bay, Carriacou anchorage map" style="width:100%;border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Tyrrell Bay, Carriacou</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 21 · Grenada · January 2020<br>Tyrrell Bay, Carriacou</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived January&ndash;March 2020.</p>

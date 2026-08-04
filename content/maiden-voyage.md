@@ -16,11 +16,21 @@ We can't believe that three months have gone by. We have never been bored during
 
 The people we met here are incredibly nice, and we hope to meet them again in the future. They are one of the reasons why this town is really special to us now.
 
-![14 Home Depot boxes packed in our Campbell home, ready for the long journey to Cape Town](boxes-from-cal/from-campbell.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boxes-from-cal/from-campbell.jpg" alt="14 Home Depot boxes packed in our Campbell home, ready for the long journey to Cape Town" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Cape Town, South Africa · December 2018<br>14 Home Depot boxes packed in our Campbell home, ready for the long journey to Cape Town</figcaption>
+</figure>
+
 
 Just two days before our departure, we received the 14 boxes that we shipped from California, containing all our belongings. It took 3 months instead of the promised 4 weeks. We just chose the worst possible company, a scam. I thought I would never see those boxes again. But we managed to trace them in Valencia Spain, and thanks to an old high school friend who now lives there we managed to get hold of them and get them shipped here. So for us Christmas came earlier this year!
 
-![Francesco and Yuka reunited with the boxes on the Cape Grace dock — Oroboro waiting behind them](boxes-from-cal/to-destination.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boxes-from-cal/to-destination.jpg" alt="Francesco and Yuka reunited with the boxes on the Cape Grace dock — Oroboro waiting behind them" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Cape Town, South Africa · December 2018<br>Francesco and Yuka reunited with the boxes on the Cape Grace dock — Oroboro waiting behind them</figcaption>
+</figure>
+
 
 Checking out of the country is very easy, but it takes some time because there is a lot of bureaucracy involved.
 
@@ -30,25 +40,65 @@ However, if you stay anywhere else other than RCYC and you want to check out of 
 
 So we did the provisioning, filled the tanks.
 
-![Full safety equipment inventory spread on the foredeck — life jackets, EPIRB, flares, tethers, PLBs, and the Oroboro life ring](oroboro-intro/img_0562.jpg)
 
-![First load of provisions arriving dockside](oroboro-intro/img_1415.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_0562.jpg" alt="Full safety equipment inventory spread on the foredeck — life jackets, EPIRB, flares, tethers, PLBs, and the Oroboro life ring" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Cape Town, South Africa · December 2018<br>Full safety equipment inventory spread on the foredeck — life jackets, EPIRB, flares, tethers, PLBs, and the Oroboro life ring</figcaption>
+</figure>
 
-![Yuka surrounded by the full provision inventory spread across the saloon](oroboro-intro/img_1416.jpg)
 
-![Canned goods, pasta, chocolate, and biscuits — enough for weeks offshore](oroboro-intro/img_1419.jpg)
 
-![Robertson wine, Windhoek beer, and Patrón — the drinks provisioning for the Atlantic crossing](oroboro-intro/img_1454.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1415.jpg" alt="First load of provisions arriving dockside" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 4 · Cape Town, South Africa · December 2018<br>First load of provisions arriving dockside</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1416.jpg" alt="Yuka surrounded by the full provision inventory spread across the saloon" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · Cape Town, South Africa · December 2018<br>Yuka surrounded by the full provision inventory spread across the saloon</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1419.jpg" alt="Canned goods, pasta, chocolate, and biscuits — enough for weeks offshore" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 6 · Cape Town, South Africa · December 2018<br>Canned goods, pasta, chocolate, and biscuits — enough for weeks offshore</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1454.jpg" alt="Robertson wine, Windhoek beer, and Patrón — the drinks provisioning for the Atlantic crossing" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 7 · Cape Town, South Africa · December 2018<br>Robertson wine, Windhoek beer, and Patrón — the drinks provisioning for the Atlantic crossing</figcaption>
+</figure>
+
 
 We had a very pleasant dinner with our friends, and on Saturday December 15th we departed.
 
-![Saying farewell to the Cape Grace marina team](oroboro-intro/img_1422.jpg)
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1422.jpg" alt="Saying farewell to the Cape Grace marina team" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 8 · Cape Town, South Africa · December 2018<br>Saying farewell to the Cape Grace marina team</figcaption>
+</figure>
+
 
 Crossing the swing bridge one last time made me very sad for a moment. But as a mariner, you need to get used to thinking ahead, so my mind was already on those 460 nautical miles between Cape Town and Luderitz.
 
-![Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town](oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg)
 
-![Waving goodbye as Oroboro passes through the swing bridge](oroboro-intro/evlbe4843.jpg)
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/1cdabd70-42a9-4cfd-9932-7abf842aa8a1.jpg" alt="Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 9 · Cape Town, South Africa · December 2018<br>Oroboro clears the V&A Waterfront swing bridge — leaving Cape Town</figcaption>
+</figure>
+
+
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/evlbe4843.jpg" alt="Waving goodbye as Oroboro passes through the swing bridge" style="max-width:100%">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 10 · Cape Town, South Africa · December 2018<br>Waving goodbye as Oroboro passes through the swing bridge</figcaption>
+</figure>
+
 
 Oroboro to us is the best boat, we prepared her well, and we trust her. Goodbye Cape Town, goodbye South Africa. We will be back one day.
 
@@ -57,9 +107,7 @@ Oroboro to us is the best boat, we prepared her well, and we trust her. Goodbye 
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/cape-town-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Cape Town &mdash; Departure &mdash; Dec 15 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 11 · Cape Town, South Africa · December 2018<br>S/V Oroboro GPS track &mdash; Cape Town &mdash; Departure &mdash; Dec 15 2018 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Cape Town departure, Dec 2018</h2>
@@ -88,7 +136,7 @@ Oroboro to us is the best boat, we prepared her well, and we trust her. Goodbye 
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/cape-town-v-a-waterfront-cape-grace-marina.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">V&amp;A Waterfront &mdash; Cape Grace Marina</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 12 · Cape Town, South Africa · December 2018<br>V&amp;A Waterfront &mdash; Cape Grace Marina</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived December 2018.</p>

@@ -16,7 +16,10 @@ hero: fullsizeoutput_b01.jpeg
 <p>North of Recife there is one little town that after Parati and Ouro Preto, is one of the best preserved colonial villages in Brazil: Olinda.</p>
 <p>Not as big and as interesting as Parati and Ouro Preto, but the view from the top of the hill was great.  The Convento de São Francisco and the Mosteiro de São Bento are also very interesting and well preserved.</p>
 <p>Mario wanted to get an haircut in this barber shop:</p>
+<figure style="margin:1.5rem 0;text-align:center;">
 <img class="aligncenter size-full wp-image-5032" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_b01.jpeg" alt="" width="4032" height="3024" />
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 1 · Olinda, Brazil · 16 August 2019</figcaption>
+</figure>
 <p>But then for some reasons he changed his mind.  We had great fun in Olinda, despite the weather.  It's a nice little town.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -27,9 +30,7 @@ hero: fullsizeoutput_b01.jpeg
   <div style="border-radius:6px;box-shadow:0 2px 12px rgba(0,0,0,0.18);overflow:hidden;display:inline-block;max-width:100%;">
     <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/olinda-track.gif" alt="">
   </div>
-  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">
-    S/V Oroboro GPS track &mdash; Olinda, Brazil &mdash; Oct&ndash;Nov 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors
-  </figcaption>
+  <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · Olinda, Brazil · August 2019<br>S/V Oroboro GPS track &mdash; Olinda, Brazil &mdash; Oct&ndash;Nov 2019 &bull; GPS data from Raymarine chartplotter &bull; Map &copy; <a href="https://www.openstreetmap.org/copyright" style="color:#888;">OpenStreetMap</a> contributors</figcaption>
 </figure>
 
 <h2>Every anchorage &mdash; Olinda, Oct&ndash;Nov 2019</h2>
@@ -58,7 +59,7 @@ hero: fullsizeoutput_b01.jpeg
     <div style="border-radius:6px;box-shadow:0 2px 8px rgba(0,0,0,0.15);overflow:hidden;">
       <img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/maps/olinda-olinda.png" alt="">
     </div>
-    <figcaption style="font-size:0.8rem;color:#666;margin-top:0.3rem;">Olinda</figcaption>
+    <figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Olinda, Brazil · August 2019<br>Olinda</figcaption>
   </figure>
 </div>
 <p style="font-size:0.78rem;color:#888;">Map data &copy; OpenStreetMap contributors. GPS tracks from Raymarine chartplotter, archived October&ndash;November 2019.</p>
