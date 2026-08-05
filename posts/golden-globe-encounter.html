@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
   <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
@@ -96,56 +97,8 @@
 
 <figure style="margin:1.5rem 0;text-align:center;">
 <div id="encounter-map" style="height:420px;max-width:700px;margin:0 auto;border-radius:8px;overflow:hidden;"></div>
-<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · South Atlantic Ocean · January 2019<br>Approximate positions at the time of the encounter: Oroboro (blue) near the confirmed Day 8 position at 19°55'S, 24°17'W; Puffin (orange) estimated within VHF range. Cape Horn (✕) where Kopar rounded on New Year's Day 2019</figcaption>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · South Atlantic Ocean · January 2019<br>Approximate positions at the time of the encounter: Oroboro (blue) near the confirmed Day 8 position at 19&deg;55&prime;S, 24&deg;17&prime;W; Puffin (orange) estimated within VHF range. Cape Horn (&times;) where Kopar rounded on New Year&rsquo;s Day 2019</figcaption>
 </figure>
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<script>
-(function () {
-  var map = L.map('encounter-map', { scrollWheelZoom: false }).setView([-28, -30], 4);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    maxZoom: 10
-  }).addTo(map);
-
-  function dot(color) {
-    return L.divIcon({
-      className: '',
-      html: '<div style="background:' + color + ';width:14px;height:14px;border-radius:50%;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.5)"></div>',
-      iconSize: [14, 14], iconAnchor: [7, 7]
-    });
-  }
-  function cross(color) {
-    return L.divIcon({
-      className: '',
-      html: '<div style="color:' + color + ';font-size:18px;font-weight:bold;line-height:1;text-shadow:0 0 3px #fff,0 0 3px #fff">✕</div>',
-      iconSize: [18, 18], iconAnchor: [9, 9]
-    });
-  }
-
-  L.marker([-19.917, -24.283], { icon: dot('#1a6bc4') }).addTo(map)
-    .bindPopup('<b>S/V Oroboro</b><br>19°55'S · 24°17'W<br><em>Confirmed Day 8 position<br>St Helena → Brazil leg</em>');
-
-  L.marker([-20.15, -25.0], { icon: dot('#e05c1a') }).addTo(map)
-    .bindPopup('<b>Puffin — Istvan Kopar</b><br>~20°10'S · ~25°00'W<br><em>Estimated position (within VHF range)<br>GGR 2018 — northbound after Cape Horn</em>');
-
-  L.marker([-55.983, -67.267], { icon: cross('#555') }).addTo(map)
-    .bindPopup('<b>Cape Horn</b><br>Kopar rounded here<br>January 1, 2019 — New Year's Day<br><em>"I scattered my father's ashes here"</em>');
-
-  var legend = L.control({ position: 'bottomright' });
-  legend.onAdd = function () {
-    var d = L.DomUtil.create('div');
-    d.style.cssText = 'background:rgba(255,255,255,.92);padding:8px 12px;border-radius:6px;font-size:12px;line-height:2;box-shadow:0 1px 5px rgba(0,0,0,.2)';
-    d.innerHTML =
-      '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#1a6bc4;margin-right:6px;vertical-align:middle"></span>S/V Oroboro<br>' +
-      '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#e05c1a;margin-right:6px;vertical-align:middle"></span>Puffin / Kopar (est.)<br>' +
-      '<span style="margin-right:6px;vertical-align:middle;color:#555;font-weight:bold">✕</span>Cape Horn';
-    return d;
-  };
-  legend.addTo(map);
-})();
-</script>
 
 <p><strong>What happened to Puffin</strong></p>
 
@@ -188,5 +141,51 @@
   <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
 </footer>
 <script src="../js/main.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(function () {
+  var map = L.map("encounter-map", { scrollWheelZoom: false }).setView([-28, -30], 4);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>",
+    maxZoom: 10
+  }).addTo(map);
+
+  function dot(color) {
+    return L.divIcon({
+      className: "",
+      html: "<div style=\"background:" + color + ";width:14px;height:14px;border-radius:50%;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.5)\"></div>",
+      iconSize: [14, 14], iconAnchor: [7, 7]
+    });
+  }
+  function cross(color) {
+    return L.divIcon({
+      className: "",
+      html: "<div style=\"color:" + color + ";font-size:18px;font-weight:bold;line-height:1;text-shadow:0 0 3px #fff,0 0 3px #fff\">×</div>",
+      iconSize: [18, 18], iconAnchor: [9, 9]
+    });
+  }
+
+  L.marker([-19.917, -24.283], { icon: dot("#1a6bc4") }).addTo(map)
+    .bindPopup("<b>S/V Oroboro</b><br>19°55′S · 24°17′W<br><em>Confirmed Day 8 position<br>St Helena → Brazil leg</em>");
+
+  L.marker([-20.15, -25.0], { icon: dot("#e05c1a") }).addTo(map)
+    .bindPopup("<b>Puffin — Istvan Kopar</b><br>~20°10′S · ~25°00′W<br><em>Estimated position (within VHF range)<br>GGR 2018 — northbound after Cape Horn</em>");
+
+  L.marker([-55.983, -67.267], { icon: cross("#555") }).addTo(map)
+    .bindPopup("<b>Cape Horn</b><br>Kopar rounded here<br>January 1, 2019 — New Year’s Day<br><em>“I scattered my father’s ashes here”</em>");
+
+  var legend = L.control({ position: "bottomright" });
+  legend.onAdd = function () {
+    var d = L.DomUtil.create("div");
+    d.style.cssText = "background:rgba(255,255,255,.92);padding:8px 12px;border-radius:6px;font-size:12px;line-height:2;box-shadow:0 1px 5px rgba(0,0,0,.2)";
+    d.innerHTML =
+      "<span style=\"display:inline-block;width:10px;height:10px;border-radius:50%;background:#1a6bc4;margin-right:6px;vertical-align:middle\"></span>S/V Oroboro<br>" +
+      "<span style=\"display:inline-block;width:10px;height:10px;border-radius:50%;background:#e05c1a;margin-right:6px;vertical-align:middle\"></span>Puffin / Kopar (est.)<br>" +
+      "<span style=\"margin-right:6px;vertical-align:middle;color:#555;font-weight:bold\">×</span>Cape Horn";
+    return d;
+  };
+  legend.addTo(map);
+})();
+</script>
 </body>
 </html>
