@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Sailing Oroboro — Translation Script
-Translates English HTML posts to Italian, Japanese, French, or Portuguese
+Translates English HTML posts to Italian, Japanese, French, Portuguese, Spanish, or Catalan
 using Claude (claude-opus-4-8) for high-quality narrative translation.
 
 Usage:
@@ -23,8 +23,10 @@ SITE_ROOT = os.path.dirname(os.path.abspath(__file__))
 LANG_CONFIG = {
     'it': {'name': 'Italian',             'html_lang': 'it',    'back': '← Torna ai post'},
     'ja': {'name': 'Japanese',            'html_lang': 'ja',    'back': '← ブログ一覧へ'},
-    'fr': {'name': 'French',              'html_lang': 'fr',    'back': '← Retour aux articles'},
+    'fr': {'name': 'French',             'html_lang': 'fr',    'back': '← Retour aux articles'},
     'pt': {'name': 'Brazilian Portuguese','html_lang': 'pt-BR', 'back': '← Voltar para os posts'},
+    'es': {'name': 'Spanish',            'html_lang': 'es',    'back': '← Volver a los posts'},
+    'ca': {'name': 'Catalan',            'html_lang': 'ca',    'back': '← Tornar als posts'},
 }
 
 SYSTEM_PROMPT = """\

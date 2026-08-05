@@ -86,10 +86,12 @@
     { code: 'ja', label: 'JA', prefix: '/ja' },
     { code: 'fr', label: 'FR', prefix: '/fr' },
     { code: 'pt', label: 'PT', prefix: '/pt' },
+    { code: 'es', label: 'ES', prefix: '/es' },
+    { code: 'ca', label: 'CA', prefix: '/ca' },
   ];
 
   const pathname = window.location.pathname;
-  const langMatch = pathname.match(/^\/(it|ja|fr|pt)(\/|$)/);
+  const langMatch = pathname.match(/^\/(it|ja|fr|pt|es|ca)(\/|$)/);
   const currentLang = langMatch ? langMatch[1] : 'en';
   const basePath = langMatch ? pathname.slice(langMatch[1].length + 1) || '/' : pathname;
 
