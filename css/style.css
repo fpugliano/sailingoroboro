@@ -1205,6 +1205,19 @@ ul  { list-style: none; }
     z-index: 99;
   }
 
+  /* Show lang selector at the bottom of the open mobile menu */
+  .nav-links.open ~ .lang-selector {
+    display: flex;
+    position: fixed;
+    bottom: 2.5rem;
+    left: 0;
+    right: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+    z-index: 100;
+  }
+
   .nav-toggle { display: flex; }
 
   .posts-grid,
