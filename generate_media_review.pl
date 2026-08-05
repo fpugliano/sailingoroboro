@@ -330,5 +330,5 @@ FOOT
 close $out;
 
 my $total = 0; $total += scalar @{$_->{items}} for @posts;
-my $kb = int(-s $OUTPUT / 1024);
+my $kb = int((-s $OUTPUT) / 1024);
 printf "Done — %d posts, %d items, %d KB\n", scalar @posts, $total, $kb;
