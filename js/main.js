@@ -75,6 +75,42 @@
   });
 })();
 
+// ─── Language Selector ───────────────────────
+(function () {
+  const sel = document.querySelector('.lang-selector');
+  if (!sel) return;
+
+  const LANGS = [
+    { code: 'en', label: 'EN', prefix: '' },
+    { code: 'it', label: 'IT', prefix: '/it' },
+    { code: 'ja', label: 'JA', prefix: '/ja' },
+    { code: 'fr', label: 'FR', prefix: '/fr' },
+    { code: 'pt', label: 'PT', prefix: '/pt' },
+  ];
+
+  const pathname = window.location.pathname;
+  const langMatch = pathname.match(/^\/(it|ja|fr|pt)(\/|$)/);
+  const currentLang = langMatch ? langMatch[1] : 'en';
+  const basePath = langMatch ? pathname.slice(langMatch[1].length + 1) || '/' : pathname;
+
+  LANGS.forEach(lang => {
+    const target = lang.prefix + basePath;
+    if (lang.code === currentLang) {
+      const span = document.createElement('span');
+      span.className = 'lang-option lang-current';
+      span.textContent = lang.label;
+      sel.appendChild(span);
+    } else {
+      const a = document.createElement('a');
+      a.href = target;
+      a.className = 'lang-option';
+      a.textContent = lang.label;
+      a.setAttribute('hreflang', lang.code);
+      sel.appendChild(a);
+    }
+  });
+})();
+
 // ─── Scroll Reveal ───────────────────────────
 (function () {
   if (!window.IntersectionObserver) return;
