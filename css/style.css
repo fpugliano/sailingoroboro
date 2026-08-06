@@ -1194,7 +1194,24 @@ ul  { list-style: none; }
 }
 
 @media (max-width: 640px) {
-  .lang-selector { display: none; }
+  /* Always show dark nav bar on mobile so burger stripes are visible */
+  .nav {
+    background: rgba(11, 20, 38, 0.97);
+    backdrop-filter: blur(8px);
+  }
+
+  /* Show lang selector inline in nav bar, pushed right next to burger */
+  .lang-selector {
+    display: flex;
+    margin-left: auto;
+    gap: 0;
+  }
+
+  .lang-option {
+    font-size: 0.85rem;
+    padding: 2px 4px;
+  }
+
   .nav-links { display: none; }
   .nav-links.open {
     display: flex;
@@ -1210,20 +1227,10 @@ ul  { list-style: none; }
     z-index: 99;
   }
 
-  /* Show lang selector at the bottom of the open mobile menu */
-  .nav-links.open ~ .lang-selector {
+  .nav-toggle {
     display: flex;
-    position: fixed;
-    bottom: 2.5rem;
-    left: 0;
-    right: 0;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 6px;
-    z-index: 100;
+    margin-left: 0.5rem;
   }
-
-  .nav-toggle { display: flex; }
 
   .hero-lang-mobile {
     display: flex;
