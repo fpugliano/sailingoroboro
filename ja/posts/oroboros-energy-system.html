@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <title>Oroboroのエネルギーシステム — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <meta name="description" content="現代のボートは電気にとても依存しています。だからこそ、4年ほど前にYukaと私がOroboroでの生活を思い描き始めたとき、私たちの主な目標の一つは、非常にバランスの取れたバッテリー式電気システムを構築することでした。それは…">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Oroboroのエネルギーシステム — S/V Oroboro">
+  <meta property="og:description" content="現代のボートは電気にとても依存しています。だからこそ、4年ほど前にYukaと私がOroboroでの生活を思い描き始めたとき、私たちの主な目標の一つは、非常にバランスの取れたバッテリー式電気システムを構築することでした。それは…">
+  <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/lifeline-battery.jpg">
+  <meta property="og:url" content="https://sailingoroboro.com/ja/posts/oroboros-energy-system.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Oroboroのエネルギーシステム — S/V Oroboro">
+  <meta name="twitter:description" content="現代のボートは電気にとても依存しています。だからこそ、4年ほど前にYukaと私がOroboroでの生活を思い描き始めたとき、私たちの主な目標の一つは、非常にバランスの取れたバッテリー式電気システムを構築することでした。それは…">
+  <meta name="twitter:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/lifeline-battery.jpg">
+  <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/posts/oroboros-energy-system.html">
+  <link rel="alternate" hreflang="it" href="https://sailingoroboro.com/it/posts/oroboros-energy-system.html">
+  <link rel="alternate" hreflang="ja" href="https://sailingoroboro.com/ja/posts/oroboros-energy-system.html">
+  <link rel="alternate" hreflang="fr" href="https://sailingoroboro.com/fr/posts/oroboros-energy-system.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://sailingoroboro.com/pt/posts/oroboros-energy-system.html">
+  <link rel="alternate" hreflang="es" href="https://sailingoroboro.com/es/posts/oroboros-energy-system.html">
+  <link rel="alternate" hreflang="ca" href="https://sailingoroboro.com/ca/posts/oroboros-energy-system.html">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <div class="lang-selector"></div>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <header class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-region">Sailing</span>
+      <span class="post-header-date">August 2020</span>
+    </div>
+    <h1>Oroboro&#x27;s energy system</h1>
+  </header>
+
+  <div class="post-body">
+    <div class="post-body-inner">
+      <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
+        ← Back to all posts
+      </a>
+      <article class="post-content clearfix"><p>現代のボートは電気にとても依存しています。だからこそ、4年ほど前にYukaと私がOroboroでの生活を思い描き始めたとき、私たちの主な目標の一つは、非常にバランスの取れたバッテリー式電気システムを構築することでした。そこで私たちは必要な電力を書き出し、それを倍にしました：<br>
+<ul><br>
+ 	<li>アンカーライト：1.0アンペア</li><br>
+ 	<li>アンカーウインドラス：300アンペア</li><br>
+ 	<li>冷蔵庫：7アンペア</li><br>
+ 	<li>などなど…</li><br>
+</ul><br>
+すべてのシステムを正しくサイズ設定するために、正確な電力要件を計算する必要がありました。それから電気システムとそのコンポーネントの設計を始めました。すべてはCape TownのMultiMarineによって、最高品質の製品を選んで後付けで設置してもらいました。</p>
+<p>&nbsp;</p>
+<p><strong>バッテリー</strong></p>
+<p>ボートには2種類のバッテリーがあります：<br>
+<ul><br>
+ 	<li>エンジンバッテリー</li><br>
+ 	<li>ハウスバッテリー</li><br>
+</ul><br>
+エンジンバッテリーはエンジンを始動させるためだけに使われます。これらは短時間で瞬発的にエネルギーを供給するように設計されており（エンジンの始動など）、決して放電させてはいけません。特定のエンジンに適合する定格のヘビーデューティー始動用バッテリーであれば何でも使えます。</p>
+<p>一方、ハウスバッテリーは瞬間的なエネルギーは少ないものの、長期的なエネルギー供給に優れています。何度も放電に耐えられるため、ディープサイクルバッテリーである必要があります。問題は、船舶用途に最適なディープサイクルバッテリーはどれか、ということです。液式（wet-cell）、ゲル式（gel-cell）、AGM（Absorbed Glass Mat）、それともリン酸鉄リチウムでしょうか？答えはリン酸鉄リチウムです。</p>
+<p>残念ながらRobertson and Caineはリン酸鉄リチウムバッテリー（<em>LiFePO</em> 4 バッテリー）をオプションとして提供していませんでした。鉛蓄電池が標準オプションで、AGMが唯一のアップグレードでした。</p>
+<p>そこで私たちはAGMのLifeLine Deep Cycle 210 Ahrを選びました：</p>
+<img class="aligncenter wp-image-6843" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/lifeline-battery.jpg" alt="LifeLineバッテリー" width="288" height="207" />
+<p>AGMバッテリーが寿命を迎えたときに、将来LiFePO 4にアップグレードできると考えていました。</p>
+<p>私たちは210 Ahrのハウスバッテリーを3つ持っており、合計で630アンペアアワーです。しかしAGMバッテリーは長持ちさせたければ30〜40パーセント以上放電できないため、実際には180アンペアアワーしか使えません。</p>
+<p>もし同等のアンペアアワーをリン酸鉄リチウムバッテリーで持っていたら、これらのバッテリーは劣化や寿命を縮めることなく安全に100%放電できるため、630アンペアアワーすべてを実際に使うことができます。</p>
+<p>これらのAGMバッテリーがどれくらい持つかは分かりませんが、今のように30%以上放電させなければ、おそらく5年ほどでしょう。</p>
+<p>そして5年後にはリチウムバッテリーの価格が今よりも大幅に下がっていることを願っています。コストの目安として、LifeLine AGM 210アンペアアワーのバッテリーは約750米ドルですが、ReLion LiFePO4 200アンペアアワーのバッテリーは約2,500米ドルです。</p>
+<p>&nbsp;</p>
+<p><strong>ソーラーパネル</strong></p>
+<p>私たちはどうやってバッテリーを充電するのでしょうか？主に3枚の硬質ソーラーパネルからで、晴れた日には公称960ワットを供給してくれます。</p>
+<p>私たちは意図的にジェネセット（発電機）を持たないことにしました。なぜなら重くて高価で騒音がひどく、場所を取り、メンテナンスが必要で、そして単純に化石燃料を燃やしてエネルギーを生み出すことは環境に優しくも効率的でもないからです。</p>
+<p>Cape Townにいたとき、FormaTubeという会社にステンレス製の構造物を作ってもらいました。彼らは本物のアーティストです！</p>
+<img class="aligncenter size-full wp-image-6866" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro.jpg" alt="Oroboroのソーラー構造物" width="1042" height="684" />
+<p>ダビットの上のステンレス構造物に設置した3枚の硬質SunPower E20ソーラーパネル（各320ワット）と、屋根の上の4枚のフレキシブルSunBeamパネル（各100ワット）で、私たちは使い切れないほどの電気を生産します：960ワット + 400ワット = 1,330ワット！</p>
+<p>硬質ソーラーパネルはVictron Blue Solar MPPT 75/15で制御されています。フレキシブルソーラーパネルは2台のVictron BlueSolar PWM Light 12/24V-20Aで制御されています。</p>
+<p>夜に就寝するとき、私たちのバッテリーは通常95%充電されています。朝に起きるとバッテリーは86%充電されています。</p>
+<p>&nbsp;</p>
+<p><strong>オルタネーター</strong></p>
+<p>バッテリーを充電するもう一つの方法は、機走しているときのエンジンのオルタネーターによるものです。私たちのYanmarエンジンには標準のValeo 125アンペアのオルタネーターが付いています：</p>
+<img class="aligncenter wp-image-6858" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/valeo-alternator.jpg" alt="Valeoオルタネーター" width="261" height="242" />
+<p>バッテリーをより速く充電するために、両方のエンジンにSterlingのAlternator to Battery Chargerを設置しました：</p>
+<img class="aligncenter wp-image-6849" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/sterling.jpg" alt="Sterling Alternator to Battery charger" width="345" height="200" />
+<p>この装置はかなり賢いです：システムはオルタネーターに「負荷」をかけてオルタネーターの電圧を下げます。これによりオルタネーターはシステムに大きな消費があると勘違いし、その結果、標準のレギュレーターがフル電流で作動し、基本のシステム電圧よりもはるかに高い電圧でバッテリーバンクを充電します。</p>
+<p>これにより、バッテリーを完全に充電するのに必要な時間が半分になります。雨の日にソーラーがバッテリーを完全に充電できない場合、エンジンを回してバッテリーを素早く充電することができます。</p>
+<p>&nbsp;</p>
+<p><strong>インバーター</strong></p>
+<p>バッテリーが供給する12ボルトの直流電気を、電気製品を動かすのに必要な220ボルトの交流電気に変換するために、私たちはインバーターを使います。これは3000ワットのVictron MultiPlusインバーターで、業界最高峰のものです：</p>
+<img class="aligncenter wp-image-6840" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/multiplus.jpg" alt="Victron MultiPlusインバーター" width="214" height="290" />
+<p>例えば私たちの給湯器はインバーターに直接接続されています。この方法で、通常バッテリーがほぼ満充電になる正午ごろに給湯器を20分間オンにして、夜に温かいシャワーを浴びられるようにします。給湯器は約1,400ワットという高い電力需要があるので、私たちが持っているような大型のインバーターを持つことが極めて重要です。</p>
+<p>インバーターは、マリーナにいるときに陸電に接続する際の充電器としても機能します。陸電ケーブルを使って、マリーナから220ボルトを取り込んでボートに電力を供給すると同時に、バッテリーをフル充電に保つことができます。</p>
+<p><strong>バッテリーモニター</strong></p>
+<p>ボートのシステムや電気製品によって船内でどれだけの電気が生産・消費されているかを監視するために、私たちはVictron Venus GXを使っています：</p>
+<img class="aligncenter wp-image-6854" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/venusgx.jpg" alt="Victron Venus GX" width="434" height="391" />
+<p>Venus GXは私たちの設備の通信センターです。システム内のすべてのコンポーネント（インバーター、MPPTコントローラーなど）と通信し、それらが調和して動作するようにします。私たちはオープンソースのアプリを使って、スマートフォンでライブデータを監視したり設定を変更したりできます：</p>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fe7dd0dc-63fd-4ad0-bcf0-5981cb2c401b.jpg" alt="Victron Venus" />
+<p>予備のバッテリーモニターシステムとして、私たちはVictron BMV 712 Smart Battery Monitorを使っています。その主な機能は、消費されたアンペアアワーとバッテリーの充電状態を計算することです。</p>
+<img class="aligncenter wp-image-6857" src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/bmv712smart.jpg" alt="Victron BMV 712 Smart" width="181" height="169" />
+<p>これは私たちのバッテリーの「燃料計」のようなものと考えてください。BlueTooth経由でスマートフォンのアプリに接続することもできます。</p>
+<p><strong>結論</strong></p>
+<p>船上で暮らしてきたこの2年間、私たちは一度も「省エネモード」になったことがありません。バランスの取れたバッテリー式電気システムのおかげで、電気のことは後回しで考えれば済むのです。</p>
+<p>錨泊しているとき、周囲のボートの大多数は夕方にバッテリーを充電するためにジェネセットを回す必要がありますが、私たちが就寝するときバッテリーは通常95%充電されています。</p>
+<p>そして、熱帯であっても夜に温かいシャワーを浴びられる喜びは、何ものにも代えがたいのです！</p></article>
+      <nav class="post-nav" aria-label="Post navigation">
+      <a class="post-nav-item" href="/posts/hurricanes-and-caribbean.html">
+        <div class="post-nav-label">← Previous</div>
+        <div class="post-nav-title">Hurricanes in the Caribbean</div>
+      </a>
+      <a class="post-nav-item post-nav-next" href="/posts/water-maker.html">
+        <div class="post-nav-label">Next →</div>
+        <div class="post-nav-title">How does a water maker work?</div>
+      </a></nav>
+    </div>
+  </div>
+</main>
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://app.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+    <li><a href="https://build.sailingoroboro.com" target="_blank" rel="noopener">Dashboard</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
+</footer>
+<script src="/js/main.js"></script>
+
+</body>
+</html>

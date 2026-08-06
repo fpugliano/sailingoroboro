@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <title>ボート管理アプリを自作した — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="description" content="Oroboroで3つの大洋を8年間航海してきて、私はたくさんのものを修理してきた。エンジン、造水機、ウインドラス、オートパイロット、配管…">
+  <meta property="og:title" content="ボート管理アプリを自作した — S/V Oroboro">
+  <meta property="og:description" content="Oroboroで3つの大洋を8年間航海してきて、私はたくさんのものを修理してきた。エンジン、造水機、ウインドラス、オートパイロット、配管…">
+  <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/engine-maintenance-portrait.png">
+  <meta property="og:url" content="https://sailingoroboro.com/ja/posts/boat-manager-app.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/posts/boat-manager-app.html">
+  <link rel="alternate" hreflang="it" href="https://sailingoroboro.com/it/posts/boat-manager-app.html">
+  <link rel="alternate" hreflang="ja" href="https://sailingoroboro.com/ja/posts/boat-manager-app.html">
+  <link rel="alternate" hreflang="fr" href="https://sailingoroboro.com/fr/posts/boat-manager-app.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://sailingoroboro.com/pt/posts/boat-manager-app.html">
+  <link rel="alternate" hreflang="es" href="https://sailingoroboro.com/es/posts/boat-manager-app.html">
+  <link rel="alternate" hreflang="ca" href="https://sailingoroboro.com/ca/posts/boat-manager-app.html">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <div class="lang-selector"></div>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <header class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-region">Boat Systems</span>
+      <span class="post-header-date">June 07, 2026</span>
+    </div>
+    <h1>ボート管理アプリを自作した</h1>
+  </header>
+
+  <div class="post-body">
+    <div class="post-body-inner">
+      <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
+        ← Back to all posts
+      </a>
+      <article class="post-content clearfix"><p>Oroboroで3つの大洋を8年間航海してきて、私はたくさんのものを修理してきた。エンジン、造水機、ウインドラス、オートパイロット、配管、電子機器——挙げればきりがないが、どれも少なくとも一度は壊れたことがあるだろう。</p>
+
+<p>何年もの間、私のメンテナンス「システム」は、紙のノート、スマホのメモ、自分宛てのいくつかのWhatsAppメッセージ、そして記憶を頼りにしたものの寄せ集めだった。だいたいはうまくいっていた。うまくいかなくなるまでは。</p>
+
+<p>ついに堪忍袋の緒が切れたのは、Cycladesで左舷エンジンのインペラを最後に交換したのがいつだったか思い出そうとしていたときだ。交換したのは分かっていた。Maltaでだったとほぼ確信していた。それともSicilyだったか? Aegean海のシーズンより前だったのは間違いない。でも正確にはいつ? それから何時間動かしたのか? 見当もつかなかった。結局、念のために交換し直したものの、あのもやもやした感覚は残り続けた。</p>
+
+<h2>ボートメンテナンスの問題点</h2>
+
+<p>ブルーウォータークルーザーは、所有できるものの中でも最も複雑なものの一つだ。Oroboroには2基のディーゼルエンジン、造水機、ソーラーパネル、オートパイロット、VHF無線、AISトランスポンダー、ファーリング式ジェノア、パラセーラー、非対称スピネーカー、有効期限のある安全装備など、数え上げればきりがない。それぞれのシステムが独自のスケジュールで定期メンテナンスを必要とする。</p>
+
+<p>ほとんどのクルーザーは、これをスプレッドシート(几帳面な人なら)やノート(そうでない人なら)で管理している。スプレッドシートの問題は、一つのデバイスにしか存在せず、更新を忘れがちなことだ。ノートの問題は、濡れたり、なくしたり、書き切ってしまったりすることだ。</p>
+
+<p>私が本当に欲しかったのは、こんなものだった:</p>
+
+<ul>
+<li>スマホの中にある(常に持ち歩ける)</li>
+<li>クラウドと同期する</li>
+<li>データをプライベートに、暗号化して保管する</li>
+<li>実際に使い続けられるくらいシンプルである</li>
+</ul>
+
+<p>これらすべてを満たすものは見つからなかった。だから自分で作った。</p>
+
+<h2>作ったもの</h2>
+
+<p><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Oroboro Boat Manager</a>は、ブラウザで動作し、ネイティブアプリのようにスマホのホーム画面にインストールできるウェブアプリだ。シンプルな発想を軸に作られている:ボート上のすべての作業を記録し、完了するたびにメモを残し、必要なときにいつでも完全な履歴を確認できる。</p>
+
+<p>どんなシステムについてもタスクを追加できる——「左舷エンジンのインペラ交換、200時間ごと」——そして完了記録を日付、メモ、写真付きで残せる。アプリは、期限切れのもの、まもなく来るもの、済んだものを追跡する。写真も保存でき、これが書類の管理に驚くほど便利だと分かった。</p>
+
+<p>データはクラウドに送信される前に、AES-GCMを使ってデバイス上で暗号化される。PINがスマホから出ることはない。私にもあなたのデータは読めないし、他の誰にも読めない。デバイス間で同期するので、Yukaも私も、何が済んだかを同じ視点で確認できる。</p>
+
+<h3>メンテナンス</h3>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/engine-maintenance-portrait.png" alt="エンジンメンテナンス画面" style="display:block;margin:2rem auto;max-width:320px;box-shadow:0 12px 32px rgba(0,0,0,0.18);">
+<p>ボートの各システムには独自のサービス間隔がある——エンジンオイル、ギアオイル、燃料フィルター、リップシール——アプリは前回のサービスからの稼働時間を追跡する。間隔が近づくとゲージがオレンジになり、期限を過ぎると赤くなる。完了するたびに日付とメモが記録され、カウンターがリセットされる。上部のアラートバッジが全モジュールにわたる期限切れのものを浮かび上がらせるので、何一つ見逃さずに済む。</p>
+
+<h3>食料調達</h3>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/provisioning-portrait.png" alt="食料調達画面" style="display:block;margin:2rem auto;max-width:320px;box-shadow:0 12px 32px rgba(0,0,0,0.18);">
+<p>食料調達モジュールは、カテゴリー別に整理された恒久的な在庫リストを保持する——食料、飲料、洗面用品——そして補充が必要とフラグを立てたものすべてを集めるショッピングリストのタブがある。履歴タブは過去の調達回の合計を記録し、インサイトタブは月間支出と店舗間の価格比較を表示する。Yukaも私もこのモジュールを使っていて、スマホ間で同期するので、いつも同じリストを見ている。</p>
+
+<h3>LPG</h3>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/lpg-portrait.png" alt="LPG画面" style="display:block;margin:2rem auto;max-width:320px;box-shadow:0 12px 32px rgba(0,0,0,0.18);">
+<p>ガスは、いつも間の悪いときに切れるものの一つだ。LPGモジュールは、船上のすべてのボンベを追跡する——本数、サイズ、残りキログラム数——そして各補充を、支払ったキログラム単価とともに記録する。時間が経つにつれて、さまざまな国にわたる価格履歴が積み上がっていく。港によって1キログラムあたり€0.62から€5.00までいろいろあったので、あちこち比べて買うときにこのデータは本当に役立つ。</p>
+
+<h3>造水機</h3>
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/water-maker-portrait.png" alt="造水機画面" style="display:block;margin:2rem auto;max-width:320px;box-shadow:0 12px 32px rgba(0,0,0,0.18);">
+<p>私たちの造水機は、稼働80時間ごとにメンブレンの洗浄が必要で、活性炭プレフィルターは6か月のカレンダースケジュールで交換が必要だ——完全に異なる2つの間隔で、混同しやすい。モジュールはそれぞれを独立して追跡する:時間ゲージが前回のメンブレン洗浄からカウントダウンし、別のセクションが活性炭フィルターをカレンダーに対して追跡する。海上でフィルター交換の時期が来たとき、アプリは前回の正確な数値を表示するので、自信を持って更新できる。</p>
+
+<h2>嵐から身を隠しながら作った</h2>
+
+<p>アプリの大部分は南風の暴風のさなかに書いた。それがまた似つかわしい。風が30ノットで吹きすさぶなか、岩陰に錨泊しているというのは、何か特別な感じがある。最初のバージョンは単純なタスクリストだった。そこにどんどん機能を追加していった:写真アップロード、クラウド同期、暗号化ストレージ、そしてどのPINを使ったか思い出せない瞬間のためのヒント付きPINシステム。</p>
+
+<p>バックエンドはCloudflare Workersで動いている。私たちのブログをホストしているのと同じインフラだ。サーバーレスで、安価で、グローバルだ。データはCloudflare KVに暗号化されたブロブとして保存される。全体としてほとんど運用コストがかからない。</p>
+
+<h2>試してみて</h2>
+
+<p>無料だ。スマホで<a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">boat.sailingoroboro.com</a>を開き、PINを設定し、ボートのシステムやタスクを追加し始めればいい。ホーム画面にインストールすれば、本格的なアプリの感覚で使える。アカウント不要、広告なし、サブスクリプションなし。</p>
+
+<p>役に立ったなら、ぜひ感想を聞かせてほしい。Instagramの<a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">@sailingoroboro</a>までメッセージを。</p>
+
+<p>よい航海を——そしてあなたのインペラが常に新品でありますように。</p>
+
+<p>— Francesco</p></article>
+      <nav class="post-nav" aria-label="Post navigation">
+      <a class="post-nav-item" href="/posts/2nd-atlantic-crossing.html">
+        <div class="post-nav-label">← Previous</div>
+        <div class="post-nav-title">2nd Atlantic Crossing</div>
+      </a>
+      </nav>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://app.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+    <li><a href="https://build.sailingoroboro.com" target="_blank" rel="noopener">Dashboard</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>
