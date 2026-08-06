@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <title>Golden Globe Race — Un Incontro Fortuito nell'Atlantico del Sud — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="description" content="Oceano Atlantico del Sud, gennaio 2019. Da qualche parte in mezzo al nulla, la nostra radio VHF prese vita. Dall'altra parte: Istvan Kopar, circumnavigatore solitario, in gara su Puffin nella Golden Globe Race.">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Golden Globe Race — Un Incontro Fortuito nell'Atlantico del Sud — S/V Oroboro">
+  <meta property="og:description" content="Oceano Atlantico del Sud, gennaio 2019. Da qualche parte in mezzo al nulla, la nostra radio VHF prese vita. Dall'altra parte: Istvan Kopar, circumnavigatore solitario, in gara su Puffin nella Golden Globe Race.">
+  <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/ggr_poster.jpg">
+  <meta property="og:url" content="https://sailingoroboro.com/it/posts/golden-globe-encounter.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Golden Globe Race — Un Incontro Fortuito nell'Atlantico del Sud — S/V Oroboro">
+  <meta name="twitter:description" content="Oceano Atlantico del Sud, gennaio 2019. Da qualche parte in mezzo al nulla, la nostra radio VHF prese vita. Dall'altra parte: Istvan Kopar, circumnavigatore solitario, in gara su Puffin nella Golden Globe Race.">
+  <meta name="twitter:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/ggr_poster.jpg">
+  <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/posts/golden-globe-encounter.html">
+  <link rel="alternate" hreflang="it" href="https://sailingoroboro.com/it/posts/golden-globe-encounter.html">
+  <link rel="alternate" hreflang="ja" href="https://sailingoroboro.com/ja/posts/golden-globe-encounter.html">
+  <link rel="alternate" hreflang="fr" href="https://sailingoroboro.com/fr/posts/golden-globe-encounter.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://sailingoroboro.com/pt/posts/golden-globe-encounter.html">
+  <link rel="alternate" hreflang="es" href="https://sailingoroboro.com/es/posts/golden-globe-encounter.html">
+  <link rel="alternate" hreflang="ca" href="https://sailingoroboro.com/ca/posts/golden-globe-encounter.html">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <div class="lang-selector"></div>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <header class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-region">South Atlantic</span><span class="post-header-region">Sailing</span>
+      <span class="post-header-date">January 2019</span>
+    </div>
+    <h1>Golden Globe Race — Un Incontro Fortuito nell'Atlantico del Sud</h1>
+  </header>
+
+  <div class="post-body">
+    <div class="post-body-inner">
+      <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
+        ← Back to all posts
+      </a>
+      <article class="post-content clearfix"><p><strong>Oceano Atlantico del Sud, gennaio 2019</strong></p>
+
+<p>Eravamo partiti da St Helena da dieci giorni, da qualche parte nel profondo dell'Atlantico del Sud, senza terra in nessuna direzione per oltre mille miglia. L'oceano era stato così vuoto per così tanto tempo che avevamo quasi smesso di aspettarci qualcosa di diverso. Solo Oroboro, le onde, l'aliseo e le stelle.</p>
+
+<p>Poi la VHF gracchiò.</p>
+
+<p>Una voce — calda, con un inconfondibile accento ungaro-americano — arrivò sul Canale 16. Ci aveva individuati sull'AIS e ci aveva chiamato. Si presentò: <strong>Istvan Kopar</strong>, in navigazione su <em>Puffin</em>, in gara nella Golden Globe Race.</p>
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/kopar_portrait.jpg" alt="Istvan Kopar" style="max-width:100%;max-height:600px;border-radius:6px;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 2 · South Atlantic Ocean · January 2019<br>Istvan Kopar — circumnavigatore solitario, Golden Globe Race 2018. Foto: <a href="https://koparsailing.com/" target="_blank" rel="noopener" style="color:inherit;">koparsailing.com</a> / Török Brigitta</figcaption>
+</figure>
+
+<p>In mezzo all'oceano, in una mattina qualunque di gennaio, stavamo parlando con un uomo che aveva lasciato la Francia sei mesi prima e si trovava ora intorno al Giorno 200 di una circumnavigazione solitaria non-stop.</p>
+
+<p><strong>La Golden Globe Race</strong></p>
+
+<p>La Golden Globe Race è una rievocazione dell'originale regata del Sunday Times del 1968–69 — quella che fece di Robin Knox-Johnston una leggenda e diede il via all'era della vela offshore solitaria. Gareggiare nella GGR moderna significa tornare indietro nel tempo: niente GPS, niente telefono satellitare, niente chartplotter, niente email. Navigazione a sestante e carte nautiche cartacee. Auto-pilota solo a servo-pendolo eolico. Comunicazioni via radio SSB. Le barche devono essere progetti classici costruiti prima del 1988.</p>
+
+<p>L'edizione 2018 è partita il 1° luglio da Les Sables-d'Olonne, in Francia. Diciotto navigatori hanno preso la rotta dei clipper: a sud oltre il Capo di Buona Speranza, attraverso l'Oceano Australe, intorno a Cape Horn e di nuovo a nord attraverso l'Atlantico. Circa 30.000 miglia, da soli, come una volta. Solo cinque avrebbero terminato.</p>
+
+<p>Istvan aveva doppiato Cape Horn il giorno di Capodanno — il 1° gennaio 2019. Ci disse che lì aveva sparso le ceneri di suo padre.</p>
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/puffin_cape_horn.jpg" alt="Cape Horn dal ponte di Puffin, gennaio 2019" style="max-width:100%;border-radius:6px;">
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 3 · Cape Horn, Chile · 1 January 2019<br>Cape Horn dal ponte di Puffin — Kopar doppiò il Capo il giorno di Capodanno, poche settimane prima che le nostre rotte si incrociassero. Foto: <a href="https://koparsailing.com/" target="_blank" rel="noopener" style="color:inherit;">koparsailing.com</a></figcaption>
+</figure>
+
+<p>Ho filmato lo scambio radio con il mio telefono. Potete guardarlo qui sotto — granuloso e di bassa qualità, con i sottotitoli perché la radio comprime le voci in qualcosa a metà strada tra un essere umano e un bollitore. Ma ascoltate oltre la statica e riuscirete a sentirlo: due equipaggi, in mezzo all'Atlantico, che si trovano per caso.</p>
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<video controls
+  poster="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/ggr_poster.jpg"
+  style="max-width:100%;width:700px;aspect-ratio:16/9;background:#000;border-radius:6px;">
+  <source src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/ggr_encounter.mp4" type="video/mp4">
+</video>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Video 4 · South Atlantic Ocean · January 2019<br>Il nostro scambio radio VHF con Istvan Kopar a bordo di Puffin — da qualche parte nell'Atlantico del Sud, a metà della sua circumnavigazione</figcaption>
+</figure>
+
+<p><strong>Navi che si incrociano</strong></p>
+
+<p>L'oceano è immenso, e la probabilità che due piccole barche a vela si trovino entro la portata VHF — circa 25 miglia — in qualsiasi punto dell'Atlantico del Sud è infinitesimale. Che ci fossimo capitati proprio lì, in quella particolare mattina, a procedere in direzioni opposte lungo lo stesso tratto d'acqua, continua a sembrarci qualcosa di straordinario.</p>
+
+<p>Abbiamo parlato forse venti minuti. Ci raccontò dei problemi al timone che lo avevano tormentato fin dai primi giorni di regata, delle riparazioni eseguite in mare, di Cape Verde dove aveva quasi deciso di fermarsi. Di Cape Horn il giorno di Capodanno, da solo in fondo al mondo. Ci chiese della nostra traversata, da dove venivamo, dove stavamo andando.</p>
+
+<p>Poi menzionò l'acqua. Le barche della GGR non portano a bordo un watermaker — il regolamento vieta la tecnologia moderna, quindi i concorrenti dipendono interamente dalla pioggia per rifornire la loro scorta d'acqua potabile. Non pioveva da molto tempo, e Istvan stava esaurendo le riserve.</p>
+
+<p>Anche noi avevamo i nostri problemi con l'acqua — il nostro watermaker si era guastato giorni prima e anche noi stavamo razionando — ma offrimmo comunque. Sembrava l'unica cosa umana da fare: due barche sole nell'oceano, una delle quali assetata.</p>
+
+<p>Lui ci ringraziò e rifiutò. Accettare acqua da un'altra imbarcazione lo avrebbe squalificato dalla regata. Dopo 200 giorni in mare e 30.000 miglia ancora da percorrere, non avrebbe permesso che succedesse per un tanica d'acqua. Avrebbe aspettato la pioggia.</p>
+
+<p>E poi ci salutammo, la radio tornò silenziosa e l'oceano si svuotò di nuovo, ciascuno di noi a proseguire nella propria direzione. La sua: a nord verso l'equatore, poi la Francia. La nostra: a ovest verso il Brasile.</p>
+
+<figure style="margin:1.5rem 0;text-align:center;">
+<div id="encounter-map" style="height:420px;max-width:700px;margin:0 auto;border-radius:8px;overflow:hidden;"></div>
+<figcaption style="font-size:0.82rem;color:#666;margin-top:0.5rem;">Photo 5 · South Atlantic Ocean · January 2019<br>Le nostre rotte che si incrociano nell'Atlantico del Sud: Oroboro (blu) in direzione ovest da St Helena verso il Brasile; Puffin (arancione) in direzione nord dopo aver doppiato Cape Horn (&times;) il giorno di Capodanno</figcaption>
+</figure>
+
+<p>Istvan Kopar concluse la Golden Globe Race il 21 marzo 2019, al quarto posto — 263 giorni dopo aver lasciato la Francia. Dei 18 partiti, solo 5 tagliarono il traguardo. Jean-Luc Van Den Heede, 73 anni, la vinse.</p>
+
+<p>Vale la pena soffermarsi su cosa sia la Golden Globe Race, e su cosa non sia. La sua gemella spirituale — e opposto assoluto — è la Vendée Globe: anch'essa solitaria, anch'essa non-stop, anch'essa intorno agli stessi tre capi. Ma la Vendée Globe si disputa su IMOCA 60 volanti con foil, carichi di satelliti, autopiloti e computer di bordo. Armel Le Cléac'h vinse la Vendée Globe 2016 in 74 giorni. Il vincitore della GGR 2018 impiegò 211. Stesso oceano. Stessi capi. La differenza tra le due regate è la differenza tra una Formula 1 e un'auto da rally degli anni '60 con i finestrini abbassati — l'una riguarda ciò che la tecnologia può fare, l'altra ciò che un essere umano può sopportare.</p>
+
+<p>Ci abbiamo pensato molto nei mesi successivi. E poi, qualche settimana dopo essere arrivati a Rio de Janeiro, un bellissimo yacht da regata azzurro scivolò silenziosamente nell'ormeggio accanto al nostro alla Marina da Glória. Era l'Hugo Boss IMOCA 60 — al comando <strong>Alex Thomson</strong>, che aveva concluso al secondo posto proprio nella Vendée Globe di cui stavamo parlando. Due incontri, due regate, due visioni completamente diverse di cosa significhi navigare da soli intorno al mondo. <a href="/posts/carnival-in-rio-de-janeiro.html">Quella storia è qui.</a></p>
+
+<p>Potete seguire la navigazione di Istvan su <a href="https://koparsailing.com/" target="_blank" rel="noopener">koparsailing.com</a>. È ancora là fuori.</p></article>
+      <nav class="post-nav" aria-label="Post navigation">
+      <a class="post-nav-item" href="/posts/moonbow.html">
+        <div class="post-nav-label">← Previous</div>
+        <div class="post-nav-title">A Moonbow over the South Atlantic</div>
+      </a>
+      <a class="post-nav-item post-nav-next" href="/posts/carnival-in-rio-de-janeiro.html">
+        <div class="post-nav-label">Next →</div>
+        <div class="post-nav-title">Carnival in Rio de Janeiro!</div>
+      </a></nav>
+    </div>
+  </div>
+</main>
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://app.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+    <li><a href="https://build.sailingoroboro.com" target="_blank" rel="noopener">Dashboard</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
+</footer>
+<script src="/js/main.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(function () {
+  var map = L.map("encounter-map", { scrollWheelZoom: false }).setView([-28, -30], 4);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a>",
+    maxZoom: 10
+  }).addTo(map);
+
+  function dot(color) {
+    return L.divIcon({
+      className: "",
+      html: "<div style=\"background:" + color + ";width:14px;height:14px;border-radius:50%;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.5)\"></div>",
+      iconSize: [14, 14], iconAnchor: [7, 7]
+    });
+  }
+  function cross(color) {
+    return L.divIcon({
+      className: "",
+      html: "<div style=\"color:" + color + ";font-size:18px;font-weight:bold;line-height:1;text-shadow:0 0 3px #fff,0 0 3px #fff\">×</div>",
+      iconSize: [18, 18], iconAnchor: [9, 9]
+    });
+  }
+
+  L.marker([-19.917, -24.283], { icon: dot("#1a6bc4") }).addTo(map)
+    .bindPopup("<b>S/V Oroboro</b><br>19°55′S · 24°17′W<br><em>St Helena to Brazil leg</em>");
+
+  L.marker([-20.15, -25.0], { icon: dot("#e05c1a") }).addTo(map)
+    .bindPopup("<b>Puffin — Istvan Kopar</b><br><em>Estimated position<br>GGR 2018, Day ~200<br>Northbound after Cape Horn</em>");
+
+  L.marker([-55.983, -67.267], { icon: cross("#555") }).addTo(map)
+    .bindPopup("<b>Cape Horn</b><br>Kopar rounded here<br>January 1, 2019");
+
+  var legend = L.control({ position: "bottomright" });
+  legend.onAdd = function () {
+    var d = L.DomUtil.create("div");
+    d.style.cssText = "background:rgba(255,255,255,.92);padding:8px 12px;border-radius:6px;font-size:12px;line-height:2;box-shadow:0 1px 5px rgba(0,0,0,.2)";
+    d.innerHTML =
+      "<span style=\"display:inline-block;width:10px;height:10px;border-radius:50%;background:#1a6bc4;margin-right:6px;vertical-align:middle\"></span>S/V Oroboro<br>" +
+      "<span style=\"display:inline-block;width:10px;height:10px;border-radius:50%;background:#e05c1a;margin-right:6px;vertical-align:middle\"></span>Puffin / Kopar (est.)<br>" +
+      "<span style=\"margin-right:6px;vertical-align:middle;color:#555;font-weight:bold\">×</span>Cape Horn";
+    return d;
+  };
+  legend.addTo(map);
+})();
+</script>
+</body>
+</html>

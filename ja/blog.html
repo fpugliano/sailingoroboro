@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
   <title>ブログ — S/V Oroboro</title>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="オロボロの航海日誌の全記事 — 南アフリカからギリシャまで、世界を航海する旅。">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+
   <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/blog.html">
   <link rel="alternate" hreflang="it" href="https://sailingoroboro.com/it/blog.html">
   <link rel="alternate" hreflang="ja" href="https://sailingoroboro.com/ja/blog.html">
@@ -12,15 +18,11 @@
   <link rel="alternate" hreflang="pt-BR" href="https://sailingoroboro.com/pt/blog.html">
   <link rel="alternate" hreflang="es" href="https://sailingoroboro.com/es/blog.html">
   <link rel="alternate" hreflang="ca" href="https://sailingoroboro.com/ca/blog.html">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
-  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 </head>
 <body>
 <nav class="nav" role="navigation" aria-label="メインナビゲーション">
   <a class="nav-logo" href="/ja/">
-    <img src="/img/logo-white.png" alt="オロボロのロゴ">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
     S/V Oroboro
   </a>
   <ul class="nav-links">
@@ -46,17 +48,1174 @@
     <p>南アフリカからギリシャまで87本の記事</p>
   </header>
 
-  <div style="max-width:700px;margin:3rem auto;padding:0 1.5rem;text-align:center;">
-    <p style="font-size:1.1rem;line-height:1.7;color:#555;">
-      日本語への翻訳は準備中です。現在は<a href="/blog.html">英語版</a>でお読みいただけます。
-    </p>
-    <a href="/blog.html" class="hero-cta" style="margin-top:1.5rem;display:inline-block;">英語版ブログへ →</a>
+  <div class="filters" role="navigation" aria-label="Filter posts">
+    <div class="filters-inner">
+      <button class="filter-btn active" data-filter="all">すべて</button>
+<button class="filter-btn" data-filter="boat">ボート</button>
+<button class="filter-btn" data-filter="sailing">航海</button>
+<button class="filter-btn" data-filter="south-africa">南アフリカ</button>
+<button class="filter-btn" data-filter="atlantic">南大西洋</button>
+<button class="filter-btn" data-filter="brazil">ブラジル</button>
+<button class="filter-btn" data-filter="caribbean">カリブ海</button>
+<button class="filter-btn" data-filter="atlantic2">北大西洋</button>
+
+    </div>
+  </div>
+
+  <div class="blog-grid">
+    <div class="blog-grid-inner">
+      
+    <a class="post-card" href="/ja/posts/oroboro-dashboard.html"
+       data-region="boat">
+      <div class="post-card-image"><img src="/images/posts/New Dashboard.jpg" alt="I built my own boat dashboard — and it looks better than the €250 Victron screen" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Technology</span>
+          <span class="post-card-date">June 10, 2026</span>
+        </div>
+        <h2>自分だけのボート・ダッシュボードを作った — 250ユーロのVictronスクリーンより見栄えがいい</h2>
+        <p class="post-card-excerpt">After years staring at a 1995-style Victron Remote Console, I built my own on a Raspberry Pi. Plain HTML, CSS, and JavaScript — no frameworks, no cloud, no subscription.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/boat-manager-app.html"
+       data-region="boat">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/engine-maintenance-portrait.png" alt="I Built a Boat Manager App" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Boat Systems</span>
+          <span class="post-card-date">June 07, 2026</span>
+        </div>
+        <h2>ボート管理アプリを自作した</h2>
+        <p class="post-card-excerpt">After eight years of sailing Oroboro across three oceans, I&#x27;ve fixed a lot of things. I couldn&#x27;t find a boat management app that worked for real bluewater cruisers — so I built one.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/azores-the-happiest-landfall.html"
+       data-region="atlantic2">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/azores/horta-arrival.jpg" alt="The Azores — The Happiest Landfall" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Azores</span>
+          <span class="post-card-date">June 2021</span>
+        </div>
+        <h2>アゾレス諸島 — 最高に幸せな上陸</h2>
+        <p class="post-card-excerpt">Azores, Portugal, June 2021 Some landfalls you forget by the next passage. Horta is not one of them. Photo 1 · Azores, Portugal · June 2021 Arriving in Horta, Faial — the landfall…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/2nd-atlantic-crossing.html"
+       data-region="atlantic">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_149.jpeg" alt="2nd Atlantic Crossing" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">南大西洋</span>
+          <span class="post-card-date">May 2021</span>
+        </div>
+        <h2>2回目の大西洋横断</h2>
+        <p class="post-card-excerpt">Atlantic Ocean, May 2021 Twenty days. 3,054 miles. One giant mahi-mahi, two dead bilge pumps, one lost propeller, and the best crew we could ask for. Here is the log, day by day,…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/sailing-in-the-bahamas.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/a0615f4a-b396-4c85-89ac-9ba2aca5557b-1.jpg" alt="Sailing in the Bahamas!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2021</span>
+        </div>
+        <h2>バハマでセーリング！</h2>
+        <p class="post-card-excerpt">Sailing in the Bahamas, April 2021 After spending more than a year in the Lesser Antilles, including an unprecedented lockdown for Covid-19 and the busiest hurricanes seasons on…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/anti-fouling-review-pettit-trinidad-pro-sucks.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/trinidad-pro-400x500-1.png" alt="Anti-Fouling" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2021</span>
+        </div>
+        <h2>船底塗装（防汚塗料）</h2>
+        <p class="post-card-excerpt">In October 2020 we decided to do a bottom job before leaving Grenada. Last time we did one was 1 year before in Trinidad. This time around we used Pettit Trinidad Pro. We chose…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/dominican-republic.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_9348.jpg" alt="Dominican Republic" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">March 2021</span>
+        </div>
+        <h2>ドミニカ共和国</h2>
+        <p class="post-card-excerpt">Dominican Republic, March 2021 We spent very little time in the Dominican Republic, unfortunately. We only sailed to Samana Bay and Luperòn on the north coast. Samana Bay is a…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/spanish-virgin-islands.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8726.jpg" alt="Spanish Virgin Islands" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">February 2021</span>
+        </div>
+        <h2>スパニッシュ・ヴァージン諸島</h2>
+        <p class="post-card-excerpt">Spanish Virgin Islands, February 2021 The Spanish Virgin Islands consist of Culebra and Vieques, and are part of the commonwealth of Puerto Rico. It&#x27;s been documented that…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/puerto-rico.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8876.jpg" alt="Puerto Rico" loading="lazy" style="object-position:top"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">February 2021</span>
+        </div>
+        <h2>Puerto Rico</h2>
+        <p class="post-card-excerpt">Puerto Rico, February 2021 You can tell we are approaching the end of the Tropics: Weather patterns are starting to change! Back in the Lesser Antilles, winds were from 60° to…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/entering-the-greater-antilles.html"
+       data-region="caribbean">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/caribbean_general_map.png" alt="Entering the Greater Antilles" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">カリブ海</span>
+          <span class="post-card-date">January 2021</span>
+        </div>
+        <h2>大アンティル諸島へ</h2>
+        <p class="post-card-excerpt">Greater Antilles, January 2021 When Christopher Columbus in 1492 became the first European explorer to record his arrival in the Bahamas, the term West Indies was eventually used…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/us-virgin-islands.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/7a48b6a6-cb57-4406-ac58-08e58dba0727.jpg" alt="US Virgin Islands" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">January 2021</span>
+        </div>
+        <h2>US Virgin Islands</h2>
+        <p class="post-card-excerpt">US Virgin Islands, January 2021 The first island of the US Virgin Island we made landfall was Saint Croix. The USVI consists of three island, St John, St Thomas and St Croix. St…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/recap-of-year-2020.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/photo-2020-12-13-07-00-26.jpg" alt="Recap of year 2020" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2020</span>
+        </div>
+        <h2>2020年の振り返り</h2>
+        <p class="post-card-excerpt">Year 2020, the Annus Horribilis (Latin phrase meaning &quot;horrible year&quot;) is coming to an end, and it&#x27;s now time for a year end review. Let&#x27;s start with counting our blessings: None…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/how-to-rebuild-a-spectra-watermaker.html"
+       data-region="caribbean">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/annular.jpg" alt="How to rebuild a Spectra Watermaker" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">カリブ海</span>
+          <span class="post-card-date">December 2020</span>
+        </div>
+        <h2>Spectra製造水器のオーバーホール方法</h2>
+        <p class="post-card-excerpt">After 2 years and 600 under hours, my Spectra Newport 400 needs to be rebuilt. The symptoms were that the production of water went down from 61 liters (17 US gallons) to only 25…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/vendee-globe-2020.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_1f9-2.jpeg" alt="Vendée Globe 2020" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2020</span>
+        </div>
+        <h2>Vendée Globe 2020</h2>
+        <p class="post-card-excerpt">For some people, the Vendée Globe is the equivalent of climbing Mt. Everest. But, as the great American skipper Rich Wilson once pointed out, it&#x27;s rather the other way around,…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/water-maker.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/spectranewport.jpg" alt="How does a water maker work?" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">September 2020</span>
+        </div>
+        <h2>造水機はどうやって動くの？</h2>
+        <p class="post-card-excerpt">The convenience of making your own drinkable water while cruising is priceless. This was our number one requirement when we decided to travel around the world on our sailboat. The…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/oroboros-energy-system.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/lifeline-battery.jpg" alt="Oroboro&#x27;s energy system" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">August 2020</span>
+        </div>
+        <h2>Oroboro&#x27;s energy system</h2>
+        <p class="post-card-excerpt">Modern boats are very dependent on electricity. For this reason almost 4 years ago when Yuka and I started envisioning our life on Oroboro, one of our main goals was establishing…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/hurricanes-and-caribbean.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/hurrican-tracks-from-noaa-1.jpg" alt="Hurricanes in the Caribbean" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">August 2020</span>
+        </div>
+        <h2>カリブ海のハリケーン</h2>
+        <p class="post-card-excerpt">Caribbean, August 2020 It wasn&#x27;t in our plans to spend the Hurricane Season in the Caribbean. By now, we should be enjoying good food and good weather in the Western Med. Our plan…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/covid-19-in-paradise.html"
+       data-region="caribbean">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/barbuda/oroboro-bow-barbuda.jpg" alt="Covid-19 in Paradise" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">カリブ海</span>
+          <span class="post-card-date">January 2020</span>
+        </div>
+        <h2>楽園でのCovid-19</h2>
+        <p class="post-card-excerpt">Barbuda, January 2020 Since we come back from Japan after the Christmas holidays, we were having a very good time sailing north along the island’s chain.  We had friends visiting…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/grenada.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/grenada/approaching-grenada.jpg" alt="Grenada" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">January 2020</span>
+        </div>
+        <h2>グレナダ</h2>
+        <p class="post-card-excerpt">Grenada, January 2020 The sail from Tobago to Grenada was a beautiful overnight spinnaker sail. Yuka and I are now so used to our 3-hour night watches, and we handled it really…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/french-guiana.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8556.jpg" alt="French Guiana" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2019</span>
+        </div>
+        <h2>フランス領ギアナ</h2>
+        <p class="post-card-excerpt">French Guiana, December 2019 French Guiana! At last! I have dreamed to sail here for a long time. I can&#x27;t believe that we are finally there! Photo 1 · French Guiana · December…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/from-brazil-to-the-caribbean-in-60-seconds.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/tracks.jpg" alt="From Brazil to the Caribbean in 60 seconds" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2019</span>
+        </div>
+        <h2>ブラジルからカリブ海まで60秒で</h2>
+        <p class="post-card-excerpt">Atlantic Ocean, December 2019 This is a 60 seconds video depicting life on board Oroboro during the 1,600 nm passage from Brazil to the Caribbean.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/joao-pessoa.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/meteor.jpg" alt="Joao Pessoa" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>Joao Pessoa</h2>
+        <p class="post-card-excerpt">João Pessoa, November 2019 We sailed out of Joao Pessoa around midnight. Around 3 am, while sailing north from Joao Pessoa to Natal, I saw a red flare in the night sky on the…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/tibao-do-sul.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/tibao-do-sul/img_8110.jpg" alt="Tibao do Sul" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>Tibao do Sul</h2>
+        <p class="post-card-excerpt">Tibau do Sul, August 2019 We also visited Tibao do Sul. Initially we wanted to get there by boat. I read a Brazilian pilot book very popular among Brazilian sailors, where it was…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/pipa.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_5172.jpg" alt="Pipa beach" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>ピパビーチ</h2>
+        <p class="post-card-excerpt">Pipa Beach, November 2019 Pipa beach is a major surfing destination in Brazil. It was just a fishing village with no roads until some surfers in the 70s discovered it. Today is…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/jacare.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/meteor.jpg" alt="Jacarè" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>ジャカレ</h2>
+        <p class="post-card-excerpt">Jacaré, November 2019 The passage to Jacarè was the last leg we did with Mario as a crew. It was easier than the previous one but had its own challenges. Especially navigating in…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/recife.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/51d3844e-baff-4fff-9bf2-711b79ef5d99.jpg" alt="Recife" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>レシフェ</h2>
+        <p class="post-card-excerpt">Recife, November 2019 Mario arrived in Salvador as soon as he graduated High School. Well, he went to Greece first with his schoolmates to celebrate the end of high school, then…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/itaparica.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/0wtwbslrtyyrlldwejsaq-e1572726935656.jpg" alt="Itaparica" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>Itaparica</h2>
+        <p class="post-card-excerpt">Itaparica, November 2019 Itaparica is an island right in front of Salvador, in the Baia de Todos Os Santos, the largest bay in Brazil, with 56 islands! We visited most of them,…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/one-year-in-the-caribbean.html"
+       data-region="caribbean">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ba9c7d86-6e2d-47d9-b0b6-88b47df46fd3.jpg" alt="One year in the Caribbean..." loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">カリブ海</span>
+          <span class="post-card-date">November 2019</span>
+        </div>
+        <h2>カリブ海での1年...</h2>
+        <p class="post-card-excerpt">Caribbean, November 2019 It&#x27;s amazing how time flies!  We just realized we&#x27;ve arrived to the Caribbean exactly one year ago.  Little did we know back then that the world was going…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/crossing-the-equator.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/atlantic-crossing/spinnaker.jpg" alt="Crossing the Equator!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">October 2019</span>
+        </div>
+        <h2>赤道を越えて！</h2>
+        <p class="post-card-excerpt">Atlantic Ocean, October 2019 Photo 1 · Atlantic Ocean · October 2019 S/V Oroboro GPS track — Equator Crossing — Atlantic — Nov–Dec 2019 • GPS data from Raymarine chartplotter •…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/tobago.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_d66.jpeg" alt="Tobago" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">October 2019</span>
+        </div>
+        <h2>トバゴ</h2>
+        <p class="post-card-excerpt">Tobago, October 2019 We sailed from Trinidad to Tobago for various reasons. Among them, the main one was that the direct route from Trinidad to Grenada is very close to Venezuela…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/morro-de-sao-paulo.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_1ba.jpeg" alt="Morro de São Paulo" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">September 2019</span>
+        </div>
+        <h2>Morro de São Paulo</h2>
+        <p class="post-card-excerpt">Morro de São Paulo, September 2019 Morro de São Paulo is a lovely village some 30 nautical miles south of Salvador. It&#x27;s the closest thing to a Mediterranean island village you…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/trinidad.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_8585.jpg" alt="Trinidad" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">September 2019</span>
+        </div>
+        <h2>トリニダード</h2>
+        <p class="post-card-excerpt">Trinidad, September 2019 The leg from Kurou in French Guiana to Trinidad was about 650 nautical miles and we enjoyed every mile of it. Conditions were perfect, we flew the…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/fortaleza.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/o2me6xujqmcgiu2leokbka.jpg" alt="Fortaleza" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">September 2019</span>
+        </div>
+        <h2>フォルタレザ</h2>
+        <p class="post-card-excerpt">Fortaleza, September 2019 The leg from Natal to Fortaleza was enjoyable at the beginning, but very tough once we got near Fortaleza. First of all Fortaleza is a very inhospitable…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/salvador-de-bahia.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_a9f.jpeg" alt="Salvador de Bahia" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">August 2019</span>
+        </div>
+        <h2>サルヴァドール・デ・バイーア</h2>
+        <p class="post-card-excerpt">Salvador de Bahia, August 2019 Sailing Oroboro Podcast — Episode 6 Salvador de Bahia Salvador de Bahia is the third largest city in Brazil, and the one where its African roots run…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/olinda.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_b01.jpeg" alt="Olinda" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">August 2019</span>
+        </div>
+        <h2>オリンダ</h2>
+        <p class="post-card-excerpt">Olinda, August 2019 North of Recife there is one little town that after Parati and Ouro Preto, is one of the best preserved colonial villages in Brazil: Olinda. Not as big and as…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/santo-antonio-do-paraguacu.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_965.jpeg" alt="Santo Antônio do Paraguaçu" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">July 2019</span>
+        </div>
+        <h2>Santo Antônio do Paraguaçu</h2>
+        <p class="post-card-excerpt">Santo Antônio do Paraguaçu, July 2019 We navigated the river Paraguaçu to get to see the beautiful and remote convent of Saint Antony. What an experience! We felt like in the…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/ilha-de-boipeba.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ilha-de-boipeba/img_7678.jpg" alt="Ilha de Boipeba" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">August 2019</span>
+        </div>
+        <h2>Ilha de Boipeba — 車のない島</h2>
+        <p class="post-card-excerpt">Ilha de Boipeba, Bahia — August 2019 South of Morro de São Paulo, reachable only by boat, Boipeba is one of the most remote and unspoiled islands on the Bahian coast — white sand, turquoise water, no cars.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/jiribatuba.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/jiribatuba/img_7215.jpg" alt="Jiribatuba" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">July 2019</span>
+        </div>
+        <h2>Jiribatuba — 干潟と朽ちた教会</h2>
+        <p class="post-card-excerpt">Jiribatuba, Ilha de Itaparica — July 2019 At the southern tip of Itaparica, barefoot across warm tidal flats, isolated mangrove trees rise from the sand around a 300-year-old roofless baroque church.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/salinas-da-margarida.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/salinas-da-margarida/img_7041.jpg" alt="Salinas da Margarida" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">July 2019</span>
+        </div>
+        <h2>Salinas da Margarida — 塩、石畳、そして湾</h2>
+        <p class="post-card-excerpt">Salinas da Margarida, Bahia de Todos os Santos — 5 July 2019 A town built on salt pans, a Portuguese calçada with its name spelled in mosaic cobblestones, an ornate parish church, and wooden fishing boats at low tide.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/ilha-do-goio.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ilha-do-goio/img_6975.jpg" alt="Ilha do Goio" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">July 2019</span>
+        </div>
+        <h2>Ilha do Goio — 湧き出る真水と独立記念日</h2>
+        <p class="post-card-excerpt">Ilha do Goio, Bahia de Todos os Santos — 4 July 2019 A freshwater spring erupts from a sandstone cliff at the waterline. We anchored off the beach, flew the Stars and Stripes from the dinghy, and celebrated with caipirinhas.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/jaguaripe.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/jaguaripe/img_6945.jpg" alt="Jaguaripe" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">July 2019</span>
+        </div>
+        <h2>Jaguaripe — 湾に佇むクラフトビール醸造所</h2>
+        <p class="post-card-excerpt">Jaguaripe, Bahia de Todos os Santos — July 2019 A colonial village on the eastern shore of the bay where the boats outnumber the cars and the bar by the water serves cold beer from breakfast onwards.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/the-dark-science-of-weather-forecasts.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/synoptichart.jpg" alt="The dark science of weather forecasts" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">June 2019</span>
+        </div>
+        <h2>天気予報という暗黒の科学</h2>
+        <p class="post-card-excerpt">When you live on a boat it&#x27;s very important for your safety to constantly monitor the weather. For this reason, the first task of the day for us is checking the weather forecasts.…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/itacare.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_5172.jpg" alt="Itacaré" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Itacaré</h2>
+        <p class="post-card-excerpt">Itacaré, May 2019 We left Ilheus at 3 am in order to be able to get to Itacaré at high tide. We were really not impressed by the town and the Iate Clube. The rain didn&#x27;t help…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/ilheus.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4828.jpg" alt="Ilheus" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Ilheus</h2>
+        <p class="post-card-excerpt">Ilhéus, May 2019 Ilheus is an overnight from Coroa Vermelha, about 18 hours. We left at 3pm and by 9:30 am we were anchored in front of the Iate Clube. Yuka and I are really…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/porto-seguro.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4886.jpg" alt="Porto Seguro" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Porto Seguro</h2>
+        <p class="post-card-excerpt">Porto Seguro, May 2019 According to popular belief, Pedro Álvares Cabral landed here in 1500 and that&#x27;s why the town was named Porto Seguro (Safe harbor). However, what is…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/santo-andre-and-santa-cruz-cabralia.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_5071.jpg" alt="Terra à vista! Santa Cruz Cabralia" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Terra à vista! Santa Cruz Cabralia</h2>
+        <p class="post-card-excerpt">Santa Cruz Cabrália, May 2019 To get to Santa Cruz Cabralia we anchored in front of Santo Andrè, also sadly known as Villa do Sete a Um (Seven to One). It&#x27;s here that the German…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/corao-vernelho.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/318de927-66c0-45ee-ae51-c39627ed73d8-1.jpg" alt="Coroa Vermelha" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Coroa Vermelha</h2>
+        <p class="post-card-excerpt">Coroa Vermelha, May 2019 Oroboro dropped anchor in the very same place where 500+ years ago Pedro Álvares Cabral set foot on Brazil for the first time.  The Bay is protected by a…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/cumuruxatiba.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4720.jpg" alt="Cumuruxatiba" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Cumuruxatiba</h2>
+        <p class="post-card-excerpt">Cumuruxatiba, May 2019 The Abrolhos archipelago Park Ranger Joyce mentioned to us that Cumuruxatiba was a great place to stop. I&#x27;m glad we followed her advice because the place…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/abrolhos.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/abrolhos.jpg" alt="Abrolhos" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Abrolhos</h2>
+        <p class="post-card-excerpt">Abrolhos, May 2019 Open Your Eyes! Abrolhos Archipelagos. Back in the old days, some Spanish charts bore the inscription &quot;Abras los ojos&quot; near reefs areas that might put the ship…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/cabo-frio.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/cabofrio.png" alt="Cabo Frio" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>Cabo Frio</h2>
+        <p class="post-card-excerpt">Cabo Frio, May 2019 Time has come for us to start heading north towards the Caribbean. We left once again Rio de Janario on April 1 st at 22:00, destination Cabo Frio. We headed…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/camamu-bay.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_3366.jpg" alt="Camamù Bay" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">May 2019</span>
+        </div>
+        <h2>カマムー湾</h2>
+        <p class="post-card-excerpt">Camamù Bay, May 2019 Some 30 nautical miles north of Itacarè lays the Bay of Camamu. There are a lot of different villages in the bay and up the river. For us it was the first…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/ouro-preto-or-black-gold.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2476.jpg" alt="Ouro Preto, or Black Gold!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>オウロ・プレット、すなわち黒い黄金！</h2>
+        <p class="post-card-excerpt">Ouro Preto, April 2019 During our stay in Rio, to take a break from the carnival with our friends Joaquin and Monica we decided to get a rental car and visit Petropolis. The visit…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/brasilia.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/brasilia/img_4518.jpg" alt="Brasilia" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>ブラジリア</h2>
+        <p class="post-card-excerpt">Brasília, April 2019 From Vitoria, we flew to Brasilia to spend a couple of days exploring this unique town. Brasilia is the modernist city that a very cool and visionary and…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/ubatuba.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/ubatuba/img_3805.jpg" alt="Ubatuba" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>Ubatuba</h2>
+        <p class="post-card-excerpt">Ubatuba, April 2019 Our first sail out of the bay of Ilha Grande was to Ubatuba, some 30 nautical miles south west. It was a very nice sensation to get Oroboro in blue ocean…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/vitoria.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2304.jpg" alt="Vitoria" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>ヴィトーリア</h2>
+        <p class="post-card-excerpt">Vitoria, April 2019 In Vitoria we moored at the local Yacht Club. They charged us R$30 per person per day. The harbor is very small, and they only have powerboat and maybe two or…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/sao-paulo.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2519.jpg" alt="Sao Paulo" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>サンパウロ</h2>
+        <p class="post-card-excerpt">São Paulo, April 2019 After Brasilia, we flew to Sao Paulo. For me this visit had a special meaning, since I was going to meet for the first time a dear old friend, Gianfranco,…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/pirenopolis.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4535.jpg" alt="Pirenopolis" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>Pirenopolis</h2>
+        <p class="post-card-excerpt">Pirenópolis, April 2019 While in Brazilia, we decided to get a rental and go visit Pirenopolis, well known for its waterfalls and Portuguese colonial architecture. We found the…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/guarapari.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/guarapari/img_4432.jpg" alt="Guarapari" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>グアラパリ</h2>
+        <p class="post-card-excerpt">Guarapari, April 2019 Guarapari was just a technical stop on our way to the Abrolhos archipelago. Nice town. Photo 1 · Guarapari, Brazil · 13 April 2019 Guarapari, Brazil And on…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/armacao-dos-buzios-simply-known-as-buzios.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_4313.jpg" alt="Armação dos Búzios, simply known as Búzios" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">April 2019</span>
+        </div>
+        <h2>Armação dos Búzios、通称ブジオス</h2>
+        <p class="post-card-excerpt">Búzios, April 2019 Buzios used to be an unknown fishermen village until Brigitte Bardot made it famous by spending here her vacation time with her Brazilian boyfriend in the early…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/how-to-repair-a-spectra-newport-watermaker.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/spectranewport.jpg" alt="How to repair a Spectra Newport watermaker" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">March 2019</span>
+        </div>
+        <h2>Spectra Newport 造水機の修理方法</h2>
+        <p class="post-card-excerpt">Some old salt was once asked what was &quot;cruising life&quot; and the reply was &quot;Cruising is fixing your boat in exotic places&quot;. There is some truth in that. Our Spectra Newport 400 MKII…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/welcome-to-brazil.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/4a3890cd-857f-4496-b763-d7f8b1582f34.jpg" alt="Welcome to Brazil!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">March 2019</span>
+        </div>
+        <h2>ようこそブラジルへ！</h2>
+        <p class="post-card-excerpt">Ilha Grande, Brazil, March 2019 After sailing 4,387nm and spending 35 days at sea, Oroboro safely anchored in Ilha Grande, Brazil, on February 1st, 2019. I felt like the early…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/crossing-the-south-atlantic-ocean.html"
+       data-region="atlantic">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2637.jpg" alt="Crossing the South Atlantic Ocean" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">南大西洋</span>
+          <span class="post-card-date">February 2019</span>
+        </div>
+        <h2>南大西洋を横断する</h2>
+        <p class="post-card-excerpt">South Atlantic Ocean, February 2019 Sailing Oroboro Podcast — Episode 4 St. Helena to Brazil: The Longest Leg 2,271 nautical miles, 18 days at sea, two people — and a watermaker…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/ilha-grande.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_1ba.jpeg" alt="Ilha Grande" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">February 2019</span>
+        </div>
+        <h2>イーリャ・グランデ</h2>
+        <p class="post-card-excerpt">Ilha Grande, February 2019 Sailing Oroboro Podcast — Episode 5 Paraty &amp; The Opera Singer Seven months in Brazil was never the plan. But Paraty — with its cobblestone streets,…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/paraty.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/paraty/img_2810.jpg" alt="Paraty — The Town That Gold Forgot" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">February 2019</span>
+        </div>
+        <h2>パラチ — 黄金が忘れた町</h2>
+        <p class="post-card-excerpt">Paraty, Rio de Janeiro — February and March 2019 The Gold Road, cobblestone streets, cachaça culture, and the famous tidal floods that turn the historic centre into a shallow canal three times a year.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/carnival-in-rio-de-janeiro.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/48kfhgubsr2pesekq3mudg.jpg" alt="Carnival in Rio de Janeiro!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">February 2019</span>
+        </div>
+        <h2>リオデジャネイロのカーニバル！</h2>
+        <p class="post-card-excerpt">Rio de Janeiro, Brazil, February 2019 To be honest, at the beginning I wasn&#x27;t particularly interested in visiting Rio, especially during Carnival. Rio was very low on my personal…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/hugo-boss-alex-thomson.html"
+       data-region="brazil">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/hugo-boss/img_3423.jpg" alt="Hugo Boss at Marina da Glória — An Unexpected Guest" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ブラジル</span>
+          <span class="post-card-date">March 2019</span>
+        </div>
+        <h2>マリーナ・ダ・グロリアのHugo Boss — 予期せぬ隣人</h2>
+        <p class="post-card-excerpt">Rio de Janeiro, March 2019. We were staying at Marina da Glória during Carnival when a sleek black IMOCA 60 slipped into the berth next to ours. It was Hugo Boss — and Alex Thomson was at the helm, on a small detour to see Carnival. A 5,000-mile small detour.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/golden-globe-encounter.html"
+       data-region="atlantic">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/ggr_poster.jpg" alt="Golden Globe Race — A Serendipitous Encounter in the South Atlantic" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">南大西洋</span>
+          <span class="post-card-date">January 2019</span>
+        </div>
+        <h2>Golden Globe Race — 南大西洋での思いがけない出会い</h2>
+        <p class="post-card-excerpt">South Atlantic Ocean, January 2019 Somewhere in the middle of nowhere, our VHF radio crackled to life with a Hungarian-American voice. We had stumbled into the path of Istvan Kopar, sailing Puffin in the Golden Globe Race — a solo circumnavigation with 1968 rules.</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/moonbow.html"
+       data-region="atlantic">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_2543.jpg" alt="A Moonbow over the South Atlantic" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">南大西洋</span>
+          <span class="post-card-date">January 2019</span>
+        </div>
+        <h2>南大西洋にかかったムーンボウ</h2>
+        <p class="post-card-excerpt">South Atlantic Ocean, January 2019 It was Day 8 of the St Helena to Brazil leg. Position: 19°55&#x27;S, 024°17&#x27;W. Deep in the South Atlantic, with no land in any direction for over a…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/trindade.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/rlapuo3yqqckm25ruchkw-e1552356573127.jpg" alt="Trindade" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">January 2019</span>
+        </div>
+        <h2>トリンダーデ</h2>
+        <p class="post-card-excerpt">Trindade, January 2019 Eight days after leaving St Helena, drama stroke on Oroboro: The Water maker started leaking from the Clark Pump! A big leak! In my list of aftermarket…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/st-helena.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/5hpdgjnsmolkfggjzagw.jpg" alt="St Helena" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">January 2019</span>
+        </div>
+        <h2>セントヘレナ</h2>
+        <p class="post-card-excerpt">St Helena, January 2019 Sailing Oroboro Podcast — Episode 3 St. Helena: Napoleon&#x27;s Island After 25 days at sea from Cape Town, Oroboro drops anchor at one of the most remote and…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/hottentot-bay-namibia.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1747.jpg" alt="Hottentot Bay, Namibia" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2018</span>
+        </div>
+        <h2>Hottentot Bay, ナミビア</h2>
+        <p class="post-card-excerpt">Hottentot Bay, Namibia, December 2018 We left Luderitz in awe for what we discovered. The town itself is very nice, with interesting colonial architecture, the anchorage is very…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/kolmanskop-namibia.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/dji_0064.jpg" alt="Kolmanskop, Namibia" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2018</span>
+        </div>
+        <h2>コルマンスコップ、ナミビア</h2>
+        <p class="post-card-excerpt">Kolmanskop, Namibia, December 2018 Oroboro safely anchored in Luderitz, Namibia. The anchorage provides good holding, although it&#x27;s exposed to strong winds (we anchored in 35…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/passage-to-namibia.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/namibia/img_1860.jpg" alt="Passage to Namibia" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2018</span>
+        </div>
+        <h2>ナミビアへの航海</h2>
+        <p class="post-card-excerpt">Lüderitz, Namibia, December 2018 We left Cape Town on Saturday December 15th 2018 with the 13:15 V&amp;A Waterfront marina swing bridge opening. When calling Port Control over the VHF…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/maiden-voyage.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_1504.jpg" alt="Maiden voyage" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2018</span>
+        </div>
+        <h2>初めての航海</h2>
+        <p class="post-card-excerpt">Cape Town, South Africa, December 2018 The time has finally come for us to set sail for our maiden voyage. We have worked out a navigation plan, and we have started to monitor the…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/shake-down-sail-to-langebaan.html"
+       data-region="boat">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1273-1024x768.jpg" alt="Shake down sail to Langebaan" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ボート</span>
+          <span class="post-card-date">December 2018</span>
+        </div>
+        <h2>ランゲバーンへのシェイクダウンセーリング</h2>
+        <p class="post-card-excerpt">Langebaan, South Africa, December 2018 The time has come for us to do a &quot;shake down sail&quot; to further test the boat - and ourselves - before the ocean crossing. We decided to spend…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/crossing-the-tropic-of-capricorn.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_fc6.jpeg" alt="The Tropic of Capricorn" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">December 2018</span>
+        </div>
+        <h2>南回帰線</h2>
+        <p class="post-card-excerpt">Walvis Bay, Namibia, December 2018 We crossed the Tropic of Capricorn at latitude 23°26′ exactly on the Winter Solstice.  What are the chances!  This is the time of the year when…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/how-the-boat-was-built.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-built/img_0859.jpg" alt="How the boat was built" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2018</span>
+        </div>
+        <h2>ボートはどう造られたか</h2>
+        <p class="post-card-excerpt">Last Thursday we visited the factory floor where our boat was built. It was very interesting to see how everything is still very manual, and the level of craftsmanship involved.…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/stress-test.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/south-east-corner-1.jpg" alt="Stress Test" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2018</span>
+        </div>
+        <h2>ストレステスト</h2>
+        <p class="post-card-excerpt">Cape Town, South Africa, November 2018 A strong South East wind was predicted to be blowing on Saturday, so we decided to take this opportunity to go out and test the boat in…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/7-and-a-half-weeks.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_0469.jpg" alt="7½ Weeks!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2018</span>
+        </div>
+        <h2>7週間半！</h2>
+        <p class="post-card-excerpt">Cape Town, South Africa, November 2018 This is exactly how long it took us to make the boat self-sufficient: we can now efficiently produce our own electricity and make our own…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/enough-with-work.html"
+       data-region="south-africa">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_7798-1.jpg" alt="Enough with work..." loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">南アフリカ</span>
+          <span class="post-card-date">November 2018</span>
+        </div>
+        <h2>仕事はもう十分…</h2>
+        <p class="post-card-excerpt">Cape Town, South Africa, November 2018 We are in the final stretch with the work that needs to be done on the boat. Everything is coming together, and so we took our first weekend…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/discovering-south-africa.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/img_1035.jpg" alt="Discovering South Africa" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">November 2018</span>
+        </div>
+        <h2>南アフリカを巡る</h2>
+        <p class="post-card-excerpt">South Africa, November 2018 This week we decided to slow down and take a few days off the boat to explore the region between Mossel Bay and the Storms River, also known as the…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/three-weeks-worth-of-work.html"
+       data-region="south-africa">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/multiplus-270x300.png" alt="Three weeks&#x27; worth of work" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">南アフリカ</span>
+          <span class="post-card-date">October 2018</span>
+        </div>
+        <h2>3週間分の作業</h2>
+        <p class="post-card-excerpt">Today marks the end of the 3rd consecutive week since we took ownership of our boat here in Cape Town. We have been working hard to install all the systems we need, taking only…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/sailing-vessel-oroboro.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-intro/img_0897.jpg" alt="Please meet Sailing Vessel Oroboro" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">October 2018</span>
+        </div>
+        <h2>帆船オロボロをご紹介します</h2>
+        <p class="post-card-excerpt">Sailing Oroboro Podcast — Episode 2 The Boat Two hulls, two engines, and a dream. In this episode, Francesco explains how he and Yuka spent years choosing the right boat for a…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/cape-town-arrival.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/cape-town/img_9855.jpg" alt="Cape Town: 33° 54&#x27; 21.9&quot; S - 18° 25&#x27; 15.7&quot; E" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">September 2018</span>
+        </div>
+        <h2>Cape Town: 33° 54&#x27; 21.9&quot; S - 18° 25&#x27; 15.7&quot; E</h2>
+        <p class="post-card-excerpt">Cape Town, South Africa, September 2018 After 2 long flights and a 6 hours layover in Zurich, we landed in Cape Town, South Africa. First time for both of us in the Southern…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/quitting-our-jobs.html"
+       data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/quitting-jobs/img_9259.jpg" alt="Quitting our jobs" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">航海</span>
+          <span class="post-card-date">September 2018</span>
+        </div>
+        <h2>仕事を辞める</h2>
+        <p class="post-card-excerpt">Cape Town, South Africa, September 2018 Sailing Oroboro Podcast — Episode 1 Quitting Our Jobs Before Oroboro, before the ocean, there was a question: could you actually do it? In…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/choosing-the-right-boat.html"
+       data-region="boat">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/l405.jpg" alt="Choosing the right boat" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ボート</span>
+          <span class="post-card-date">September 2018</span>
+        </div>
+        <h2>私たちにぴったりの船を選ぶ</h2>
+        <p class="post-card-excerpt">The research of the right boat for us took a few years and was a complex process. Without going into too many details, these are a few of the questions we asked ourselves.…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/ja/posts/about-the-name-of-the-boat.html"
+       data-region="boat">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro.jpg" alt="About the name of the boat" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">ボート</span>
+          <span class="post-card-date">September 2018</span>
+        </div>
+        <h2>船の名前について</h2>
+        <p class="post-card-excerpt">During the summer of 2017, while sailing on a charter boat with my family towards the Aeolian Islands, Yuka and I were thinking about a good name to give to our boat. We had a few…</p>
+        <span class="post-card-link">続きを読む →</span>
+      </div>
+    </a>
+    </div>
   </div>
 </main>
-
 <footer class="footer">
-  <p>&copy; 2026 S/V Oroboro &mdash; <a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">@sailingoroboro</a></p>
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/ja/">ホーム</a></li>
+    <li><a href="/ja/blog.html" class="active">ブログ</a></li>
+    <li><a href="/map.html">ルート</a></li>
+    <li><a href="/about.html">私たちについて</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://app.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+    <li><a href="https://build.sailingoroboro.com" target="_blank" rel="noopener">Dashboard</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
 </footer>
 <script src="/js/main.js"></script>
+
 </body>
 </html>
