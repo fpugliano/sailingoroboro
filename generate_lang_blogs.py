@@ -102,6 +102,27 @@ def get_translated_title(lang, slug):
         return None
     return re.sub(r'<[^>]+>', '', m.group(1)).strip()
 
+def get_translated_excerpt(lang, slug, max_len=200):
+    """Extract first real paragraph from translated post (skip caption-only paragraphs)."""
+    path = SITE_ROOT / lang / 'posts' / f'{slug}.html'
+    if not path.exists():
+        return None
+    text = path.read_text(encoding='utf-8')
+    # Find the article body
+    art = re.search(r'<article[^>]*>(.*?)</article>', text, re.DOTALL)
+    if not art:
+        return None
+    body = art.group(1)
+    for m in re.finditer(r'<p>(.*?)</p>', body, re.DOTALL):
+        content = re.sub(r'<[^>]+>', '', m.group(1)).strip()
+        # skip short caption-style paragraphs (just bold date/location)
+        if len(content) < 40:
+            continue
+        if len(content) > max_len:
+            content = content[:max_len].rsplit(' ', 1)[0] + '…'
+        return content
+    return None
+
 def generate_blog(lang, cfg):
     src = (SITE_ROOT / 'blog.html').read_text(encoding='utf-8')
 
@@ -133,6 +154,10 @@ def generate_blog(lang, cfg):
         title = get_translated_title(lang, slug)
         if title:
             card = re.sub(r'<h2>.*?</h2>', f'<h2>{title}</h2>', card, flags=re.DOTALL)
+        excerpt = get_translated_excerpt(lang, slug)
+        if excerpt:
+            card = re.sub(r'<p class="post-card-excerpt">.*?</p>',
+                          f'<p class="post-card-excerpt">{excerpt}</p>', card, flags=re.DOTALL)
         card = card.replace('>Read more →<', f'>{cfg["read_more"]}<')
         return card
 
