@@ -122,6 +122,16 @@
   });
 })();
 
+// ─── Hero Language Select (mobile homepage) ──
+(function () {
+  const sel = document.getElementById('hero-lang-sel');
+  if (!sel) return;
+  const prefixes = { en: '', it: '/it', ja: '/ja', fr: '/fr', pt: '/pt', es: '/es', ca: '/ca' };
+  sel.addEventListener('change', function () {
+    window.location.href = (prefixes[this.value] || '') + '/';
+  });
+})();
+
 // ─── Scroll Reveal ───────────────────────────
 (function () {
   if (!window.IntersectionObserver) return;
