@@ -134,12 +134,17 @@ ul  { list-style: none; }
   height: 0.82em;
   vertical-align: middle;
   border-radius: 2px;
-  background: repeating-linear-gradient(
+  background: linear-gradient(
     to bottom,
-    #FCDD09,
-    #FCDD09 11.111%,
-    #DA121A 11.111%,
-    #DA121A 22.222%
+    #FCDD09 0%,    #FCDD09 11.11%,
+    #DA121A 11.11%, #DA121A 22.22%,
+    #FCDD09 22.22%, #FCDD09 33.33%,
+    #DA121A 33.33%, #DA121A 44.44%,
+    #FCDD09 44.44%, #FCDD09 55.56%,
+    #DA121A 55.56%, #DA121A 66.67%,
+    #FCDD09 66.67%, #FCDD09 77.78%,
+    #DA121A 77.78%, #DA121A 88.89%,
+    #FCDD09 88.89%, #FCDD09 100%
   );
 }
 
