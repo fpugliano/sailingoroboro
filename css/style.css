@@ -127,6 +127,27 @@ ul  { list-style: none; }
   margin-left: 1.25rem;
 }
 
+/* Catalan Senyera flag via CSS (no reliable emoji exists) */
+.flag-ca {
+  display: inline-block;
+  width: 1.15em;
+  height: 0.82em;
+  vertical-align: middle;
+  border-radius: 2px;
+  background: repeating-linear-gradient(
+    to bottom,
+    #FCDD09,
+    #FCDD09 11.111%,
+    #DA121A 11.111%,
+    #DA121A 22.222%
+  );
+}
+
+/* Mobile compact language dropdown (hidden on desktop) */
+.lang-select-mobile {
+  display: none;
+}
+
 .lang-option {
   color: rgba(255,255,255,0.5);
   font-size: 1rem;
@@ -1194,22 +1215,28 @@ ul  { list-style: none; }
 }
 
 @media (max-width: 640px) {
-  /* Always show dark nav bar on mobile so burger stripes are visible */
+  /* Dark nav bar so burger is always visible */
   .nav {
     background: rgba(11, 20, 38, 0.97);
     backdrop-filter: blur(8px);
   }
 
-  /* Show lang selector inline in nav bar, pushed right next to burger */
-  .lang-selector {
-    display: flex;
-    margin-left: auto;
-    gap: 0;
-  }
+  /* Hide desktop flag row on mobile */
+  .lang-selector { display: none; }
 
-  .lang-option {
-    font-size: 0.85rem;
-    padding: 2px 4px;
+  /* Compact language dropdown next to burger */
+  .lang-select-mobile {
+    display: block;
+    margin-left: auto;
+    margin-right: 0.5rem;
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 6px;
+    color: #fff;
+    font-size: 0.78rem;
+    padding: 5px 4px;
+    cursor: pointer;
+    max-width: 130px;
   }
 
   .nav-links { display: none; }
@@ -1227,9 +1254,13 @@ ul  { list-style: none; }
     z-index: 99;
   }
 
+  /* Burger: dark pill so stripes are always visible */
   .nav-toggle {
     display: flex;
-    margin-left: 0.5rem;
+    background: rgba(0,0,0,0.55);
+    border-radius: 7px;
+    padding: 7px 9px;
+    gap: 5px;
   }
 
   .hero-lang-mobile {

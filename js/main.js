@@ -81,13 +81,13 @@
   if (!sel) return;
 
   const LANGS = [
-    { code: 'en', label: '🇬🇧', prefix: '' },
-    { code: 'it', label: '🇮🇹', prefix: '/it' },
-    { code: 'ja', label: '🇯🇵', prefix: '/ja' },
-    { code: 'fr', label: '🇫🇷', prefix: '/fr' },
-    { code: 'pt', label: '🇧🇷', prefix: '/pt' },
-    { code: 'es', label: '🇪🇸', prefix: '/es' },
-    { code: 'ca', label: '🏴󠁥󠁳󠁣󠁴󠁿', prefix: '/ca' },
+    { code: 'en', label: '🇺🇸', mobile: '🇺🇸 English',    prefix: '' },
+    { code: 'it', label: '🇮🇹', mobile: '🇮🇹 Italiano',   prefix: '/it' },
+    { code: 'ja', label: '🇯🇵', mobile: '🇯🇵 日本語',      prefix: '/ja' },
+    { code: 'fr', label: '🇫🇷', mobile: '🇫🇷 Français',   prefix: '/fr' },
+    { code: 'pt', label: '🇧🇷', mobile: '🇧🇷 Português',  prefix: '/pt' },
+    { code: 'es', label: '🇪🇸', mobile: '🇪🇸 Español',    prefix: '/es' },
+    { code: 'ca', label: null,  mobile: '🏴 Català',       prefix: '/ca' },
   ];
 
   const pathname = window.location.pathname;
@@ -95,41 +95,53 @@
   const currentLang = langMatch ? langMatch[1] : 'en';
   const basePath = langMatch ? pathname.slice(langMatch[1].length + 1) || '/' : pathname;
 
-  LANGS.forEach(lang => {
-    let target;
-    if (lang.code === currentLang) {
-      target = basePath; // current page (unused, rendered as span)
-    } else if (lang.code === 'en') {
-      // Going back to English: mirror the current path without lang prefix
-      target = basePath === '/' ? '/' : basePath;
-    } else if (basePath === '/' || basePath === '/index.html') {
-      // From homepage: go straight to the translated blog listing (not the stub homepage)
-      target = lang.prefix + '/blog.html';
-    } else if (basePath.startsWith('/posts/')) {
-      // Post page: use hreflang if present, fall back to lang blog index
+  function getTarget(lang) {
+    if (lang.code === 'en') return basePath === '/' ? '/' : basePath;
+    if (basePath === '/' || basePath === '/index.html') return lang.prefix + '/blog.html';
+    if (basePath.startsWith('/posts/')) {
       const hreflang = document.querySelector(`link[hreflang="${lang.code}"]`);
-      target = hreflang
-        ? new URL(hreflang.getAttribute('href')).pathname
-        : lang.prefix + '/blog.html';
-    } else {
-      // blog.html, about.html, map.html etc — mirror path with lang prefix
-      target = lang.prefix + basePath;
+      return hreflang ? new URL(hreflang.getAttribute('href')).pathname : lang.prefix + '/blog.html';
     }
+    return lang.prefix + basePath;
+  }
 
+  // ── Desktop: flag buttons ──
+  LANGS.forEach(lang => {
     if (lang.code === currentLang) {
       const span = document.createElement('span');
       span.className = 'lang-option lang-current';
-      span.textContent = lang.label;
+      if (lang.code === 'ca') span.innerHTML = '<span class="flag-ca"></span>';
+      else span.textContent = lang.label;
       sel.appendChild(span);
     } else {
       const a = document.createElement('a');
-      a.href = target;
+      a.href = getTarget(lang);
       a.className = 'lang-option';
-      a.textContent = lang.label;
       a.setAttribute('hreflang', lang.code);
+      if (lang.code === 'ca') a.innerHTML = '<span class="flag-ca"></span>';
+      else a.textContent = lang.label;
       sel.appendChild(a);
     }
   });
+
+  // ── Mobile: compact select dropdown (injected before burger) ──
+  const toggle = document.querySelector('.nav-toggle');
+  if (toggle) {
+    const msel = document.createElement('select');
+    msel.className = 'lang-select-mobile';
+    LANGS.forEach(lang => {
+      const opt = document.createElement('option');
+      opt.value = lang.code;
+      opt.textContent = lang.mobile;
+      if (lang.code === currentLang) opt.selected = true;
+      msel.appendChild(opt);
+    });
+    msel.addEventListener('change', function () {
+      const lang = LANGS.find(l => l.code === this.value);
+      if (lang && lang.code !== currentLang) window.location.href = getTarget(lang);
+    });
+    toggle.parentNode.insertBefore(msel, toggle);
+  }
 })();
 
 // ─── Hero Language Select (mobile homepage) ──
