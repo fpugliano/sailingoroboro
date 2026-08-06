@@ -87,7 +87,7 @@
     { code: 'fr', label: '🇫🇷', mobile: '🇫🇷 Français',   prefix: '/fr' },
     { code: 'pt', label: '🇧🇷', mobile: '🇧🇷 Português',  prefix: '/pt' },
     { code: 'es', label: '🇪🇸', mobile: '🇪🇸 Español',    prefix: '/es' },
-    { code: 'ca', label: null,  mobile: '🏴 Català',       prefix: '/ca' },
+    { code: 'ca', label: null,  mobile: 'CA · Català',     prefix: '/ca' },
   ];
 
   const pathname = window.location.pathname;
