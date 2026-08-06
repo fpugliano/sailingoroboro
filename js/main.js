@@ -96,14 +96,24 @@
   const basePath = langMatch ? pathname.slice(langMatch[1].length + 1) || '/' : pathname;
 
   LANGS.forEach(lang => {
-    // For non-English langs on post pages: use hreflang link if present,
-    // otherwise fall back to the language blog index (translated post may not exist yet)
-    let target = lang.prefix + basePath;
-    if (lang.code !== 'en' && lang.code !== currentLang && basePath.startsWith('/posts/')) {
+    let target;
+    if (lang.code === currentLang) {
+      target = basePath; // current page (unused, rendered as span)
+    } else if (lang.code === 'en') {
+      // Going back to English: mirror the current path without lang prefix
+      target = basePath === '/' ? '/' : basePath;
+    } else if (basePath === '/' || basePath === '/index.html') {
+      // From homepage: go straight to the translated blog listing (not the stub homepage)
+      target = lang.prefix + '/blog.html';
+    } else if (basePath.startsWith('/posts/')) {
+      // Post page: use hreflang if present, fall back to lang blog index
       const hreflang = document.querySelector(`link[hreflang="${lang.code}"]`);
       target = hreflang
         ? new URL(hreflang.getAttribute('href')).pathname
         : lang.prefix + '/blog.html';
+    } else {
+      // blog.html, about.html, map.html etc — mirror path with lang prefix
+      target = lang.prefix + basePath;
     }
 
     if (lang.code === currentLang) {
