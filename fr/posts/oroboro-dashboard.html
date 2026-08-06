@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <title>J'ai construit mon propre tableau de bord de bord — et il est plus beau que l'écran Victron à 250 € — S/V Oroboro</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="description" content="Après des années à fixer une console distante Victron digne de 1995, j'ai construit mon propre tableau de bord sur un Raspberry Pi. Il se connecte à SignalK et affiche le vent, la vitesse, la profondeur, les batteries, le solaire et les réservoirs — d'un seul coup d'œil.">
+  <meta property="og:title" content="J'ai construit mon propre tableau de bord de bord — et il est plus beau que l'écran Victron à 250 € — S/V Oroboro">
+  <meta property="og:description" content="Après des années à fixer une console distante Victron digne de 1995, j'ai construit mon propre tableau de bord sur un Raspberry Pi. Il se connecte à SignalK et affiche le vent, la vitesse, la profondeur, les batteries, le solaire et les réservoirs — d'un seul coup d'œil.">
+  <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-logo-21.jpg">
+  <meta property="og:url" content="https://sailingoroboro.com/fr/posts/oroboro-dashboard.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/posts/oroboro-dashboard.html">
+  <link rel="alternate" hreflang="it" href="https://sailingoroboro.com/it/posts/oroboro-dashboard.html">
+  <link rel="alternate" hreflang="ja" href="https://sailingoroboro.com/ja/posts/oroboro-dashboard.html">
+  <link rel="alternate" hreflang="fr" href="https://sailingoroboro.com/fr/posts/oroboro-dashboard.html">
+  <link rel="alternate" hreflang="pt-BR" href="https://sailingoroboro.com/pt/posts/oroboro-dashboard.html">
+  <link rel="alternate" hreflang="es" href="https://sailingoroboro.com/es/posts/oroboro-dashboard.html">
+  <link rel="alternate" hreflang="ca" href="https://sailingoroboro.com/ca/posts/oroboro-dashboard.html">
+</head>
+<body>
+<nav class="nav" role="navigation" aria-label="Main navigation">
+  <a class="nav-logo" href="/">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
+    S/V Oroboro
+  </a>
+  <ul class="nav-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+      @sailingoroboro
+    </a></li>
+  </ul>
+  <div class="lang-selector"></div>
+  <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<main>
+  <header class="post-header">
+    <div class="post-header-meta">
+      <span class="post-header-region">Technology</span>
+      <span class="post-header-date">June 10, 2026</span>
+    </div>
+    <h1>J'ai construit mon propre tableau de bord de bord — et il est plus beau que l'écran Victron à 250 €</h1>
+  </header>
+
+  <div class="post-body">
+    <div class="post-body-inner">
+      <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
+        ← Back to all posts
+      </a>
+      <article class="post-content clearfix"><p>Après des années à fixer une console distante Victron digne de 1995, coincée dans le poste de navigation, j'ai enfin construit mon propre tableau de bord. Et il est plus beau.</p>
+
+<figure style="margin: 2rem 0;">
+  <img src="../images/posts/Old Dashboard.PNG" alt="L'ancienne console distante Victron" style="width:100%;border-radius:8px;">
+  <figcaption style="font-size:0.85rem;color:var(--muted);margin-top:0.5rem;text-align:center;">L'ancienne console distante Victron — fonctionnelle mais laide</figcaption>
+</figure>
+
+<p>L'ancien écran affichait les batteries, le solaire et les réservoirs. Pas mal. Mais les chiffres étaient petits, l'interface avait été conçue pour des techniciens, et chaque fois que j'y jetais un œil en navigation, je devais me pencher et plisser les yeux.</p>
+
+<p>Le nouveau tableau de bord tourne sur un Raspberry Pi 4 glissé derrière l'écran du poste de navigation. Il se connecte à notre serveur SignalK via WebSocket et affiche tout d'un seul coup d'œil :</p>
+
+<ul>
+<li>La vitesse sur le fond et la profondeur — des chiffres suffisamment grands pour être lus depuis la descente</li>
+<li>Une rose des vents complète avec le vent apparent et le vent réel, calculés côté client à partir des données NMEA 2000</li>
+<li>Un graphique de l'historique de la vitesse du vent réel sur 10 minutes</li>
+<li>L'état de charge des batteries, la production solaire de chacun de nos trois groupes de panneaux (Panneaux rigides 960 W, Panneaux souples 1 et 2 à 200 W chacun)</li>
+<li>Les charges AC et DC, l'état de l'onduleur, la détection du branchement à quai</li>
+<li>Les niveaux des réservoirs d'eau en pourcentage et en litres</li>
+</ul>
+
+<figure style="margin: 2rem 0;">
+  <img src="../images/posts/New Dashboard.jpg" alt="Le nouveau tableau de bord du bateau Oroboro" style="width:100%;border-radius:8px;">
+  <figcaption style="font-size:0.85rem;color:var(--muted);margin-top:0.5rem;text-align:center;">Le nouveau tableau de bord — tout d'un seul coup d'œil</figcaption>
+</figure>
+
+<p>Les données de vent proviennent du réseau NMEA 2000 via un CAN HAT sur le Pi. Les données électriques viennent de notre Victron Cerbo GX par WiFi via le plugin Venus SignalK et MQTT. Le vent réel est calculé dans le navigateur à partir du vent apparent et de la vitesse du bateau — de la même façon que le fait KIP.</p>
+
+<p>L'ensemble n'est que du HTML, du CSS et du JavaScript natif. Pas de frameworks. Pas de dépendances. Pas de cloud. Pas d'abonnement. Ça se charge instantanément, fonctionne hors ligne, et tourne indéfiniment sur un Pi qui coûte 50 €.</p>
+
+<p>Le code est open source et disponible gratuitement sur GitHub. Si vous avez SignalK à bord, vous pouvez avoir ça qui tourne en une après-midi.</p>
+
+<p style="margin-top:2rem;">
+  <a href="https://github.com/fpugliano/oroboro-dashboard" target="_blank" rel="noopener" style="display:inline-block;padding:0.65rem 1.4rem;background:var(--accent,#2563eb);color:#fff;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;">Voir sur GitHub →</a>
+</p></article>
+      <nav class="post-nav" aria-label="Post navigation">
+        <a class="post-nav-item" href="/posts/boat-manager-app.html">
+          <div class="post-nav-label">← Previous</div>
+          <div class="post-nav-title">I Built a Boat Manager App</div>
+        </a>
+      </nav>
+    </div>
+  </div>
+</main>
+
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+    <li><a href="/map.html">Map</a></li>
+    <li><a href="/about.html">About</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://boat.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
+</footer>
+<script src="/js/main.js"></script>
+</body>
+</html>
