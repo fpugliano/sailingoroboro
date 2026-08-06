@@ -81,13 +81,13 @@
   if (!sel) return;
 
   const LANGS = [
-    { code: 'en', label: 'EN', prefix: '' },
-    { code: 'it', label: 'IT', prefix: '/it' },
-    { code: 'ja', label: 'JA', prefix: '/ja' },
-    { code: 'fr', label: 'FR', prefix: '/fr' },
-    { code: 'pt', label: 'PT', prefix: '/pt' },
-    { code: 'es', label: 'ES', prefix: '/es' },
-    { code: 'ca', label: 'CA', prefix: '/ca' },
+    { code: 'en', label: '🇬🇧', prefix: '' },
+    { code: 'it', label: '🇮🇹', prefix: '/it' },
+    { code: 'ja', label: '🇯🇵', prefix: '/ja' },
+    { code: 'fr', label: '🇫🇷', prefix: '/fr' },
+    { code: 'pt', label: '🇧🇷', prefix: '/pt' },
+    { code: 'es', label: '🇪🇸', prefix: '/es' },
+    { code: 'ca', label: '🏴󠁥󠁳󠁣󠁴󠁿', prefix: '/ca' },
   ];
 
   const pathname = window.location.pathname;

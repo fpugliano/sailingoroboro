@@ -129,22 +129,23 @@ ul  { list-style: none; }
 
 .lang-option {
   color: rgba(255,255,255,0.5);
-  font-size: 0.68rem;
+  font-size: 1rem;
   font-weight: 700;
-  letter-spacing: 0.07em;
-  padding: 3px 7px;
+  letter-spacing: 0;
+  padding: 3px 5px;
   border-radius: 4px;
-  transition: color 0.2s, background 0.2s;
+  transition: opacity 0.2s, background 0.2s;
   white-space: nowrap;
+  opacity: 0.6;
 }
 
 .lang-option:hover {
-  color: var(--sky);
+  opacity: 1;
   background: rgba(255,255,255,0.08);
 }
 
 .lang-option.lang-current {
-  color: var(--white);
+  opacity: 1;
   background: rgba(255,255,255,0.15);
   cursor: default;
   pointer-events: none;
