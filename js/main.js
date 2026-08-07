@@ -97,7 +97,7 @@
 
   function getTarget(lang) {
     if (lang.code === 'en') return basePath === '/' ? '/' : basePath;
-    if (basePath === '/' || basePath === '/index.html') return lang.prefix + '/blog.html';
+    if (basePath === '/' || basePath === '/index.html') return lang.prefix + '/';
     if (basePath.startsWith('/posts/')) {
       const hreflang = document.querySelector(`link[hreflang="${lang.code}"]`);
       return hreflang ? new URL(hreflang.getAttribute('href')).pathname : lang.prefix + '/blog.html';

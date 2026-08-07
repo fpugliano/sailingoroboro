@@ -1,32 +1,35 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+  <title>Início — S/V Oroboro</title>
   <meta charset="UTF-8">
-  <title>S/V Oroboro — Diário de bordo de uma volta ao mundo a vela</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Francesco e Yuka navegam pelo mundo a bordo do Oroboro, um catamarã Leopard 40. Leia o diário de bordo deles.">
-  <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
+  <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <!-- Leaflet for mini-map -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">  <link rel="alternate" hreflang="en" href="https://sailingoroboro.com/">
   <link rel="alternate" hreflang="it" href="https://sailingoroboro.com/it/">
   <link rel="alternate" hreflang="ja" href="https://sailingoroboro.com/ja/">
   <link rel="alternate" hreflang="fr" href="https://sailingoroboro.com/fr/">
   <link rel="alternate" hreflang="pt-BR" href="https://sailingoroboro.com/pt/">
   <link rel="alternate" hreflang="es" href="https://sailingoroboro.com/es/">
   <link rel="alternate" hreflang="ca" href="https://sailingoroboro.com/ca/">
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="icon" href="/img/favicon-32x32.png" type="image/png" sizes="32x32">
-  <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+  <link rel="alternate" hreflang="x-default" href="https://sailingoroboro.com/">
 </head>
 <body>
 <nav class="nav" role="navigation" aria-label="Navegação principal">
   <a class="nav-logo" href="/pt/">
-    <img src="/img/logo-white.png" alt="Logo Oroboro">
+    <img src="/img/logo-white.png" alt="Oroboro logo">
     S/V Oroboro
   </a>
   <ul class="nav-links">
-    <li><a href="/pt/">Início</a></li>
+    <li><a href="/pt/" class="active">Início</a></li>
     <li><a href="/pt/blog.html">Blog</a></li>
-    <li><a href="/map.html">Rota</a></li>
+    <li><a href="/map.html">Mapa</a></li>
     <li><a href="/about.html">Sobre nós</a></li>
     <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener" class="nav-instagram">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
@@ -40,19 +43,252 @@
 </nav>
 
 <main>
-  <section class="hero">
-    <div class="hero-text">
-      <p class="hero-eyebrow">Diário de bordo</p>
-      <h1>Navegando pelo mundo a bordo do Oroboro</h1>
-      <p class="hero-sub">Francesco e Yuka partiram da África do Sul em 2018 a bordo do seu catamarã Leopard 40. Este é o diário da viagem deles — da Patagônia à Grécia.</p>
-      <a href="/pt/blog.html" class="hero-cta">Ler o diário →</a>
+  <!-- Hero -->
+  <section class="hero" aria-label="Hero">
+    <video class="hero-media" autoplay muted loop playsinline preload="none"
+           aria-hidden="true" poster="/OroboroHeroPhoto.jpeg">
+      <source src="/img/hero-video.mp4" type="video/mp4">
+    </video>
+    <img class="hero-media" src="/OroboroHeroPhoto.jpeg"
+         alt="" aria-hidden="true"
+         style="display:none"
+         onerror="this.style.display='none'"
+         id="hero-photo-fallback">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="hero-content">
+      <img class="hero-logo" src="/img/logo-white.png" alt="Oroboro — serpent eating its tail">
+      <span class="hero-eyebrow">Cidade do Cabo · Atlântico · Caribe · Mediterrâneo</span>
+      <h1>Navegando a bordo de<br><em>S/V Oroboro</em></h1>
+      <p class="hero-tagline">A jornada de Francesco e Yuka ao redor do mundo em um catamarã Leopard 40, partindo da Cidade do Cabo em 2018 e ainda navegando.</p>
+      <a class="hero-cta" href="/pt/blog.html">Leia o diário de bordo →</a>
+      <div class="hero-lang-mobile">
+        <label for="hero-lang-sel">Idioma:</label>
+        <select id="hero-lang-sel">
+          <option value="en">🇺🇸 English</option>
+          <option value="it">🇮🇹 Italiano</option>
+          <option value="ja">🇯🇵 日本語</option>
+          <option value="fr">🇫🇷 Français</option>
+          <option value="pt" selected>🇧🇷 Português</option>
+          <option value="es">🇪🇸 Español</option>
+          <option value="ca">🏴󠁥󠁳󠁣󠁴󠁿 Català</option>
+        </select>
+      </div>
+    </div>
+    <div class="hero-scroll" aria-hidden="true">Scroll</div>
+    <div class="hero-waves" aria-hidden="true">
+      <svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+        <path d="M0,60 C180,100 360,20 540,60 C720,100 900,20 1080,60 C1260,100 1350,40 1440,60 L1440,120 L0,120 Z" fill="#FAFAF8"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="stats-bar" aria-label="Journey statistics">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <div class="stat-number">7+</div>
+        <div class="stat-label">Anos no mar</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">3</div>
+        <div class="stat-label">Oceanos cruzados</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">30+</div>
+        <div class="stat-label">Países visitados</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">79</div>
+        <div class="stat-label">Postagens</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Route Map -->
+  <section class="section route-section" aria-label="Journey route">
+    <div class="section-inner">
+      <div class="section-header">
+        <span class="section-eyebrow">A Rota</span>
+        <h2 class="section-title">Da Cidade do Cabo à Grécia</h2>
+        <p class="section-subtitle">Uma circum-navegação de 7 anos traçando o Atlântico Sul, o Brasil, o Caribe e o Mediterrâneo.</p>
+      </div>
+      <div class="route-map-preview">
+        <div id="mini-map"></div>
+        <div class="route-overlay">
+          <strong>Cidade do Cabo → Namíbia → Atlântico Sul → Brasil → Caribe → Mediterrâneo → Grécia</strong>
+          <p>44 paradas principais em 4 continentes</p>
+        </div>
+      </div>
+      <a class="route-cta" href="/map.html">Explorar mapa interativo completo →</a>
+    </div>
+  </section>
+
+  <!-- Latest Posts -->
+  <section class="section" aria-label="Latest posts">
+    <div class="section-inner">
+      <div class="section-header">
+        <span class="section-eyebrow">O Diário</span>
+        <h2 class="section-title">Últimas publicações da viagem</h2>
+        <p class="section-subtitle">Acompanhe a viagem do Oroboro através do nosso diário de navegação detalhado.</p>
+      </div>
+      <div class="posts-grid">
+        
+    <a class="post-card" href="/pt/posts/oroboro-dashboard.html" data-region="boat">
+      <div class="post-card-image"><img src="/images/posts/New Dashboard.jpg" alt="I built my own boat dashboard — and it looks better than the €250 Victron screen" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Technology</span>
+          <span class="post-card-date">June 10, 2026</span>
+        </div>
+        <h3>Construí meu próprio painel náutico — e ficou melhor do que a tela Victron de €250</h3>
+        <p class="post-card-excerpt">Depois de anos encarando um Victron Remote Console no estilo 1995 espremido na mesa de navegação, finalmente construí meu próprio painel. E ficou melhor.</p>
+        <span class="post-card-link">Leia mais →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/pt/posts/boat-manager-app.html" data-region="boat">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/boat-manager/engine-maintenance-portrait.png" alt="I Built a Boat Manager App" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Boat Systems</span>
+          <span class="post-card-date">June 07, 2026</span>
+        </div>
+        <h3>Criei um Aplicativo de Gerenciamento de Barco</h3>
+        <p class="post-card-excerpt">Depois de oito anos navegando em Oroboro por três oceanos, consertei muita coisa. Motores, dessalinizadores, guinchos, pilotos automáticos, encanamento, eletrônicos — pode citar qualquer coisa,…</p>
+        <span class="post-card-link">Leia mais →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/pt/posts/azores-the-happiest-landfall.html" data-region="atlantic2">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/azores/horta-arrival.jpg" alt="The Azores — The Happiest Landfall" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Azores</span>
+          <span class="post-card-date">June 2021</span>
+        </div>
+        <h3>Açores — O Fundeadouro Mais Feliz</h3>
+        <p class="post-card-excerpt">Alguns fundeadouros você esquece na próxima passagem. Horta não é um deles.</p>
+        <span class="post-card-link">Leia mais →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/pt/posts/2nd-atlantic-crossing.html" data-region="atlantic">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/fullsizeoutput_149.jpeg" alt="2nd Atlantic Crossing" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">South Atlantic</span>
+          <span class="post-card-date">May 2021</span>
+        </div>
+        <h3>2ª Travessia do Atlântico</h3>
+        <p class="post-card-excerpt">Twenty days. 3,054 miles. One giant mahi-mahi, two dead bilge pumps, one lost propeller, and the best crew we could ask for. Here is the log, day by day, as we wrote it.</p>
+        <span class="post-card-link">Leia mais →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/pt/posts/sailing-in-the-bahamas.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/a0615f4a-b396-4c85-89ac-9ba2aca5557b-1.jpg" alt="Sailing in the Bahamas!" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 2021</span>
+        </div>
+        <h3>Velejando nas Bahamas!</h3>
+        <p class="post-card-excerpt">Depois de passar mais de um ano nas Pequenas Antilhas, incluindo um lockdown sem precedentes por causa da Covid-19 e as temporadas de furacões mais intensas já registradas, as Bahamas foram uma…</p>
+        <span class="post-card-link">Leia mais →</span>
+      </div>
+    </a>
+    <a class="post-card" href="/pt/posts/anti-fouling-review-pettit-trinidad-pro-sucks.html" data-region="sailing">
+      <div class="post-card-image"><img src="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/trinidad-pro-400x500-1.png" alt="Anti-Fouling" loading="lazy"></div>
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <span class="post-card-region">Sailing</span>
+          <span class="post-card-date">April 2021</span>
+        </div>
+        <h3>Antifouling</h3>
+        <p class="post-card-excerpt">Em outubro de 2020, decidimos fazer uma pintura de fundo antes de sair de Grenada. A última vez que havíamos feito isso foi 1 ano antes, em Trinidad. Desta vez, usamos o Pettit Trinidad Pro.</p>
+        <span class="post-card-link">Leia mais →</span>
+      </div>
+    </a>
+      </div>
+      <div class="section-footer">
+        <a class="btn-outline" href="/pt/blog.html">Ver todos os 87 artigos →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section class="section about-section" aria-label="About Oroboro">
+    <div class="section-inner">
+      <div class="about-grid">
+        <div>
+          <span class="section-eyebrow">A Tripulação & o Barco</span>
+          <h2 class="section-title">Conheça o S/V Oroboro</h2>
+          <p class="about-text">Oroboro — nomeado em homenagem ao antigo símbolo do ouroboros de renovação eterna — é um catamarã Leopard 40 construído em 2018. Ele leva Francesco e Yuka em uma jornada sem data de término, parando onde quer que a curiosidade os leve.</p>
+          <div class="about-details">
+            <div class="about-detail">
+              <div class="about-detail-label">Barco</div>
+              <div class="about-detail-value">Leopard 40 Catamaran</div>
+            </div>
+            <div class="about-detail">
+              <div class="about-detail-label">Construído</div>
+              <div class="about-detail-value">2018</div>
+            </div>
+            <div class="about-detail">
+              <div class="about-detail-label">Tripulação</div>
+              <div class="about-detail-value">Francesco &amp; Yuka</div>
+            </div>
+            <div class="about-detail">
+              <div class="about-detail-label">Partida</div>
+              <div class="about-detail-value">Cape Town, Sep 2018</div>
+            </div>
+          </div>
+          <div class="about-links">
+            <a class="about-link about-link-instagram" href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+              @sailingoroboro
+            </a>
+            <a class="about-link about-link-app" href="https://app.sailingoroboro.com" target="_blank" rel="noopener">
+              Boat Manager App ↗
+            </a>
+            <a class="about-link about-link-app" href="https://build.sailingoroboro.com" target="_blank" rel="noopener">
+              Dashboard ↗
+            </a>
+            <a class="about-link about-link-app" href="/about.html">Sobre nós →</a>
+          </div>
+        </div>
+        <div class="about-image-wrap">
+          <img class="about-logo" src="/img/logo-stacked.png"
+               alt="Oroboro logo — wind rose, serpent and compass"
+               style="filter: brightness(0) invert(1);">
+        </div>
+      </div>
     </div>
   </section>
 </main>
-
 <footer class="footer">
-  <p>&copy; 2026 S/V Oroboro &mdash; <a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">@sailingoroboro</a></p>
+  <div class="footer-logo">
+    <img src="/img/logo-white.png" alt="">
+    <span>S/V Oroboro</span>
+  </div>
+  <ul class="footer-links">
+    <li><a href="/pt/" class="active">Início</a></li>
+    <li><a href="/pt/blog.html">Blog</a></li>
+    <li><a href="/map.html">Mapa</a></li>
+    <li><a href="/about.html">Sobre nós</a></li>
+    <li><a href="https://www.instagram.com/sailingoroboro/" target="_blank" rel="noopener">Instagram</a></li>
+    <li><a href="https://app.sailingoroboro.com" target="_blank" rel="noopener">Boat Manager</a></li>
+    <li><a href="https://build.sailingoroboro.com" target="_blank" rel="noopener">Dashboard</a></li>
+  </ul>
+  <p class="footer-copy">© 2026 Francesco &amp; Yuka</p>
 </footer>
 <script src="/js/main.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="/js/map.js"></script>
+<script>
+// Show photo fallback if video fails to load
+(function(){
+  var v = document.querySelector('.hero-media[autoplay]');
+  var p = document.getElementById('hero-photo-fallback');
+  if (!v || !p) return;
+  v.addEventListener('error', function(){ p.style.display='block'; }, true);
+  v.addEventListener('stalled', function(){ if(v.readyState===0){ p.style.display='block'; } });
+})();
+</script>
 </body>
 </html>
