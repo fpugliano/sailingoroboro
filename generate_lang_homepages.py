@@ -14,7 +14,7 @@ LANGS = {
         'nav_home': 'Home', 'nav_blog': 'Blog', 'nav_map': 'Rotta', 'nav_about': 'Chi siamo',
         'nav_aria': 'Navigazione principale', 'toggle_aria': 'Apri menu',
         'hero_eyebrow': 'Città del Capo · Atlantico · Caraibi · Mediterraneo',
-        'hero_h1': 'Viaggiando a vela, a bordo di<br><em>S/V Oroboro</em>',
+        'hero_h1': 'Viaggiando a vela,<br>a bordo di<br><em>S/V Oroboro</em>',
         'hero_tagline': 'Il viaggio di Francesco e Yuka intorno al mondo su un catamarano Leopard 40, partiti da Città del Capo nel 2018 e ancora in navigazione.',
         'hero_cta': 'Leggi il diario di bordo →',
         'hero_lang_label': 'Lingua:',
