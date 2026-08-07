@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-  <title>Ho costruito il cruscotto della mia barca — e fa meglio dello schermo Victron da €250 — S/V Oroboro</title>
+  <title>Ho costruito il pannello strumenti della mia barca — e fa meglio dello schermo Victron da €250 — S/V Oroboro</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/css/style.css">
@@ -10,9 +10,9 @@
   <link rel="icon" href="/img/favicon-16x16.png" type="image/png" sizes="16x16">
   <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
-  <meta name="description" content="Dopo anni a fissare una Remote Console Victron in stile 1995, ho costruito il mio cruscotto di bordo su un Raspberry Pi. Si collega a SignalK e mostra vento, velocità, profondità, batteria, solare e serbatoi — tutto a colpo d'occhio.">
-  <meta property="og:title" content="Ho costruito il cruscotto della mia barca — e fa meglio dello schermo Victron da €250 — S/V Oroboro">
-  <meta property="og:description" content="Dopo anni a fissare una Remote Console Victron in stile 1995, ho costruito il mio cruscotto di bordo su un Raspberry Pi. Si collega a SignalK e mostra vento, velocità, profondità, batteria, solare e serbatoi — tutto a colpo d'occhio.">
+  <meta name="description" content="Dopo anni a fissare una Remote Console Victron in stile 1995, ho costruito il mio pannello strumenti di bordo su un Raspberry Pi. Si collega a SignalK e mostra vento, velocità, profondità, batteria, solare e serbatoi — tutto a colpo d'occhio.">
+  <meta property="og:title" content="Ho costruito il pannello strumenti della mia barca — e fa meglio dello schermo Victron da €250 — S/V Oroboro">
+  <meta property="og:description" content="Dopo anni a fissare una Remote Console Victron in stile 1995, ho costruito il mio pannello strumenti di bordo su un Raspberry Pi. Si collega a SignalK e mostra vento, velocità, profondità, batteria, solare e serbatoi — tutto a colpo d'occhio.">
   <meta property="og:image" content="https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/oroboro-logo-21.jpg">
   <meta property="og:url" content="https://sailingoroboro.com/it/posts/oroboro-dashboard.html">
   <meta name="twitter:card" content="summary_large_image">
@@ -52,7 +52,7 @@
       <span class="post-header-region">Technology</span>
       <span class="post-header-date">June 10, 2026</span>
     </div>
-    <h1>Ho costruito il cruscotto della mia barca — e fa meglio dello schermo Victron da €250</h1>
+    <h1>Ho costruito il pannello strumenti della mia barca — e fa meglio dello schermo Victron da €250</h1>
   </header>
 
   <div class="post-body">
@@ -60,7 +60,7 @@
       <a href="/blog.html" style="display:inline-flex;align-items:center;gap:6px;color:var(--muted);font-size:0.85rem;margin-bottom:2.5rem;">
         ← Back to all posts
       </a>
-      <article class="post-content clearfix"><p>Dopo anni a fissare una Remote Console Victron in stile 1995 stipata nella stazione di navigazione, ho finalmente costruito il mio cruscotto. E fa meglio.</p>
+      <article class="post-content clearfix"><p>Dopo anni a fissare una Remote Console Victron in stile 1995 stipata nella stazione di navigazione, ho finalmente costruito il mio pannello strumenti. E fa meglio.</p>
 
 <figure style="margin: 2rem 0;">
   <img src="../images/posts/Old Dashboard.PNG" alt="La vecchia Remote Console Victron" style="width:100%;border-radius:8px;">
@@ -69,7 +69,7 @@
 
 <p>Il vecchio display mostrava batteria, solare e serbatoi. Niente di più. Ma i numeri erano piccoli, l'interfaccia era pensata per i tecnici, e ogni volta che ci davo un'occhiata in navigazione dovevo sporgermi e socchiudere gli occhi.</p>
 
-<p>Il nuovo cruscotto gira su un Raspberry Pi 4 nascosto dietro lo schermo della stazione di navigazione. Si collega al nostro server SignalK via WebSocket e mostra tutto a colpo d'occhio:</p>
+<p>Il nuovo pannello strumenti gira su un Raspberry Pi 4 nascosto dietro lo schermo della stazione di navigazione. Si collega al nostro server SignalK via WebSocket e mostra tutto a colpo d'occhio:</p>
 
 <ul>
 <li>Velocità sul fondo e profondità — numeri abbastanza grandi da leggere dal divano di poppa</li>
@@ -81,8 +81,8 @@
 </ul>
 
 <figure style="margin: 2rem 0;">
-  <img src="../images/posts/New Dashboard.jpg" alt="Il nuovo cruscotto di bordo di Oroboro" style="width:100%;border-radius:8px;">
-  <figcaption style="font-size:0.85rem;color:var(--muted);margin-top:0.5rem;text-align:center;">Il nuovo cruscotto — tutto a colpo d'occhio</figcaption>
+  <img src="../images/posts/New Dashboard.jpg" alt="Il nuovo pannello strumenti di bordo di Oroboro" style="width:100%;border-radius:8px;">
+  <figcaption style="font-size:0.85rem;color:var(--muted);margin-top:0.5rem;text-align:center;">Il nuovo pannello strumenti — tutto a colpo d'occhio</figcaption>
 </figure>
 
 <p>I dati del vento arrivano dalla dorsale NMEA 2000 tramite un CAN HAT sul Pi. I dati elettrici provengono dal nostro Victron Cerbo GX via WiFi attraverso il plugin Venus SignalK e MQTT. Il vento reale viene calcolato nel browser a partire dal vento apparente e dalla velocità della barca — esattamente come fa KIP.</p>

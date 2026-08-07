@@ -22,7 +22,7 @@ LANGS = {
         'stat_countries': 'Paesi visitati', 'stat_posts': 'Articoli',
         'route_eyebrow': 'La Rotta',
         'route_title': 'Da Città del Capo alla Grecia',
-        'route_subtitle': "Una circumnavigazione di 7 anni che traccia l'Atlantico del Sud, il Brasile, i Caraibi e il Mediterraneo.",
+        'route_subtitle': "Un viaggio in barca a vela di 7 anni attraverso l'Atlantico del Sud, la costa del Brasile, i Caraibi, l'Atlantico del Nord e il Mediterraneo.",
         'route_overlay': 'Città del Capo → Namibia → Atlantico Sud → Brasile → Caraibi → Mediterraneo → Grecia',
         'route_overlay_sub': '44 tappe principali in 4 continenti',
         'route_cta': 'Esplora la mappa interattiva completa →',
