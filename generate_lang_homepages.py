@@ -27,7 +27,7 @@ LANGS = {
         'route_overlay_sub': '44 tappe principali in 4 continenti',
         'route_cta': 'Esplora la mappa interattiva completa →',
         'latest_eyebrow': 'Il Diario',
-        'latest_title': 'Gli ultimi articoli del viaggio',
+        'latest_title': 'Post più recenti',
         'latest_subtitle': 'Segui il viaggio di Oroboro attraverso il nostro dettagliato diario di bordo.',
         'view_all': 'Vedi tutti gli 86 articoli →',
         'about_eyebrow': 'L\'Equipaggio & la Barca',
