@@ -32,7 +32,7 @@ LANGS = {
         'view_all': 'Mostra tutti gli 86 post →',
         'about_eyebrow': 'L\'Equipaggio & la Barca',
         'about_title': 'S/V Oroboro',
-        'about_text': "Oroboro — il cui nome deriva dall'antico simbolo dell'ouroboros che rappresenta il rinnovo eterno — è un catamarano Leopard 40 costruito nel 2018. Porta Francesco e Yuka in un viaggio senza data di fine, fermandosi ovunque la curiosità li porti.",
+        'about_text': "Oroboro — il cui nome deriva dall'antico simbolo dell'ouroboros che rappresenta il rinnovo eterno — è un catamarano Leopard 40 costruito nel 2018. Porta Francesco e Yuka in un viaggio interminabile, fermandosi ovunque la curiosità li porti.",
         'about_boat': 'Barca', 'about_built': 'Anno', 'about_crew': 'Equipaggio', 'about_departed': 'Partenza',
         'about_us': 'Chi siamo →',
         'footer_home': 'Home', 'footer_blog': 'Blog', 'footer_map': 'Rotta', 'footer_about': 'Chi siamo',
