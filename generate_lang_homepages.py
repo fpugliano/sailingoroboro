@@ -29,7 +29,7 @@ LANGS = {
         'latest_eyebrow': 'Il Diario',
         'latest_title': 'Post più recenti',
         'latest_subtitle': 'Segui il viaggio di Oroboro attraverso il nostro dettagliato diario di bordo.',
-        'view_all': 'Vedi tutti gli 86 articoli →',
+        'view_all': 'Mostra tutti gli 86 post →',
         'about_eyebrow': 'L\'Equipaggio & la Barca',
         'about_title': 'S/V Oroboro',
         'about_text': "Oroboro — il cui nome deriva dall'antico simbolo dell'ouroboros che rappresenta il rinnovo eterno — è un catamarano Leopard 40 costruito nel 2018. Porta Francesco e Yuka in un viaggio senza data di fine, fermandosi ovunque la curiosità li porti.",
