@@ -167,7 +167,7 @@ def generate_blog(lang, cfg):
     out = SITE_ROOT / lang / 'blog.html'
     out.write_text(src, encoding='utf-8')
     n_translated = sum(1 for _ in (SITE_ROOT / lang / 'posts').glob('*.html'))
-    print(f'  {lang}/blog.html — {n_translated}/87 post titles translated')
+    print(f'  {lang}/blog.html — {n_translated}/89 post titles translated')
 
 def main():
     print('Generating language blog pages...')
