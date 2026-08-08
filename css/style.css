@@ -1073,7 +1073,7 @@ ul  { list-style: none; }
 
 .map-back {
   position: fixed;
-  top: 76px;
+  bottom: 24px;
   left: 12px;
   z-index: 50;
   display: inline-flex;
