@@ -400,7 +400,6 @@ POST_LOCS = [
     ("tibao-do-sul",                       "Tibão do Sul",             -6.19, -35.09, "Nov 2019", "brazil"),
     ("joao-pessoa",                        "João Pessoa",              -7.12, -34.86, "Nov 2019", "brazil"),
     ("fortaleza",                          "Fortaleza",                -3.72, -38.54, "Nov 2019", "brazil"),
-    ("from-brazil-to-the-caribbean-in-60-seconds","Fortaleza",        -3.72, -38.54, "Dec 2019", "brazil"),
     # ── Caribbean passage & French Guiana ─────────────────────────────────
     ("french-guiana",                      "French Guiana",             4.94, -52.33, "Dec 2019", "caribbean"),
     ("trinidad",                           "Trinidad",                 10.69, -61.22, "Dec 2019", "caribbean"),
@@ -607,8 +606,8 @@ function initMap(containerId) {{
     zoomControl: true,
   }});
 
-  L.tileLayer('https://{{s}}.basemaps.cartocdn.com/rastertiles/voyager/{{z}}/{{x}}/{{y}}{{r}}.png', {{
-    attribution: '&copy; <a href="https://carto.com/">CARTO</a>',
+  L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png', {{
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 18,
   }}).addTo(map);
 
@@ -721,8 +720,8 @@ function initMiniMap(containerId) {{
     zoomControl: false, scrollWheelZoom: false,
     doubleClickZoom: false, dragging: false, attributionControl: false,
   }});
-  L.tileLayer('https://{{s}}.basemaps.cartocdn.com/rastertiles/voyager/{{z}}/{{x}}/{{y}}{{r}}.png',
-    {{ maxZoom: 10 }}).addTo(map);
+  L.tileLayer('https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png',
+    {{ attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 10 }}).addTo(map);
   [ROUTE_PT1, ROUTE_SARDINIA_PAROS, ROUTE_PT2,
    ROUTE_LEROS_DIDIM, ROUTE_DIDIM_PATMOS,
    ROUTE_MYKONOS_DIDIM, ROUTE_DIDIM_MYKONOS

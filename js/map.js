@@ -68,7 +68,7 @@ const WAYPOINTS = [
   { name:"Pipa Beach", coords:[-6.2018, -34.9148], date:"Nov 2019", slug:"pipa", slugs:["pipa"], region:"brazil", inland:false },
   { name:"Tib\u00e3o do Sul", coords:[-6.1499, -34.9288], date:"Nov 2019", slug:"tibao-do-sul", slugs:["tibao-do-sul"], region:"brazil", inland:false },
   { name:"Jo\u00e3o Pessoa", coords:[-7.0368, -34.8575], date:"Nov 2019", slug:"joao-pessoa", slugs:["joao-pessoa"], region:"brazil", inland:false },
-  { name:"Fortaleza", coords:[-3.7195, -38.5289], date:"Nov 2019", slug:"fortaleza", slugs:["fortaleza", "from-brazil-to-the-caribbean-in-60-seconds"], region:"brazil", inland:false },
+  { name:"Fortaleza", coords:[-3.7195, -38.5289], date:"Nov 2019", slug:"fortaleza", slugs:["fortaleza"], region:"brazil", inland:false },
   { name:"French Guiana", coords:[5.1812, -52.2239], date:"Dec 2019", slug:"french-guiana", slugs:["french-guiana"], region:"caribbean", inland:false },
   { name:"Trinidad", coords:[10.8637, -61.229], date:"Dec 2019", slug:"trinidad", slugs:["trinidad"], region:"caribbean", inland:false },
   { name:"Tobago", coords:[11.1642, -60.7283], date:"Jan 2020", slug:"tobago", slugs:["tobago"], region:"caribbean", inland:false },
@@ -111,8 +111,8 @@ function initMap(containerId) {
     zoomControl: true,
   });
 
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; <a href="https://carto.com/">CARTO</a>',
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     maxZoom: 18,
   }).addTo(map);
 
@@ -225,8 +225,8 @@ function initMiniMap(containerId) {
     zoomControl: false, scrollWheelZoom: false,
     doubleClickZoom: false, dragging: false, attributionControl: false,
   });
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
-    { maxZoom: 10 }).addTo(map);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 10 }).addTo(map);
   [ROUTE_PT1, ROUTE_SARDINIA_PAROS, ROUTE_PT2,
    ROUTE_LEROS_DIDIM, ROUTE_DIDIM_PATMOS,
    ROUTE_MYKONOS_DIDIM, ROUTE_DIDIM_MYKONOS

@@ -367,6 +367,9 @@ def parse_markdown_posts():
         except yaml.YAMLError as e:
             print(f"  WARNING: {md_file.name} YAML error: {e}, skipping")
             continue
+        if fm.get('draft'):
+            print(f"  {md_file.name}: draft, skipping")
+            continue
         body = parts[2].strip()
 
         title      = str(fm.get('title', ''))
