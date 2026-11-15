@@ -1,6 +1,7 @@
 ---
 slug: enough-with-work
 title: Enough with work...
+card_excerpt: "We are in the final stretch with the work that needs to be done on the boat. Everything is coming together, and so we took our first weekend…"
 date: '2018-11-05'
 region: South Africa
 categories:

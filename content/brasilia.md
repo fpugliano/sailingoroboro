@@ -1,6 +1,7 @@
 ---
 slug: brasilia
 title: "Brasilia"
+card_excerpt: "From Vitoria, we flew to Brasilia to spend a couple of days exploring this unique town. Brasilia is the modernist city that a very cool and visionary and…"
 date: '2019-04-17'
 categories: [Sailing]
 hero: brasilia/img_4518.jpg

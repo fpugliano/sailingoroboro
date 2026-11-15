@@ -1,6 +1,7 @@
 ---
 slug: shake-down-sail-to-langebaan
 title: Shake down sail to Langebaan
+card_excerpt: "The time has come for us to do a \"shake down sail\" to further test the boat - and ourselves - before the ocean crossing. We decided to spend…"
 date: '2018-12-10'
 region: South Africa
 categories:

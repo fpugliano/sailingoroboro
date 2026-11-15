@@ -1,6 +1,7 @@
 ---
 slug: ilheus
 title: "Ilheus"
+card_excerpt: "Ilheus is an overnight from Coroa Vermelha, about 18 hours. We left at 3pm and by 9:30 am we were anchored in front of the Iate Clube. Yuka and I are really…"
 date: 2019-05-24
 categories: [Sailing]
 hero: img_4828.jpg

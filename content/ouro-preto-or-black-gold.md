@@ -1,6 +1,7 @@
 ---
 slug: ouro-preto-or-black-gold
 title: "Ouro Preto, or Black Gold!"
+card_excerpt: "During our stay in Rio, to take a break from the carnival with our friends Joaquin and Monica we decided to get a rental car and visit Petropolis. The visit…"
 date: 2019-04-24
 categories: [Brazil]
 hero: img_2476.jpg

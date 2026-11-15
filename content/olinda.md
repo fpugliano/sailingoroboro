@@ -1,6 +1,7 @@
 ---
 slug: olinda
 title: Olinda
+card_excerpt: "North of Recife there is one little town that after Parati and Ouro Preto, is one of the best preserved colonial villages in Brazil: Olinda. Not as big and as…"
 date: '2019-08-01'
 region: brazil
 categories:

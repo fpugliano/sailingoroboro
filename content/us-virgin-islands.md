@@ -1,6 +1,7 @@
 ---
 slug: us-virgin-islands
 title: US Virgin Islands
+card_excerpt: "The first island of the US Virgin Island we made landfall was Saint Croix. The USVI consists of three island, St John, St Thomas and St Croix. St…"
 date: '2021-01-01'
 region: sailing
 categories:

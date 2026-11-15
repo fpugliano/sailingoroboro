@@ -1,6 +1,7 @@
 ---
 slug: jiribatuba
 title: "Jiribatuba — Tidal Flats and a Ruined Church"
+card_excerpt: "At the southern tip of Itaparica, barefoot across warm tidal flats, isolated mangrove trees rise from the sand around a 300-year-old roofless baroque church."
 date: 2019-07-14
 categories: [Sailing, Brazil]
 hero: jiribatuba/img_7215.jpg

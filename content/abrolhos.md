@@ -1,6 +1,7 @@
 ---
 slug: abrolhos
 title: Abrolhos
+card_excerpt: "Open Your Eyes! Abrolhos Archipelagos. Back in the old days, some Spanish charts bore the inscription \"Abras los ojos\" near reefs areas that might put the ship…"
 date: '2019-05-15'
 region: sailing
 categories:

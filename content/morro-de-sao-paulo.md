@@ -1,6 +1,7 @@
 ---
 slug: morro-de-sao-paulo
 title: "Morro de São Paulo"
+card_excerpt: "Morro de São Paulo is a lovely village some 30 nautical miles south of Salvador. It's the closest thing to a Mediterranean island village you…"
 date: 2019-09-13
 categories: [Sailing]
 hero: fullsizeoutput_1ba.jpeg

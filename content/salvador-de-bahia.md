@@ -1,6 +1,7 @@
 ---
 slug: salvador-de-bahia
 title: Salvador de Bahia
+card_excerpt: "Salvador de Bahia is the third largest city in Brazil, and the one where its African roots run…"
 date: '2019-08-31'
 region: brazil
 categories:

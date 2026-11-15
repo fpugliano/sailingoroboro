@@ -1,6 +1,7 @@
 ---
 slug: pirenopolis
 title: Pirenopolis
+card_excerpt: "While in Brazilia, we decided to get a rental and go visit Pirenopolis, well known for its waterfalls and Portuguese colonial architecture. We found the…"
 date: '2019-04-01'
 region: sailing
 categories:

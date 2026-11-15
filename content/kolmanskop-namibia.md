@@ -1,6 +1,7 @@
 ---
 slug: kolmanskop-namibia
 title: "Kolmanskop, Namibia"
+card_excerpt: "Oroboro safely anchored in Luderitz, Namibia. The anchorage provides good holding, although it's exposed to strong winds (we anchored in 35…"
 date: 2018-12-25
 region: sailing
 categories: [Namibia, Sailing, South Africa]

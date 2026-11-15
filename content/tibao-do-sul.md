@@ -1,6 +1,7 @@
 ---
 slug: tibao-do-sul
 title: "Tibao do Sul"
+card_excerpt: "We also visited Tibao do Sul. Initially we wanted to get there by boat. I read a Brazilian pilot book very popular among Brazilian sailors, where it was…"
 date: 2019-11-11
 categories: [Sailing]
 hero: tibao-do-sul/img_8110.jpg

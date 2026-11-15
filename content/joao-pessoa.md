@@ -1,6 +1,7 @@
 ---
 slug: joao-pessoa
 title: Joao Pessoa
+card_excerpt: "We sailed out of Joao Pessoa around midnight. Around 3 am, while sailing north from Joao Pessoa to Natal, I saw a red flare in the night sky on the…"
 date: '2019-11-12'
 region: sailing
 categories:

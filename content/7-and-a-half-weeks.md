@@ -1,6 +1,7 @@
 ---
 slug: 7-and-a-half-weeks
 title: 7½ Weeks!
+card_excerpt: "This is exactly how long it took us to make the boat self-sufficient: we can now efficiently produce our own electricity and make our own…"
 date: '2018-11-16'
 region: South Africa
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: camamu-bay
 title: Camamù Bay
+card_excerpt: "Some 30 nautical miles north of Itacarè lays the Bay of Camamu. There are a lot of different villages in the bay and up the river. For us it was the first…"
 date: '2019-05-01'
 region: brazil
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: crossing-the-equator
 title: "Crossing the Equator!"
+card_excerpt: "The moment Oroboro crossed into the northern hemisphere for the first time, somewhere between Fortaleza and French Guiana."
 date: 2019-10-06
 categories: [Sailing]
 hero: atlantic-crossing/spinnaker.jpg

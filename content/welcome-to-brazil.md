@@ -1,6 +1,7 @@
 ---
 slug: welcome-to-brazil
 title: Welcome to Brazil!
+card_excerpt: "After sailing 4,387nm and spending 35 days at sea, Oroboro safely anchored in Ilha Grande, Brazil, on February 1st, 2019. I felt like the early…"
 date: '2019-03-20'
 region: brazil
 categories:

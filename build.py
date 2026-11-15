@@ -386,6 +386,7 @@ def parse_markdown_posts():
         if isinstance(cats_raw, str):
             cats_raw = [cats_raw]
         hero = str(fm.get('hero', ''))
+        header_image = str(fm.get('header_image', ''))  # optional photo behind the post title
         card_position = str(fm.get('card_position', ''))
 
         # Event date for display and sorting
@@ -431,7 +432,9 @@ def parse_markdown_posts():
             'region_display':    region_display,
             'image':             image,
             'card_position':     card_position,
+            'header_image':      header_image,
             'excerpt':           excerpt,
+            'card_excerpt':      str(fm.get('card_excerpt') or ''),  # blog/home card text; page meta keeps `excerpt`
             'is_markdown':       True,
             'is_prebuilt':       False,
             'nav_exclude':       False,
@@ -620,7 +623,7 @@ def build_index(posts):
           <span class="post-card-date">{html.escape(p["display_date"])}</span>
         </div>
         <h3>{html.escape(p["title"])}</h3>
-        <p class="post-card-excerpt">{html.escape(p["excerpt"])}</p>
+        <p class="post-card-excerpt">{html.escape(p.get("card_excerpt") or p["excerpt"])}</p>
         <span class="post-card-link">Read more →</span>
       </div>
     </a>'''
@@ -838,7 +841,7 @@ def build_blog(posts):
           <span class="post-card-date">{html.escape(p["display_date"])}</span>
         </div>
         <h2>{html.escape(p["title"])}</h2>
-        <p class="post-card-excerpt">{html.escape(p["excerpt"])}</p>
+        <p class="post-card-excerpt">{html.escape(p.get("card_excerpt") or p["excerpt"])}</p>
         <span class="post-card-link">Read more →</span>
       </div>
     </a>'''
@@ -919,9 +922,15 @@ def build_post(post, prev_post, next_post):
       </a>'''
         nav_html += '</nav>'
 
+    header_attr = ''
+    if post.get('header_image'):
+        header_url = R2_BASE + post['header_image']
+        header_attr = (' style="background: linear-gradient(rgba(10,25,50,0.55), rgba(10,25,50,0.70)), '
+                       f"url('{header_url}') center/cover no-repeat;\"")
+
     body = f'''
 <main>
-  <header class="post-header">
+  <header class="post-header"{header_attr}>
     <div class="post-header-meta">
       {cats_html}
       <span class="post-header-date">{date_html}</span>

@@ -1,6 +1,7 @@
 ---
 slug: itacare
 title: Itacaré
+card_excerpt: "We left Ilheus at 3 am in order to be able to get to Itacaré at high tide. We were really not impressed by the town and the Iate Clube. The rain didn't help…"
 date: '2019-05-29'
 region: sailing
 categories:

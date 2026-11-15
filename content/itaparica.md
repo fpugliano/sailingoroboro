@@ -1,6 +1,7 @@
 ---
 slug: itaparica
 title: Itaparica
+card_excerpt: "Itaparica is an island right in front of Salvador, in the Baia de Todos Os Santos, the largest bay in Brazil, with 56 islands! We visited most of them,…"
 date: '2019-11-04'
 region: brazil
 categories:

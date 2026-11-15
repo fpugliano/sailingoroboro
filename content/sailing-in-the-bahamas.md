@@ -1,6 +1,7 @@
 ---
 slug: sailing-in-the-bahamas
 title: Sailing in the Bahamas!
+card_excerpt: "After spending more than a year in the Lesser Antilles, including an unprecedented lockdown for Covid-19 and the busiest hurricanes seasons on…"
 date: '2021-04-26'
 region: sailing
 categories:

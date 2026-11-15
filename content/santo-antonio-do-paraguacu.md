@@ -1,6 +1,7 @@
 ---
 slug: santo-antonio-do-paraguacu
 title: Santo Antônio do Paraguaçu
+card_excerpt: "We navigated the river Paraguaçu to get to see the beautiful and remote convent of Saint Antony. What an experience! We felt like in the…"
 date: '2019-07-01'
 region: brazil
 categories:

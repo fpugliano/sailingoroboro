@@ -1,6 +1,7 @@
 ---
 slug: crossing-the-tropic-of-capricorn
 title: The Tropic of Capricorn
+card_excerpt: "We crossed the Tropic of Capricorn at latitude 23°26′ exactly on the Winter Solstice.  What are the chances!  This is the time of the year when…"
 date: '2018-12-01'
 region: Namibia
 categories:

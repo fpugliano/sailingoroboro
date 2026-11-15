@@ -1,6 +1,7 @@
 ---
 slug: sao-paulo
 title: Sao Paulo
+card_excerpt: "After Brasilia, we flew to Sao Paulo. For me this visit had a special meaning, since I was going to meet for the first time a dear old friend, Gianfranco,…"
 date: '2019-04-01'
 region: sailing
 categories:

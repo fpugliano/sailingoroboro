@@ -1,6 +1,7 @@
 ---
 slug: entering-the-greater-antilles
 title: Entering the Greater Antilles
+card_excerpt: "When Christopher Columbus in 1492 became the first European explorer to record his arrival in the Bahamas, the term West Indies was eventually used…"
 date: '2021-01-30'
 region: caribbean
 categories:

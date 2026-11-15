@@ -1,6 +1,7 @@
 ---
 slug: spanish-virgin-islands
 title: Spanish Virgin Islands
+card_excerpt: "The Spanish Virgin Islands consist of Culebra and Vieques, and are part of the commonwealth of Puerto Rico. It's been documented that…"
 date: '2021-02-01'
 region: sailing
 categories:

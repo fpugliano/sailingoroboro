@@ -1,6 +1,7 @@
 ---
 slug: cape-town-arrival
 title: "Cape Town: 33° 54' 21.9\" S - 18° 25' 15.7\" E"
+card_excerpt: "After 2 long flights and a 6 hours layover in Zurich, we landed in Cape Town, South Africa. First time for both of us in the Southern…"
 date: 2018-09-29
 region: sailing
 categories: [Sailing]

@@ -1,6 +1,7 @@
 ---
 slug: quitting-our-jobs
 title: "Quitting our jobs"
+card_excerpt: "Before Oroboro, before the ocean, there was a question: could you actually do it? In…"
 date: 2018-09-20
 region: sailing
 categories: [Job]

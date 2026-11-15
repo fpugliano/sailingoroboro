@@ -1,12 +1,14 @@
 ---
 slug: trinidad
 title: Trinidad
+card_excerpt: "The leg from Kurou in French Guiana to Trinidad was about 650 nautical miles and we enjoyed every mile of it. Conditions were perfect, we flew the…"
 date: '2019-09-01'
 region: sailing
 categories:
 - Sailing
 raw_html: true
 hero: img_8585.jpg
+header_image: img_9220.jpg
 ---
 
 <p><strong>Trinidad, September 2019</strong></p>

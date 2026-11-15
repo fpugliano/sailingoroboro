@@ -1,6 +1,7 @@
 ---
 slug: hottentot-bay-namibia
 title: "Hottentot Bay, Namibia"
+card_excerpt: "We left Luderitz in awe for what we discovered. The town itself is very nice, with interesting colonial architecture, the anchorage is very…"
 date: 2018-12-30
 region: sailing
 categories: [Namibia, Sailing]

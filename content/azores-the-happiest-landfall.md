@@ -1,5 +1,6 @@
 ---
 title: The Azores — The Happiest Landfall
+card_excerpt: "Some landfalls you forget by the next passage. Horta is not one of them."
 slug: azores-the-happiest-landfall
 date: 2021-06-04
 published: 2026-07-17

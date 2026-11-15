@@ -1,6 +1,7 @@
 ---
 slug: recife
 title: Recife
+card_excerpt: "Mario arrived in Salvador as soon as he graduated High School. Well, he went to Greece first with his schoolmates to celebrate the end of high school, then…"
 date: '2019-11-05'
 region: brazil
 categories:

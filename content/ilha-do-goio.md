@@ -1,6 +1,7 @@
 ---
 slug: ilha-do-goio
 title: "Ilha do Goio — A Freshwater Spring and the Fourth of July"
+card_excerpt: "A freshwater spring erupts from a sandstone cliff at the waterline. We anchored off the beach, flew the Stars and Stripes from the dinghy, and celebrated with caipirinhas."
 date: 2019-07-04
 categories: [Sailing, Brazil]
 hero: ilha-do-goio/img_6975.jpg

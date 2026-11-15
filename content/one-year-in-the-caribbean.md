@@ -1,6 +1,7 @@
 ---
 slug: one-year-in-the-caribbean
 title: One year in the Caribbean...
+card_excerpt: "It's amazing how time flies!  We just realized we've arrived to the Caribbean exactly one year ago.  Little did we know back then that the world was going…"
 date: '2019-11-01'
 region: caribbean
 categories:

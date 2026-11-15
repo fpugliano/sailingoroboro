@@ -1,6 +1,7 @@
 ---
 slug: porto-seguro
 title: Porto Seguro
+card_excerpt: "According to popular belief, Pedro Álvares Cabral landed here in 1500 and that's why the town was named Porto Seguro (Safe harbor). However, what is…"
 date: '2019-05-23'
 region: sailing
 categories:

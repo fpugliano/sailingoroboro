@@ -1,6 +1,7 @@
 ---
 slug: french-guiana
 title: French Guiana
+card_excerpt: "French Guiana! At last! I have dreamed to sail here for a long time. I can't believe that we are finally there!"
 date: '2019-12-26'
 region: sailing
 categories:

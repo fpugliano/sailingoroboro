@@ -1,6 +1,7 @@
 ---
 slug: discovering-south-africa
 title: "Discovering South Africa"
+card_excerpt: "This week we decided to slow down and take a few days off the boat to explore the region between Mossel Bay and the Storms River, also known as the…"
 date: '2018-11-01'
 region: sailing
 categories: [South Africa]

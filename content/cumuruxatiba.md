@@ -1,6 +1,7 @@
 ---
 slug: cumuruxatiba
 title: Cumuruxatiba
+card_excerpt: "The Abrolhos archipelago Park Ranger Joyce mentioned to us that Cumuruxatiba was a great place to stop. I'm glad we followed her advice because the place…"
 date: '2019-05-16'
 region: sailing
 categories:

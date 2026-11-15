@@ -1,6 +1,7 @@
 ---
 slug: ilha-de-boipeba
 title: "Ilha de Boipeba — The Island Without Cars"
+card_excerpt: "South of Morro de São Paulo, reachable only by boat, Boipeba is one of the most remote and unspoiled islands on the Bahian coast — white sand, turquoise water, no cars."
 date: 2019-08-03
 categories: [Sailing, Brazil]
 hero: ilha-de-boipeba/img_7678.jpg

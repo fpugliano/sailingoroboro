@@ -1,6 +1,7 @@
 ---
 slug: vitoria
 title: Vitoria
+card_excerpt: "In Vitoria we moored at the local Yacht Club. They charged us R$30 per person per day. The harbor is very small, and they only have powerboat and maybe two or…"
 date: '2019-04-01'
 region: sailing
 categories:

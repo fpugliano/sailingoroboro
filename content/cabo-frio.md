@@ -1,6 +1,7 @@
 ---
 slug: cabo-frio
 title: Cabo Frio
+card_excerpt: "Time has come for us to start heading north towards the Caribbean. We left once again Rio de Janario on April 1 st at 22:00, destination Cabo Frio. We headed…"
 date: '2019-05-04'
 region: brazil
 categories:

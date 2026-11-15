@@ -1,6 +1,7 @@
 ---
 slug: trindade
 title: Trindade
+card_excerpt: "Eight days after leaving St Helena, drama stroke on Oroboro: The Water maker started leaking from the Clark Pump! A big leak! In my list of aftermarket…"
 date: '2019-01-01'
 region: sailing
 categories:

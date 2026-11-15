@@ -1,9 +1,11 @@
 ---
 slug: salinas-da-margarida
 title: "Salinas da Margarida — Salt, Cobblestones and the Bay"
+card_excerpt: "A town built on salt pans, a Portuguese calçada with its name spelled in mosaic cobblestones, an ornate parish church, and wooden fishing boats at low tide."
 date: 2019-07-05
 categories: [Sailing, Brazil]
 hero: salinas-da-margarida/img_7041.jpg
+region: Brazil
 ---
 
 **Salinas da Margarida, Bahia de Todos os Santos — 5 July 2019**

@@ -1,6 +1,7 @@
 ---
 slug: puerto-rico
 title: Puerto Rico
+card_excerpt: "You can tell we are approaching the end of the Tropics: Weather patterns are starting to change! Back in the Lesser Antilles, winds were from 60° to…"
 date: '2021-02-01'
 region: sailing
 categories:

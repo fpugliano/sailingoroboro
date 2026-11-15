@@ -1,6 +1,7 @@
 ---
 slug: corao-vernelho
 title: Coroa Vermelha
+card_excerpt: "Oroboro dropped anchor in the very same place where 500+ years ago Pedro Álvares Cabral set foot on Brazil for the first time.  The Bay is protected by a…"
 date: '2019-05-17'
 region: sailing
 categories:

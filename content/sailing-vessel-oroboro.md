@@ -1,6 +1,7 @@
 ---
 slug: sailing-vessel-oroboro
 title: "Please meet Sailing Vessel Oroboro"
+card_excerpt: "Two hulls, two engines, and a dream. In this episode, Francesco explains how he and Yuka spent years choosing the right boat for a…"
 date: 2018-10-12
 region: sailing
 categories: [Boat, Boat Systems]

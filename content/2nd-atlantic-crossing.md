@@ -1,5 +1,6 @@
 ---
 title: 2nd Atlantic Crossing
+card_excerpt: "Twenty days. 3,054 miles. One giant mahi-mahi, two dead bilge pumps, one lost propeller, and the best crew we could ask for. Here is the log, day by day,…"
 slug: 2nd-atlantic-crossing
 date: 2021-05-03
 region: atlantic-crossing

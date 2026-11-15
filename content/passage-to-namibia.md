@@ -1,6 +1,7 @@
 ---
 slug: passage-to-namibia
 title: Passage to Namibia
+card_excerpt: "We left Cape Town on Saturday December 15th 2018 with the 13:15 V&A Waterfront marina swing bridge opening. When calling Port Control over the VHF…"
 date: 2018-12-20
 region: sailing
 hero: namibia/img_1860.jpg

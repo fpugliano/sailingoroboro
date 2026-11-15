@@ -1,6 +1,7 @@
 ---
 slug: pipa
 title: "Pipa beach"
+card_excerpt: "Pipa beach is a major surfing destination in Brazil. It was just a fishing village with no roads until some surfers in the 70s discovered it. Today is…"
 date: 2019-11-08
 categories: [Sailing]
 hero: img_5172.jpg

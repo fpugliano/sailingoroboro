@@ -1,6 +1,7 @@
 ---
 slug: jacare
 title: "Jacarè"
+card_excerpt: "The passage to Jacarè was the last leg we did with Mario as a crew. It was easier than the previous one but had its own challenges. Especially navigating in…"
 date: 2019-11-07
 categories: [Sailing]
 hero: meteor.jpg

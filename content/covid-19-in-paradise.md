@@ -1,6 +1,7 @@
 ---
 slug: covid-19-in-paradise
 title: Covid-19 in Paradise
+card_excerpt: "Since we come back from Japan after the Christmas holidays, we were having a very good time sailing north along the island’s chain.  We had friends visiting…"
 date: '2020-01-17'
 region: caribbean
 categories:

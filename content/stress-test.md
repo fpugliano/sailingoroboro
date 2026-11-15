@@ -1,6 +1,7 @@
 ---
 slug: stress-test
 title: Stress Test
+card_excerpt: "A strong South East wind was predicted to be blowing on Saturday, so we decided to take this opportunity to go out and test the boat in…"
 date: '2018-11-20'
 region: South Africa
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: dominican-republic
 title: Dominican Republic
+card_excerpt: "We spent very little time in the Dominican Republic, unfortunately. We only sailed to Samana Bay and Luperòn on the north coast. Samana Bay is a…"
 date: '2021-03-01'
 region: sailing
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: maiden-voyage
 title: "Maiden voyage"
+card_excerpt: "The time has finally come for us to set sail for our maiden voyage. We have worked out a navigation plan, and we have started to monitor the…"
 date: 2018-12-19
 region: sailing
 categories: [Atlantic-Crossing, Sailing, South Africa]

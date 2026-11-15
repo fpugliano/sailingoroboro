@@ -1,6 +1,7 @@
 ---
 slug: moonbow
 title: A Moonbow over the South Atlantic
+card_excerpt: "It was Day 8 of the St Helena to Brazil leg. Position: 19°55'S, 024°17'W. Deep in the South Atlantic, with no land in any direction for over a…"
 date: 2019-01-21
 region: atlantic-crossing
 categories:

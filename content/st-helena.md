@@ -1,6 +1,7 @@
 ---
 slug: st-helena
 title: St Helena
+card_excerpt: "After 25 days at sea from Cape Town, Oroboro drops anchor at one of the most remote and…"
 date: '2019-01-01'
 region: sailing
 categories:

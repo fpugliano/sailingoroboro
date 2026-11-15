@@ -1,6 +1,7 @@
 ---
 slug: santo-andre-and-santa-cruz-cabralia
 title: Terra à vista! Santa Cruz Cabralia
+card_excerpt: "To get to Santa Cruz Cabralia we anchored in front of Santo Andrè, also sadly known as Villa do Sete a Um (Seven to One). It's here that the German…"
 date: '2019-05-22'
 region: brazil
 categories:

@@ -1,6 +1,7 @@
 ---
 slug: hurricanes-and-caribbean
 title: Hurricanes in the Caribbean
+card_excerpt: "It wasn't in our plans to spend the Hurricane Season in the Caribbean. By now, we should be enjoying good food and good weather in the Western Med. Our plan…"
 date: '2020-08-11'
 region: sailing
 categories:

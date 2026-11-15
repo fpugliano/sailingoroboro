@@ -1,6 +1,7 @@
 ---
 slug: ubatuba
 title: Ubatuba
+card_excerpt: "Our first sail out of the bay of Ilha Grande was to Ubatuba, some 30 nautical miles south west. It was a very nice sensation to get Oroboro in blue ocean…"
 date: '2019-04-08'
 region: brazil
 categories:

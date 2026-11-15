@@ -1,6 +1,7 @@
 ---
 slug: guarapari
 title: Guarapari
+card_excerpt: "Guarapari was just a technical stop on our way to the Abrolhos archipelago. Nice town."
 date: '2019-04-01'
 region: sailing
 categories:

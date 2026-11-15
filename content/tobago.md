@@ -1,6 +1,7 @@
 ---
 slug: tobago
 title: Tobago
+card_excerpt: "We sailed from Trinidad to Tobago for various reasons. Among them, the main one was that the direct route from Trinidad to Grenada is very close to Venezuela…"
 date: '2019-10-01'
 region: sailing
 categories:

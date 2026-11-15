@@ -1,6 +1,7 @@
 ---
 slug: grenada
 title: "Grenada"
+card_excerpt: "The sail from Tobago to Grenada was a beautiful overnight spinnaker sail. Yuka and I are now so used to our 3-hour night watches, and we handled it really…"
 date: 2020-01-06
 categories: [Sailing]
 hero: grenada/approaching-grenada.jpg

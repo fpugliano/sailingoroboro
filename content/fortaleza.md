@@ -1,6 +1,7 @@
 ---
 slug: fortaleza
 title: Fortaleza
+card_excerpt: "The leg from Natal to Fortaleza was enjoyable at the beginning, but very tough once we got near Fortaleza. First of all Fortaleza is a very inhospitable…"
 date: '2019-09-01'
 region: brazil
 categories:

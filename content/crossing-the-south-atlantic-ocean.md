@@ -1,6 +1,7 @@
 ---
 slug: crossing-the-south-atlantic-ocean
 title: Crossing the South Atlantic Ocean
+card_excerpt: "2,271 nautical miles, 18 days at sea, two people — and a watermaker…"
 date: '2019-02-16'
 region: atlantic-crossing
 categories:

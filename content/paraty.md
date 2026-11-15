@@ -1,8 +1,9 @@
 ---
 title: "Paraty — The Town That Gold Forgot"
+card_excerpt: "Paraty, Rio de Janeiro — February and March 2019 The Gold Road, cobblestone streets, cachaça culture, and the famous tidal floods that turn the historic centre into a shallow canal three times a year."
 slug: paraty
 date: 2019-02-07
-hero: paraty/img_2894.jpg
+hero: paraty/img_2810.jpg
 region: Brazil
 ---
 

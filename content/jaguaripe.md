@@ -1,6 +1,7 @@
 ---
 slug: jaguaripe
 title: "Jaguaripe — A Craft Brewery in the Bay"
+card_excerpt: "A colonial village on the eastern shore of the bay where the boats outnumber the cars and the bar by the water serves cold beer from breakfast onwards."
 date: 2019-07-03
 categories: [Sailing, Brazil]
 hero: jaguaripe/img_6945.jpg

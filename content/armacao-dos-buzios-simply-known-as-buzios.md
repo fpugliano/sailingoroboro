@@ -1,6 +1,7 @@
 ---
 slug: armacao-dos-buzios-simply-known-as-buzios
 title: Armação dos Búzios, simply known as Búzios
+card_excerpt: "Buzios used to be an unknown fishermen village until Brigitte Bardot made it famous by spending here her vacation time with her Brazilian boyfriend in the early…"
 date: '2019-04-01'
 region: sailing
 categories:
