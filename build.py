@@ -30,6 +30,24 @@ R2_BASE = 'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/'
 # Only affects chronological ordering; display_date is unchanged.
 SORT_DATE_OVERRIDES = {
     '2nd-atlantic-crossing': '2021-05-03',  # published Sep 2021; voyage departed May 3 2021
+    # Sort-order overrides so navigation follows the published order. These are sort keys
+    # only; the dates shown on the site are not changed.
+    'trindade': '2019-01-02',
+    'golden-globe-encounter': '2019-01-22',
+    'paraty': '2019-03-02',
+    'amyr-klink-marina-do-engenho': '2019-03-03',
+    'ilha-grande': '2019-03-04',
+    'crossing-the-south-atlantic-ocean': '2019-03-05',
+    'guarapari': '2019-04-02',
+    'pirenopolis': '2019-04-03',
+    'sao-paulo': '2019-04-04',
+    'vitoria': '2019-04-05',
+    'cachoeiras-de-serra-grande': '2019-05-30',
+    'wooden-boats-of-camamu': '2019-05-31',
+    'santo-antonio-do-paraguacu': '2019-08-04',
+    'olinda': '2019-08-05',
+    'trinidad': '2019-09-02',
+    'spanish-virgin-islands': '2021-02-02',
 }
 
 # Legacy XML slugs to drop entirely (superseded by a content/ markdown post with a different slug).
@@ -76,6 +94,101 @@ PREBUILT_POSTS = [
         'is_markdown':     False,
         'is_prebuilt':     True,
         'nav_exclude':     True,
+        'published_display': None,
+    },
+    {
+        'title':           'Meeting Amyr Klink at Marina do Engenho',
+        'slug':            'amyr-klink-marina-do-engenho',
+        'display_date':    'February 2019',
+        'iso_date':        '2019-02-01',
+        'sort_date':       '2019-02-01',
+        'region':          'brazil',
+        'region_display':  'Brazil',
+        'excerpt':         'A quick dinghy trip to the ship chandler turned into an encounter with one of the greatest ocean sailors alive — Amyr Klink, the man who rowed solo across the South Atlantic, tied up quietly at the dock.',
+        'image':           'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/amyr-klink/IMG_2806.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['Brazil'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     False,
+        'published_display': None,
+    },
+    {
+        'title':           'Waterfalls by Dinghy — Serra Grande, Bahia',
+        'slug':            'cachoeiras-de-serra-grande',
+        'display_date':    'May 2019',
+        'iso_date':        '2019-05-01',
+        'sort_date':       '2019-05-01',
+        'region':          'brazil',
+        'region_display':  'Brazil',
+        'excerpt':         'We took the dinghy upriver into the Atlantic Forest and drove all the way to the base of a series of cascading waterfalls. Nobody told us we could do this.',
+        'image':           'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/cachoeiras/IMG_5546.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['Brazil'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     False,
+        'published_display': None,
+    },
+    {
+        'title':           'Golden Globe Race — A Serendipitous Encounter in the South Atlantic',
+        'slug':            'golden-globe-encounter',
+        'display_date':    'January 2019',
+        'iso_date':        '2019-01-01',
+        'sort_date':       '2019-01-01',
+        'region':          'atlantic',
+        'region_display':  'South Atlantic',
+        'excerpt':         'Somewhere in the middle of nowhere, our VHF radio crackled to life with a Hungarian-American voice. We had stumbled into the path of Istvan Kopar, sailing Puffin in the Golden Globe Race — a solo circumnavigation with 1968 rules.',
+        'image':           'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/golden-globe/ggr_poster.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['South Atlantic'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     False,
+        'published_display': None,
+    },
+    {
+        'title':           'Hugo Boss at Marina da Glória — An Unexpected Guest',
+        'slug':            'hugo-boss-alex-thomson',
+        'display_date':    'March 2019',
+        'iso_date':        '2019-03-01',
+        'sort_date':       '2019-03-01',
+        'region':          'brazil',
+        'region_display':  'Brazil',
+        'excerpt':         'We were staying at Marina da Glória during Carnival when a sleek black IMOCA 60 slipped into the berth next to ours. It was Hugo Boss — and Alex Thomson was at the helm, on a small detour to see Carnival. A 5,000-mile small detour.',
+        'image':           'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/hugo-boss/img_3423.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['Brazil'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     False,
+        'published_display': None,
+    },
+    {
+        'title':           'The Boatyards of Camamu',
+        'slug':            'wooden-boats-of-camamu',
+        'display_date':    'May 2019',
+        'iso_date':        '2019-05-01',
+        'sort_date':       '2019-05-01',
+        'region':          'brazil',
+        'region_display':  'Brazil',
+        'excerpt':         'A traditional boatyard on the shores of the bay where wooden boats are still built by hand — fishing skiffs, passenger launches, and a full-size caravela replica — using the same methods as five centuries ago.',
+        'image':           'https://pub-7f7d07c430fd4c3eb11a4e6eae938ce3.r2.dev/wooden-boat-camamu/IMG_5615.jpg',
+        'content':         None,
+        'pub_date':        '',
+        'categories':      ['Brazil'],
+        'cat_slugs':       [],
+        'is_markdown':     False,
+        'is_prebuilt':     True,
+        'nav_exclude':     False,
         'published_display': None,
     },
 ]
@@ -420,6 +533,7 @@ NAV_HTML = '''<nav class="nav" role="navigation" aria-label="Main navigation">
       @sailingoroboro
     </a></li>
   </ul>
+  <div class="lang-selector"></div>
   <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
     <span></span><span></span><span></span>
   </button>
@@ -523,6 +637,18 @@ def build_index(posts):
       <h1>Sailing aboard<br><em>S/V Oroboro</em></h1>
       <p class="hero-tagline">Francesco and Yuka's journey around the world on a Leopard 40 catamaran, departing Cape Town in 2018 and still sailing.</p>
       <a class="hero-cta" href="/blog.html">Read the Journey →</a>
+      <div class="hero-lang-mobile">
+        <label for="hero-lang-sel">Language:</label>
+        <select id="hero-lang-sel">
+          <option value="en" selected>🇺🇸 English</option>
+          <option value="it">🇮🇹 Italiano</option>
+          <option value="ja">🇯🇵 日本語</option>
+          <option value="fr">🇫🇷 Français</option>
+          <option value="pt">🇧🇷 Português</option>
+          <option value="es">🇪🇸 Español</option>
+          <option value="ca">🏴󠁥󠁳󠁣󠁴󠁿 Català</option>
+        </select>
+      </div>
     </div>
     <div class="hero-scroll" aria-hidden="true">Scroll</div>
     <div class="hero-waves" aria-hidden="true">
@@ -1015,6 +1141,9 @@ def main():
 
     # ── Merge all sources and sort chronologically by sort_date ──────────────
     all_posts = legacy_posts + md_posts + PREBUILT_POSTS
+    # Apply sort-order overrides to every post type (markdown and hand-authored too)
+    for p in all_posts:
+        p['sort_date'] = SORT_DATE_OVERRIDES.get(p['slug'], p.get('sort_date'))
     all_posts.sort(key=lambda p: p.get('sort_date') or p.get('iso_date') or '0000')
 
     voyage_posts = [p for p in all_posts if not p.get('is_prebuilt')]
