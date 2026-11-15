@@ -55,6 +55,10 @@ LEGACY_SKIP = {
     '7%c2%bd-weeks',  # superseded by 7-and-a-half-weeks.md
 }
 
+# Slugs of content/ notes marked `draft: true`; filled by parse_markdown_posts().
+# A draft also hides the legacy XML post with the same slug.
+DRAFT_SLUGS = set()
+
 # Hand-authored posts that live in posts/ but have no XML or content/ source.
 # build.py includes them in blog/index listings but does NOT regenerate their HTML.
 PREBUILT_POSTS = [
@@ -368,6 +372,7 @@ def parse_markdown_posts():
             print(f"  WARNING: {md_file.name} YAML error: {e}, skipping")
             continue
         if fm.get('draft'):
+            DRAFT_SLUGS.add(str(fm.get('slug') or md_file.stem))
             print(f"  {md_file.name}: draft, skipping")
             continue
         body = parts[2].strip()
@@ -1138,6 +1143,8 @@ def main():
             print(f"  slug '{p['slug']}': markdown overrides legacy, skipping XML version")
         elif p['slug'] in LEGACY_SKIP:
             print(f"  slug '{p['slug']}': in LEGACY_SKIP, dropping")
+        elif p['slug'] in DRAFT_SLUGS:
+            print(f"  slug '{p['slug']}': draft in content/, dropping XML version")
         else:
             filtered.append(p)
     legacy_posts = filtered
