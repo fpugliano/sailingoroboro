@@ -39,16 +39,23 @@ For each added or modified file in content/:
 
 ## Step 3 — Rebuild
 
-Run: `/usr/bin/python3 build.py`
+Run both, in this order:
+1. `/usr/bin/python3 build.py` — turns the notes into pages (posts, blog, home, map)
+2. `/usr/bin/python3 add_hreflang_and_sitemap.py` — adds the links between each post and its translations (the language flags depend on them) and updates `sitemap.xml`. Never skip this: `build.py` alone strips those links.
 
 Capture stdout/stderr. Check for success:
-- Exit code 0
-- Output contains `✓ Built` 
+- Both exit with code 0
+- `build.py` output contains `✓ Built`
 - No line starting with `ERROR:` or `WARNING:` (except the normal boto3 deprecation warning, which is harmless)
 
-If the build fails, show the relevant error lines and stop.
+If either fails, show the relevant error lines and stop.
 
 Report the summary line from the build output (the `✓ Built N HTML files` line).
+
+Note fields the build understands (besides slug/title/date/hero/raw_html):
+- `card_excerpt:` text shown on the blog and home-page cards
+- `header_image:` photo behind the post title
+- `draft: true` keeps the note (and any WordPress copy with the same slug) off the site
 
 ---
 
@@ -63,6 +70,12 @@ For each content/*.md that was added or modified:
 
 If any of these checks fail, stop and report.
 
+**Nothing else may change.** For every `posts/*.html` whose note was NOT edited, compare it with the
+published version (`git diff HEAD -- posts/<file>`). Line-break differences in the `<head>` are fine.
+Any other change — especially removed text, photos or videos — means a page was edited directly and
+its note is out of date: stop, show the user what would be lost, and copy it into the note before
+publishing. Do the same check for `blog.html` and `index.html` (cards of unedited posts must not change).
+
 ---
 
 ## Step 5 — Stage and commit
@@ -74,7 +87,12 @@ Stage only website source and output files. Use explicit paths — do NOT use `g
 - `posts/<slug>.html` — the regenerated post HTML for each changed content file
 - `blog.html`
 - `index.html`
+- `map.html`
+- `sitemap.xml`
 - `build.py` (only if it was modified)
+
+Restore (`git checkout HEAD -- <file>`) any page whose only change is line breaks in the `<head>`,
+so the commit stays limited to real changes.
 
 **Never stage** (ignore even if git shows them):
 - `*.gpx`, `*.zip`, `combine_gpx.py`, `main.dart.js`
@@ -84,7 +102,7 @@ Stage only website source and output files. Use explicit paths — do NOT use `g
 Write the commit message:
 - First line: concise summary of what changed (use `$ARGUMENTS` as a hint if provided, otherwise derive from the diff)
 - No body paragraph needed for routine publishes
-- Final line: `Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>`
+- Final line: the `Co-Authored-By:` line for the model currently running this session
 
 Show the user the staged files and the commit message before committing, then commit.
 

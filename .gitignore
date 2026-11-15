@@ -7,3 +7,6 @@ Oroboro_Blog_Back_Up_All.xml
 # Full-resolution consolidated GPS track — local only, never publish
 Consolidated-Track/ConsolidatedTrack.gpx
 media-review.html
+.env
+# Obsidian's record of open notes — changes constantly, not part of the site
+content/.obsidian/workspace.json

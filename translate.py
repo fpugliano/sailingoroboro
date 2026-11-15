@@ -2,7 +2,7 @@
 """
 Sailing Oroboro — Translation Script
 Translates English HTML posts to Italian, Japanese, French, Portuguese, Spanish, or Catalan
-using Claude (claude-opus-4-8) for high-quality narrative translation.
+using Claude (claude-sonnet-4-6) for high-quality narrative translation.
 
 Usage:
   python3 translate.py <lang> <file_or_dir> [file_or_dir ...]
@@ -19,6 +19,19 @@ import os, re, sys, time
 import anthropic
 
 SITE_ROOT = os.path.dirname(os.path.abspath(__file__))
+
+def _load_dotenv():
+    env_path = os.path.join(SITE_ROOT, '.env')
+    if not os.path.exists(env_path):
+        return
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#') and '=' in line:
+                k, v = line.split('=', 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
+_load_dotenv()
 
 LANG_CONFIG = {
     'it': {'name': 'Italian',             'html_lang': 'it',    'back': '← Torna ai post'},
@@ -56,7 +69,7 @@ def call_claude(client: anthropic.Anthropic, content: str, lang: str) -> str:
     """Single Claude API call — translate `content` to `lang`."""
     lang_name = LANG_CONFIG[lang]['name']
     response = client.messages.create(
-        model='claude-opus-4-8',
+        model='claude-sonnet-4-6',
         max_tokens=16000,
         system=SYSTEM_PROMPT,
         messages=[{
